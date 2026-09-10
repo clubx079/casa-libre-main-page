@@ -156,17 +156,17 @@ export default function Hub() {
 
       {/* ── Hero ── */}
       <section id="top" className="max-w-[1180px] mx-auto px-5 pt-12 pb-6 md:pt-16 grid md:grid-cols-[1.1fr_.9fr] gap-10 items-center">
-        <div>
+        <div className="text-center md:text-left">
           <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-4">{t.heroEyebrow}</div>
           <h1 className="text-[clamp(38px,6vw,68px)] leading-[0.98] tracking-display font-bold">
             {t.heroA} <span className="font-serif italic font-normal">{t.heroB}</span>
           </h1>
-          <p className="text-[16px] md:text-[18px] text-ink/65 mt-5 max-w-[540px] leading-relaxed">{t.heroSub}</p>
-          <div className="flex flex-wrap gap-3 mt-7">
+          <p className="text-[16px] md:text-[18px] text-ink/65 mt-5 max-w-[540px] mx-auto md:mx-0 leading-relaxed">{t.heroSub}</p>
+          <div className="flex flex-wrap gap-3 mt-7 justify-center md:justify-start">
             <a href="#paises" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-pill bg-ink text-paper font-bold text-[15px] shadow-hard-soft hover:-translate-y-0.5 transition-transform">{t.heroCta} <Arrow /></a>
             <a href="#como" className="inline-flex items-center px-6 py-3.5 rounded-pill border-[1.5px] border-ink font-bold text-[15px] hover:bg-ink hover:text-paper transition-colors">{t.heroCta2}</a>
           </div>
-          <div className="flex flex-wrap gap-x-8 gap-y-3 mt-9">
+          <div className="flex flex-wrap gap-x-8 gap-y-3 mt-9 justify-center md:justify-start">
             {[['6', t.statCountries], ['100%', t.statDirect], ['0', t.statCommission]].map(([n, l]) => (
               <div key={l}>
                 <div className="text-[26px] font-bold tracking-head leading-none">{n}</div>
