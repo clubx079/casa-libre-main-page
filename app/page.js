@@ -126,7 +126,7 @@ export default function Hub() {
     <div className="min-h-screen bg-paper text-ink overflow-x-hidden">
       {/* ── Header ── */}
       <header className="sticky top-0 z-50 backdrop-blur bg-paper/85 border-b border-ink/10">
-        <div className="max-w-[1180px] mx-auto px-5 h-[64px] flex items-center justify-between">
+        <div className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 h-[64px] flex items-center justify-between">
           <a href="#top"><Word className="text-[22px]" /></a>
           <nav className="hidden md:flex items-center gap-7 text-[14px] font-medium text-ink/70">
             <a href="#paises" className="hover:text-ink">{t.nav.countries}</a>
@@ -155,10 +155,10 @@ export default function Hub() {
       </div>
 
       {/* ── Hero ── */}
-      <section id="top" className="max-w-[1180px] mx-auto px-5 pt-12 pb-6 md:pt-16 grid md:grid-cols-[1.1fr_.9fr] gap-10 items-center">
+      <section id="top" className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 pt-12 pb-6 md:pt-16 grid md:grid-cols-[1.1fr_.9fr] gap-10 items-center">
         <div className="text-center md:text-left">
           <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-4">{t.heroEyebrow}</div>
-          <h1 className="text-[clamp(38px,6vw,68px)] leading-[0.98] tracking-display font-bold">
+          <h1 className="text-[clamp(38px,6vw,78px)] leading-[0.98] tracking-display font-bold">
             {t.heroA} <span className="font-serif italic font-normal">{t.heroB}</span>
           </h1>
           <p className="text-[16px] md:text-[18px] text-ink/65 mt-5 max-w-[540px] mx-auto md:mx-0 leading-relaxed">{t.heroSub}</p>
@@ -179,14 +179,14 @@ export default function Hub() {
         <div className="relative">
           <div className="cl-hatch rounded-section border-[1.5px] border-ink shadow-hard-lg p-6 flex items-end justify-center min-h-[300px]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/mascot.png" alt="Casa Libre" className="cl-float w-[74%] max-w-[320px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
+            <img src="/mascot.png" alt="Casa Libre" className="cl-float w-[74%] max-w-[400px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
           </div>
           <div className="absolute -top-3 -left-3 bg-paper border-[1.5px] border-ink rounded-pill px-3 py-1 font-mono text-[10px] tracking-label uppercase shadow-hard-sm">Casa Libre</div>
         </div>
       </section>
 
       {/* ── Country cards ── */}
-      <section id="paises" className="max-w-[1180px] mx-auto px-5 pt-10 pb-4 scroll-mt-20">
+      <section id="paises" className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 pt-10 pb-4 scroll-mt-20">
         <h2 className="text-[clamp(26px,4vw,40px)] font-bold tracking-display">{t.countriesTitle}</h2>
         <p className="text-[15px] text-ink/60 mt-2 max-w-[560px]">{t.countriesSub}</p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-7">
@@ -218,7 +218,7 @@ export default function Hub() {
 
       {/* ── Why / marketplace data ── */}
       <section className="mt-16 bg-ink text-paper">
-        <div className="max-w-[1180px] mx-auto px-5 py-16">
+        <div className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 py-16">
           <h2 className="text-[clamp(26px,4vw,40px)] font-bold tracking-display max-w-[760px]">{t.whyTitle}</h2>
           <p className="text-[16px] md:text-[18px] text-paper/70 mt-4 max-w-[720px] leading-relaxed">{t.whyLead}</p>
           <div className="grid md:grid-cols-3 gap-4 mt-10">
@@ -246,7 +246,7 @@ export default function Hub() {
       </section>
 
       {/* ── How it works ── */}
-      <section id="como" className="max-w-[1180px] mx-auto px-5 py-16 scroll-mt-20">
+      <section id="como" className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 py-16 scroll-mt-20">
         <h2 className="text-[clamp(26px,4vw,40px)] font-bold tracking-display">{t.howTitle}</h2>
         <div className="grid md:grid-cols-3 gap-4 mt-8">
           {t.how.map((s, i) => (
@@ -277,7 +277,7 @@ export default function Hub() {
 
       {/* ── Footer ── */}
       <footer className="bg-ink text-paper">
-        <div className="max-w-[1180px] mx-auto px-5 py-14">
+        <div className="max-w-[1500px] mx-auto px-5 md:px-8 lg:px-16 py-14">
           <div className="grid md:grid-cols-[1.4fr_1fr_1fr_1fr_1fr] gap-9">
             <div>
               <Word className="text-[22px] text-paper" />
