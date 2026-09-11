@@ -154,6 +154,18 @@ export default function Hub() {
         </div>
       </div>
 
+      {/* ── Country flags strip ── */}
+      <div className="border-b border-ink/10 bg-paper">
+        <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-3.5 flex items-center justify-center gap-3 sm:gap-4 flex-wrap">
+          {COUNTRIES.map((c) => (
+            <a key={c.key} href="#paises" title={nm(c)} className="shrink-0 transition-transform hover:-translate-y-0.5">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={`/flags/${c.key}.svg`} alt={nm(c)} className="w-9 h-6 sm:w-11 sm:h-[30px] object-cover rounded-[5px] border border-ink/25" />
+            </a>
+          ))}
+        </div>
+      </div>
+
       {/* ── Hero ── */}
       <section id="top" className="max-w-[1920px] mx-auto px-5 md:px-11 pt-12 pb-6 md:pt-16 grid md:grid-cols-[1.1fr_.9fr] gap-10 items-center">
         <div className="text-center md:text-left">
@@ -175,13 +187,10 @@ export default function Hub() {
             ))}
           </div>
         </div>
-        {/* Mascot in a hard-shadow framed panel */}
-        <div className="relative">
-          <div className="cl-hatch rounded-section border-[1.5px] border-ink shadow-hard-lg p-6 flex items-end justify-center min-h-[300px]">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/mascot.png" alt="Casa Libre" className="cl-float w-[74%] max-w-[400px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
-          </div>
-          <div className="absolute -top-3 -left-3 bg-paper border-[1.5px] border-ink rounded-pill px-3 py-1 font-mono text-[10px] tracking-label uppercase shadow-hard-sm">Casa Libre</div>
+        {/* Mascot — floating, no framed/striped background */}
+        <div className="flex items-center justify-center min-h-[300px]">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/mascot.png" alt="Casa Libre" className="cl-float w-[74%] max-w-[400px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
         </div>
       </section>
 
