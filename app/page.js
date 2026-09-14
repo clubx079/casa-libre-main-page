@@ -4,12 +4,12 @@ import { useState } from 'react';
 // Six-country network. Only Paraguay is live today; the rest link to their future
 // country TLDs and show a "coming soon" state until they launch.
 const COUNTRIES = [
-  { key: 'py', name: { es: 'Paraguay', en: 'Paraguay' }, tld: 'casa-libre.com.py', url: 'https://casa-libre.com.py', live: true, city: 'Asunción' },
-  { key: 'ar', name: { es: 'Argentina', en: 'Argentina' }, tld: 'casa-libre.com.ar', url: 'https://casa-libre.com.ar', live: false, city: 'Buenos Aires' },
-  { key: 'br', name: { es: 'Brasil', en: 'Brazil' }, tld: 'casa-libre.com.br', url: 'https://casa-libre.com.br', live: false, city: 'São Paulo' },
-  { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', live: false, city: 'La Paz' },
-  { key: 'cl', name: { es: 'Chile', en: 'Chile' }, tld: 'casa-libre.com.cl', url: 'https://casa-libre.com.cl', live: false, city: 'Santiago' },
-  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay' }, tld: 'casa-libre.com.uy', url: 'https://casa-libre.com.uy', live: false, city: 'Montevideo' },
+  { key: 'py', name: { es: 'Paraguay', en: 'Paraguay', pt: 'Paraguai' }, tld: 'casa-libre.com.py', url: 'https://casa-libre.com.py', live: true, city: 'Asunción' },
+  { key: 'ar', name: { es: 'Argentina', en: 'Argentina', pt: 'Argentina' }, tld: 'casa-libre.com.ar', url: 'https://casa-libre.com.ar', live: false, city: 'Buenos Aires' },
+  { key: 'br', name: { es: 'Brasil', en: 'Brazil', pt: 'Brasil' }, tld: 'casa-libre.com.br', url: 'https://casa-libre.com.br', live: false, city: 'São Paulo' },
+  { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia', pt: 'Bolívia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', live: false, city: 'La Paz' },
+  { key: 'cl', name: { es: 'Chile', en: 'Chile', pt: 'Chile' }, tld: 'casa-libre.com.cl', url: 'https://casa-libre.com.cl', live: false, city: 'Santiago' },
+  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'casa-libre.com.uy', url: 'https://casa-libre.com.uy', live: false, city: 'Montevideo' },
 ];
 
 const DICT = {
@@ -107,6 +107,53 @@ const DICT = {
     ],
     rights: 'All rights reserved.',
   },
+  pt: {
+    nav: { countries: 'Países', how: 'Como funciona', faq: 'Perguntas', about: 'Sobre' },
+    heroEyebrow: 'América do Sul · um só marketplace',
+    heroA: 'O marketplace imobiliário',
+    heroB: 'da América do Sul.',
+    heroSub: 'Compre, alugue e venda casas, apartamentos e terrenos — direto com o proprietário ou corretor, sem intermediários e sem comissões. Um só lugar, seis países.',
+    heroCta: 'Escolha seu país', heroCta2: 'Como funciona',
+    statCountries: 'países', statDirect: 'contato direto', statCommission: 'comissões', statProps: 'imóveis no Paraguai',
+    ticker: ['ASUNCIÓN', 'BUENOS AIRES', 'SÃO PAULO', 'LA PAZ', 'SANTIAGO', 'MONTEVIDEO'],
+    countriesTitle: 'Escolha seu país',
+    countriesSub: 'Cada país tem o seu próprio Casa Libre, com imóveis e preços locais. Toque num cartão para entrar.',
+    live: 'Ao vivo', soon: 'Em breve', enter: 'Entrar', notify: 'Em breve',
+    whyTitle: 'Um marketplace, um continente inteiro',
+    whyLead: 'A América do Sul tem centenas de milhões de pessoas procurando onde morar, investir ou se mudar entre países. O Casa Libre reúne essa demanda em uma só marca — com um site local para cada país e uma experiência consistente em todos.',
+    why: [
+      { t: 'Direto, sem intermediários', d: 'Os compradores falam com o proprietário ou corretor na hora pelo WhatsApp. Sem comissões ocultas, sem fricção.' },
+      { t: 'Local em cada país', d: 'Preços, bairros e idioma de cada mercado. Paraguai em guaranis e dólares, Brasil em português, e assim por diante.' },
+      { t: 'Uma marca de confiança', d: 'A mesma experiência Casa Libre, do Chaco à Patagônia. Publique uma vez, alcance toda a região.' },
+    ],
+    dataTitle: 'A escala da região',
+    data: [
+      { n: '6', l: 'países na rede' },
+      { n: '+430M', l: 'habitantes na América do Sul' },
+      { n: '+2.000', l: 'imóveis ativos no Paraguai' },
+      { n: '0', l: 'comissões para publicar' },
+    ],
+    dataNote: 'O Paraguai já está ao vivo. Argentina, Brasil, Bolívia, Chile e Uruguai chegam em breve — a rede cresce país por país.',
+    howTitle: 'Como funciona',
+    how: [
+      { t: 'Escolha seu país', d: 'Entre no Casa Libre do seu país pelos cartões acima.' },
+      { t: 'Explore ou publique', d: 'Busque entre milhares de imóveis — ou publique o seu, grátis, em minutos.' },
+      { t: 'Fale direto', d: 'Fale com o proprietário ou corretor pelo WhatsApp, sem intermediários.' },
+    ],
+    footTag: 'O marketplace imobiliário da América do Sul. Direto, local e sem comissões.',
+    colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ajuda', colLegal: 'Legal',
+    lCompany: ['Sobre nós', 'Para imobiliárias', 'Imprensa', 'Contato'],
+    lHelp: ['Perguntas frequentes', 'Como publicar', 'Dicas de segurança', 'Suporte'],
+    lLegal: ['Termos e condições', 'Privacidade', 'Cookies'],
+    faqTitle: 'Perguntas frequentes',
+    faqs: [
+      { q: 'O que é o Casa Libre?', a: 'É o marketplace imobiliário da América do Sul: compre, alugue ou venda imóveis direto com o proprietário ou corretor, sem intermediários e sem comissões.' },
+      { q: 'Em quais países está disponível?', a: 'O Paraguai já está ao vivo (casa-libre.com.py). Argentina, Brasil, Bolívia, Chile e Uruguai serão lançados em breve.' },
+      { q: 'Quanto custa publicar?', a: 'Publicar é grátis. Cada país oferece planos opcionais para destacar o seu imóvel e dar mais visibilidade.' },
+      { q: 'Como falo com quem publica?', a: 'Direto pelo WhatsApp ou telefone a partir do anúncio — sem comissões nem intermediários.' },
+    ],
+    rights: 'Todos os direitos reservados.',
+  },
 };
 
 const Word = ({ className = '' }) => (
@@ -134,7 +181,7 @@ export default function Hub() {
             <a href="#faq" className="hover:text-ink">{t.nav.faq}</a>
           </nav>
           <div className="flex items-center border-[1.5px] border-ink rounded-pill overflow-hidden text-[12px] font-bold">
-            {['es', 'en'].map((l) => (
+            {['es', 'en', 'pt'].map((l) => (
               <button key={l} onClick={() => setLang(l)} className={`px-3 py-1.5 ${lang === l ? 'bg-ink text-paper' : 'text-ink'}`}>{l.toUpperCase()}</button>
             ))}
           </div>
