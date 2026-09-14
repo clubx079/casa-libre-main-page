@@ -231,11 +231,11 @@ export default function Hub() {
             <a href="#map" className="hover:text-ink">{t.nav.map}</a>
             <a href="#product" className="hover:text-ink">{t.nav.product}</a>
             <a href="#thesis" className="hover:text-ink">{t.nav.thesis}</a>
-            <a href="#invest" className="hover:text-ink">{t.nav.invest}</a>
+            <a href="#invest" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.invest}</a>
           </nav>
           <div className="flex items-center gap-2.5">
             {/* Mobile-only Invest CTA (desktop has it in the nav) */}
-            <a href="#invest-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill bg-ink text-paper font-bold text-[12.5px]">{t.nav.invest}</a>
+            <a href="#invest-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.invest}</a>
             <div className="flex items-center border-[1.5px] border-ink rounded-pill overflow-hidden text-[12px] font-bold">
               {['es', 'en', 'pt'].map((l) => (
                 <button key={l} onClick={() => setLang(l)} className={`px-3 py-1.5 ${lang === l ? 'bg-ink text-paper' : 'text-ink'}`}>{l.toUpperCase()}</button>
