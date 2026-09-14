@@ -281,8 +281,8 @@ export default function Hub() {
             {t.heroSub} <span className="font-serif italic text-ink">{t.heroSubEm}</span>
           </p>
           <div className="flex flex-wrap gap-3 mt-7 justify-center md:justify-start">
-            <a href="#invest" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-pill bg-ink text-paper font-bold text-[15px] shadow-hard-soft hover:-translate-y-0.5 transition-transform">{t.heroCta} <Arrow /></a>
-            <a href="#map" className="inline-flex items-center px-6 py-3.5 rounded-pill border-[1.5px] border-ink font-bold text-[15px] hover:bg-ink hover:text-paper transition-colors">{t.heroCta2}</a>
+            <a href="#invest" className="btn btn-solid">{t.heroCta} <Arrow /></a>
+            <a href="#map" className="btn btn-ghost">{t.heroCta2}</a>
           </div>
           <div className="flex flex-wrap gap-x-8 gap-y-3 mt-9 justify-center md:justify-start">
             {t.heroStats.map(([n, l]) => (
@@ -441,9 +441,9 @@ export default function Hub() {
             </select>
           </FormField>
           <FormField label={t.form.why}><textarea value={inv.why} onChange={setF('why')} rows={3} placeholder={t.form.whyPh} className="cl-input resize-y" /></FormField>
-          <a href={mailto} className="mt-5 w-full inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-pill bg-ink text-paper font-bold text-[15px] shadow-hard-soft hover:-translate-y-0.5 transition-transform">{t.form.submit} <Arrow /></a>
+          <a href={mailto} className="btn btn-solid w-full mt-5">{t.form.submit} <Arrow /></a>
           <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
-          <a href={mailto} className="w-full inline-flex items-center justify-center px-6 py-3.5 rounded-pill border-[1.5px] border-ink font-bold text-[15px] hover:bg-ink hover:text-paper transition-colors">{t.form.book}</a>
+          <a href={mailto} className="btn btn-ghost w-full">{t.form.book}</a>
           <p className="font-mono text-[11px] text-ink/40 mt-3 text-center">{t.form.tiny}</p>
         </div>
       </section>
