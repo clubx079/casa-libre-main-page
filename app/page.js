@@ -69,7 +69,7 @@ const DICT = {
       { t: 'Hablamos', d: 'Treinta minutos. Preguntas y respuestas, no un pitch deck.' },
       { t: 'Data room', d: 'Bajo NDA: el cronograma, lo ya construido y el moat.' },
     ],
-    form: { name: 'Tu nombre', namePh: 'Nombre completo', firm: 'Firma o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde estás', email: 'Email', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'Qué invertís normalmente', why: '¿Por qué Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Pedí el resumen', or: 'o', book: 'Reservá 30 min con el fundador', tiny: 'No es una oferta de valores. Una conversación.' },
+    form: { name: 'Tu nombre', namePh: 'Nombre completo', firm: 'Firma o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde estás', email: 'Email', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'Qué invertís normalmente', why: '¿Por qué Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Pedí el resumen', or: 'o', book: 'Reservá una llamada con el fundador', reqHint: 'Email o teléfono requerido.', err: 'Ingresá tu nombre y un email o teléfono.', tiny: 'No es una oferta de valores. Una conversación.' },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Estratégico / corporativo', 'Otro'],
     footTag: 'El marketplace inmobiliario de Sudamérica. Con base en EE. UU., construido en el terreno, facturado en dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ayuda', colLegal: 'Legal',
@@ -130,7 +130,7 @@ const DICT = {
       { t: 'We talk', d: 'Thirty minutes. Questions and answers, not a deck.' },
       { t: 'Data room', d: "Under NDA: the timeline, what's already built, and the moat." },
     ],
-    form: { name: 'Your name', namePh: 'Full name', firm: 'Firm or fund', firmPh: "Or 'angel'", country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@firm.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'What you typically invest in', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Request the overview', or: 'or', book: 'Book 30 min with the founder', tiny: 'Not an offer of securities. A conversation.' },
+    form: { name: 'Your name', namePh: 'Full name', firm: 'Firm or fund', firmPh: "Or 'angel'", country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@firm.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'What you typically invest in', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Request the overview', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Not an offer of securities. A conversation.' },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Strategic / corporate', 'Other'],
     footTag: 'The property marketplace of South America. US-based, built on the ground, billed in dollars.',
     colCountries: 'Countries', colCompany: 'Company', colHelp: 'Help', colLegal: 'Legal',
@@ -191,7 +191,7 @@ const DICT = {
       { t: 'Conversamos', d: 'Trinta minutos. Perguntas e respostas, não um pitch deck.' },
       { t: 'Data room', d: 'Sob NDA: o cronograma, o que já foi construído e o moat.' },
     ],
-    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Firma ou fundo', firmPh: "Ou 'anjo'", country: 'País', countryPh: 'Onde você está', email: 'Email', emailPh: 'nome@fundo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'No que você costuma investir', why: 'Por que Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Peça o resumo', or: 'ou', book: 'Agende 30 min com o fundador', tiny: 'Não é uma oferta de valores mobiliários. Uma conversa.' },
+    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Firma ou fundo', firmPh: "Ou 'anjo'", country: 'País', countryPh: 'Onde você está', email: 'Email', emailPh: 'nome@fundo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'No que você costuma investir', why: 'Por que Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Peça o resumo', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Email ou telefone obrigatório.', err: 'Informe seu nome e um email ou telefone.', tiny: 'Não é uma oferta de valores mobiliários. Uma conversa.' },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Estratégico / corporativo', 'Outro'],
     footTag: 'O marketplace imobiliário da América do Sul. Sede nos EUA, construído no terreno, faturado em dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ajuda', colLegal: 'Legal',
@@ -202,7 +202,7 @@ const DICT = {
   },
 };
 
-const INVEST_EMAIL = 'invest@casa-libre.com';
+const INVEST_EMAIL = 'roland@ableman.co';
 
 const Word = ({ className = '' }) => (
   <span className={`font-bold tracking-head whitespace-nowrap ${className}`}>casa-libre<em className="font-serif italic font-normal">.com</em></span>
@@ -216,10 +216,18 @@ export default function Hub() {
   const t = DICT[lang];
   const nm = (c) => c.name[lang] || c.name.es;
   const [inv, setInv] = useState({ name: '', firm: '', country: '', email: '', wa: '', stage: '', why: '' });
+  const [invErr, setInvErr] = useState('');
   const setF = (k) => (e) => setInv((f) => ({ ...f, [k]: e.target.value }));
-  const mailto = `mailto:${INVEST_EMAIL}?subject=${encodeURIComponent('Casa Libre — investor intro')}&body=${encodeURIComponent(
-    `Name: ${inv.name}\nFirm/fund: ${inv.firm}\nCountry: ${inv.country}\nEmail: ${inv.email}\nWhatsApp: ${inv.wa}\nInvests in: ${inv.stage}\n\n${inv.why}`,
-  )}`;
+  // Both CTAs run through the form; email OR phone is required (Roland). On a
+  // valid submit we generate an email to roland@ableman.co — nothing goes to a
+  // calendar; the founder vets first, then sends the invite.
+  const submitInv = (intent) => {
+    if (!inv.name.trim() || (!inv.email.trim() && !inv.wa.trim())) { setInvErr(t.form.err); return; }
+    setInvErr('');
+    const subject = intent === 'call' ? 'Casa Libre — book a call with the founder' : 'Casa Libre — request the overview';
+    const body = `Intent: ${intent === 'call' ? 'Book a call' : 'Request the overview'}\nName: ${inv.name}\nFirm / fund: ${inv.firm}\nCountry: ${inv.country}\nEmail: ${inv.email}\nWhatsApp / phone: ${inv.wa}\nInvests in: ${inv.stage}\n\n${inv.why}`;
+    window.location.href = `mailto:${INVEST_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  };
 
   return (
     <div className="min-h-screen bg-paper text-ink overflow-x-hidden">
@@ -440,9 +448,11 @@ export default function Hub() {
             </select>
           </FormField>
           <FormField label={t.form.why}><textarea value={inv.why} onChange={setF('why')} rows={3} placeholder={t.form.whyPh} className="cl-input resize-y" /></FormField>
-          <a href={mailto} className="btn btn-solid w-full mt-5">{t.form.submit} <Arrow /></a>
+          <p className="font-mono text-[11px] text-ink/45 mt-3">{t.form.reqHint}</p>
+          {invErr && <p className="text-[13px] text-[#c0392b] mt-2">{invErr}</p>}
+          <button type="button" onClick={() => submitInv('overview')} className="btn btn-solid w-full mt-3">{t.form.submit} <Arrow /></button>
           <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
-          <a href={mailto} className="btn btn-ghost w-full">{t.form.book}</a>
+          <button type="button" onClick={() => submitInv('call')} className="btn btn-ghost w-full">{t.form.book}</button>
           <p className="font-mono text-[11px] text-ink/40 mt-3 text-center">{t.form.tiny}</p>
         </div>
       </section>
