@@ -260,11 +260,11 @@ export default function Hub() {
 
       {/* ── Country flags strip ── */}
       <div className="border-b border-ink/10 bg-paper">
-        <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-3.5 flex items-center justify-center gap-3 sm:gap-4 flex-wrap">
+        <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-3.5 flex flex-nowrap items-center justify-center gap-1.5 sm:gap-3">
           {COUNTRIES.map((c) => (
-            <a key={c.key} href="#map" title={nm(c)} className="shrink-0 transition-transform hover:-translate-y-0.5">
+            <a key={c.key} href="#map" title={nm(c)} className="flex-1 max-w-[44px] min-w-0 transition-transform hover:-translate-y-0.5">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`/flags/${c.key}.svg`} alt={nm(c)} className="w-9 h-6 sm:w-11 sm:h-[30px] object-cover rounded-[5px] border border-ink/25" />
+              <img src={`/flags/${c.key}.svg`} alt={nm(c)} className="w-full aspect-[3/2] object-cover rounded-[4px] border border-ink/25" />
             </a>
           ))}
         </div>
