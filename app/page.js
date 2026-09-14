@@ -58,7 +58,7 @@ const DICT = {
     structLead: 'Una entidad de EE. UU. para los inversores. Un equipo en el terreno para el mercado.',
     structCards: [
       { k: 'Fundador y estructura', t: 'Con base en Estados Unidos', d: 'El fundador y la estructura holding son de EE. UU. Contratos, cap table, banca y reportes corren en términos de EE. UU. Los ingresos se cobran en dólares. Invertís en una empresa estadounidense.' },
-      { k: 'Operaciones', t: 'En el terreno en Asunción', d: 'El fundador divide su tiempo entre Kentucky y Paraguay, con presencia local en cada mercado en vivo. Esta región no se maneja a la distancia.' },
+      { k: 'Operaciones', t: 'En el terreno en Asunción', d: 'El fundador divide su tiempo entre Nueva York, Ciudad de México y Asunción, con presencia local en cada mercado en vivo. Esta región no se maneja a la distancia.' },
     ],
     investEyebrow: 'Para inversores y socios',
     investTitle: 'Entrá temprano.',
@@ -119,7 +119,7 @@ const DICT = {
     structLead: 'A US entity for investors. A team on the ground for the market.',
     structCards: [
       { k: 'Founder and structure', t: 'Based in the United States', d: 'Founder and holding structure are US-based. Contracts, cap table, banking and reporting run on US terms. Revenue is collected in dollars. You invest in a US company.' },
-      { k: 'Operations', t: 'On the ground in Asunción', d: 'The founder splits time between Kentucky and Paraguay, with local presence in every live market. This region is not run from a distance.' },
+      { k: 'Operations', t: 'On the ground in Asunción', d: 'The founder splits time between New York, Mexico City and Asunción, with local presence in every live market. This region is not run from a distance.' },
     ],
     investEyebrow: 'For investors and partners',
     investTitle: 'Get in early.',
@@ -180,7 +180,7 @@ const DICT = {
     structLead: 'Uma entidade dos EUA para os investidores. Uma equipe no terreno para o mercado.',
     structCards: [
       { k: 'Fundador e estrutura', t: 'Com sede nos Estados Unidos', d: 'O fundador e a holding são dos EUA. Contratos, cap table, banco e relatórios rodam em termos dos EUA. A receita é coletada em dólares. Você investe numa empresa americana.' },
-      { k: 'Operações', t: 'No terreno em Assunção', d: 'O fundador divide o tempo entre Kentucky e Paraguai, com presença local em cada mercado no ar. Esta região não é gerida à distância.' },
+      { k: 'Operações', t: 'No terreno em Assunção', d: 'O fundador divide o tempo entre Nova York, Cidade do México e Assunção, com presença local em cada mercado no ar. Esta região não é gerida à distância.' },
     ],
     investEyebrow: 'Para investidores e parceiros',
     investTitle: 'Entre cedo.',
