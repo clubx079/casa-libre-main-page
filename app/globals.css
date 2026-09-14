@@ -19,3 +19,9 @@ a { color: inherit; text-decoration: none; }
 @keyframes cl-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
 .cl-float { animation: cl-float 5s ease-in-out infinite; }
 @media (prefers-reduced-motion: reduce) { .cl-marquee, .cl-float { animation: none; } }
+
+/* Investor form fields */
+.cl-input { width:100%; font-size:15px; padding:11px 14px; border-radius:12px; background:#fff; color:var(--ink); border:1px solid rgba(17,17,17,0.28); outline:none; font-family:inherit; }
+.cl-input:focus { border-color:var(--ink); }
+.cl-input::placeholder { color:rgba(17,17,17,0.4); }
+textarea.cl-input { min-height:84px; }
