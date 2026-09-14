@@ -18,7 +18,7 @@ const TICKER = ['ASUNCIÓN', 'SANTA CRUZ', 'MONTEVIDEO', 'BUENOS AIRES', 'SÃO P
 
 const DICT = {
   es: {
-    nav: { map: 'Países', product: 'Producto', thesis: 'La tesis', invest: 'Invertí' },
+    nav: { countries: 'Países', opportunity: 'La oportunidad', invest: 'Invertí' },
     heroEyebrow: 'En vivo en tres países · con base en EE. UU. · API-first',
     heroA: 'El marketplace inmobiliario',
     heroB: 'de Sudamérica.',
@@ -79,7 +79,7 @@ const DICT = {
     rights: 'Todos los derechos reservados.',
   },
   en: {
-    nav: { map: 'Countries', product: 'Product', thesis: 'Thesis', invest: 'Invest' },
+    nav: { countries: 'Countries', opportunity: 'The opportunity', invest: 'Invest' },
     heroEyebrow: 'Live in three countries · US-based · API-first',
     heroA: 'The property marketplace',
     heroB: 'of South America.',
@@ -140,7 +140,7 @@ const DICT = {
     rights: 'All rights reserved.',
   },
   pt: {
-    nav: { map: 'Países', product: 'Produto', thesis: 'A tese', invest: 'Investir' },
+    nav: { countries: 'Países', opportunity: 'A oportunidade', invest: 'Investir' },
     heroEyebrow: 'No ar em três países · sede nos EUA · API-first',
     heroA: 'O marketplace imobiliário',
     heroB: 'da América do Sul.',
@@ -228,9 +228,8 @@ export default function Hub() {
         <div className="max-w-[1920px] mx-auto px-5 md:px-11 h-[64px] flex items-center justify-between">
           <a href="#top" className="shrink-0"><Word className="text-[clamp(14px,4.4vw,22px)]" /></a>
           <nav className="hidden md:flex items-center gap-7 text-[14px] font-medium text-ink/70">
-            <a href="#map" className="hover:text-ink">{t.nav.map}</a>
-            <a href="#product" className="hover:text-ink">{t.nav.product}</a>
-            <a href="#thesis" className="hover:text-ink">{t.nav.thesis}</a>
+            <a href="#map" className="hover:text-ink">{t.nav.countries}</a>
+            <a href="#thesis" className="hover:text-ink">{t.nav.opportunity}</a>
             <a href="#invest" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.invest}</a>
           </nav>
           <div className="flex items-center gap-2.5">
