@@ -7,8 +7,11 @@ import { Resend } from 'resend';
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
-const TO = process.env.CONTACT_EMAIL || 'omar@airosofts.com';
-const FROM = process.env.RESEND_FROM || 'Casa Libre <notifications@deelmap.com>';
+// Recipient + sender are env-driven; the fallbacks are the PROD values so the
+// live site works even if the env vars aren't set. Locally, .env.local overrides
+// CONTACT_EMAIL to a test address so we never email Roland during testing.
+const TO = process.env.CONTACT_EMAIL || 'roland@ableman.co';
+const FROM = process.env.RESEND_FROM || 'Casa Libre <no-reply@casa-libre.com.py>';
 
 function esc(s) {
   return String(s == null ? '' : s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
