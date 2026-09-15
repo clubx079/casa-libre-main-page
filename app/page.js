@@ -6,7 +6,7 @@ import { useState } from 'react';
 const COUNTRIES = [
   { key: 'py', name: { es: 'Paraguay', en: 'Paraguay', pt: 'Paraguai' }, tld: 'casa-libre.com.py', url: 'https://casa-libre.com.py', status: 'live', city: 'Asunción', sub: { es: 'La cabecera', en: 'The beachhead', pt: 'A cabeça de ponte' } },
   { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia', pt: 'Bolívia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', status: 'live', city: 'Santa Cruz · La Paz', sub: { es: 'Lanzado esta semana', en: 'Launched this week', pt: 'Lançado esta semana' } },
-  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'casa-libre.com.uy', url: 'https://casa-libre.com.uy', status: 'beta', city: 'Montevideo', sub: { es: 'Anuncios activos', en: 'Listings live', pt: 'Anúncios ativos' } },
+  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'uy.casa-libre.com', url: 'https://uy.casa-libre.com', status: 'beta', city: 'Montevideo', sub: { es: 'Anuncios activos · casa-libre.com.uy pronto', en: 'Listings live · casa-libre.com.uy next', pt: 'Anúncios ativos · casa-libre.com.uy em breve' } },
   { key: 'ar', name: { es: 'Argentina', en: 'Argentina', pt: 'Argentina' }, tld: 'casa-libre.com.ar', url: 'https://casa-libre.com.ar', status: 'next', city: 'Buenos Aires' },
   { key: 'br', name: { es: 'Brasil', en: 'Brazil', pt: 'Brasil' }, tld: 'casa-libre.com.br', url: 'https://casa-libre.com.br', status: 'next', city: 'São Paulo' },
   { key: 'cl', name: { es: 'Chile', en: 'Chile', pt: 'Chile' }, tld: 'casa-libre.com.cl', url: 'https://casa-libre.com.cl', status: 'next', city: 'Santiago' },
@@ -22,12 +22,12 @@ const DICT = {
     heroEyebrow: 'En vivo en tres países · con base en EE. UU. · API-first',
     heroA: 'El marketplace inmobiliario',
     heroB: 'de Sudamérica.',
-    heroSub: 'Operadores con experiencia, tecnología de frontera y el mandato de reconstruir cómo un continente transacciona propiedades.',
+    heroSub: 'Operadores con experiencia, tecnología de frontera y datos propios sobre cómo un continente realmente compra propiedades.',
     heroSubEm: 'Convertite en inversor. Entrá desde el principio.',
     heroCta: 'Hablá con el fundador', heroCta2: 'Velo en vivo',
     heroStats: [['3', 'países en vivo'], ['8', 'mercados objetivo'], ['+430M', 'personas en el mercado']],
     contTitle: 'Un continente sin estándar.',
-    contLead: 'Sudamérica no tiene un MLS, ni una marca inmobiliaria regional, ni una plataforma que sea dueña de la transacción. El inventario está repartido entre miles de corredores, franquicias y vendedores particulares, y 430 millones de personas compran, alquilan y venden por grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa Libre es el estándar.',
+    contLead: 'Sudamérica no tiene un MLS, ni una marca inmobiliaria regional, ni una plataforma que sea dueña de la transacción. El inventario está repartido entre miles de corredores, franquicias y vendedores particulares, y 430 millones de personas compran, alquilan y venden por grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa Libre es el estándar — y la primera plataforma que mide el mercado mientras se mueve.',
     contCards: [
       { t: 'Operando hoy', d: 'Paraguay y Bolivia están en vivo. Uruguay en acceso anticipado. Anuncios reales, compradores reales, conversaciones con dueños todos los días. Un producto en el mercado, no un plan.' },
       { t: 'Un build, ocho mercados', d: 'Una sola plataforma, localizada por país, facturada en dólares en todos. Un país nuevo es un lanzamiento, no una reconstrucción. El costo por mercado baja con cada uno.' },
@@ -42,15 +42,23 @@ const DICT = {
     prodEyebrow: 'El producto',
     prodTitle: 'Simple por diseño.',
     prod: [
-      { t: 'Directo al dueño', d: 'Los compradores contactan al dueño o agente por WhatsApp en un toque. Sin intermediarios, sin porteros.' },
+      { t: 'Contacto directo', d: 'Cada anuncio muestra quién lo publicó — dueño, agente o inmobiliaria — y los compradores lo contactan por WhatsApp en un toque. Sin portal en el medio, sin leads revendidos.' },
       { t: 'Cero comisión', d: 'Nunca una parte de la venta. Los ingresos vienen de anuncios, promoción y herramientas premium — no de pararse entre comprador y vendedor.' },
       { t: 'Facturado en dólares', d: 'Cada anuncio, boost y suscripción se cobra en dólares, en todos los países. Los ingresos son en dólares. El tipo de cambio nunca toca el balance.' },
+    ],
+    dataEyebrow: 'El hilo conductor',
+    dataTitle: 'Datos del mundo real de un mercado que nadie midió.',
+    dataLead: 'Cada búsqueda, cada toque de WhatsApp, cada anuncio publicado o renovado es actividad de compradores de primera mano en mercados emergentes que no tienen MLS, ni índice, ni historial. El marketplace la genera. Los datos se acumulan.',
+    dataCards: [
+      { t: 'Datos reales de compradores', d: 'Quién busca, qué, a qué precio, en qué barrio — capturado en el momento de la intención, no encuestado después.' },
+      { t: 'Actividad en todo el continente', d: 'Una plataforma, un esquema, ocho países. La demanda en Santa Cruz es comparable a la de Montevideo porque se registra igual.' },
+      { t: 'Tecnología y datos de mercados emergentes', d: 'Construido para mercados que las herramientas de los actores tradicionales nunca contemplaron. La tecnología es la capa de captura; los datos son el activo.' },
     ],
     thesisTitle: 'Por qué esto gana.',
     thesisBold: 'No hay MLS.',
     thesisProse: [
       'Sudamérica es el último gran mercado inmobiliario que funciona con grupos de WhatsApp, Facebook Marketplace, publicaciones de Instagram y carteles impresos. El inventario está con corredores, franquicias y dueños que nunca lo comparten. No hay MLS. En gran parte de la región no se necesita licencia para vender inmuebles. La infraestructura nunca se construyó. La estamos construyendo, a través de fronteras, bajo una sola marca.',
-      'Los actores existentes probaron que la gente busca propiedades online, y después se detuvieron en una página de clasificados con un número de teléfono. Nadie es dueño de lo que pasa después del clic: el lead, el seguimiento, el cierre, la preventa del desarrollador. Ahí está el dinero, y está sin reclamar.',
+      'Los actores existentes probaron que la gente busca propiedades online, y después se detuvieron en una página de clasificados con un número de teléfono. Nadie es dueño de lo que pasa después del clic: el lead, el seguimiento, el cierre, la preventa del desarrollador, y los datos que todo eso genera. Ahí está el dinero, y está sin reclamar.',
       'Empezamos en Paraguay porque se puede ganar por completo. Bolivia y Uruguay siguieron en meses sobre el mismo build. Un solo código, APIs abiertas, anuncios y gestión de leads asistidos por IA, ingresos en dólares en cada mercado — y un playbook ya probado en EE. UU.',
       'La ventana está abierta ahora.',
     ],
@@ -69,7 +77,7 @@ const DICT = {
       { t: 'Hablamos', d: 'Treinta minutos. Preguntas y respuestas, no un pitch deck.' },
       { t: 'Data room', d: 'Bajo NDA: el cronograma, lo ya construido y el moat.' },
     ],
-    form: { name: 'Tu nombre', namePh: 'Nombre completo', firm: 'Firma o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde estás', email: 'Email', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'Qué invertís normalmente', why: '¿Por qué Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Pedí el resumen', or: 'o', book: 'Reservá una llamada con el fundador', reqHint: 'Email o teléfono requerido.', err: 'Ingresá tu nombre y un email o teléfono.', tiny: 'No es una oferta de valores. Una conversación.' },
+    form: { name: 'Tu nombre', namePh: 'Nombre completo', firm: 'Firma o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde estás', email: 'Email', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'Qué invertís normalmente', why: '¿Por qué Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Pedí el resumen', or: 'o', book: 'Reservá una llamada con el fundador', reqHint: 'Email o teléfono requerido.', err: 'Ingresá tu nombre y un email o teléfono.', tiny: 'No es una oferta de valores. Una conversación.', sending: 'Enviando…', sent: 'Gracias — te contactamos en breve.', fail: 'Algo salió mal. Probá de nuevo.', call: { title: 'Reservá una llamada con el fundador', sub: '30 minutos. Contanos cuándo te queda cómodo y qué querés hablar.', name: 'Tu nombre', namePh: 'Nombre completo', email: 'Email', emailPh: 'nombre@fondo.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué te gustaría conversar.', submit: 'Pedir la llamada', cancel: 'Cancelar' } },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Estratégico / corporativo', 'Otro'],
     footTag: 'El marketplace inmobiliario de Sudamérica. Con base en EE. UU., construido en el terreno, facturado en dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ayuda', colLegal: 'Legal',
@@ -83,12 +91,12 @@ const DICT = {
     heroEyebrow: 'Live in three countries · US-based · API-first',
     heroA: 'The property marketplace',
     heroB: 'of South America.',
-    heroSub: 'Experienced operators, frontier technology, and a mandate to rebuild how a continent transacts property.',
+    heroSub: 'Experienced operators, frontier technology, and first-party data on how a continent actually buys property.',
     heroSubEm: 'Become an investor. Get in at the ground level.',
     heroCta: 'Talk to the founder', heroCta2: 'See it live',
     heroStats: [['3', 'countries live'], ['8', 'target markets'], ['430M+', 'people in market']],
     contTitle: 'A continent without a standard.',
-    contLead: 'South America has no MLS, no regional property brand and no platform that owns the transaction. Inventory is split across thousands of brokers, franchise offices and private sellers, and 430 million people buy, rent and sell through WhatsApp groups, Facebook Marketplace and Instagram posts. Casa Libre is the standard.',
+    contLead: 'South America has no MLS, no regional property brand and no platform that owns the transaction. Inventory is split across thousands of brokers, franchise offices and private sellers, and 430 million people buy, rent and sell through WhatsApp groups, Facebook Marketplace and Instagram posts. Casa Libre is the standard — and the first platform measuring the market as it moves.',
     contCards: [
       { t: 'Operating today', d: 'Paraguay and Bolivia are live. Uruguay is in early access. Real listings, real buyers, owner conversations every day. A product in market, not a plan.' },
       { t: 'One build, eight markets', d: 'One platform, localized per country, billed in dollars everywhere. A new country is a launch, not a rebuild. Cost per market falls with each one.' },
@@ -103,15 +111,23 @@ const DICT = {
     prodEyebrow: 'The product',
     prodTitle: 'Simple by design.',
     prod: [
-      { t: 'Direct to owner', d: 'Buyers reach the owner or agent on WhatsApp in one tap. No intermediary, no gatekeeper.' },
+      { t: 'Direct contact', d: 'Every listing shows who posted it — owner, agent or agency — and buyers reach that person on WhatsApp in one tap. No portal in between, no lead resold.' },
       { t: 'Zero commission', d: 'No cut of the sale, ever. Revenue comes from listings, promotion and premium tools — not from standing between buyer and seller.' },
       { t: 'Billed in dollars', d: 'Every listing, boost and subscription is charged in US dollars, in every country. Revenue is dollar-denominated. Exchange rates never touch the ledger.' },
+    ],
+    dataEyebrow: 'The through line',
+    dataTitle: 'Real-world data from a market no one has measured.',
+    dataLead: 'Every search, every WhatsApp tap, every listing posted or renewed is first-party buyer activity in emerging markets that have no MLS, no index and no history. The marketplace generates it. The data compounds.',
+    dataCards: [
+      { t: 'Real buyer data', d: 'Who is looking, at what, at what price, in which neighborhood — captured at the moment of intent, not surveyed after the fact.' },
+      { t: 'Activity across the continent', d: 'One platform, one schema, eight countries. Demand in Santa Cruz is comparable to demand in Montevideo because it is recorded the same way.' },
+      { t: 'Emerging-market technology and data', d: "Built for markets the incumbents' tooling was never designed for. The technology is the collection layer; the data is the asset." },
     ],
     thesisTitle: 'Why this wins.',
     thesisBold: 'There is no MLS.',
     thesisProse: [
       'South America is the last large property market run on WhatsApp groups, Facebook Marketplace, Instagram posts and printed signs. Inventory sits with brokers, franchises and owners who never share it. There is no MLS. In most of the region, no license is required to sell real estate. The infrastructure was never built. We are building it, across borders, under one brand.',
-      'The incumbents proved people search for property online, then stopped at a classifieds page with a phone number. Nobody owns what happens after the click: the lead, the follow-up, the deal, the developer presale. That is where the money is, and it is unclaimed.',
+      'The incumbents proved people search for property online, then stopped at a classifieds page with a phone number. Nobody owns what happens after the click: the lead, the follow-up, the deal, the developer presale, and the data all of it produces. That is where the money is, and it is unclaimed.',
       'We started in Paraguay because it can be won outright. Bolivia and Uruguay followed within months on the same build. One codebase, open APIs, AI-assisted listings and lead handling, dollar revenue in every market — and a playbook already proven in the US.',
       'The window is open now.',
     ],
@@ -130,7 +146,7 @@ const DICT = {
       { t: 'We talk', d: 'Thirty minutes. Questions and answers, not a deck.' },
       { t: 'Data room', d: "Under NDA: the timeline, what's already built, and the moat." },
     ],
-    form: { name: 'Your name', namePh: 'Full name', firm: 'Firm or fund', firmPh: "Or 'angel'", country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@firm.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'What you typically invest in', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Request the overview', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Not an offer of securities. A conversation.' },
+    form: { name: 'Your name', namePh: 'Full name', firm: 'Firm or fund', firmPh: "Or 'angel'", country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@firm.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'What you typically invest in', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Request the overview', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Not an offer of securities. A conversation.', sending: 'Sending…', sent: "Thanks — we'll be in touch shortly.", fail: 'Something went wrong. Please try again.', call: { title: 'Book a call with the founder', sub: '30 minutes. Tell us when suits you and what to cover.', name: 'Your name', namePh: 'Full name', email: 'Email', emailPh: 'name@firm.com', phone: 'Phone / WhatsApp', phonePh: '+1 …', slot: 'Preferred time slot', slotPh: 'e.g. Tue–Thu afternoons, ET', reason: 'Reason for the call', reasonPh: "What you'd like to cover.", submit: 'Request the call', cancel: 'Cancel' } },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Strategic / corporate', 'Other'],
     footTag: 'The property marketplace of South America. US-based, built on the ground, billed in dollars.',
     colCountries: 'Countries', colCompany: 'Company', colHelp: 'Help', colLegal: 'Legal',
@@ -144,12 +160,12 @@ const DICT = {
     heroEyebrow: 'No ar em três países · sede nos EUA · API-first',
     heroA: 'O marketplace imobiliário',
     heroB: 'da América do Sul.',
-    heroSub: 'Operadores experientes, tecnologia de fronteira e o mandato de reconstruir como um continente transaciona imóveis.',
+    heroSub: 'Operadores experientes, tecnologia de fronteira e dados próprios sobre como um continente realmente compra imóveis.',
     heroSubEm: 'Torne-se investidor. Entre desde o começo.',
     heroCta: 'Fale com o fundador', heroCta2: 'Veja ao vivo',
     heroStats: [['3', 'países no ar'], ['8', 'mercados-alvo'], ['+430M', 'pessoas no mercado']],
     contTitle: 'Um continente sem padrão.',
-    contLead: 'A América do Sul não tem MLS, nem marca imobiliária regional, nem plataforma dona da transação. O inventário está espalhado por milhares de corretores, franquias e vendedores particulares, e 430 milhões de pessoas compram, alugam e vendem por grupos de WhatsApp, Facebook Marketplace e posts de Instagram. Casa Libre é o padrão.',
+    contLead: 'A América do Sul não tem MLS, nem marca imobiliária regional, nem plataforma dona da transação. O inventário está espalhado por milhares de corretores, franquias e vendedores particulares, e 430 milhões de pessoas compram, alugam e vendem por grupos de WhatsApp, Facebook Marketplace e posts de Instagram. Casa Libre é o padrão — e a primeira plataforma que mede o mercado enquanto ele se move.',
     contCards: [
       { t: 'Operando hoje', d: 'Paraguai e Bolívia estão no ar. Uruguai em acesso antecipado. Anúncios reais, compradores reais, conversas com proprietários todos os dias. Um produto no mercado, não um plano.' },
       { t: 'Um build, oito mercados', d: 'Uma plataforma, localizada por país, faturada em dólares em todos. Um país novo é um lançamento, não uma reconstrução. O custo por mercado cai a cada um.' },
@@ -164,15 +180,23 @@ const DICT = {
     prodEyebrow: 'O produto',
     prodTitle: 'Simples por design.',
     prod: [
-      { t: 'Direto ao proprietário', d: 'Os compradores falam com o proprietário ou corretor pelo WhatsApp em um toque. Sem intermediário, sem porteiro.' },
+      { t: 'Contato direto', d: 'Cada anúncio mostra quem o publicou — proprietário, corretor ou imobiliária — e os compradores falam com essa pessoa pelo WhatsApp em um toque. Sem portal no meio, sem lead revendido.' },
       { t: 'Zero comissão', d: 'Nunca uma parte da venda. A receita vem de anúncios, promoção e ferramentas premium — não de ficar entre comprador e vendedor.' },
       { t: 'Faturado em dólares', d: 'Cada anúncio, boost e assinatura é cobrado em dólares, em todos os países. A receita é em dólares. O câmbio nunca toca o balanço.' },
+    ],
+    dataEyebrow: 'O fio condutor',
+    dataTitle: 'Dados do mundo real de um mercado que ninguém mediu.',
+    dataLead: 'Cada busca, cada toque de WhatsApp, cada anúncio publicado ou renovado é atividade de compradores de primeira mão em mercados emergentes sem MLS, sem índice e sem histórico. O marketplace a gera. Os dados se acumulam.',
+    dataCards: [
+      { t: 'Dados reais de compradores', d: 'Quem busca, o quê, a que preço, em qual bairro — capturado no momento da intenção, não pesquisado depois.' },
+      { t: 'Atividade em todo o continente', d: 'Uma plataforma, um esquema, oito países. A demanda em Santa Cruz é comparável à de Montevidéu porque é registrada da mesma forma.' },
+      { t: 'Tecnologia e dados de mercados emergentes', d: 'Construído para mercados que as ferramentas dos incumbentes nunca contemplaram. A tecnologia é a camada de coleta; os dados são o ativo.' },
     ],
     thesisTitle: 'Por que isso vence.',
     thesisBold: 'Não há MLS.',
     thesisProse: [
       'A América do Sul é o último grande mercado imobiliário que funciona com grupos de WhatsApp, Facebook Marketplace, posts de Instagram e placas impressas. O inventário está com corretores, franquias e proprietários que nunca o compartilham. Não há MLS. Na maior parte da região, não é preciso licença para vender imóveis. A infraestrutura nunca foi construída. Estamos construindo-a, através de fronteiras, sob uma marca.',
-      'Os incumbentes provaram que as pessoas buscam imóveis online, e então pararam numa página de classificados com um número de telefone. Ninguém é dono do que acontece depois do clique: o lead, o follow-up, o negócio, a pré-venda do incorporador. É aí que está o dinheiro, e está sem dono.',
+      'Os incumbentes provaram que as pessoas buscam imóveis online, e então pararam numa página de classificados com um número de telefone. Ninguém é dono do que acontece depois do clique: o lead, o follow-up, o negócio, a pré-venda do incorporador, e os dados que tudo isso gera. É aí que está o dinheiro, e está sem dono.',
       'Começamos no Paraguai porque pode ser conquistado por inteiro. Bolívia e Uruguai seguiram em meses sobre o mesmo build. Um código, APIs abertas, anúncios e gestão de leads com IA, receita em dólares em cada mercado — e um playbook já provado nos EUA.',
       'A janela está aberta agora.',
     ],
@@ -191,7 +215,7 @@ const DICT = {
       { t: 'Conversamos', d: 'Trinta minutos. Perguntas e respostas, não um pitch deck.' },
       { t: 'Data room', d: 'Sob NDA: o cronograma, o que já foi construído e o moat.' },
     ],
-    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Firma ou fundo', firmPh: "Ou 'anjo'", country: 'País', countryPh: 'Onde você está', email: 'Email', emailPh: 'nome@fundo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'No que você costuma investir', why: 'Por que Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Peça o resumo', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Email ou telefone obrigatório.', err: 'Informe seu nome e um email ou telefone.', tiny: 'Não é uma oferta de valores mobiliários. Uma conversa.' },
+    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Firma ou fundo', firmPh: "Ou 'anjo'", country: 'País', countryPh: 'Onde você está', email: 'Email', emailPh: 'nome@fundo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'No que você costuma investir', why: 'Por que Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Peça o resumo', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Email ou telefone obrigatório.', err: 'Informe seu nome e um email ou telefone.', tiny: 'Não é uma oferta de valores mobiliários. Uma conversa.', sending: 'Enviando…', sent: 'Obrigado — entraremos em contato em breve.', fail: 'Algo deu errado. Tente novamente.', call: { title: 'Agende uma chamada com o fundador', sub: '30 minutos. Diga quando é melhor para você e o que quer abordar.', name: 'Seu nome', namePh: 'Nome completo', email: 'Email', emailPh: 'nome@fundo.com', phone: 'Telefone / WhatsApp', phonePh: '+1 …', slot: 'Horário preferido', slotPh: 'ex. ter–qui à tarde, ET', reason: 'Motivo da chamada', reasonPh: 'O que você gostaria de abordar.', submit: 'Solicitar a chamada', cancel: 'Cancelar' } },
     stages: ['Pre-seed', 'Seed', 'Series A', 'Estratégico / corporativo', 'Outro'],
     footTag: 'O marketplace imobiliário da América do Sul. Sede nos EUA, construído no terreno, faturado em dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ajuda', colLegal: 'Legal',
@@ -201,8 +225,6 @@ const DICT = {
     rights: 'Todos os direitos reservados.',
   },
 };
-
-const INVEST_EMAIL = 'roland@ableman.co';
 
 const Word = ({ className = '' }) => (
   <span className={`font-bold tracking-head whitespace-nowrap ${className}`}>casa-libre<em className="font-serif italic font-normal">.com</em></span>
@@ -215,18 +237,39 @@ export default function Hub() {
   const [lang, setLang] = useState('es');
   const t = DICT[lang];
   const nm = (c) => c.name[lang] || c.name.es;
+  // Investor form. Email OR phone required. On submit we POST to /api/contact,
+  // which sends a formatted email to omar@airosofts.com via Resend (no calendar,
+  // no mailto — a real server-side send).
   const [inv, setInv] = useState({ name: '', firm: '', country: '', email: '', wa: '', stage: '', why: '' });
   const [invErr, setInvErr] = useState('');
+  const [invState, setInvState] = useState('idle'); // idle | sending | sent | error
   const setF = (k) => (e) => setInv((f) => ({ ...f, [k]: e.target.value }));
-  // Both CTAs run through the form; email OR phone is required (Roland). On a
-  // valid submit we generate an email to roland@ableman.co — nothing goes to a
-  // calendar; the founder vets first, then sends the invite.
-  const submitInv = (intent) => {
+
+  // "Book a call" modal — its own form (name, contact, preferred time slot, reason).
+  const [callOpen, setCallOpen] = useState(false);
+  const [call, setCall] = useState({ name: '', email: '', phone: '', slot: '', reason: '' });
+  const [callErr, setCallErr] = useState('');
+  const [callState, setCallState] = useState('idle');
+  const setC = (k) => (e) => setCall((f) => ({ ...f, [k]: e.target.value }));
+
+  async function post(payload) {
+    try {
+      const res = await fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+      return res.ok;
+    } catch { return false; }
+  }
+
+  const submitOverview = async () => {
     if (!inv.name.trim() || (!inv.email.trim() && !inv.wa.trim())) { setInvErr(t.form.err); return; }
-    setInvErr('');
-    const subject = intent === 'call' ? 'Casa Libre — book a call with the founder' : 'Casa Libre — request the overview';
-    const body = `Intent: ${intent === 'call' ? 'Book a call' : 'Request the overview'}\nName: ${inv.name}\nFirm / fund: ${inv.firm}\nCountry: ${inv.country}\nEmail: ${inv.email}\nWhatsApp / phone: ${inv.wa}\nInvests in: ${inv.stage}\n\n${inv.why}`;
-    window.location.href = `mailto:${INVEST_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    setInvErr(''); setInvState('sending');
+    setInvState((await post({ type: 'overview', ...inv })) ? 'sent' : 'error');
+  };
+  const openCall = () => { setCallErr(''); setCallState('idle'); setCallOpen(true); };
+  const closeCall = () => setCallOpen(false);
+  const submitCall = async () => {
+    if (!call.name.trim() || (!call.email.trim() && !call.phone.trim())) { setCallErr(t.form.err); return; }
+    setCallErr(''); setCallState('sending');
+    setCallState((await post({ type: 'call', ...call })) ? 'sent' : 'error');
   };
 
   return (
@@ -380,8 +423,25 @@ export default function Hub() {
         </div>
       </section>
 
+      {/* ── The through line: data (dark) ── */}
+      <section className="bg-ink text-paper">
+        <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-16">
+          <div className="font-mono text-[11px] tracking-label uppercase text-paper/45 mb-3">{t.dataEyebrow}</div>
+          <h2 className="text-[clamp(26px,4vw,40px)] font-bold tracking-display max-w-[820px]">{t.dataTitle}</h2>
+          <p className="text-[16px] md:text-[18px] text-paper/70 mt-4 max-w-[820px] leading-relaxed">{t.dataLead}</p>
+          <div className="grid md:grid-cols-3 gap-4 mt-10">
+            {t.dataCards.map((w) => (
+              <div key={w.t} className="border border-paper/20 rounded-card p-5">
+                <div className="text-[18px] font-bold tracking-head mb-1.5">{w.t}</div>
+                <div className="text-[14px] text-paper/65 leading-relaxed">{w.d}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ── Thesis ── */}
-      <section id="thesis" className="max-w-[820px] mx-auto px-5 pb-16 scroll-mt-20">
+      <section id="thesis" className="max-w-[820px] mx-auto px-5 pt-16 pb-16 scroll-mt-20">
         <h2 className="text-[clamp(26px,4vw,40px)] font-bold tracking-display mb-6">{t.thesisTitle}</h2>
         <div className="space-y-5 text-[16px] md:text-[17px] text-ink/75 leading-[1.7]">
           {t.thesisProse.map((p, i) => {
@@ -450,9 +510,16 @@ export default function Hub() {
           <FormField label={t.form.why}><textarea value={inv.why} onChange={setF('why')} rows={3} placeholder={t.form.whyPh} className="cl-input resize-y" /></FormField>
           <p className="font-mono text-[11px] text-ink/45 mt-3">{t.form.reqHint}</p>
           {invErr && <p className="text-[13px] text-[#c0392b] mt-2">{invErr}</p>}
-          <button type="button" onClick={() => submitInv('overview')} className="btn btn-solid w-full mt-3">{t.form.submit} <Arrow /></button>
-          <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
-          <button type="button" onClick={() => submitInv('call')} className="btn btn-ghost w-full">{t.form.book}</button>
+          {invState === 'sent' ? (
+            <p className="mt-4 rounded-input bg-[#2f6f43]/10 px-3 py-3 text-center text-[14px] font-semibold text-[#2f6f43]">{t.form.sent}</p>
+          ) : (
+            <>
+              <button type="button" onClick={submitOverview} disabled={invState === 'sending'} className="btn btn-solid w-full mt-3 disabled:opacity-60">{invState === 'sending' ? t.form.sending : <>{t.form.submit} <Arrow /></>}</button>
+              {invState === 'error' && <p className="text-[13px] text-[#c0392b] mt-2 text-center">{t.form.fail}</p>}
+              <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
+              <button type="button" onClick={openCall} className="btn btn-ghost w-full">{t.form.book}</button>
+            </>
+          )}
           <p className="font-mono text-[11px] text-ink/40 mt-3 text-center">{t.form.tiny}</p>
         </div>
       </section>
@@ -488,6 +555,41 @@ export default function Hub() {
           </div>
         </div>
       </footer>
+
+      {/* ── Book-a-call modal ── */}
+      {callOpen && (
+        <div className="fixed inset-0 z-[100] flex items-start justify-center overflow-y-auto bg-ink/50 p-4 py-10" onClick={closeCall}>
+          <div className="w-full max-w-md rounded-card border-[1.5px] border-ink bg-card p-6 shadow-hard" onClick={(e) => e.stopPropagation()}>
+            <div className="mb-1 flex items-start justify-between gap-3">
+              <div className="text-[20px] font-bold tracking-head">{t.form.call.title}</div>
+              <button onClick={closeCall} aria-label="Close" className="-mr-1 rounded-full p-1 text-ink/60 hover:bg-ink/10 hover:text-ink">
+                <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="1.8"><path d="M6 6l12 12M18 6L6 18" /></svg>
+              </button>
+            </div>
+            <p className="mb-4 text-[13px] text-ink/55">{t.form.call.sub}</p>
+            {callState === 'sent' ? (
+              <p className="rounded-input bg-[#2f6f43]/10 px-3 py-6 text-center text-[14px] font-semibold text-[#2f6f43]">{t.form.sent}</p>
+            ) : (
+              <>
+                <FormField label={t.form.call.name}><input value={call.name} onChange={setC('name')} placeholder={t.form.call.namePh} className="cl-input" /></FormField>
+                <div className="grid grid-cols-2 gap-3">
+                  <FormField label={t.form.call.email}><input type="email" value={call.email} onChange={setC('email')} placeholder={t.form.call.emailPh} className="cl-input" /></FormField>
+                  <FormField label={t.form.call.phone}><input value={call.phone} onChange={setC('phone')} placeholder={t.form.call.phonePh} className="cl-input" /></FormField>
+                </div>
+                <FormField label={t.form.call.slot}><input value={call.slot} onChange={setC('slot')} placeholder={t.form.call.slotPh} className="cl-input" /></FormField>
+                <FormField label={t.form.call.reason}><textarea value={call.reason} onChange={setC('reason')} rows={3} placeholder={t.form.call.reasonPh} className="cl-input resize-y" /></FormField>
+                <p className="mt-1 font-mono text-[11px] text-ink/45">{t.form.reqHint}</p>
+                {callErr && <p className="mt-2 text-[13px] text-[#c0392b]">{callErr}</p>}
+                {callState === 'error' && <p className="mt-2 text-[13px] text-[#c0392b]">{t.form.fail}</p>}
+                <div className="mt-4 flex gap-2">
+                  <button type="button" onClick={submitCall} disabled={callState === 'sending'} className="btn btn-solid flex-1 disabled:opacity-60">{callState === 'sending' ? t.form.sending : t.form.call.submit}</button>
+                  <button type="button" onClick={closeCall} className="btn btn-ghost">{t.form.call.cancel}</button>
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
