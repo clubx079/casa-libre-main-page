@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 // Eight-country network. Paraguay + Bolivia are live, Uruguay in early access,
 // the rest scheduled/planned. Statuses: live | beta | next | planned.
@@ -262,15 +262,31 @@ export default function Hub() {
   const submitOverview = async () => {
     if (!inv.name.trim() || (!inv.email.trim() && !inv.wa.trim())) { setInvErr(t.form.err); return; }
     setInvErr(''); setInvState('sending');
-    setInvState((await post({ type: 'overview', ...inv })) ? 'sent' : 'error');
+    const ok = await post({ type: 'overview', ...inv });
+    if (ok) setInv({ name: '', firm: '', country: '', email: '', wa: '', stage: '', why: '' });
+    setInvState(ok ? 'sent' : 'error');
   };
   const openCall = () => { setCallErr(''); setCallState('idle'); setCallOpen(true); };
   const closeCall = () => setCallOpen(false);
   const submitCall = async () => {
     if (!call.name.trim() || (!call.email.trim() && !call.phone.trim())) { setCallErr(t.form.err); return; }
     setCallErr(''); setCallState('sending');
-    setCallState((await post({ type: 'call', ...call })) ? 'sent' : 'error');
+    const ok = await post({ type: 'call', ...call });
+    if (ok) setCall({ name: '', email: '', phone: '', slot: '', reason: '' });
+    setCallState(ok ? 'sent' : 'error');
   };
+  // Confirmation is transient: show the green message for ~3s, then clear it — but
+  // the buttons stay visible the whole time so a second overview/call is possible.
+  useEffect(() => {
+    if (invState !== 'sent' && invState !== 'error') return;
+    const id = setTimeout(() => setInvState('idle'), 3000);
+    return () => clearTimeout(id);
+  }, [invState]);
+  useEffect(() => {
+    if (callState !== 'sent') return;
+    const id = setTimeout(() => { setCallState('idle'); setCallOpen(false); }, 3000);
+    return () => clearTimeout(id);
+  }, [callState]);
 
   return (
     <div className="min-h-screen bg-paper text-ink overflow-x-hidden">
@@ -510,16 +526,11 @@ export default function Hub() {
           <FormField label={t.form.why}><textarea value={inv.why} onChange={setF('why')} rows={3} placeholder={t.form.whyPh} className="cl-input resize-y" /></FormField>
           <p className="font-mono text-[11px] text-ink/45 mt-3">{t.form.reqHint}</p>
           {invErr && <p className="text-[13px] text-[#c0392b] mt-2">{invErr}</p>}
-          {invState === 'sent' ? (
-            <p className="mt-4 rounded-input bg-[#2f6f43]/10 px-3 py-3 text-center text-[14px] font-semibold text-[#2f6f43]">{t.form.sent}</p>
-          ) : (
-            <>
-              <button type="button" onClick={submitOverview} disabled={invState === 'sending'} className="btn btn-solid w-full mt-3 disabled:opacity-60">{invState === 'sending' ? t.form.sending : <>{t.form.submit} <Arrow /></>}</button>
-              {invState === 'error' && <p className="text-[13px] text-[#c0392b] mt-2 text-center">{t.form.fail}</p>}
-              <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
-              <button type="button" onClick={openCall} className="btn btn-ghost w-full">{t.form.book}</button>
-            </>
-          )}
+          {invState === 'sent' && <p className="mt-3 rounded-input bg-[#2f6f43]/10 px-3 py-2.5 text-center text-[14px] font-semibold text-[#2f6f43]">{t.form.sent}</p>}
+          {invState === 'error' && <p className="mt-2 text-[13px] text-[#c0392b] text-center">{t.form.fail}</p>}
+          <button type="button" onClick={submitOverview} disabled={invState === 'sending'} className="btn btn-solid w-full mt-3 disabled:opacity-60">{invState === 'sending' ? t.form.sending : <>{t.form.submit} <Arrow /></>}</button>
+          <div className="text-center font-mono text-[11px] uppercase tracking-label text-ink/40 my-3">{t.form.or}</div>
+          <button type="button" onClick={openCall} className="btn btn-ghost w-full">{t.form.book}</button>
           <p className="font-mono text-[11px] text-ink/40 mt-3 text-center">{t.form.tiny}</p>
         </div>
       </section>
