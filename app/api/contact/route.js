@@ -7,11 +7,10 @@ import { Resend } from 'resend';
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
-// Recipient + sender are env-driven; the fallbacks are the PROD values so the
-// live site works even if the env vars aren't set. Locally, .env.local overrides
-// CONTACT_EMAIL to a test address so we never email Roland during testing.
-const TO = process.env.CONTACT_EMAIL || 'roland@ableman.co';
-const FROM = process.env.RESEND_FROM || 'Casa Libre <no-reply@casa-libre.com.py>';
+// Recipient, sender and API key are ALL env-driven — nothing is hardcoded in the
+// code. Set RESEND_API_KEY, RESEND_FROM and CONTACT_EMAIL on the deployment.
+const TO = process.env.CONTACT_EMAIL;
+const FROM = process.env.RESEND_FROM;
 
 function esc(s) {
   return String(s == null ? '' : s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -81,7 +80,8 @@ export async function POST(req) {
     }
 
     const key = process.env.RESEND_API_KEY;
-    if (!key) {
+    if (!key || !TO || !FROM) {
+      // Missing RESEND_API_KEY / CONTACT_EMAIL / RESEND_FROM env on the deployment.
       return NextResponse.json({ error: 'email_not_configured' }, { status: 500 });
     }
 
