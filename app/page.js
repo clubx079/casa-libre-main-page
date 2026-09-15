@@ -593,8 +593,8 @@ export default function Hub() {
                 {callErr && <p className="mt-2 text-[13px] text-[#c0392b]">{callErr}</p>}
                 {callState === 'error' && <p className="mt-2 text-[13px] text-[#c0392b]">{t.form.fail}</p>}
                 <div className="mt-4 flex gap-2">
-                  <button type="button" onClick={submitCall} disabled={callState === 'sending'} className="btn btn-solid flex-1 disabled:opacity-60">{callState === 'sending' ? t.form.sending : t.form.call.submit}</button>
-                  <button type="button" onClick={closeCall} className="btn btn-ghost">{t.form.call.cancel}</button>
+                  <button type="button" onClick={submitCall} disabled={callState === 'sending'} className="btn btn-solid flex-1 !px-4 !py-2.5 !text-[14px] whitespace-nowrap disabled:opacity-60">{callState === 'sending' ? t.form.sending : t.form.call.submit}</button>
+                  <button type="button" onClick={closeCall} className="btn btn-ghost !px-4 !py-2.5 !text-[14px] whitespace-nowrap">{t.form.call.cancel}</button>
                 </div>
               </>
             )}
