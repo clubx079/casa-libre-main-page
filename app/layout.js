@@ -1,14 +1,21 @@
 import './globals.css';
 
+// The hub renders Spanish by default (page.js: useState('es'), <html lang="es">),
+// so the served meta tags are Spanish. Country count is eight.
 export const metadata = {
-  title: 'Casa Libre — The property marketplace of South America',
+  title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
   description:
-    'Casa Libre is the home marketplace of South America — buy, rent and sell houses, apartments and land directly, with no intermediaries. One platform, six countries: Paraguay, Argentina, Brazil, Bolivia, Chile and Uruguay.',
+    'Casa Libre es el marketplace inmobiliario de Sudamérica: compre, alquile y venda casas, departamentos y terrenos de forma directa, sin intermediarios. Una sola plataforma, ocho países.',
   metadataBase: new URL('https://casa-libre.com'),
   openGraph: {
-    title: 'Casa Libre — The property marketplace of South America',
-    description: 'One platform, six countries. Buy, rent and sell property directly across South America.',
+    title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
+    description: 'Una sola plataforma, ocho países. Compre, alquile y venda propiedades de forma directa en toda Sudamérica.',
     type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
+    description: 'Una sola plataforma, ocho países. Compre, alquile y venda propiedades de forma directa en toda Sudamérica.',
   },
 };
 

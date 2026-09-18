@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 // Eight-country network. Paraguay + Bolivia are live, Uruguay in early access,
 // the rest scheduled/planned. Statuses: live | beta | next | planned.
 const COUNTRIES = [
-  { key: 'py', name: { es: 'Paraguay', en: 'Paraguay', pt: 'Paraguai' }, tld: 'casa-libre.com.py', url: 'https://casa-libre.com.py', status: 'live', city: 'Asunción', sub: { es: 'La cabecera', en: 'The beachhead', pt: 'A cabeça de ponte' } },
-  { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia', pt: 'Bolívia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', status: 'live', city: 'Santa Cruz · La Paz', sub: { es: 'Lanzado esta semana', en: 'Launched this week', pt: 'Lançado esta semana' } },
-  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'uy.casa-libre.com', url: 'https://uy.casa-libre.com', status: 'beta', city: 'Montevideo', sub: { es: 'Anuncios activos · casa-libre.com.uy pronto', en: 'Listings live · casa-libre.com.uy next', pt: 'Anúncios ativos · casa-libre.com.uy em breve' } },
+  { key: 'py', name: { es: 'Paraguay', en: 'Paraguay', pt: 'Paraguai' }, tld: 'casa-libre.com.py', url: 'https://casa-libre.com.py', status: 'live', city: 'Asunción', sub: { es: 'Primer mercado', en: 'The beachhead', pt: 'A cabeça de ponte' } },
+  { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia', pt: 'Bolívia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', status: 'live', city: 'Santa Cruz · La Paz', sub: { es: 'Lanzamiento reciente', en: 'Launched this week', pt: 'Lançado esta semana' } },
+  { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'uy.casa-libre.com', url: 'https://uy.casa-libre.com', status: 'beta', city: 'Montevideo', sub: { es: 'Publicaciones activas · casa-libre.com.uy próximamente', en: 'Listings live · casa-libre.com.uy next', pt: 'Anúncios ativos · casa-libre.com.uy em breve' } },
   { key: 'ar', name: { es: 'Argentina', en: 'Argentina', pt: 'Argentina' }, tld: 'casa-libre.com.ar', url: 'https://casa-libre.com.ar', status: 'next', city: 'Buenos Aires' },
   { key: 'br', name: { es: 'Brasil', en: 'Brazil', pt: 'Brasil' }, tld: 'casa-libre.com.br', url: 'https://casa-libre.com.br', status: 'next', city: 'São Paulo' },
   { key: 'cl', name: { es: 'Chile', en: 'Chile', pt: 'Chile' }, tld: 'casa-libre.com.cl', url: 'https://casa-libre.com.cl', status: 'next', city: 'Santiago' },
@@ -18,72 +18,72 @@ const TICKER = ['ASUNCIÓN', 'SANTA CRUZ', 'MONTEVIDEO', 'BUENOS AIRES', 'SÃO P
 
 const DICT = {
   es: {
-    nav: { countries: 'Países', opportunity: 'La oportunidad', invest: 'Invertí' },
-    heroEyebrow: 'En vivo en tres países · con base en EE. UU. · API-first',
+    nav: { countries: 'Países', opportunity: 'La oportunidad', invest: 'Invertir' },
+    heroEyebrow: 'Activo en tres países · Sede en EE. UU. · API-first',
     heroA: 'El marketplace inmobiliario',
     heroB: 'de Sudamérica.',
-    heroSub: 'Operadores con experiencia, tecnología de frontera y datos propios sobre cómo un continente realmente compra propiedades.',
-    heroSubEm: 'Convertite en inversor. Entrá desde el principio.',
-    heroCta: 'Hablá con el fundador', heroCta2: 'Velo en vivo',
-    heroStats: [['3', 'países en vivo'], ['8', 'mercados objetivo'], ['+430M', 'personas en el mercado']],
+    heroSub: 'Un equipo con experiencia operativa, tecnología de vanguardia y datos propios sobre cómo compra propiedades realmente todo un continente.',
+    heroSubEm: 'Invierta desde la etapa inicial.',
+    heroCta: 'Hablar con el fundador', heroCta2: 'Ver los sitios activos',
+    heroStats: [['3', 'países activos'], ['8', 'mercados objetivo'], ['+430M', 'habitantes en la región']],
     contTitle: 'Un continente sin estándar.',
-    contLead: 'Sudamérica no tiene un MLS, ni una marca inmobiliaria regional, ni una plataforma que sea dueña de la transacción. El inventario está repartido entre miles de corredores, franquicias y vendedores particulares, y 430 millones de personas compran, alquilan y venden por grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa Libre es el estándar — y la primera plataforma que mide el mercado mientras se mueve.',
+    contLead: 'Sudamérica no tiene un sistema centralizado de publicaciones inmobiliarias (lo que en EE. UU. se conoce como MLS), ni una marca inmobiliaria regional, ni una plataforma que gestione la transacción de principio a fin. La oferta está dispersa entre miles de corredores, franquicias y propietarios particulares, y 430 millones de personas compran, alquilan y venden a través de grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa Libre es ese estándar, y la primera plataforma que mide el mercado en tiempo real.',
     contCards: [
-      { t: 'Operando hoy', d: 'Paraguay y Bolivia están en vivo. Uruguay en acceso anticipado. Anuncios reales, compradores reales, conversaciones con dueños todos los días. Un producto en el mercado, no un plan.' },
-      { t: 'Un build, ocho mercados', d: 'Una sola plataforma, localizada por país, facturada en dólares en todos. Un país nuevo es un lanzamiento, no una reconstrucción. El costo por mercado baja con cada uno.' },
-      { t: 'Más que un marketplace', d: 'Los anuncios son la puerta de entrada. El sistema detrás es el negocio. No es público. Los inversores lo ven bajo NDA, después de una primera conversación.' },
+      { t: 'Ya en operación', d: 'Paraguay y Bolivia ya están activos. Uruguay, en acceso anticipado. Publicaciones reales, compradores reales y conversaciones con propietarios todos los días. Un producto en el mercado, no un plan.' },
+      { t: 'Una plataforma, ocho mercados', d: 'Una sola plataforma, adaptada a cada país y facturada en dólares en todos. Sumar un país es un lanzamiento, no un desarrollo nuevo. El costo por mercado baja con cada lanzamiento.' },
+      { t: 'Más que un marketplace', d: 'Las publicaciones son la puerta de entrada. El negocio es el sistema que hay detrás. No es público: los inversores lo conocen bajo acuerdo de confidencialidad (NDA), después de una primera conversación.' },
     ],
-    contBig: [['3', 'mercados en vivo'], ['5', 'próximos programados'], ['+430M', 'personas en la región'], ['1', 'marca a través de fronteras']],
-    contFine: 'Argentina, Brasil y Chile siguen, después Perú y Venezuela. Cada lanzamiento financia el siguiente.',
-    mapTitle: 'Ocho países. Tres en vivo.',
-    mapLead: 'Cada país tiene su propio Casa Libre, con anuncios y precios locales. Todos facturan en dólares.',
-    status: { live: 'En vivo', beta: 'En vivo · acceso anticipado', next: 'Próximo', planned: 'Planeado' },
-    foot: { live: 'Entrar', beta: 'Entrar', next: 'Programado', planned: 'Planeado' },
+    contBig: [['3', 'mercados activos'], ['5', 'lanzamientos programados'], ['+430M', 'habitantes en la región'], ['1', 'una sola marca en toda la región']],
+    contFine: 'Siguen Argentina, Brasil y Chile; luego, Perú y Venezuela. Cada lanzamiento financia el siguiente.',
+    mapTitle: 'Ocho países. Tres ya activos.',
+    mapLead: 'Cada país tiene su propio sitio de Casa Libre, con publicaciones y precios locales. Todos facturan en dólares.',
+    status: { live: 'Activo', beta: 'Activo · acceso anticipado', next: 'Próximamente', planned: 'Planificado' },
+    foot: { live: 'Visitar el sitio', beta: 'Visitar el sitio', next: 'Lanzamiento programado', planned: 'En planificación' },
     prodEyebrow: 'El producto',
-    prodTitle: 'Simple por diseño.',
+    prodTitle: 'Diseñado para ser simple.',
     prod: [
-      { t: 'Contacto directo', d: 'Cada anuncio muestra quién lo publicó — dueño, agente o inmobiliaria — y los compradores lo contactan por WhatsApp en un toque. Sin portal en el medio, sin leads revendidos.' },
-      { t: 'Cero comisión', d: 'Nunca una parte de la venta. Los ingresos vienen de anuncios, promoción y herramientas premium — no de pararse entre comprador y vendedor.' },
-      { t: 'Facturado en dólares', d: 'Cada anuncio, boost y suscripción se cobra en dólares, en todos los países. Los ingresos son en dólares. El tipo de cambio nunca toca el balance.' },
+      { t: 'Contacto directo', d: 'Cada publicación muestra quién la publicó (propietario, agente o inmobiliaria), y el comprador lo contacta por WhatsApp con un solo toque. Sin portales intermediarios ni reventa de leads.' },
+      { t: 'Cero comisión', d: 'Nunca cobramos un porcentaje de la venta. Los ingresos provienen de las publicaciones, los destacados y las herramientas premium, no de interponernos entre comprador y vendedor.' },
+      { t: 'Facturación en dólares', d: 'Cada publicación, destacado y suscripción se cobra en dólares, en todos los países. Los ingresos son en dólares, y el tipo de cambio no afecta el balance.' },
     ],
     dataEyebrow: 'El hilo conductor',
-    dataTitle: 'Datos del mundo real de un mercado que nadie midió.',
-    dataLead: 'Cada búsqueda, cada toque de WhatsApp, cada anuncio publicado o renovado es actividad de compradores de primera mano en mercados emergentes que no tienen MLS, ni índice, ni historial. El marketplace la genera. Los datos se acumulan.',
+    dataTitle: 'Datos reales de un mercado que nadie ha medido.',
+    dataLead: 'Cada búsqueda, cada contacto por WhatsApp y cada publicación creada o renovada es información de primera mano sobre el comportamiento de los compradores, en mercados emergentes que no tienen MLS, ni índices de precios, ni historial de operaciones. El marketplace genera esa información, y los datos se acumulan con cada mercado.',
     dataCards: [
-      { t: 'Datos reales de compradores', d: 'Quién busca, qué, a qué precio, en qué barrio — capturado en el momento de la intención, no encuestado después.' },
-      { t: 'Actividad en todo el continente', d: 'Una plataforma, un esquema, ocho países. La demanda en Santa Cruz es comparable a la de Montevideo porque se registra igual.' },
-      { t: 'Tecnología y datos de mercados emergentes', d: 'Construido para mercados que las herramientas de los actores tradicionales nunca contemplaron. La tecnología es la capa de captura; los datos son el activo.' },
+      { t: 'Datos reales de compradores', d: 'Quién busca, qué busca, a qué precio y en qué barrio. Registrado en el momento de la intención de compra, no en una encuesta posterior.' },
+      { t: 'Actividad en todo el continente', d: 'Una plataforma, un mismo modelo de datos, ocho países. La demanda de Santa Cruz se puede comparar con la de Montevideo porque se registra de la misma manera.' },
+      { t: 'Tecnología y datos para mercados emergentes', d: 'Construida para mercados que las herramientas de los actores tradicionales nunca contemplaron. La tecnología es la capa de captura; los datos son el activo.' },
     ],
-    thesisTitle: 'Por qué esto gana.',
-    thesisBold: 'No hay MLS.',
+    thesisTitle: 'Por qué vamos a ganar.',
+    thesisBold: 'No existe un MLS.',
     thesisProse: [
-      'Sudamérica es el último gran mercado inmobiliario que funciona con grupos de WhatsApp, Facebook Marketplace, publicaciones de Instagram y carteles impresos. El inventario está con corredores, franquicias y dueños que nunca lo comparten. No hay MLS. En gran parte de la región no se necesita licencia para vender inmuebles. La infraestructura nunca se construyó. La estamos construyendo, a través de fronteras, bajo una sola marca.',
-      'Los actores existentes probaron que la gente busca propiedades online, y después se detuvieron en una página de clasificados con un número de teléfono. Nadie es dueño de lo que pasa después del clic: el lead, el seguimiento, el cierre, la preventa del desarrollador, y los datos que todo eso genera. Ahí está el dinero, y está sin reclamar.',
-      'Empezamos en Paraguay porque se puede ganar por completo. Bolivia y Uruguay siguieron en meses sobre el mismo build. Un solo código, APIs abiertas, anuncios y gestión de leads asistidos por IA, ingresos en dólares en cada mercado — y un playbook ya probado en EE. UU.',
-      'La ventana está abierta ahora.',
+      'Sudamérica es el último gran mercado inmobiliario que todavía funciona con grupos de WhatsApp, Facebook Marketplace, publicaciones de Instagram y carteles en la calle. La oferta está en manos de corredores, franquicias y propietarios que no la comparten. No existe un MLS. En gran parte de la región ni siquiera se necesita una licencia para vender inmuebles. La infraestructura nunca se construyó. Nosotros la estamos construyendo: en toda la región y bajo una sola marca.',
+      'Los portales actuales demostraron que la gente busca propiedades en línea, pero se quedaron en una página de clasificados con un número de teléfono. Nadie gestiona lo que ocurre después del clic: el lead, el seguimiento, el cierre, la preventa de las desarrolladoras y los datos que genera todo ese proceso. Ahí está el valor, y hoy nadie lo está capturando.',
+      'Empezamos por Paraguay porque es un mercado que se puede liderar por completo. Bolivia y Uruguay se sumaron en cuestión de meses, sobre la misma plataforma. Una sola base de código, APIs abiertas, publicaciones y gestión de leads asistidas por IA, ingresos en dólares en cada mercado y un modelo operativo ya probado en EE. UU.',
+      'La oportunidad es ahora.',
     ],
-    structTitle: 'Estructura americana. Juego de campo sudamericano.',
-    structLead: 'Una entidad de EE. UU. para los inversores. Un equipo en el terreno para el mercado.',
+    structTitle: 'Estructura estadounidense. Operación sudamericana.',
+    structLead: 'Una sociedad estadounidense para los inversores. Un equipo local en cada mercado.',
     structCards: [
-      { k: 'Fundador y estructura', t: 'Con base en Estados Unidos', d: 'El fundador y la estructura holding son de EE. UU. Contratos, cap table, banca y reportes corren en términos de EE. UU. Los ingresos se cobran en dólares. Invertís en una empresa estadounidense.' },
-      { k: 'Operaciones', t: 'En el terreno en Asunción', d: 'El fundador divide su tiempo entre Nueva York, Ciudad de México y Asunción, con presencia local en cada mercado en vivo. Esta región no se maneja a la distancia.' },
+      { k: 'Fundador y estructura', t: 'Sede en Estados Unidos', d: 'El fundador y la sociedad holding son estadounidenses. Los contratos, el cap table, las cuentas bancarias y los reportes financieros se rigen por la legislación y los estándares de EE. UU. Los ingresos se cobran en dólares. Usted invierte en una empresa estadounidense.' },
+      { k: 'Operaciones', t: 'Presencia local en Asunción', d: 'El fundador divide su tiempo entre Nueva York, Ciudad de México y Asunción, con presencia local en cada mercado activo. Esta región no se puede gestionar a distancia.' },
     ],
     investEyebrow: 'Para inversores y socios',
-    investTitle: 'Entrá temprano.',
-    investLead: 'Las conversaciones de pre-seed y seed están abiertas a ángeles, family offices, estratégicos regionales y fondos con tesis LATAM. El producto está en vivo. El mapa está trazado. Los próximos mercados los financia esta ronda.',
+    investTitle: 'Invierta en etapa temprana.',
+    investLead: 'Las rondas pre-seed y seed están abiertas a inversores ángeles, family offices, inversores estratégicos regionales y fondos con tesis de inversión en Latinoamérica. El producto ya está en operación. La hoja de ruta está definida. Esta ronda financia los próximos mercados.',
     investSteps: [
-      { t: 'Nos escribís', d: 'El formulario, o un espacio de 30 minutos con el fundador.' },
-      { t: 'Recibís el resumen', d: 'Dos páginas dentro de la hora: mercado, tracción, mapa de expansión.' },
-      { t: 'Hablamos', d: 'Treinta minutos. Preguntas y respuestas, no un pitch deck.' },
-      { t: 'Data room', d: 'Bajo NDA: el cronograma, lo ya construido y el moat.' },
+      { t: 'Primer contacto', d: 'Complete el formulario o reserve una llamada de 30 minutos con el fundador.' },
+      { t: 'Resumen ejecutivo', d: 'Dos páginas, en menos de una hora: mercado, tracción y plan de expansión.' },
+      { t: 'Conversación', d: 'Treinta minutos de preguntas y respuestas, no una presentación.' },
+      { t: 'Data room', d: 'Bajo NDA: el cronograma, lo que ya está construido y la ventaja competitiva.' },
     ],
-    form: { name: 'Tu nombre', namePh: 'Nombre completo', firm: 'Firma o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde estás', email: 'Email', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'Qué invertís normalmente', why: '¿Por qué Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Pedí el resumen', or: 'o', book: 'Reservá una llamada con el fundador', reqHint: 'Email o teléfono requerido.', err: 'Ingresá tu nombre y un email o teléfono.', tiny: 'No es una oferta de valores. Una conversación.', sending: 'Enviando…', sent: 'Gracias — te contactamos en breve.', fail: 'Algo salió mal. Probá de nuevo.', call: { title: 'Reservá una llamada con el fundador', sub: '30 minutos. Contanos cuándo te queda cómodo y qué querés hablar.', name: 'Tu nombre', namePh: 'Nombre completo', email: 'Email', emailPh: 'nombre@fondo.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué te gustaría conversar.', submit: 'Pedir la llamada', cancel: 'Cancelar' } },
-    stages: ['Pre-seed', 'Seed', 'Series A', 'Estratégico / corporativo', 'Otro'],
-    footTag: 'El marketplace inmobiliario de Sudamérica. Con base en EE. UU., construido en el terreno, facturado en dólares.',
+    form: { name: 'Nombre y apellido', namePh: 'Nombre completo', firm: 'Empresa o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde se encuentra', email: 'Correo electrónico', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: '¿En qué etapa invierte normalmente?', selPh: 'Seleccionar', why: '¿Por qué le interesa Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Solicitar el resumen', or: 'o', book: 'Reservar una llamada con el fundador', reqHint: 'Ingrese un correo electrónico o un teléfono.', err: 'Ingrese su nombre y un correo electrónico o un teléfono.', tiny: 'Esto no constituye una oferta de valores. Es el inicio de una conversación.', sending: 'Enviando…', sent: 'Gracias — le contactaremos en breve.', fail: 'Algo salió mal. Inténtelo de nuevo.', call: { title: 'Reservar una llamada con el fundador', sub: 'Treinta minutos. Díganos cuándo le queda cómodo y qué le gustaría conversar.', name: 'Nombre y apellido', namePh: 'Nombre completo', email: 'Correo electrónico', emailPh: 'nombre@fondo.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué le gustaría conversar.', submit: 'Solicitar la llamada', cancel: 'Cancelar' } },
+    stages: ['Pre-seed', 'Seed', 'Serie A', 'Estratégico o corporativo', 'Otro'],
+    footTag: 'El marketplace inmobiliario de Sudamérica. Sede en EE. UU., equipo local en cada mercado, facturación en dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ayuda', colLegal: 'Legal',
-    lCompany: ['Nosotros', 'Invertí', 'Para inmobiliarias', 'Prensa', 'Contacto'],
+    lCompany: ['Nosotros', 'Invertir', 'Para inmobiliarias', 'Prensa', 'Contacto'],
     lHelp: ['Preguntas frecuentes', 'Cómo publicar', 'Consejos de seguridad', 'Soporte'],
-    lLegal: ['Términos y condiciones', 'Privacidad', 'Cookies'],
+    lLegal: ['Términos y condiciones', 'Política de privacidad', 'Política de cookies'],
     rights: 'Todos los derechos reservados.',
   },
   en: {
@@ -519,7 +519,7 @@ export default function Hub() {
           </div>
           <FormField label={t.form.invests}>
             <select value={inv.stage} onChange={setF('stage')} className="cl-input">
-              <option value="">—</option>
+              <option value="">{t.form.selPh || '—'}</option>
               {t.stages.map((s) => <option key={s} value={s}>{s}</option>)}
             </select>
           </FormField>
@@ -538,7 +538,7 @@ export default function Hub() {
       {/* ── Footer ── */}
       <footer className="bg-ink text-paper">
         <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-14">
-          <div className="grid md:grid-cols-[1.4fr_1fr_1fr_1fr_1fr] gap-9">
+          <div className="grid md:grid-cols-[1.4fr_1fr] gap-9">
             <div>
               <Word className="text-[22px] text-paper" />
               <p className="text-[13.5px] text-paper/60 mt-3 max-w-[260px] leading-relaxed">{t.footTag}</p>
@@ -555,9 +555,8 @@ export default function Hub() {
                 );
               })}
             </FootCol>
-            <FootCol title={t.colCompany}>{t.lCompany.map((x) => <FootLink key={x}>{x}</FootLink>)}</FootCol>
-            <FootCol title={t.colHelp}>{t.lHelp.map((x) => <FootLink key={x}>{x}</FootLink>)}</FootCol>
-            <FootCol title={t.colLegal}>{t.lLegal.map((x) => <FootLink key={x}>{x}</FootLink>)}</FootCol>
+            {/* Empresa / Ayuda / Legal columns hidden until their pages exist —
+                dead links (no destination) read as unfinished to investors. */}
           </div>
 
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 mt-12 pt-6 border-t border-paper/15 font-mono text-[11px] text-paper/50">
