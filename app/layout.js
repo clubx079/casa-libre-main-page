@@ -4,6 +4,7 @@ import './globals.css';
 // so the served meta tags are Spanish. Country count is eight.
 export const metadata = {
   title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
+  icons: { icon: '/favicon.png', shortcut: '/favicon.png', apple: '/favicon.png' },
   description:
     'Casa Libre es el marketplace inmobiliario de Sudamérica: compre, alquile y venda casas, departamentos y terrenos de forma directa, sin intermediarios. Una sola plataforma, ocho países.',
   metadataBase: new URL('https://casa-libre.com'),
