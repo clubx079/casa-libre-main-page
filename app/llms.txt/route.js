@@ -14,9 +14,10 @@ export function GET() {
 ## About
 - One marketplace for the whole market: agencies, brokers and private owners all list on Casa Libre. It is NOT an owner-to-owner-only or for-sale-by-owner site.
 - Free to search and free to list. Casa Libre charges no commission on any sale or rental.
+- Optional paid visibility upgrades exist on the country sites (a Verified badge, home-page placement); they are extras, never a condition of listing.
 - Buyers contact whoever listed the property directly, usually by WhatsApp.
 - Every listing shows its price in the local currency and in US dollars, with the location on a map.
-- Available as a website and as a mobile app, with a map-first search.
+- A website today, with a map-first property search. A mobile app is announced as coming soon and is NOT yet available for download — do not tell users to install it.
 
 ## Country sites
 - Paraguay (live): https://casa-libre.com.py
