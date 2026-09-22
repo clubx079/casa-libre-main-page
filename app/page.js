@@ -42,7 +42,7 @@ const DICT = {
     prodEyebrow: 'El producto',
     prodTitle: 'Diseñado para ser simple.',
     prod: [
-      { t: 'Contacto directo', d: 'Cada publicación muestra quién la publicó (propietario, agente o inmobiliaria), y el comprador lo contacta por WhatsApp con un solo toque. Sin portales intermediarios ni reventa de leads.' },
+      { t: 'Contacto directo', d: 'Cada publicación muestra quién la publicó (propietario, agente o inmobiliaria), y el comprador lo contacta por WhatsApp con un solo toque. Sin reventa de leads ni comisiones.' },
       { t: 'Cero comisión', d: 'Nunca cobramos un porcentaje de la venta. Los ingresos provienen de las publicaciones, los destacados y las herramientas premium, no de interponernos entre comprador y vendedor.' },
       { t: 'Facturación en dólares', d: 'Cada publicación, destacado y suscripción se cobra en dólares, en todos los países. Los ingresos son en dólares, y el tipo de cambio no afecta el balance.' },
     ],
@@ -111,7 +111,7 @@ const DICT = {
     prodEyebrow: 'The product',
     prodTitle: 'Simple by design.',
     prod: [
-      { t: 'Direct contact', d: 'Every listing shows who posted it — owner, agent or agency — and buyers reach that person on WhatsApp in one tap. No portal in between, no lead resold.' },
+      { t: 'Direct contact', d: 'Every listing shows who posted it — owner, agent or agency — and buyers reach that person on WhatsApp in one tap. No lead reselling, no commissions.' },
       { t: 'Zero commission', d: 'No cut of the sale, ever. Revenue comes from listings, promotion and premium tools — not from standing between buyer and seller.' },
       { t: 'Billed in dollars', d: 'Every listing, boost and subscription is charged in US dollars, in every country. Revenue is dollar-denominated. Exchange rates never touch the ledger.' },
     ],
@@ -180,7 +180,7 @@ const DICT = {
     prodEyebrow: 'O produto',
     prodTitle: 'Feito para ser simples.',
     prod: [
-      { t: 'Contato direto', d: 'Cada anúncio mostra quem o publicou (proprietário, corretor ou imobiliária), e o comprador fala com essa pessoa pelo WhatsApp com um toque. Sem portal intermediário e sem revenda de leads.' },
+      { t: 'Contato direto', d: 'Cada anúncio mostra quem o publicou (proprietário, corretor ou imobiliária), e o comprador fala com essa pessoa pelo WhatsApp com um toque. Sem revenda de leads e sem comissões.' },
       { t: 'Zero comissão', d: 'Nunca cobramos uma porcentagem da venda. A receita vem dos anúncios, dos destaques e das ferramentas premium, não de nos colocarmos entre comprador e vendedor.' },
       { t: 'Faturamento em dólares', d: 'Cada anúncio, destaque e assinatura é cobrado em dólares, em todos os países. A receita é em dólares, e o câmbio não afeta o balanço.' },
     ],
