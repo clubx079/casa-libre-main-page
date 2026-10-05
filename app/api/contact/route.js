@@ -3,6 +3,7 @@
 // sender, so it delivers to any address.
 import { NextResponse } from 'next/server';
 import { Resend } from 'resend';
+import { botReason, rateLimited } from '../../../lib/botGuard.js';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -79,13 +80,23 @@ export async function POST(req) {
       return NextResponse.json({ error: 'missing_contact' }, { status: 400 });
     }
 
+    // Bot protection (lib/botGuard.js): test robots, random text, the website's hidden
+    // field / too-fast submits and floods get a normal reply — but no email.
+    const ip = req.headers.get('cf-connecting-ip') || String(req.headers.get('x-forwarded-for') || '').split(',')[0].trim();
+    const bot = botReason(body) || (rateLimited(ip) ? 'rate_limited' : null);
+    if (bot) {
+      console.warn('[contact] dropped bot submission:', bot, type, body.source || 'web');
+      return NextResponse.json({ ok: true });
+    }
+
     const key = process.env.RESEND_API_KEY;
     if (!key || !TO || !FROM) {
       // Missing RESEND_API_KEY / CONTACT_EMAIL / RESEND_FROM env on the deployment.
       return NextResponse.json({ error: 'email_not_configured' }, { status: 500 });
     }
 
-    const { subject, html, text } = buildEmail(type, body);
+    const { hp, elapsed_ms, ...data } = body; // bot-check fields stay out of the email
+    const { subject, html, text } = buildEmail(type, data);
     const resend = new Resend(key);
     const replyTo = String(body.email || '').trim() || undefined;
     const { error } = await resend.emails.send({ from: FROM, to: [TO], subject, html, text, replyTo });

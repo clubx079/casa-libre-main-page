@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 // Eight-country network. Paraguay + Bolivia are live, Uruguay in early access,
 // the rest scheduled/planned. Statuses: live | beta | next | planned.
@@ -252,9 +252,14 @@ export default function Hub() {
   const [callState, setCallState] = useState('idle');
   const setC = (k) => (e) => setCall((f) => ({ ...f, [k]: e.target.value }));
 
+  // Bot protection (lib/botGuard.js): a hidden field only bots fill, and the time
+  // since the page loaded — people take more than a couple of seconds.
+  const [hp, setHp] = useState('');
+  const loadedAt = useRef(Date.now());
+
   async function post(payload) {
     try {
-      const res = await fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+      const res = await fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ...payload, hp, elapsed_ms: Date.now() - loadedAt.current }) });
       return res.ok;
     } catch { return false; }
   }
@@ -508,6 +513,7 @@ export default function Hub() {
         </div>
         {/* Form */}
         <div id="invest-form" className="rounded-card border-[1.5px] border-ink bg-card p-6 md:p-7 shadow-hard-sm scroll-mt-20">
+          <input type="text" name="cl_hp" value={hp} onChange={(e) => setHp(e.target.value)} tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: 'absolute', left: '-10000px', width: 1, height: 1, opacity: 0 }} />
           <FormField label={t.form.name}><input value={inv.name} onChange={setF('name')} placeholder={t.form.namePh} className="cl-input" /></FormField>
           <div className="grid grid-cols-2 gap-3">
             <FormField label={t.form.firm}><input value={inv.firm} onChange={setF('firm')} placeholder={t.form.firmPh} className="cl-input" /></FormField>
@@ -581,6 +587,7 @@ export default function Hub() {
               <p className="rounded-input bg-[#2f6f43]/10 px-3 py-6 text-center text-[14px] font-semibold text-[#2f6f43]">{t.form.sent}</p>
             ) : (
               <>
+                <input type="text" name="cl_hp" value={hp} onChange={(e) => setHp(e.target.value)} tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: 'absolute', left: '-10000px', width: 1, height: 1, opacity: 0 }} />
                 <FormField label={t.form.call.name}><input value={call.name} onChange={setC('name')} placeholder={t.form.call.namePh} className="cl-input" /></FormField>
                 <div className="grid grid-cols-2 gap-3">
                   <FormField label={t.form.call.email}><input type="email" value={call.email} onChange={setC('email')} placeholder={t.form.call.emailPh} className="cl-input" /></FormField>
