@@ -1,4 +1,4 @@
-// Investor form + "Book a call" submissions → a formatted email to CONTACT_EMAIL
+// Contact form ("Connect with the founder") + "Book a call" submissions → a formatted email to CONTACT_EMAIL
 // (omar@airosofts.com) via Resend. Reuses the Casa Libre deelmap.com verified
 // sender, so it delivers to any address.
 import { NextResponse } from 'next/server';
@@ -26,7 +26,7 @@ function row(label, value) {
 
 function buildEmail(type, d) {
   const isCall = type === 'call';
-  const title = isCall ? '📞 Book a call' : '📩 New investor inquiry';
+  const title = isCall ? '📞 Book a call' : '📩 New contact request';
   const rows = isCall
     ? [
         row('Name', d.name),
@@ -41,7 +41,7 @@ function buildEmail(type, d) {
         row('Country', d.country),
         row('Email', d.email),
         row('WhatsApp / phone', d.wa),
-        row('Typically invests', d.stage),
+        row('Describes themselves as', d.stage),
         row('Why Casa Libre', d.why),
       ];
   const html = `<div style="background:#f5f2ec;padding:32px 0;font-family:'Space Grotesk',system-ui,sans-serif">
@@ -54,14 +54,14 @@ function buildEmail(type, d) {
         <table style="width:100%;border-collapse:collapse">${rows.join('')}</table>
       </div>
       <div style="padding:14px 28px;border-top:1px solid #eee;color:#a3a19b;font:400 11px/1.4 'IBM Plex Mono',monospace">
-        Sent from casa-libre.com · ${isCall ? 'Book-a-call form' : 'Investor form'}
+        Sent from casa-libre.com · ${isCall ? 'Book-a-call form' : 'Contact form'}
       </div>
     </div>
   </div>`;
   const text = rows.map(() => '').length ? Object.entries(d).map(([k, v]) => `${k}: ${v}`).join('\n') : '';
   const subject = isCall
     ? `Book a call — ${d.name || 'Casa Libre'}`
-    : `New investor inquiry — ${d.name || 'Casa Libre'}`;
+    : `New contact request — ${d.name || 'Casa Libre'}`;
   return { subject, html, text };
 }
 
@@ -70,7 +70,7 @@ export async function POST(req) {
     const body = await req.json().catch(() => ({}));
     const type = body.type === 'call' ? 'call' : 'overview';
 
-    // Validate: name required; for the investor form email OR phone; for a call
+    // Validate: name required; for the contact form email OR phone; for a call
     // both a contact and a preferred time make it useful, but keep it forgiving.
     if (!body.name || !String(body.name).trim()) {
       return NextResponse.json({ error: 'missing_name' }, { status: 400 });

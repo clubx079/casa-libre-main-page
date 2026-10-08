@@ -18,12 +18,12 @@ const TICKER = ['ASUNCIÓN', 'SANTA CRUZ', 'MONTEVIDEO', 'BUENOS AIRES', 'SÃO P
 
 const DICT = {
   es: {
-    nav: { countries: 'Países', opportunity: 'La oportunidad', invest: 'Invertir' },
+    nav: { countries: 'Países', opportunity: 'La oportunidad', connect: 'Conectar' },
     heroEyebrow: 'Activo en cuatro países · Sede en EE. UU. · API-first',
     heroA: 'El marketplace inmobiliario',
     heroB: 'de Sudamérica.',
     heroSub: 'Un equipo con experiencia operativa, tecnología de vanguardia y datos propios sobre cómo compra propiedades realmente todo un continente.',
-    heroSubEm: 'Invierta desde la etapa inicial.',
+    heroSubEm: 'Conectemos.',
     heroCta: 'Hablar con el fundador', heroCta2: 'Ver los sitios activos',
     heroStats: [['4', 'países activos'], ['8', 'mercados objetivo'], ['+430M', 'habitantes en la región']],
     contTitle: 'Un continente sin estándar.',
@@ -31,7 +31,7 @@ const DICT = {
     contCards: [
       { t: 'Ya en operación', d: 'Paraguay y Bolivia ya están activos. Uruguay y Venezuela, en acceso anticipado. Publicaciones reales, compradores reales y conversaciones con propietarios todos los días. Un producto en el mercado, no un plan.' },
       { t: 'Una plataforma, ocho mercados', d: 'Una sola plataforma, adaptada a cada país y facturada en dólares en todos. Sumar un país es un lanzamiento, no un desarrollo nuevo. El costo por mercado baja con cada lanzamiento.' },
-      { t: 'Más que un marketplace', d: 'Las publicaciones son la puerta de entrada. El negocio es el sistema que hay detrás. No es público: los inversores lo conocen bajo acuerdo de confidencialidad (NDA), después de una primera conversación.' },
+      { t: 'Más que un marketplace', d: 'Las publicaciones son la puerta de entrada. El negocio es el sistema que hay detrás. No es público: los socios lo conocen bajo acuerdo de confidencialidad (NDA), después de una primera conversación.' },
     ],
     contBig: [['4', 'mercados activos'], ['4', 'lanzamientos programados'], ['+430M', 'habitantes en la región'], ['1', 'una sola marca en toda la región']],
     contFine: 'Siguen Argentina, Brasil y Chile; luego, Perú. Cada lanzamiento financia el siguiente.',
@@ -60,39 +60,39 @@ const DICT = {
       'Sudamérica es el último gran mercado inmobiliario que todavía funciona con grupos de WhatsApp, Facebook Marketplace, publicaciones de Instagram y carteles en la calle. La oferta está en manos de corredores, franquicias y propietarios que no la comparten. No existe un MLS. En gran parte de la región ni siquiera se necesita una licencia para vender inmuebles. La infraestructura nunca se construyó. Nosotros la estamos construyendo: en toda la región y bajo una sola marca.',
       'Los portales actuales demostraron que la gente busca propiedades en línea, pero se quedaron en una página de clasificados con un número de teléfono. Nadie gestiona lo que ocurre después del clic: el lead, el seguimiento, el cierre, la preventa de las desarrolladoras y los datos que genera todo ese proceso. Ahí está el valor, y hoy nadie lo está capturando.',
       'Empezamos por Paraguay porque es un mercado que se puede liderar por completo. Bolivia y Uruguay se sumaron en cuestión de meses, sobre la misma plataforma. Una sola base de código, APIs abiertas, publicaciones y gestión de leads asistidas por IA, ingresos en dólares en cada mercado y un modelo operativo ya probado en EE. UU.',
-      'La oportunidad es ahora.',
+      'La oportunidad de conectar es ahora.',
     ],
     structTitle: 'Estructura estadounidense. Operación sudamericana.',
-    structLead: 'Una sociedad estadounidense para los inversores. Un equipo local en cada mercado.',
+    structLead: 'Una empresa estadounidense con la que trabajar. Un equipo local en cada mercado.',
     structCards: [
-      { k: 'Fundador y estructura', t: 'Sede en Estados Unidos', d: 'El fundador y la sociedad holding son estadounidenses. Los contratos, el cap table, las cuentas bancarias y los reportes financieros se rigen por la legislación y los estándares de EE. UU. Los ingresos se cobran en dólares. Usted invierte en una empresa estadounidense.' },
+      { k: 'Fundador y estructura', t: 'Sede en Estados Unidos', d: 'El fundador y la sociedad holding son estadounidenses. Los contratos, las cuentas bancarias y los reportes financieros se rigen por la legislación y los estándares de EE. UU. Los ingresos se cobran en dólares. Usted trabaja con una empresa estadounidense.' },
       { k: 'Operaciones', t: 'Presencia local en Asunción', d: 'El fundador divide su tiempo entre Nueva York, Ciudad de México y Asunción, con presencia local en cada mercado activo. Esta región no se puede gestionar a distancia.' },
     ],
-    investEyebrow: 'Para inversores y socios',
-    investTitle: 'Invierta en etapa temprana.',
-    investLead: 'Las rondas pre-seed y seed están abiertas a inversores ángeles, family offices, inversores estratégicos regionales y fondos con tesis de inversión en Latinoamérica. El producto ya está en operación. La hoja de ruta está definida. Esta ronda financia los próximos mercados.',
-    investSteps: [
+    connectEyebrow: 'Alianzas y networking',
+    connectTitle: 'Conecte con el fundador.',
+    connectLead: 'Abierto a inmobiliarias, desarrolladoras, operadores y empresas estadounidenses que buscan crecer en Sudamérica. Si construye, vende o hace crecer negocios inmobiliarios en la región, o quiere hacerlo, conversemos. El producto ya está en operación y la hoja de ruta está definida.',
+    connectSteps: [
       { t: 'Primer contacto', d: 'Complete el formulario o reserve una llamada de 30 minutos con el fundador.' },
       { t: 'Resumen ejecutivo', d: 'Dos páginas, en menos de una hora: mercado, tracción y plan de expansión.' },
       { t: 'Conversación', d: 'Treinta minutos de preguntas y respuestas, no una presentación.' },
-      { t: 'Data room', d: 'Bajo NDA: el cronograma, lo que ya está construido y la ventaja competitiva.' },
+      { t: 'Próximos pasos', d: 'Bajo NDA cuando haga falta: el cronograma, lo que ya está construido y dónde podemos trabajar juntos.' },
     ],
-    form: { name: 'Nombre y apellido', namePh: 'Nombre completo', firm: 'Empresa o fondo', firmPh: "O 'ángel'", country: 'País', countryPh: 'Dónde se encuentra', email: 'Correo electrónico', emailPh: 'nombre@fondo.com', wa: 'WhatsApp', waPh: '+1 …', invests: '¿En qué etapa invierte normalmente?', selPh: 'Seleccionar', why: '¿Por qué le interesa Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Solicitar el resumen', or: 'o', book: 'Reservar una llamada con el fundador', reqHint: 'Ingrese un correo electrónico o un teléfono.', err: 'Ingrese su nombre y un correo electrónico o un teléfono.', tiny: 'Esto no constituye una oferta de valores. Es el inicio de una conversación.', sending: 'Enviando…', sent: 'Gracias — le contactaremos en breve.', fail: 'Algo salió mal. Inténtelo de nuevo.', call: { title: 'Reservar una llamada con el fundador', sub: 'Treinta minutos. Díganos cuándo le queda cómodo y qué le gustaría conversar.', name: 'Nombre y apellido', namePh: 'Nombre completo', email: 'Correo electrónico', emailPh: 'nombre@fondo.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué le gustaría conversar.', submit: 'Solicitar la llamada', cancel: 'Cancelar' } },
-    stages: ['Pre-seed', 'Seed', 'Serie A', 'Estratégico o corporativo', 'Otro'],
+    form: { name: 'Nombre y apellido', namePh: 'Nombre completo', firm: 'Empresa', firmPh: 'Nombre de la empresa', country: 'País', countryPh: 'Dónde se encuentra', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', wa: 'WhatsApp', waPh: '+1 …', role: '¿Qué lo describe mejor?', selPh: 'Seleccionar', why: '¿Por qué le interesa Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Ponerse en contacto', or: 'o', book: 'Reservar una llamada con el fundador', reqHint: 'Ingrese un correo electrónico o un teléfono.', err: 'Ingrese su nombre y un correo electrónico o un teléfono.', tiny: 'Es solo el inicio de una conversación.', sending: 'Enviando…', sent: 'Gracias — le contactaremos en breve.', fail: 'Algo salió mal. Inténtelo de nuevo.', call: { title: 'Reservar una llamada con el fundador', sub: 'Treinta minutos. Díganos cuándo le queda cómodo y qué le gustaría conversar.', name: 'Nombre y apellido', namePh: 'Nombre completo', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué le gustaría conversar.', submit: 'Solicitar la llamada', cancel: 'Cancelar' } },
+    roles: ['Inmobiliaria o corredor', 'Desarrolladora', 'Empresa de EE. UU. que busca crecer en la región', 'Proveedor o socio', 'Otro'],
     footTag: 'El marketplace inmobiliario de Sudamérica. Sede en EE. UU., equipo local en cada mercado, facturación en dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ayuda', colLegal: 'Legal',
-    lCompany: ['Nosotros', 'Invertir', 'Para inmobiliarias', 'Prensa', 'Contacto'],
+    lCompany: ['Nosotros', 'Conectar', 'Para inmobiliarias', 'Prensa', 'Contacto'],
     lHelp: ['Preguntas frecuentes', 'Cómo publicar', 'Consejos de seguridad', 'Soporte'],
     lLegal: ['Términos y condiciones', 'Política de privacidad', 'Política de cookies'],
     rights: 'Todos los derechos reservados.',
   },
   en: {
-    nav: { countries: 'Countries', opportunity: 'The opportunity', invest: 'Invest' },
+    nav: { countries: 'Countries', opportunity: 'The opportunity', connect: 'Connect' },
     heroEyebrow: 'Live in four countries · US-based · API-first',
     heroA: 'The property marketplace',
     heroB: 'of South America.',
     heroSub: 'Experienced operators, frontier technology, and first-party data on how a continent actually buys property.',
-    heroSubEm: 'Become an investor. Get in at the ground level.',
+    heroSubEm: "Let's connect.",
     heroCta: 'Talk to the founder', heroCta2: 'See it live',
     heroStats: [['4', 'countries live'], ['8', 'target markets'], ['430M+', 'people in market']],
     contTitle: 'A continent without a standard.',
@@ -100,7 +100,7 @@ const DICT = {
     contCards: [
       { t: 'Operating today', d: 'Paraguay and Bolivia are live. Uruguay and Venezuela are in early access. Real listings, real buyers, owner conversations every day. A product in market, not a plan.' },
       { t: 'One build, eight markets', d: 'One platform, localized per country, billed in dollars everywhere. A new country is a launch, not a rebuild. Cost per market falls with each one.' },
-      { t: 'More than a marketplace', d: 'The listings are the front door. The system behind them is the business. It is not public. Investors see it under NDA, after a first conversation.' },
+      { t: 'More than a marketplace', d: 'The listings are the front door. The system behind them is the business. It is not public. Partners see it under NDA, after a first conversation.' },
     ],
     contBig: [['4', 'live markets'], ['4', 'scheduled next'], ['430M+', 'people across the region'], ['1', 'brand across borders']],
     contFine: 'Argentina, Brazil and Chile are next, then Peru. Each launch funds the one after it.',
@@ -129,39 +129,39 @@ const DICT = {
       'South America is the last large property market run on WhatsApp groups, Facebook Marketplace, Instagram posts and printed signs. Inventory sits with brokers, franchises and owners who never share it. There is no MLS. In most of the region, no license is required to sell real estate. The infrastructure was never built. We are building it, across borders, under one brand.',
       'The incumbents proved people search for property online, then stopped at a classifieds page with a phone number. Nobody owns what happens after the click: the lead, the follow-up, the deal, the developer presale, and the data all of it produces. That is where the money is, and it is unclaimed.',
       'We started in Paraguay because it can be won outright. Bolivia and Uruguay followed within months on the same build. One codebase, open APIs, AI-assisted listings and lead handling, dollar revenue in every market — and a playbook already proven in the US.',
-      'The window is open now.',
+      'The window to connect is open now.',
     ],
     structTitle: 'American structure. South American ground game.',
-    structLead: 'A US entity for investors. A team on the ground for the market.',
+    structLead: 'A US company to work with. A team on the ground in every market.',
     structCards: [
-      { k: 'Founder and structure', t: 'Based in the United States', d: 'Founder and holding structure are US-based. Contracts, cap table, banking and reporting run on US terms. Revenue is collected in dollars. You invest in a US company.' },
+      { k: 'Founder and structure', t: 'Based in the United States', d: 'Founder and holding structure are US-based. Contracts, banking and reporting run on US terms. Revenue is collected in dollars. You work with a US company.' },
       { k: 'Operations', t: 'On the ground in Asunción', d: 'The founder splits time between New York, Mexico City and Asunción, with local presence in every live market. This region is not run from a distance.' },
     ],
-    investEyebrow: 'For investors and partners',
-    investTitle: 'Get in early.',
-    investLead: 'Pre-seed and seed conversations are open to angels, family offices, regional strategics and funds with a LATAM thesis. The product is live. The map is drawn. The next markets are funded by this round.',
-    investSteps: [
+    connectEyebrow: 'Partners and networking',
+    connectTitle: 'Connect with the founder.',
+    connectLead: "Open to agencies, developers, operators and US companies scaling into South America. If you build, sell or grow real estate in the region, or want to, let's talk. The product is live. The map is drawn.",
+    connectSteps: [
       { t: 'You reach out', d: 'The form, or a 30-minute slot with the founder.' },
       { t: 'You get the overview', d: 'Two pages within the hour: market, traction, expansion map.' },
       { t: 'We talk', d: 'Thirty minutes. Questions and answers, not a deck.' },
-      { t: 'Data room', d: "Under NDA: the timeline, what's already built, and the moat." },
+      { t: 'Next steps', d: "Under NDA when it helps: the timeline, what's already built, and where we can work together." },
     ],
-    form: { name: 'Your name', namePh: 'Full name', firm: 'Firm or fund', firmPh: "Or 'angel'", country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@firm.com', wa: 'WhatsApp', waPh: '+1 …', invests: 'What you typically invest in', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Request the overview', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Not an offer of securities. A conversation.', sending: 'Sending…', sent: "Thanks — we'll be in touch shortly.", fail: 'Something went wrong. Please try again.', call: { title: 'Book a call with the founder', sub: '30 minutes. Tell us when suits you and what to cover.', name: 'Your name', namePh: 'Full name', email: 'Email', emailPh: 'name@firm.com', phone: 'Phone / WhatsApp', phonePh: '+1 …', slot: 'Preferred time slot', slotPh: 'e.g. Tue–Thu afternoons, ET', reason: 'Reason for the call', reasonPh: "What you'd like to cover.", submit: 'Request the call', cancel: 'Cancel' } },
-    stages: ['Pre-seed', 'Seed', 'Series A', 'Strategic / corporate', 'Other'],
+    form: { name: 'Your name', namePh: 'Full name', firm: 'Company', firmPh: 'Company name', country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@company.com', wa: 'WhatsApp', waPh: '+1 …', role: 'What best describes you?', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Get in touch', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Just the start of a conversation.', sending: 'Sending…', sent: "Thanks — we'll be in touch shortly.", fail: 'Something went wrong. Please try again.', call: { title: 'Book a call with the founder', sub: '30 minutes. Tell us when suits you and what to cover.', name: 'Your name', namePh: 'Full name', email: 'Email', emailPh: 'name@company.com', phone: 'Phone / WhatsApp', phonePh: '+1 …', slot: 'Preferred time slot', slotPh: 'e.g. Tue–Thu afternoons, ET', reason: 'Reason for the call', reasonPh: "What you'd like to cover.", submit: 'Request the call', cancel: 'Cancel' } },
+    roles: ['Agency or broker', 'Developer', 'US company scaling into the region', 'Service provider or partner', 'Other'],
     footTag: 'The property marketplace of South America. US-based, built on the ground, billed in dollars.',
     colCountries: 'Countries', colCompany: 'Company', colHelp: 'Help', colLegal: 'Legal',
-    lCompany: ['About us', 'Invest', 'For agencies', 'Press', 'Contact'],
+    lCompany: ['About us', 'Connect', 'For agencies', 'Press', 'Contact'],
     lHelp: ['FAQ', 'How to list', 'Safety tips', 'Support'],
     lLegal: ['Terms & conditions', 'Privacy', 'Cookies'],
     rights: 'All rights reserved.',
   },
   pt: {
-    nav: { countries: 'Países', opportunity: 'A oportunidade', invest: 'Investir' },
+    nav: { countries: 'Países', opportunity: 'A oportunidade', connect: 'Conectar' },
     heroEyebrow: 'No ar em quatro países · sede nos EUA · API-first',
     heroA: 'O marketplace imobiliário',
     heroB: 'da América do Sul.',
     heroSub: 'Uma equipe com experiência operacional, tecnologia de ponta e dados próprios sobre como um continente inteiro realmente compra imóveis.',
-    heroSubEm: 'Invista desde o início.',
+    heroSubEm: 'Vamos nos conectar.',
     heroCta: 'Fale com o fundador', heroCta2: 'Veja os sites no ar',
     heroStats: [['4', 'países no ar'], ['8', 'mercados-alvo'], ['+430M', 'habitantes na região']],
     contTitle: 'Um continente sem padrão.',
@@ -169,7 +169,7 @@ const DICT = {
     contCards: [
       { t: 'Já em operação', d: 'Paraguai e Bolívia já estão no ar. Uruguai e Venezuela, em acesso antecipado. Anúncios reais, compradores reais e conversas com proprietários todos os dias. Um produto no mercado, não um plano.' },
       { t: 'Uma plataforma, oito mercados', d: 'Uma única plataforma, adaptada a cada país e faturada em dólares em todos. Um país novo é um lançamento, não um novo desenvolvimento. O custo por mercado cai a cada lançamento.' },
-      { t: 'Mais que um marketplace', d: 'Os anúncios são a porta de entrada. O negócio é o sistema que está por trás. Ele não é público: os investidores têm acesso sob acordo de confidencialidade (NDA), após uma primeira conversa.' },
+      { t: 'Mais que um marketplace', d: 'Os anúncios são a porta de entrada. O negócio é o sistema que está por trás. Ele não é público: os parceiros têm acesso sob acordo de confidencialidade (NDA), após uma primeira conversa.' },
     ],
     contBig: [['4', 'mercados no ar'], ['4', 'lançamentos programados'], ['+430M', 'habitantes na região'], ['1', 'uma só marca em toda a região']],
     contFine: 'Argentina, Brasil e Chile são os próximos; depois, Peru. Cada lançamento financia o seguinte.',
@@ -198,28 +198,28 @@ const DICT = {
       'A América do Sul é o último grande mercado imobiliário que ainda funciona com grupos de WhatsApp, Facebook Marketplace, posts no Instagram e placas na rua. A oferta está nas mãos de corretores, franquias e proprietários que não a compartilham. Não existe MLS. Em boa parte da região, nem é preciso licença para vender imóveis. A infraestrutura nunca foi construída. Nós estamos construindo: em toda a região e sob uma só marca.',
       'Os portais atuais provaram que as pessoas buscam imóveis online, mas pararam em uma página de classificados com um número de telefone. Ninguém cuida do que acontece depois do clique: o lead, o follow-up, o fechamento, os lançamentos das incorporadoras e os dados que todo esse processo gera. É aí que está o valor, e hoje ninguém o captura.',
       'Começamos pelo Paraguai porque é um mercado que pode ser conquistado por inteiro. Bolívia e Uruguai vieram em questão de meses, sobre a mesma plataforma. Uma única base de código, APIs abertas, anúncios e gestão de leads com apoio de IA, receita em dólares em cada mercado e um modelo operacional já validado nos EUA.',
-      'A oportunidade é agora.',
+      'A oportunidade de se conectar é agora.',
     ],
     structTitle: 'Estrutura americana. Operação sul-americana.',
-    structLead: 'Uma empresa americana para os investidores. Uma equipe local em cada mercado.',
+    structLead: 'Uma empresa americana para trabalhar junto. Uma equipe local em cada mercado.',
     structCards: [
-      { k: 'Fundador e estrutura', t: 'Com sede nos Estados Unidos', d: 'O fundador e a holding são americanos. Os contratos, o cap table, as contas bancárias e os relatórios financeiros seguem a legislação e os padrões dos EUA. A receita é recebida em dólares. Você investe em uma empresa americana.' },
+      { k: 'Fundador e estrutura', t: 'Com sede nos Estados Unidos', d: 'O fundador e a holding são americanos. Os contratos, as contas bancárias e os relatórios financeiros seguem a legislação e os padrões dos EUA. A receita é recebida em dólares. Você trabalha com uma empresa americana.' },
       { k: 'Operações', t: 'Presença local em Assunção', d: 'O fundador divide o tempo entre Nova York, Cidade do México e Assunção, com presença local em cada mercado no ar. Esta região não se administra a distância.' },
     ],
-    investEyebrow: 'Para investidores e parceiros',
-    investTitle: 'Invista na fase inicial.',
-    investLead: 'As rodadas pre-seed e seed estão abertas a investidores-anjo, family offices, investidores estratégicos regionais e fundos com tese para a América Latina. O produto já está no ar. O roadmap está definido. Esta rodada financia os próximos mercados.',
-    investSteps: [
+    connectEyebrow: 'Parcerias e networking',
+    connectTitle: 'Conecte-se com o fundador.',
+    connectLead: 'Aberto a imobiliárias, incorporadoras, operadores e empresas americanas que querem crescer na América do Sul. Se você constrói, vende ou expande negócios imobiliários na região, ou quer fazer isso, vamos conversar. O produto já está no ar e o roadmap está definido.',
+    connectSteps: [
       { t: 'Primeiro contato', d: 'Preencha o formulário ou agende 30 minutos com o fundador.' },
       { t: 'Resumo executivo', d: 'Duas páginas, em até uma hora: mercado, tração e plano de expansão.' },
       { t: 'Conversa', d: 'Trinta minutos de perguntas e respostas, não uma apresentação.' },
-      { t: 'Data room', d: 'Sob NDA: o cronograma, o que já foi construído e a vantagem competitiva.' },
+      { t: 'Próximos passos', d: 'Sob NDA quando fizer sentido: o cronograma, o que já foi construído e onde podemos trabalhar juntos.' },
     ],
-    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Empresa ou fundo', firmPh: 'Ou "investidor-anjo"', country: 'País', countryPh: 'Onde você está', email: 'E-mail', emailPh: 'nome@fundo.com', wa: 'WhatsApp', waPh: '+55 …', invests: 'Em que estágio você costuma investir?', selPh: 'Selecione', why: 'Por que a Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Solicite o resumo', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Informe um e-mail ou um telefone.', err: 'Informe seu nome e um e-mail ou um telefone.', tiny: 'Isto não constitui oferta de valores mobiliários. É o início de uma conversa.', sending: 'Enviando…', sent: 'Obrigado — entraremos em contato em breve.', fail: 'Algo deu errado. Tente novamente.', call: { title: 'Agende uma chamada com o fundador', sub: '30 minutos. Diga quando é melhor para você e o que quer abordar.', name: 'Seu nome', namePh: 'Nome completo', email: 'E-mail', emailPh: 'nome@fundo.com', phone: 'Telefone / WhatsApp', phonePh: '+55 …', slot: 'Horário preferido', slotPh: 'ex. ter–qui à tarde, ET', reason: 'Motivo da chamada', reasonPh: 'O que você gostaria de abordar.', submit: 'Solicitar a chamada', cancel: 'Cancelar' } },
-    stages: ['Pre-seed', 'Seed', 'Série A', 'Estratégico ou corporativo', 'Outro'],
+    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Empresa', firmPh: 'Nome da empresa', country: 'País', countryPh: 'Onde você está', email: 'E-mail', emailPh: 'nome@empresa.com', wa: 'WhatsApp', waPh: '+55 …', role: 'O que melhor descreve você?', selPh: 'Selecione', why: 'Por que a Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Entrar em contato', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Informe um e-mail ou um telefone.', err: 'Informe seu nome e um e-mail ou um telefone.', tiny: 'É só o início de uma conversa.', sending: 'Enviando…', sent: 'Obrigado — entraremos em contato em breve.', fail: 'Algo deu errado. Tente novamente.', call: { title: 'Agende uma chamada com o fundador', sub: '30 minutos. Diga quando é melhor para você e o que quer abordar.', name: 'Seu nome', namePh: 'Nome completo', email: 'E-mail', emailPh: 'nome@empresa.com', phone: 'Telefone / WhatsApp', phonePh: '+55 …', slot: 'Horário preferido', slotPh: 'ex. ter–qui à tarde, ET', reason: 'Motivo da chamada', reasonPh: 'O que você gostaria de abordar.', submit: 'Solicitar a chamada', cancel: 'Cancelar' } },
+    roles: ['Imobiliária ou corretor', 'Incorporadora', 'Empresa dos EUA expandindo para a região', 'Fornecedor ou parceiro', 'Outro'],
     footTag: 'O marketplace imobiliário da América do Sul. Sede nos EUA, equipe local em cada mercado, faturamento em dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ajuda', colLegal: 'Jurídico',
-    lCompany: ['Sobre nós', 'Investir', 'Para imobiliárias', 'Imprensa', 'Contato'],
+    lCompany: ['Sobre nós', 'Conectar', 'Para imobiliárias', 'Imprensa', 'Contato'],
     lHelp: ['Perguntas frequentes', 'Como publicar', 'Dicas de segurança', 'Suporte'],
     lLegal: ['Termos e condições', 'Política de privacidade', 'Política de cookies'],
     rights: 'Todos os direitos reservados.',
@@ -237,7 +237,7 @@ export default function Hub() {
   const [lang, setLang] = useState('es');
   const t = DICT[lang];
   const nm = (c) => c.name[lang] || c.name.es;
-  // Investor form. Email OR phone required. On submit we POST to /api/contact,
+  // Contact form ("Connect with the founder"). Email OR phone required. On submit we POST to /api/contact,
   // which sends a formatted email to omar@airosofts.com via Resend (no calendar,
   // no mailto — a real server-side send).
   const [inv, setInv] = useState({ name: '', firm: '', country: '', email: '', wa: '', stage: '', why: '' });
@@ -302,11 +302,11 @@ export default function Hub() {
           <nav className="hidden md:flex items-center gap-7 text-[14px] font-medium text-ink/70">
             <a href="#map" className="hover:text-ink">{t.nav.countries}</a>
             <a href="#thesis" className="hover:text-ink">{t.nav.opportunity}</a>
-            <a href="#invest" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.invest}</a>
+            <a href="#connect" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.connect}</a>
           </nav>
           <div className="flex items-center gap-2.5">
-            {/* Mobile-only Invest CTA (desktop has it in the nav) */}
-            <a href="#invest-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.invest}</a>
+            {/* Mobile-only Connect CTA (desktop has it in the nav) */}
+            <a href="#connect-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.connect}</a>
             <div className="flex items-center border-[1.5px] border-ink rounded-pill overflow-hidden text-[12px] font-bold">
               {['es', 'en', 'pt'].map((l) => (
                 <button key={l} onClick={() => setLang(l)} className={`px-3 py-1.5 ${lang === l ? 'bg-ink text-paper' : 'text-ink'}`}>{l.toUpperCase()}</button>
@@ -352,7 +352,7 @@ export default function Hub() {
             {t.heroSub} <span className="font-serif italic text-ink">{t.heroSubEm}</span>
           </p>
           <div className="flex flex-wrap gap-3 mt-7 justify-center md:justify-start">
-            <a href="#invest" className="btn btn-solid">{t.heroCta} <Arrow /></a>
+            <a href="#connect" className="btn btn-solid">{t.heroCta} <Arrow /></a>
             <a href="#map" className="btn btn-ghost">{t.heroCta2}</a>
           </div>
           <div className="flex flex-wrap gap-x-8 gap-y-3 mt-9 justify-center md:justify-start">
@@ -493,14 +493,14 @@ export default function Hub() {
         </div>
       </section>
 
-      {/* ── Invest ── */}
-      <section id="invest" className="max-w-[1920px] mx-auto px-5 md:px-11 py-16 grid lg:grid-cols-[1fr_.9fr] gap-12 items-start scroll-mt-20">
+      {/* ── Connect ── */}
+      <section id="connect" className="max-w-[1920px] mx-auto px-5 md:px-11 py-16 grid lg:grid-cols-[1fr_.9fr] gap-12 items-start scroll-mt-20">
         <div>
-          <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-3">{t.investEyebrow}</div>
-          <h2 className="text-[clamp(28px,4.5vw,46px)] font-bold tracking-display">{t.investTitle}</h2>
-          <p className="text-[16px] md:text-[18px] text-ink/65 mt-4 max-w-[560px] leading-relaxed">{t.investLead}</p>
+          <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-3">{t.connectEyebrow}</div>
+          <h2 className="text-[clamp(28px,4.5vw,46px)] font-bold tracking-display">{t.connectTitle}</h2>
+          <p className="text-[16px] md:text-[18px] text-ink/65 mt-4 max-w-[560px] leading-relaxed">{t.connectLead}</p>
           <div className="mt-8 space-y-4">
-            {t.investSteps.map((s, i) => (
+            {t.connectSteps.map((s, i) => (
               <div key={s.t} className="flex gap-4">
                 <div className="shrink-0 font-mono text-[13px] w-8 h-8 rounded-pill bg-ink text-paper flex items-center justify-center font-bold">{i + 1}</div>
                 <div>
@@ -512,7 +512,7 @@ export default function Hub() {
           </div>
         </div>
         {/* Form */}
-        <div id="invest-form" className="rounded-card border-[1.5px] border-ink bg-card p-6 md:p-7 shadow-hard-sm scroll-mt-20">
+        <div id="connect-form" className="rounded-card border-[1.5px] border-ink bg-card p-6 md:p-7 shadow-hard-sm scroll-mt-20">
           <input type="text" name="cl_hp" value={hp} onChange={(e) => setHp(e.target.value)} tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: 'absolute', left: '-10000px', width: 1, height: 1, opacity: 0 }} />
           <FormField label={t.form.name}><input value={inv.name} onChange={setF('name')} placeholder={t.form.namePh} className="cl-input" /></FormField>
           <div className="grid grid-cols-2 gap-3">
@@ -523,10 +523,10 @@ export default function Hub() {
             <FormField label={t.form.email}><input type="email" value={inv.email} onChange={setF('email')} placeholder={t.form.emailPh} className="cl-input" /></FormField>
             <FormField label={t.form.wa}><input value={inv.wa} onChange={setF('wa')} placeholder={t.form.waPh} className="cl-input" /></FormField>
           </div>
-          <FormField label={t.form.invests}>
+          <FormField label={t.form.role}>
             <select value={inv.stage} onChange={setF('stage')} className="cl-input">
               <option value="">{t.form.selPh || '—'}</option>
-              {t.stages.map((s) => <option key={s} value={s}>{s}</option>)}
+              {t.roles.map((s) => <option key={s} value={s}>{s}</option>)}
             </select>
           </FormField>
           <FormField label={t.form.why}><textarea value={inv.why} onChange={setF('why')} rows={3} placeholder={t.form.whyPh} className="cl-input resize-y" /></FormField>
@@ -562,7 +562,7 @@ export default function Hub() {
               })}
             </FootCol>
             {/* Empresa / Ayuda / Legal columns hidden until their pages exist —
-                dead links (no destination) read as unfinished to investors. */}
+                dead links (no destination) read as unfinished to visitors. */}
           </div>
 
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 mt-12 pt-6 border-t border-paper/15 font-mono text-[11px] text-paper/50">
