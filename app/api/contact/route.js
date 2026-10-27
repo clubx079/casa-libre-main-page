@@ -4,6 +4,7 @@
 import { NextResponse } from 'next/server';
 import { Resend } from 'resend';
 import { botReason, rateLimited } from '../../../lib/botGuard.js';
+import { makeCallToken, siteOrigin, approvalEmail } from '../../../lib/callRequest.js';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -96,7 +97,14 @@ export async function POST(req) {
     }
 
     const { hp, elapsed_ms, ...data } = body; // bot-check fields stay out of the email
-    const { subject, html, text } = buildEmail(type, data);
+    let mail;
+    if (type === 'call') {
+      // a call is approved by the team first: their email carries Approve / Decline (lib/callRequest.js)
+      const t = makeCallToken(data);
+      const base = `${siteOrigin(req)}/llamada?t=${encodeURIComponent(t)}`;
+      mail = approvalEmail(data, { approveUrl: `${base}&a=approve`, declineUrl: `${base}&a=decline` });
+    } else mail = buildEmail(type, data);
+    const { subject, html, text } = mail;
     const resend = new Resend(key);
     const replyTo = String(body.email || '').trim() || undefined;
     const { error } = await resend.emails.send({ from: FROM, to: [TO], subject, html, text, replyTo });
