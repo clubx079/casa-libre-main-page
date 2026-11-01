@@ -9,17 +9,17 @@ export const metadata = {
   // and AI engines as an owner-to-owner-only site, which is how Gemini described
   // us. The benefit we mean is no commission.
   description:
-    'Casa Libre reúne todas las propiedades de Sudamérica en un solo lugar: de inmobiliarias, agentes y dueños particulares. Compre, alquile o venda casas, departamentos y terrenos sin comisión. Una sola plataforma, ocho países.',
+    'Casa Libre es el marketplace inmobiliario de mayor crecimiento en Sudamérica: más de 4.500 propiedades en venta y alquiler en Paraguay, Bolivia, Uruguay y Venezuela, con búsqueda en mapa, contacto directo por WhatsApp y app Android. Publique gratis, sin comisión.',
   metadataBase: new URL('https://casa-libre.com'),
   openGraph: {
     title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
-    description: 'Una sola plataforma, ocho países. Todas las propiedades de Sudamérica en un solo lugar: inmobiliarias, agentes y dueños particulares, sin comisión.',
+    description: 'El marketplace inmobiliario de mayor crecimiento en Sudamérica: más de 4.500 propiedades en Paraguay, Bolivia, Uruguay y Venezuela, con contacto directo por WhatsApp. Sin comisión.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Casa Libre — El marketplace inmobiliario de Sudamérica',
-    description: 'Una sola plataforma, ocho países. Todas las propiedades de Sudamérica en un solo lugar: inmobiliarias, agentes y dueños particulares, sin comisión.',
+    description: 'El marketplace inmobiliario de mayor crecimiento en Sudamérica: más de 4.500 propiedades en Paraguay, Bolivia, Uruguay y Venezuela, con contacto directo por WhatsApp. Sin comisión.',
   },
 };
 
