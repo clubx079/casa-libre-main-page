@@ -180,6 +180,11 @@ function rewrap(chunk, out) {
 }
 
 async function translateChunk(lang, cc, chunk, label) {
+  // A lone section that keeps failing: send the section object itself, unwrapped.
+  if (chunk.sections?.length === 1) {
+    const one = await translateChunk(lang, cc, chunk.sections[0], `${label}:solo`);
+    return { sections: [one] };
+  }
   let lastErr;
   for (let i = 1; i <= 4; i++) {
     try {

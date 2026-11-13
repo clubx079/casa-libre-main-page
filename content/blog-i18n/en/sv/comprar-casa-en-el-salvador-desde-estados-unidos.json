@@ -1,0 +1,127 @@
+{
+ "_src": "afca7ae63a6a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Buy a House in El Salvador from the United States",
+  "h1": "How to Buy a House in El Salvador from the United States or Another Country",
+  "description": "Guide for Salvadorans abroad: how to buy a house in El Salvador remotely, with special power of attorney, Vivienda Cercana credit from the FSV or a bank, and verification at the CNR.",
+  "answer": "You can buy a house in El Salvador without traveling. Usually you: choose the property with the help of a trusted family member, verify at the Centro Nacional de Registros (CNR) that the seller is the owner and that there are no mortgages or liens, finance with your own savings, with a bank, or with the Vivienda Cercana line of the Fondo Social para la Vivienda (FSV), and sign the escritura (deed) before a notario (notary), either in person on a trip or through an authorized representative with a special power of attorney. The buyer pays the transfer tax if the price exceeds US$28,571.43."
+ },
+ "sections": [
+  {
+   "h2": "Before we start: who will be your \"eyes and hands\" in El Salvador",
+   "paras": [
+    "Buying remotely works when you have someone in the country who can visit the property, take photos and videos, talk to neighbors, and handle paperwork. It can be a family member, a trusted friend, or a hired professional. That person does not decide for you, but saves you from surprises: a house that looks good in photos may have moisture, cracks, or an entrance that floods in winter.",
+    "Define from the start three things: the total budget (not just the price), the area where your family or you will live when you return, and whether you will pay cash or with credit. With that you can filter options and request video calls only for the ones that truly interest you."
+   ]
+  },
+  {
+   "h2": "Verify the property in the CNR before sending money",
+   "paras": [
+    "In El Salvador real estate is registered in the Registry of Real Property and Mortgages, which is administered by the CNR. Each property has a matrícula. With that number you can request an extracted certification, a document that summarizes who the owner is, what percentage belongs to them, the legal status of the property and the documents that are in process. According to the CNR, cited by the press, the certification can be requested online and arrives by email.",
+    "Ask the seller for the matrícula and a copy of their escritura (deed) before discussing any advances. If the owner's name in the registry does not match the seller, or a mortgage or a lien appears, stop and consult a notario (notary)."
+   ],
+   "bullets": [
+    "Matrícula of the property and copy of the seller's escritura.",
+    "Recent extracted certification from the CNR.",
+    "Municipal tax compliance for the property and up-to-date water and electricity bills.",
+    "If the house has an existing loan, a statement of the balance issued by the bank or the FSV."
+   ],
+   "tip": "The CNR also offers free registration notices by mail for one year: they notify you if someone files a procedure concerning the property. It is worth activating them as soon as the house is in your name."
+  },
+  {
+   "h2": "How to finance: savings, bank or FSV Near Home",
+   "paras": [
+    "Many buyers abroad pay with savings sent in several transfers. If you will do so, keep the receipts: the notario (notary) and the bank may ask you to justify the source of the funds.",
+    "If you need credit, the FSV has the Near Home line for Salvadorans abroad. According to the information published by the FSV in the press, Salvadorans with citizenship or residence in another country, retirees abroad and people with TPS or another residence permit, among others, can apply, and you can finance new or used housing, properties recovered by the FSV, construction, improvements or land purchase. Payment capacity, good credit history, being a debt-insurance subject and not owning a home are required. The press reported in April 2026 financing of up to US$150,000 depending on income, with a premium of between 5% and 20% depending on migration status, and installments that can be paid from abroad.",
+    "Banks also offer mortgage credit to Salvadorans abroad, with their own requirements. Always compare the rate, term, insurance and total cost, not just the installment."
+   ]
+  },
+  {
+   "h2": "Signing without traveling: the special power of attorney",
+   "paras": [
+    "The purchase of a property is done by escritura pública before a notario (notary). If you cannot travel to sign, you can appoint an attorney-in-fact: a trusted person who signs on your behalf with a special power that clearly states what they can do (buy a specific property, pay the price, sign the escritura, register it).",
+    "The power is granted abroad and must reach El Salvador with validity. Usually it is granted before the Salvadoran consulate or before a notario in the country where you live and, in that case, apostilled if that country is a party to the Hague Convention. Before signing it, send the draft to the notario who will prepare the escritura in El Salvador so they can confirm it is acceptable."
+   ],
+   "tip": "A special power of attorney for a specific purchase is safer than a broad general power. If your attorney-in-fact does not need to sell or mortgage other assets of yours, do not give those powers."
+  },
+  {
+   "h2": "Costs to add to the price",
+   "paras": [
+    "The house price is not everything. The buyer pays the Real Estate Transfer Tax: 3% on the portion of the value that exceeds US$28,571.43. In addition there are the notario (notary) fees, registration fees at the CNR, certifications, power of attorney costs if used, and, if there is financing, the mortgage escritura (deed), appraisal and insurance."
+   ],
+   "table": {
+    "head": [
+     "Concept",
+     "Usually paid by",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Transfer tax (3% on the excess of US$28,571.43)",
+      "Buyer",
+      "Declared to Hacienda before registration"
+     ],
+     [
+      "Notario (notary) fees",
+      "Negotiated; often the buyer",
+      "Request written quote"
+     ],
+     [
+      "CNR registration",
+      "Buyer",
+      "According to the registry fee schedule"
+     ],
+     [
+      "Appraisal and insurance",
+      "Buyer with financing",
+      "Required by the bank or the FSV"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Step-by-step summary",
+   "steps": [
+    "Define budget, area and payment method.",
+    "Search options and request video calls; send your trusted person to visit the finalists.",
+    "Request the seller’s matrícula and escritura and obtain an extracted certification from the CNR.",
+    "If using financing, pre-qualify with the FSV or a bank before negotiating.",
+    "Agree on price and conditions in writing; avoid large advances without a document.",
+    "Grant a special power of attorney if you will not travel and have it reviewed by the notario.",
+    "Sign the escritura, pay the transfer tax and register at the CNR.",
+    "Put the water and electricity bills in your name and activate the registration notices."
+   ]
+  },
+  {
+   "h2": "Search from afar with Casa-Libre",
+   "paras": [
+    "On Casa-Libre you can view houses and apartments for sale on a map, filter by price and message the owner or agent directly via WhatsApp, without paying to use the site. From the Casa-Libre app for iPhone and Android you can save properties and share them with the person who will visit them for you."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I buy a house in El Salvador if I live in the United States?",
+   "a": "Yes. You can do it by traveling for the signing or through an authorized representative with a special power of attorney. The important thing is to verify the property at the CNR before paying and work with a notario in El Salvador."
+  },
+  {
+   "q": "Does the FSV lend to Salvadorans abroad?",
+   "a": "Yes, with the Vivienda Cercana line. According to information from the FSV published in the press, it applies to Salvadorans with residence or citizenship in another country, retirees and people with TPS, among others, with requirements of payment capacity and credit history. Confirm the current conditions with the FSV."
+  },
+  {
+   "q": "How much is the tax when buying a house in El Salvador?",
+   "a": "The Real Estate Transfer Tax is 3% on the amount that exceeds US$28,571.43, and it is paid by the buyer. If the house is worth less than that amount, no tax is due."
+  },
+  {
+   "q": "Do I need to apostille the power of attorney?",
+   "a": "If it is granted before a notario of a country that is party to the Hague Convention, usually yes. If it is granted at the Salvadoran consulate, the procedure is different. Confirm with the notario who will draft the escritura."
+  }
+ ],
+ "related": [
+  "Houses for Sale in El Salvador",
+  "Properties in San Salvador",
+  "Guide: Costs When Buying a House"
+ ]
+}
