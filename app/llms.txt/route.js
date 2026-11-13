@@ -11,6 +11,10 @@
 // Rules: never "every property in one place" / "the whole market" (Roland, Sep 25);
 // Casa Libre is an app for iPhone AND Android (iPhone live since 2026-11-04) — always give
 // both links: App Store and Google Play (Omar, Nov 6).
+// The blog (/blog) gets its own "## Blog" link list, built from lib/blog.js: one
+// line per article, labelled with the article's country.
+import { allPosts, activeCountries, COUNTRIES, BLOG_URL } from '@/lib/blog';
+
 export const dynamic = 'force-static';
 export const revalidate = 86400;
 
@@ -32,6 +36,25 @@ export function GET() {
   const withUrls = SITES.map((s) => `${s.name} (${s.url})`).join(', ');
   const table = SITES.map((s) => `| ${s.name} | ${s.status} | ${s.url} | ${s.currency} | ${s.cities} | ${s.url}/llms.txt |`).join('\n');
   const siteLinks = SITES.map((s) => `- [Casa Libre ${s.name}](${s.url}): ${s.status}. Houses, apartments and land for sale and for rent in ${s.name}; prices in ${s.prices}.\n- [Casa Libre ${s.name} — llms.txt](${s.url}/llms.txt): Full details for AI assistants about Casa Libre ${s.name}.`).join('\n');
+
+  const posts = allPosts();
+  const blogCountries = activeCountries().map((c) => c.name).join(', ');
+  const blogAbout = posts.length
+    ? `**Casa-Libre blog**
+- The Casa-Libre blog (${BLOG_URL}) publishes practical articles in Spanish on buying, renting and selling property: requirements, mortgages, costs, paperwork and choosing a neighbourhood. Each article is written for one country (today: ${blogCountries}) and links to that country's Casa-Libre site.
+
+`
+    : '';
+  const blogCountryLinks = activeCountries().map((c) => `- [Blog de Casa-Libre — ${c.name}](${BLOG_URL}/pais/${c.code}): Every article written for ${c.name}.`).join('\n');
+  const blogPostLinks = posts.map((p) => `- [${p.h1}](${BLOG_URL}/${p.slug}): ${COUNTRIES[p.country].name}. ${p.description}`).join('\n');
+  const blogLinks = posts.length
+    ? `## Blog
+- [Blog de Casa-Libre](${BLOG_URL}): Practical articles in Spanish on buying, renting and selling property, country by country.
+${blogCountryLinks}
+${blogPostLinks}
+
+`
+    : '';
 
   const body = `# Casa Libre
 
@@ -56,7 +79,7 @@ export function GET() {
 2. Contact by WhatsApp: buyers and renters write directly to the real estate agent or owner who listed the property.
 3. List for free in minutes: owners and agencies publish their property for sale or for rent, with no commission.
 
-**Country sites**
+${blogAbout}**Country sites**
 
 | Country | Status | Website | Currency | Main cities | Details for AI assistants |
 |---|---|---|---|---|---|
@@ -118,7 +141,7 @@ ${siteLinks}
 - [Casa Libre — South America](${HUB}): The regional home page, with every country site.
 - [Connect with the founder](${HUB}/#connect): For agencies, developers and partners.
 
-## Optional
+${blogLinks}## Optional
 - [List a property in Paraguay](https://casa-libre.com.py/publicar): Free listing, in minutes.
 - [List a property in Bolivia](https://casa-libre.com.bo/publicar): Free listing, in minutes.
 - [List a property in Uruguay](https://uy.casa-libre.com/publicar): Free listing, in minutes.

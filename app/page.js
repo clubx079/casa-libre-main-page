@@ -302,10 +302,12 @@ export default function Hub() {
           <nav className="hidden md:flex items-center gap-7 text-[14px] font-medium text-ink/70">
             <a href="#map" className="hover:text-ink">{t.nav.countries}</a>
             <a href="#thesis" className="hover:text-ink">{t.nav.opportunity}</a>
+            <a href="/blog" className="hover:text-ink">Blog</a>
             <a href="#connect" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.connect}</a>
           </nav>
           <div className="flex items-center gap-2.5">
-            {/* Mobile-only Connect CTA (desktop has it in the nav) */}
+            {/* Mobile-only Blog link + Connect CTA (desktop has them in the nav) */}
+            <a href="/blog" className="md:hidden text-[12.5px] font-bold text-ink/70 hover:text-ink">Blog</a>
             <a href="#connect-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.connect}</a>
             <div className="flex items-center border-[1.5px] border-ink rounded-pill overflow-hidden text-[12px] font-bold">
               {['es', 'en', 'pt'].map((l) => (
@@ -544,7 +546,7 @@ export default function Hub() {
       {/* ── Footer ── */}
       <footer className="bg-ink text-paper">
         <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-14">
-          <div className="grid md:grid-cols-[1.4fr_1fr] gap-9">
+          <div className="grid md:grid-cols-[1.4fr_1fr_1fr] gap-9">
             <div>
               <Word className="text-[22px] text-paper" />
               <p className="text-[13.5px] text-paper/60 mt-3 max-w-[260px] leading-relaxed">{t.footTag}</p>
@@ -560,6 +562,11 @@ export default function Hub() {
                   </FootLink>
                 );
               })}
+            </FootCol>
+            {/* Blog (Spanish-only articles, labelled "Blog" in every language). */}
+            <FootCol title="Casa-Libre">
+              <li><a href="/blog" className="text-paper/75 hover:text-paper">Blog</a></li>
+              <li><a href="#connect" className="text-paper/75 hover:text-paper">{t.nav.connect}</a></li>
             </FootCol>
             {/* Empresa / Ayuda / Legal columns hidden until their pages exist —
                 dead links (no destination) read as unfinished to visitors. */}
