@@ -8,6 +8,7 @@ const COUNTRIES = [
   { key: 'bo', name: { es: 'Bolivia', en: 'Bolivia', pt: 'Bolívia' }, tld: 'casa-libre.com.bo', url: 'https://casa-libre.com.bo', status: 'live', city: 'Santa Cruz · La Paz', sub: { es: 'Lanzamiento reciente', en: 'Launched this week', pt: 'Lançamento recente' } },
   { key: 'uy', name: { es: 'Uruguay', en: 'Uruguay', pt: 'Uruguai' }, tld: 'uy.casa-libre.com', url: 'https://uy.casa-libre.com', status: 'beta', city: { es: 'Montevideo', en: 'Montevideo', pt: 'Montevidéu' }, sub: { es: 'Publicaciones activas · casa-libre.com.uy próximamente', en: 'Listings live · casa-libre.com.uy next', pt: 'Anúncios ativos · casa-libre.com.uy em breve' } },
   { key: 've', name: { es: 'Venezuela', en: 'Venezuela', pt: 'Venezuela' }, tld: 'casa-libre.com.ve', url: 'https://casa-libre.com.ve', status: 'beta', city: { es: 'Caracas', en: 'Caracas', pt: 'Caracas' }, sub: { es: 'Publicaciones activas · acceso anticipado', en: 'Listings live · early access', pt: 'Anúncios ativos · acesso antecipado' } },
+  { key: 'sv', name: { es: 'El Salvador', en: 'El Salvador', pt: 'El Salvador' }, tld: 'sv.casa-libre.com', url: 'https://sv.casa-libre.com', status: 'beta', city: { es: 'San Salvador', en: 'San Salvador', pt: 'San Salvador' }, sub: { es: 'Publicaciones activas · acceso anticipado', en: 'Listings live · early access', pt: 'Anúncios ativos · acesso antecipado' } },
   { key: 'ar', name: { es: 'Argentina', en: 'Argentina', pt: 'Argentina' }, tld: 'casa-libre.com.ar', url: 'https://casa-libre.com.ar', status: 'next', city: 'Buenos Aires' },
   { key: 'br', name: { es: 'Brasil', en: 'Brazil', pt: 'Brasil' }, tld: 'casa-libre.com.br', url: 'https://casa-libre.com.br', status: 'next', city: 'São Paulo' },
   { key: 'cl', name: { es: 'Chile', en: 'Chile', pt: 'Chile' }, tld: 'casa-libre.com.cl', url: 'https://casa-libre.com.cl', status: 'next', city: 'Santiago' },
@@ -19,24 +20,24 @@ const TICKER = ['ASUNCIÓN', 'SANTA CRUZ', 'MONTEVIDEO', 'BUENOS AIRES', 'SÃO P
 const DICT = {
   es: {
     nav: { countries: 'Países', opportunity: 'La oportunidad', connect: 'Conectar' },
-    heroEyebrow: 'Activo en cuatro países · Sede en EE. UU. · API-first',
+    heroEyebrow: 'Activo en cinco países · Sede en EE. UU. · API-first',
     heroA: 'El marketplace inmobiliario',
     heroB: 'de Sudamérica.',
     heroSub: 'Un equipo con experiencia operativa, tecnología de vanguardia y datos propios sobre cómo compra propiedades realmente todo un continente.',
     heroSubEm: 'Conectemos.',
     heroCta: 'Hablar con el fundador', heroCta2: 'Ver los sitios activos',
-    heroStats: [['4', 'países activos'], ['8', 'mercados objetivo'], ['+430M', 'habitantes en la región']],
+    heroStats: [['5', 'países activos'], ['9', 'mercados objetivo'], ['+430M', 'habitantes en la región']],
     contTitle: 'Un continente sin estándar.',
-    contLead: 'Sudamérica no tiene un sistema centralizado de publicaciones inmobiliarias (lo que en EE. UU. se conoce como MLS), ni una marca inmobiliaria regional, ni una plataforma que gestione la transacción de principio a fin. La oferta está dispersa entre miles de corredores, franquicias y propietarios particulares, y 430 millones de personas compran, alquilan y venden a través de grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa Libre es ese estándar, y la primera plataforma que mide el mercado en tiempo real.',
+    contLead: 'Sudamérica no tiene un sistema centralizado de publicaciones inmobiliarias (lo que en EE. UU. se conoce como MLS), ni una marca inmobiliaria regional, ni una plataforma que gestione la transacción de principio a fin. La oferta está dispersa entre miles de corredores, franquicias y propietarios particulares, y 430 millones de personas compran, alquilan y venden a través de grupos de WhatsApp, Facebook Marketplace y publicaciones de Instagram. Casa-Libre es ese estándar, y la primera plataforma que mide el mercado en tiempo real.',
     contCards: [
       { t: 'Ya en operación', d: 'Paraguay y Bolivia ya están activos. Uruguay y Venezuela, en acceso anticipado. Publicaciones reales, compradores reales y conversaciones con propietarios todos los días. Un producto en el mercado, no un plan.' },
       { t: 'Una plataforma, ocho mercados', d: 'Una sola plataforma, adaptada a cada país y facturada en dólares en todos. Sumar un país es un lanzamiento, no un desarrollo nuevo. El costo por mercado baja con cada lanzamiento.' },
       { t: 'Más que un marketplace', d: 'Las publicaciones son la puerta de entrada. El negocio es el sistema que hay detrás. No es público: los socios lo conocen bajo acuerdo de confidencialidad (NDA), después de una primera conversación.' },
     ],
-    contBig: [['4', 'mercados activos'], ['4', 'lanzamientos programados'], ['+430M', 'habitantes en la región'], ['1', 'una sola marca en toda la región']],
+    contBig: [['5', 'mercados activos'], ['4', 'lanzamientos programados'], ['+430M', 'habitantes en la región'], ['1', 'una sola marca en toda la región']],
     contFine: 'Siguen Argentina, Brasil y Chile; luego, Perú. Cada lanzamiento financia el siguiente.',
-    mapTitle: 'Ocho países. Cuatro ya activos.',
-    mapLead: 'Cada país tiene su propio sitio de Casa Libre, con publicaciones y precios locales. Todos facturan en dólares.',
+    mapTitle: 'Nueve países. Cinco ya activos.',
+    mapLead: 'Cada país tiene su propio sitio de Casa-Libre, con publicaciones y precios locales. Todos facturan en dólares.',
     status: { live: 'Activo', beta: 'Activo · acceso anticipado', next: 'Próximamente', planned: 'Planificado' },
     foot: { live: 'Visitar el sitio', beta: 'Visitar el sitio', next: 'Lanzamiento programado', planned: 'En planificación' },
     prodEyebrow: 'El producto',
@@ -77,7 +78,7 @@ const DICT = {
       { t: 'Conversación', d: 'Treinta minutos de preguntas y respuestas, no una presentación.' },
       { t: 'Próximos pasos', d: 'Bajo NDA cuando haga falta: el cronograma, lo que ya está construido y dónde podemos trabajar juntos.' },
     ],
-    form: { name: 'Nombre y apellido', namePh: 'Nombre completo', firm: 'Empresa', firmPh: 'Nombre de la empresa', country: 'País', countryPh: 'Dónde se encuentra', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', wa: 'WhatsApp', waPh: '+1 …', role: '¿Qué lo describe mejor?', selPh: 'Seleccionar', why: '¿Por qué le interesa Casa Libre?', whyPh: 'Una o dos líneas.', submit: 'Ponerse en contacto', or: 'o', book: 'Reservar una llamada con el fundador', reqHint: 'Ingrese un correo electrónico o un teléfono.', err: 'Ingrese su nombre y un correo electrónico o un teléfono.', tiny: 'Es solo el inicio de una conversación.', sending: 'Enviando…', sent: 'Gracias — le contactaremos en breve.', fail: 'Algo salió mal. Inténtelo de nuevo.', call: { title: 'Reservar una llamada con el fundador', sub: 'Treinta minutos. Díganos cuándo le queda cómodo y qué le gustaría conversar.', name: 'Nombre y apellido', namePh: 'Nombre completo', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué le gustaría conversar.', submit: 'Solicitar la llamada', cancel: 'Cancelar', sent: '¡Gracias! Nuestro equipo revisará su solicitud y le enviará por correo un enlace para reservar la llamada.' } },
+    form: { name: 'Nombre y apellido', namePh: 'Nombre completo', firm: 'Empresa', firmPh: 'Nombre de la empresa', country: 'País', countryPh: 'Dónde se encuentra', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', wa: 'WhatsApp', waPh: '+1 …', role: '¿Qué lo describe mejor?', selPh: 'Seleccionar', why: '¿Por qué le interesa Casa-Libre?', whyPh: 'Una o dos líneas.', submit: 'Ponerse en contacto', or: 'o', book: 'Reservar una llamada con el fundador', reqHint: 'Ingrese un correo electrónico o un teléfono.', err: 'Ingrese su nombre y un correo electrónico o un teléfono.', tiny: 'Es solo el inicio de una conversación.', sending: 'Enviando…', sent: 'Gracias — le contactaremos en breve.', fail: 'Algo salió mal. Inténtelo de nuevo.', call: { title: 'Reservar una llamada con el fundador', sub: 'Treinta minutos. Díganos cuándo le queda cómodo y qué le gustaría conversar.', name: 'Nombre y apellido', namePh: 'Nombre completo', email: 'Correo electrónico', emailPh: 'nombre@empresa.com', phone: 'Teléfono / WhatsApp', phonePh: '+1 …', slot: 'Horario preferido', slotPh: 'ej. martes a jueves por la tarde, ET', reason: 'Motivo de la llamada', reasonPh: 'Qué le gustaría conversar.', submit: 'Solicitar la llamada', cancel: 'Cancelar', sent: '¡Gracias! Nuestro equipo revisará su solicitud y le enviará por correo un enlace para reservar la llamada.' } },
     roles: ['Inmobiliaria o corredor', 'Desarrolladora', 'Empresa de EE. UU. que busca crecer en la región', 'Proveedor o socio', 'Otro'],
     footTag: 'El marketplace inmobiliario de Sudamérica. Sede en EE. UU., equipo local en cada mercado, facturación en dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ayuda', colLegal: 'Legal',
@@ -88,24 +89,24 @@ const DICT = {
   },
   en: {
     nav: { countries: 'Countries', opportunity: 'The opportunity', connect: 'Connect' },
-    heroEyebrow: 'Live in four countries · US-based · API-first',
+    heroEyebrow: 'Live in five countries · US-based · API-first',
     heroA: 'The property marketplace',
     heroB: 'of South America.',
     heroSub: 'Experienced operators, frontier technology, and first-party data on how a continent actually buys property.',
     heroSubEm: "Let's connect.",
     heroCta: 'Talk to the founder', heroCta2: 'See it live',
-    heroStats: [['4', 'countries live'], ['8', 'target markets'], ['430M+', 'people in market']],
+    heroStats: [['5', 'countries live'], ['9', 'target markets'], ['430M+', 'people in market']],
     contTitle: 'A continent without a standard.',
-    contLead: 'South America has no MLS, no regional property brand and no platform that owns the transaction. Inventory is split across thousands of brokers, franchise offices and private sellers, and 430 million people buy, rent and sell through WhatsApp groups, Facebook Marketplace and Instagram posts. Casa Libre is the standard — and the first platform measuring the market as it moves.',
+    contLead: 'South America has no MLS, no regional property brand and no platform that owns the transaction. Inventory is split across thousands of brokers, franchise offices and private sellers, and 430 million people buy, rent and sell through WhatsApp groups, Facebook Marketplace and Instagram posts. Casa-Libre is the standard — and the first platform measuring the market as it moves.',
     contCards: [
       { t: 'Operating today', d: 'Paraguay and Bolivia are live. Uruguay and Venezuela are in early access. Real listings, real buyers, owner conversations every day. A product in market, not a plan.' },
       { t: 'One build, eight markets', d: 'One platform, localized per country, billed in dollars everywhere. A new country is a launch, not a rebuild. Cost per market falls with each one.' },
       { t: 'More than a marketplace', d: 'The listings are the front door. The system behind them is the business. It is not public. Partners see it under NDA, after a first conversation.' },
     ],
-    contBig: [['4', 'live markets'], ['4', 'scheduled next'], ['430M+', 'people across the region'], ['1', 'brand across borders']],
+    contBig: [['5', 'live markets'], ['4', 'scheduled next'], ['430M+', 'people across the region'], ['1', 'brand across borders']],
     contFine: 'Argentina, Brazil and Chile are next, then Peru. Each launch funds the one after it.',
-    mapTitle: 'Eight countries. Four live.',
-    mapLead: 'Each country runs its own Casa Libre with local listings and local pricing. Every one of them bills in US dollars.',
+    mapTitle: 'Nine countries. Five live.',
+    mapLead: 'Each country runs its own Casa-Libre with local listings and local pricing. Every one of them bills in US dollars.',
     status: { live: 'Live', beta: 'Live · early access', next: 'Next', planned: 'Planned' },
     foot: { live: 'Enter', beta: 'Enter', next: 'Scheduled', planned: 'Planned' },
     prodEyebrow: 'The product',
@@ -146,7 +147,7 @@ const DICT = {
       { t: 'We talk', d: 'Thirty minutes. Questions and answers, not a deck.' },
       { t: 'Next steps', d: "Under NDA when it helps: the timeline, what's already built, and where we can work together." },
     ],
-    form: { name: 'Your name', namePh: 'Full name', firm: 'Company', firmPh: 'Company name', country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@company.com', wa: 'WhatsApp', waPh: '+1 …', role: 'What best describes you?', why: 'Why Casa Libre?', whyPh: 'One or two lines.', submit: 'Get in touch', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Just the start of a conversation.', sending: 'Sending…', sent: "Thanks — we'll be in touch shortly.", fail: 'Something went wrong. Please try again.', call: { title: 'Book a call with the founder', sub: '30 minutes. Tell us when suits you and what to cover.', name: 'Your name', namePh: 'Full name', email: 'Email', emailPh: 'name@company.com', phone: 'Phone / WhatsApp', phonePh: '+1 …', slot: 'Preferred time slot', slotPh: 'e.g. Tue–Thu afternoons, ET', reason: 'Reason for the call', reasonPh: "What you'd like to cover.", submit: 'Request the call', cancel: 'Cancel', sent: 'Thanks! Our team will review your request and email you a link to book the call.' } },
+    form: { name: 'Your name', namePh: 'Full name', firm: 'Company', firmPh: 'Company name', country: 'Country', countryPh: "Where you're based", email: 'Email', emailPh: 'name@company.com', wa: 'WhatsApp', waPh: '+1 …', role: 'What best describes you?', why: 'Why Casa-Libre?', whyPh: 'One or two lines.', submit: 'Get in touch', or: 'or', book: 'Book a call with the founder', reqHint: 'Email or phone required.', err: 'Add your name and an email or phone.', tiny: 'Just the start of a conversation.', sending: 'Sending…', sent: "Thanks — we'll be in touch shortly.", fail: 'Something went wrong. Please try again.', call: { title: 'Book a call with the founder', sub: '30 minutes. Tell us when suits you and what to cover.', name: 'Your name', namePh: 'Full name', email: 'Email', emailPh: 'name@company.com', phone: 'Phone / WhatsApp', phonePh: '+1 …', slot: 'Preferred time slot', slotPh: 'e.g. Tue–Thu afternoons, ET', reason: 'Reason for the call', reasonPh: "What you'd like to cover.", submit: 'Request the call', cancel: 'Cancel', sent: 'Thanks! Our team will review your request and email you a link to book the call.' } },
     roles: ['Agency or broker', 'Developer', 'US company scaling into the region', 'Service provider or partner', 'Other'],
     footTag: 'The property marketplace of South America. US-based, built on the ground, billed in dollars.',
     colCountries: 'Countries', colCompany: 'Company', colHelp: 'Help', colLegal: 'Legal',
@@ -157,24 +158,24 @@ const DICT = {
   },
   pt: {
     nav: { countries: 'Países', opportunity: 'A oportunidade', connect: 'Conectar' },
-    heroEyebrow: 'No ar em quatro países · sede nos EUA · API-first',
+    heroEyebrow: 'No ar em cinco países · sede nos EUA · API-first',
     heroA: 'O marketplace imobiliário',
     heroB: 'da América do Sul.',
     heroSub: 'Uma equipe com experiência operacional, tecnologia de ponta e dados próprios sobre como um continente inteiro realmente compra imóveis.',
     heroSubEm: 'Vamos nos conectar.',
     heroCta: 'Fale com o fundador', heroCta2: 'Veja os sites no ar',
-    heroStats: [['4', 'países no ar'], ['8', 'mercados-alvo'], ['+430M', 'habitantes na região']],
+    heroStats: [['5', 'países no ar'], ['9', 'mercados-alvo'], ['+430M', 'habitantes na região']],
     contTitle: 'Um continente sem padrão.',
-    contLead: 'A América do Sul não tem um sistema centralizado de anúncios imobiliários (o que nos EUA se chama MLS), nem uma marca imobiliária regional, nem uma plataforma que controle a transação de ponta a ponta. A oferta de imóveis está espalhada por milhares de corretores, franquias e proprietários particulares, e 430 milhões de pessoas compram, alugam e vendem por grupos de WhatsApp, Facebook Marketplace e posts no Instagram. A Casa Libre é esse padrão, e a primeira plataforma que mede o mercado em tempo real.',
+    contLead: 'A América do Sul não tem um sistema centralizado de anúncios imobiliários (o que nos EUA se chama MLS), nem uma marca imobiliária regional, nem uma plataforma que controle a transação de ponta a ponta. A oferta de imóveis está espalhada por milhares de corretores, franquias e proprietários particulares, e 430 milhões de pessoas compram, alugam e vendem por grupos de WhatsApp, Facebook Marketplace e posts no Instagram. A Casa-Libre é esse padrão, e a primeira plataforma que mede o mercado em tempo real.',
     contCards: [
       { t: 'Já em operação', d: 'Paraguai e Bolívia já estão no ar. Uruguai e Venezuela, em acesso antecipado. Anúncios reais, compradores reais e conversas com proprietários todos os dias. Um produto no mercado, não um plano.' },
       { t: 'Uma plataforma, oito mercados', d: 'Uma única plataforma, adaptada a cada país e faturada em dólares em todos. Um país novo é um lançamento, não um novo desenvolvimento. O custo por mercado cai a cada lançamento.' },
       { t: 'Mais que um marketplace', d: 'Os anúncios são a porta de entrada. O negócio é o sistema que está por trás. Ele não é público: os parceiros têm acesso sob acordo de confidencialidade (NDA), após uma primeira conversa.' },
     ],
-    contBig: [['4', 'mercados no ar'], ['4', 'lançamentos programados'], ['+430M', 'habitantes na região'], ['1', 'uma só marca em toda a região']],
+    contBig: [['5', 'mercados no ar'], ['4', 'lançamentos programados'], ['+430M', 'habitantes na região'], ['1', 'uma só marca em toda a região']],
     contFine: 'Argentina, Brasil e Chile são os próximos; depois, Peru. Cada lançamento financia o seguinte.',
-    mapTitle: 'Oito países. Quatro já no ar.',
-    mapLead: 'Cada país tem o seu próprio site da Casa Libre, com anúncios e preços locais. Todos faturam em dólares.',
+    mapTitle: 'Nove países. Cinco já no ar.',
+    mapLead: 'Cada país tem o seu próprio site da Casa-Libre, com anúncios e preços locais. Todos faturam em dólares.',
     status: { live: 'No ar', beta: 'No ar · acesso antecipado', next: 'Em breve', planned: 'Planejado' },
     foot: { live: 'Acessar o site', beta: 'Acessar o site', next: 'Lançamento programado', planned: 'Em planejamento' },
     prodEyebrow: 'O produto',
@@ -215,7 +216,7 @@ const DICT = {
       { t: 'Conversa', d: 'Trinta minutos de perguntas e respostas, não uma apresentação.' },
       { t: 'Próximos passos', d: 'Sob NDA quando fizer sentido: o cronograma, o que já foi construído e onde podemos trabalhar juntos.' },
     ],
-    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Empresa', firmPh: 'Nome da empresa', country: 'País', countryPh: 'Onde você está', email: 'E-mail', emailPh: 'nome@empresa.com', wa: 'WhatsApp', waPh: '+55 …', role: 'O que melhor descreve você?', selPh: 'Selecione', why: 'Por que a Casa Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Entrar em contato', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Informe um e-mail ou um telefone.', err: 'Informe seu nome e um e-mail ou um telefone.', tiny: 'É só o início de uma conversa.', sending: 'Enviando…', sent: 'Obrigado — entraremos em contato em breve.', fail: 'Algo deu errado. Tente novamente.', call: { title: 'Agende uma chamada com o fundador', sub: '30 minutos. Diga quando é melhor para você e o que quer abordar.', name: 'Seu nome', namePh: 'Nome completo', email: 'E-mail', emailPh: 'nome@empresa.com', phone: 'Telefone / WhatsApp', phonePh: '+55 …', slot: 'Horário preferido', slotPh: 'ex. ter–qui à tarde, ET', reason: 'Motivo da chamada', reasonPh: 'O que você gostaria de abordar.', submit: 'Solicitar a chamada', cancel: 'Cancelar', sent: 'Obrigado! Nossa equipe vai analisar seu pedido e enviar por e-mail um link para agendar a chamada.' } },
+    form: { name: 'Seu nome', namePh: 'Nome completo', firm: 'Empresa', firmPh: 'Nome da empresa', country: 'País', countryPh: 'Onde você está', email: 'E-mail', emailPh: 'nome@empresa.com', wa: 'WhatsApp', waPh: '+55 …', role: 'O que melhor descreve você?', selPh: 'Selecione', why: 'Por que a Casa-Libre?', whyPh: 'Uma ou duas linhas.', submit: 'Entrar em contato', or: 'ou', book: 'Agende uma chamada com o fundador', reqHint: 'Informe um e-mail ou um telefone.', err: 'Informe seu nome e um e-mail ou um telefone.', tiny: 'É só o início de uma conversa.', sending: 'Enviando…', sent: 'Obrigado — entraremos em contato em breve.', fail: 'Algo deu errado. Tente novamente.', call: { title: 'Agende uma chamada com o fundador', sub: '30 minutos. Diga quando é melhor para você e o que quer abordar.', name: 'Seu nome', namePh: 'Nome completo', email: 'E-mail', emailPh: 'nome@empresa.com', phone: 'Telefone / WhatsApp', phonePh: '+55 …', slot: 'Horário preferido', slotPh: 'ex. ter–qui à tarde, ET', reason: 'Motivo da chamada', reasonPh: 'O que você gostaria de abordar.', submit: 'Solicitar a chamada', cancel: 'Cancelar', sent: 'Obrigado! Nossa equipe vai analisar seu pedido e enviar por e-mail um link para agendar a chamada.' } },
     roles: ['Imobiliária ou corretor', 'Incorporadora', 'Empresa dos EUA expandindo para a região', 'Fornecedor ou parceiro', 'Outro'],
     footTag: 'O marketplace imobiliário da América do Sul. Sede nos EUA, equipe local em cada mercado, faturamento em dólares.',
     colCountries: 'Países', colCompany: 'Empresa', colHelp: 'Ajuda', colLegal: 'Jurídico',
@@ -369,7 +370,7 @@ export default function Hub() {
         {/* Mascot — floating, no framed/striped background */}
         <div className="flex items-center justify-center min-h-[300px]">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/mascot.png" alt="Casa Libre" className="cl-float w-[74%] max-w-[400px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
+          <img src="/mascot.png" alt="Casa-Libre" className="cl-float w-[74%] max-w-[400px] object-contain drop-shadow-[6px_6px_0_rgba(17,17,17,0.12)]" />
         </div>
       </section>
 
@@ -573,7 +574,7 @@ export default function Hub() {
           </div>
 
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-3 mt-12 pt-6 border-t border-paper/15 font-mono text-[11px] text-paper/50">
-            <div>© {new Date().getFullYear()} Casa Libre — {t.rights}</div>
+            <div>© {new Date().getFullYear()} Casa-Libre — {t.rights}</div>
             <div className="flex flex-wrap gap-x-4 gap-y-1">{COUNTRIES.map((c) => <span key={c.key}>{c.tld}</span>)}</div>
           </div>
         </div>

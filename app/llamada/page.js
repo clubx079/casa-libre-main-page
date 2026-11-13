@@ -4,7 +4,7 @@ import { readCallToken } from '../../lib/callRequest.js';
 import Confirm from './Confirm.js';
 
 export const dynamic = 'force-dynamic';
-export const metadata = { title: 'Call request · Casa Libre', robots: { index: false, follow: false } };
+export const metadata = { title: 'Call request · Casa-Libre', robots: { index: false, follow: false } };
 
 export default function CallRequestPage({ searchParams }) {
   const t = String(searchParams?.t || '');

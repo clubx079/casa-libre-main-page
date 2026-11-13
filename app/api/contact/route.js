@@ -1,5 +1,5 @@
 // Contact form ("Connect with the founder") + "Book a call" submissions → a formatted email to CONTACT_EMAIL
-// (omar@airosofts.com) via Resend. Reuses the Casa Libre deelmap.com verified
+// (omar@airosofts.com) via Resend. Reuses the Casa-Libre deelmap.com verified
 // sender, so it delivers to any address.
 import { NextResponse } from 'next/server';
 import { Resend } from 'resend';
@@ -43,7 +43,7 @@ function buildEmail(type, d) {
         row('Email', d.email),
         row('WhatsApp / phone', d.wa),
         row('Describes themselves as', d.stage),
-        row('Why Casa Libre', d.why),
+        row('Why Casa-Libre', d.why),
       ];
   const html = `<div style="background:#f5f2ec;padding:32px 0;font-family:'Space Grotesk',system-ui,sans-serif">
     <div style="max-width:560px;margin:0 auto;background:#fff;border:1.5px solid #111;border-radius:16px;overflow:hidden">
@@ -61,8 +61,8 @@ function buildEmail(type, d) {
   </div>`;
   const text = rows.map(() => '').length ? Object.entries(d).map(([k, v]) => `${k}: ${v}`).join('\n') : '';
   const subject = isCall
-    ? `Book a call — ${d.name || 'Casa Libre'}`
-    : `New contact request — ${d.name || 'Casa Libre'}`;
+    ? `Book a call — ${d.name || 'Casa-Libre'}`
+    : `New contact request — ${d.name || 'Casa-Libre'}`;
   return { subject, html, text };
 }
 
