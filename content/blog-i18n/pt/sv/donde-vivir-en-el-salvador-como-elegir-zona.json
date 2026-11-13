@@ -1,0 +1,128 @@
+{
+ "_src": "0c5063d8dc35",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Onde viver em El Salvador: como escolher a zona",
+  "h1": "Onde viver em El Salvador: como escolher a zona de acordo com sua rotina, seu orçamento e o terreno",
+  "description": "Critérios para escolher onde viver em El Salvador: tempo de deslocamento, serviços, tipo de bairro ou residencial, riscos por chuvas e encostas, e como verificar uma zona antes de comprar ou alugar.",
+  "answer": "Não existe uma \"melhor zona\" para todos em El Salvador: a correta é a que se encaixa com sua rotina e seu orçamento. Comece escolhendo o tempo de deslocamento até seu trabalho ou à escola no horário de pico, depois o tipo de moradia que pode pagar (bairro aberto, residencial fechado ou apartamento), em seguida verifique os serviços próximos e o terreno (encostas, ravinas, áreas que se inundam) e, por último, visite a zona em diferentes horários e na época de chuvas antes de decidir."
+ },
+ "sections": [
+  {
+   "h2": "Comece pela locomoção, não pela casa",
+   "paras": [
+    "Na área metropolitana de San Salvador, o tempo de deslocamento na hora pico pode mudar completamente a qualidade de vida. Uma casa maior e mais barata a uma hora de distância pode lhe custar, por mês, mais em combustível, passagens e horas perdidas do que a diferença de preço.",
+    "Faça o teste real: percorra o trajeto da casa ao trabalho no horário em que o fará todos os dias. Se depender do transporte público, verifique as rotas e a frequência."
+   ],
+   "tip": "Anote quantos minutos leva para ir e voltar em um dia útil. Multiplique pelos dias do mês: essa é a conta de tempo daquela região."
+  },
+  {
+   "h2": "Colônia, condomínio fechado ou apartamento",
+   "table": {
+    "head": [
+     "Tipo",
+     "A favor",
+     "A considerar"
+    ],
+    "rows": [
+     [
+      "Casa em colônia aberta",
+      "Costuma custar menos; mais liberdade para ampliar",
+      "Segurança e estacionamento dependem de cada rua"
+     ],
+     [
+      "Casa em condomínio fechado",
+      "Acesso controlado e áreas comuns",
+      "Taxa de manutenção e regras internas"
+     ],
+     [
+      "Apartamento",
+      "Localizações centrais; menos manutenção própria",
+      "Taxa de condomínio e regulamento; menos espaço"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Serviços a menos de dez minutos",
+   "paras": [
+    "Faça uma lista do que usa a cada semana e verifique a distância:"
+   ],
+   "bullets": [
+    "Colégio ou creche, se tem filhos.",
+    "Unidade de saúde, clínica ou hospital.",
+    "Supermercado, mercado e farmácia.",
+    "Paradas de ônibus ou acessos a rodovias principais.",
+    "Qualidade da água: se chega todos os dias ou há horários limitados.",
+    "Cobertura de internet e sinal de telefone."
+   ]
+  },
+  {
+   "h2": "O terreno: chuvas, inclinações e ravinas",
+   "paras": [
+    "El Salvador tem uma época de chuvas intensa e uma geografia de vulcões, encostas e ravinas. Algumas áreas sofrem inundações em ruas baixas ou próximas a rios, e outras têm risco de deslizamentos em taludes e inclinações. Também é um país sísmico, então importa como a casa está construída.",
+    "Antes de decidir, visite a região após uma chuva forte, pergunte aos vizinhos o que aconteceu nas últimas tempestades e observe muros com fissuras, taludes sem proteção ou marcas de água. A Direção Geral de Proteção Civil publica alertas e recomendações durante a época de chuvas."
+   ]
+  },
+  {
+   "h2": "Como verificar uma região antes de comprar ou alugar",
+   "steps": [
+    "Visite-a de manhã, à tarde e à noite, um dia de semana e um fim de semana.",
+    "Caminhe pelas ruas próximas, não apenas a da casa.",
+    "Converse com vizinhos e com o pessoal das lojas próximas.",
+    "Faça o trajeto ao trabalho na hora pico.",
+    "Pergunte quanto se paga de taxa de manutenção e de impostos municipais.",
+    "Se for comprar, verifique o imóvel no CNR."
+   ]
+  },
+  {
+   "h2": "Municípios e distritos a partir de 2024",
+   "paras": [
+    "A partir de 1 de maio de 2024 El Salvador tem 44 municípios; os 262 municípios anteriores passaram a ser distritos. Na prática, as pessoas continuam usando os nomes de sempre (Santa Tecla, Antiguo Cuscatlán, Soyapango, San Miguel), mas os trâmites municipais são feitos perante a alcaldia do novo município. Tenha isso em conta ao solicitar solvências ou permissões."
+   ]
+  },
+  {
+   "h2": "O orçamento completo de uma região",
+   "paras": [
+    "Compare regiões pelo custo total, não apenas pelo preço ou aluguel: some taxa de manutenção, impostos municipais, transporte e, se houver, mensalidades próximas. Uma região um pouco mais cara pode ser mais barata por mês se lhe economizar deslocamentos."
+   ]
+  },
+  {
+   "h2": "Se não conhece a região, considere alugar primeiro",
+   "paras": [
+    "Se mudar para uma cidade nova ou voltar após anos no exterior, alugar alguns meses antes de comprar permite conhecer a região com sua rotina real: o trânsito diário, o barulho noturno, como as ruas se comportam no inverno e quão próximos ficam os serviços que usa. É uma forma econômica de evitar uma compra da qual depois se arrependa.",
+    "Enquanto aluga, pode visitar casas à venda nas regiões que gostou e comparar com calma, sem a pressão de ter que decidir rapidamente."
+   ]
+  },
+  {
+   "h2": "Explorar regiões no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver casas e apartamentos à venda e para aluguel no mapa, comparar regiões como San Salvador, Santa Tecla ou Santa Ana e escrever por WhatsApp a proprietários e agentes para perguntar sobre a região. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é a melhor zona para viver em El Salvador?",
+   "a": "Depende de onde você trabalha ou estuda, do seu orçamento e do tipo de moradia que procura. Comece pelo tempo de deslocamento e pelos serviços próximos, e verifique a zona pessoalmente."
+  },
+  {
+   "q": "Como saber se uma zona se inunda ou tem risco de deslizamentos?",
+   "a": "Visite-a após uma chuva forte, pergunte aos vizinhos e observe marcas de água, fissuras e taludes. Siga os alertas da Proteção Civil na época de chuvas."
+  },
+  {
+   "q": "O que é melhor, residencial fechado ou bairro aberto?",
+   "a": "Um residencial oferece acesso controlado e áreas comuns em troca de uma taxa e regras. Um bairro aberto costuma custar menos e dá mais liberdade. Depende das suas prioridades."
+  },
+  {
+   "q": "Algo mudou com os novos municípios?",
+   "a": "Desde maio de 2024 há 44 municípios e os antigos são distritos. Os trâmites são feitos na alcaldía do novo município."
+  }
+ ],
+ "related": [
+  "Propriedades em San Salvador",
+  "Propriedades em Santa Ana",
+  "Aluguéis no mapa"
+ ]
+}

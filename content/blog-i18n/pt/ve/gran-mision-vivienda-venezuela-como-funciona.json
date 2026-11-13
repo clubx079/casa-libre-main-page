@@ -1,0 +1,134 @@
+{
+ "_src": "ec6546e563a4",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Gran Misión Vivienda Venezuela: como funciona o registro",
+  "h1": "Gran Misión Vivienda Venezuela: o que é, como se registrar e o que saber antes de comprar uma das suas moradias",
+  "description": "O que é a Gran Misión Vivienda Venezuela (GMVV), como funciona o registro, o que esperar da adjudicação e o que verificar se lhe oferecem comprar ou alugar uma moradia da missão.",
+  "answer": "A Gran Misión Vivienda Venezuela (GMVV) é o programa do Estado, iniciado em 2011, que constrói e adjudica moradias a famílias registradas. O registro é feito pelos canais oficiais indicados pelo governo, que nos últimos anos incluíram a plataforma associada ao Carnet de la Patria. As moradias da missão têm um regime especial de propriedade e transferência, então se alguém lhe oferecer vender ou alugar, verifique primeiro com um advogado se essa operação é permitida."
+ },
+ "sections": [
+  {
+   "h2": "O que é a Gran Misión Vivienda Venezuela",
+   "paras": [
+    "A GMVV é um programa público de habitação lançado em 2011. O Estado, por meio do Ministério do Poder Popular para Hábitat e Vivienda e outros entes, constrói urbanismos e moradias e as adjudica a famílias que se registram e cumprem os critérios de prioridade.",
+    "Não é um crédito bancário tradicional nem um mercado aberto: a moradia é atribuída, não comprada em uma imobiliária. Por isso as regras para obtê-la, pagá-la e, eventualmente, transferi-la são diferentes das de uma compra e venda comum."
+   ]
+  },
+  {
+   "h2": "Como funciona o registro",
+   "paras": [
+    "O registro é feito pelos canais oficiais que o governo anunciar. Nos últimos anos o registro tem sido divulgado através da plataforma vinculada ao Carnet de la Patria, além de jornadas presenciais em algumas comunidades. Os canais e requisitos mudam, então confirme-os nas fontes oficiais do ministério antes de iniciar."
+   ],
+   "steps": [
+    "Confirme nos canais oficiais do ministério qual é o meio de registro vigente.",
+    "Tenha em mãos a cédula de identidade de todos os integrantes do grupo familiar.",
+    "Preencha os dados de renda, situação habitacional atual e composição familiar com exatidão.",
+    "Guarde o comprovante ou número de registro.",
+    "Mantenha seus dados de contato atualizados caso seja convocado."
+   ],
+   "tip": "Ninguém deve cobrar de você para se registrar. Se alguém pedir dinheiro para \"colocar você na lista\" ou \"adiantar sua adjudicação\", é um golpe."
+  },
+  {
+   "h2": "Quem tem prioridade",
+   "paras": [
+    "Os programas públicos de habitação priorizam famílias sem moradia própria, em situação de risco, afetadas por desastres ou com baixa renda, entre outros critérios. Existem ainda linhas ou anúncios dirigidos a grupos específicos, como mulheres chefes de família ou jovens. Não há prazo garantido entre o registro e a adjudicação."
+   ]
+  },
+  {
+   "h2": "O regime especial das moradias da missão",
+   "paras": [
+    "As moradias da GMVV têm normas próprias sobre propriedade, uso e transferência. Entre outras coisas, seu regime de condomínio não é o da Lei de Propriedade Horizontal comum, mas um especial para esses urbanismos, e há restrições para vendê-las ou alugá-las no mercado livre.",
+    "Na prática circulam ofertas de \"venda de direitos\" ou aluguel de apartamentos da missão. Antes de pagar algo assim, consulte um advogado se a operação é válida: você pode pagar por algo que não pode ser transferido legalmente e ficar sem moradia e sem dinheiro."
+   ],
+   "bullets": [
+    "Peça ver o documento de adjudicação ou título e quem figura como beneficiário.",
+    "Pergunte se existe autorização do ente competente para a transferência.",
+    "Desconfie de pagamentos em dinheiro sem documento registrado."
+   ]
+  },
+  {
+   "h2": "Se não quer esperar: alternativas no mercado",
+   "table": {
+    "head": [
+     "Via",
+     "Vantagem",
+     "O que ter em conta"
+    ],
+    "rows": [
+     [
+      "GMVV",
+      "Custo muito menor que o mercado",
+      "Tempos incertos e regime especial de propriedade"
+     ],
+     [
+      "Crédito com recursos do FAOV",
+      "Financiamento de longo prazo",
+      "Aportes em dia e valores limitados"
+     ],
+     [
+      "Crédito bancário",
+      "Compras no mercado livre",
+      "Entrada alta e oferta variável"
+     ],
+     [
+      "Compra à vista ou aluguel",
+      "Rapidez e liberdade para escolher a zona",
+      "Requer poupança ou renda suficiente"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Se já lhe adjudicaram uma moradia",
+   "paras": [
+    "Receber uma moradia da missão traz obrigações. Guarde em local seguro o documento de adjudicação e qualquer outro papel que lhe entregarem, e descubra qual é o estado da titularidade: se já recebeu um título de propriedade ou se ainda está em tramitação.",
+    "Informe-se também sobre a organização do urbanismo: como funciona o condomínio especial, quem o administra, quanto se aporta e como são tomadas as decisões. Participar desde o início ajuda a que o edifício se mantenha em bom estado."
+   ],
+   "bullets": [
+    "Conserve o documento de adjudicação e os comprovantes de pagamento, se pagar parcelas.",
+    "Pergunte sobre o estado do título de propriedade e como ele é tramitado.",
+    "Antes de alugar ou ceder a moradia a outra pessoa, confirme se é permitido.",
+    "Mantenha seus dados atualizados perante o ente que lhe adjudicou."
+   ]
+  },
+  {
+   "h2": "Comparar com o mercado",
+   "paras": [
+    "Enquanto espera, convém conhecer o que há no mercado em sua cidade. No Casa-Libre você pode ver casas e apartamentos à venda e para aluguel no mapa, com fotos e contato direto por WhatsApp. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como me registro na Gran Misión Vivienda?",
+   "a": "Pelos canais oficiais anunciados pelo Ministério de Hábitat e Vivienda; nos últimos anos tem sido usada a plataforma vinculada ao Carnet de la Patria. Confirme o canal vigente antes de se registrar."
+  },
+  {
+   "q": "Quanto tempo leva a adjudicação?",
+   "a": "Não há prazo garantido. Depende da disponibilidade de moradias e dos critérios de prioridade."
+  },
+  {
+   "q": "Posso comprar um apartamento da Misión Vivienda de alguém?",
+   "a": "Essas moradias têm um regime especial com restrições de transferência. Antes de pagar, consulte um advogado se a operação é válida."
+  },
+  {
+   "q": "Podem cobrar-me pelo registro?",
+   "a": "Não. Se alguém lhe pedir dinheiro para registrar ou adiantar sua adjudicação, é um golpe."
+  },
+  {
+   "q": "Posso me registrar se já tenho uma moradia?",
+   "a": "Os programas públicos priorizam famílias sem moradia própria. Verifique os critérios vigentes nos canais oficiais antes de se registrar."
+  },
+  {
+   "q": "O que faço se me adjudicaram uma moradia e não tenho título?",
+   "a": "Pergunte à entidade que lhe adjudicou em que estado está o título e como se tramita, e guarde todos os documentos que lhe entregaram."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Aluguéis no mapa",
+  "FAOV e BANAVIH: o que são"
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "_src": "400178bb7b2a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Living in Greater Asunción: Luque, San Lorenzo, Lambaré and More",
+  "h1": "Living in Asunción or Outside? What You Earn and What You Pay in Greater Asunción",
+  "description": "Luque, San Lorenzo, Lambaré, Fernando de la Mora, Mariano Roque Alonso, Ñemby and Capiatá: more space for your money in exchange for commuting. How to decide.",
+  "answer": "Moving to a city in Greater Asunción, such as Luque, San Lorenzo, Lambaré, Fernando de la Mora, Mariano Roque Alonso, Ñemby or Capiatá, usually gives you more square meters, a patio or a larger lot for the same money you would spend in the capital. The price is time: the routes to Asunción get congested during rush hour. The decision depends on how many days a week you have to go to the capital, at what time, and whether you can work or study near your new home."
+ },
+ "sections": [
+  {
+   "h2": "The trade-off: space versus time",
+   "paras": [
+    "Many people looking for a house with a yard, a garage for two cars or a lot to build end up looking outside Asunción. In general, the farther you get from the capital, the same budget stretches to more land. That explains why the metropolitan area has grown so much in recent decades.",
+    "What the listing doesn’t show is the travel time. A distance that looks short on the map can take much longer during peak inbound and outbound hours. If you’re going to Asunción every day, that time multiplies by five days a week and by all the months of the year."
+   ]
+  },
+  {
+   "h2": "Four questions before looking at cities",
+   "paras": [
+    "If you answer \"every day, during rush hour, by bus\", prioritize well-connected areas or those close to your work. If you work from home or your job is in the same city, the range opens up a lot."
+   ],
+   "bullets": [
+    "How many days per week do you need to be in Asunción, and at what time do you arrive and leave?",
+    "Where will the kids study? Are there good schools nearby or will you also have to travel for that?",
+    "Do you have a car, or do you depend on public transport?",
+    "What do you want the house to have that you can’t afford in the capital (yard, more bedrooms, land)?"
+   ]
+  },
+  {
+   "h2": "The cities, in a nutshell",
+   "paras": [
+    "These descriptions are general and meant to guide you, not to decide for you. Each city has neighborhoods that are very different from each other."
+   ],
+   "bullets": [
+    "Luque: east of Asunción, near Silvio Pettirossi International Airport. It combines highly urbanized areas with house neighborhoods and new condominiums; it attracts those looking for a house with a yard without going too far away.",
+    "San Lorenzo: a large city with a lot of its own commerce, where the main campus of the National University of Asunción is located. It has a lot of rental options for students and families; traffic on the routes that connect it to the capital is a point to consider.",
+    "Lambaré: south, attached to Asunción and on the banks of the Paraguay River. It is a nearby option to the capital with residential neighborhoods; you should pay close attention to low-lying areas near the river.",
+    "Fernando de la Mora: borders Asunción and is very integrated with the capital. For many it is a way to be close while paying a bit less, with a varied offering of houses and duplexes.",
+    "Mariano Roque Alonso: north, on the road toward the Chaco via the Transchaco. It has industrial and residential zones; for someone who works in the north of Asunción it can be practical.",
+    "Ñemby: south, with strong residential growth. It usually offers more affordable houses and lots, in exchange for longer commutes to the city center.",
+    "Capiatá: farther away, on the route that goes toward the interior. It attracts those looking for land or a house with more space and who don’t need to go to Asunción every day."
+   ]
+  },
+  {
+   "h2": "The test you must do before moving",
+   "paras": [
+    "No note replaces this: make the full trip on a workday, at the same time you will always travel, using the same mode of transport. Round-trip. If you can, repeat it on a rainy day."
+   ],
+   "steps": [
+    "Leave the door of the house you’re interested in at the time you would leave for work.",
+    "Note how long it takes to get to your job or school, including parking or walking from the stop.",
+    "Make the return trip at the departure time.",
+    "Multiply that time by the days of the week and ask yourself if you can sustain it for a year."
+   ]
+  },
+  {
+   "h2": "Services that change outside the capital",
+   "paras": [
+    "Outside Asunción it is more common for water to be supplied by a sanitation board or a water tank rather than ESSAP, and for fiber-optic coverage to vary from one neighborhood to another. There may also be unpaved streets in new areas, which becomes noticeable on rainy days.",
+    "Ask the owner who provides the water, whether there is a sewer system or a dry well, which internet providers are available and whether the street is paved or cobbled. These are details that do not always appear in the listing."
+   ]
+  },
+  {
+   "h2": "Buy directly or rent first?",
+   "paras": [
+    "If you don’t know the city, renting a few months before buying lets you test the commute, the neighborhood and the services without committing your savings. If you already know the area because you have family or work there, buying outright can make sense.",
+    "In both cases, compare prices of similar properties in the same city before making an offer: the range can be wide between one neighborhood and another."
+   ]
+  },
+  {
+   "h2": "How to compare cities on the map",
+   "paras": [
+    "On Casa-Libre you can move the map between Asunción and neighboring cities and see how house and apartment prices change from one place to another. Escribile by WhatsApp to the owner or the real-estate agency to ask about services and access before you go. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it worth living in Luque or in San Lorenzo?",
+   "a": "It depends on where you need to go each day. Luque is close to the airport and the northeast of the capital; San Lorenzo has a lot of its own commerce and the main campus of the UNA. Try the commute during rush hour from each location."
+  },
+  {
+   "q": "Is it cheaper to live outside Asunción?",
+   "a": "In general, the same budget stretches to a larger area as you move away from the capital, but you have to add the cost and time of commuting."
+  },
+  {
+   "q": "Which Greater Asunción city is closest to the capital?",
+   "a": "Lambaré and Fernando de la Mora border the capital directly and are highly integrated with it. Still, the actual time depends on the point of origin and destination."
+  },
+  {
+   "q": "What should I ask about services outside Asunción?",
+   "a": "Who provides the water, if there is a sewer system, which internet providers are available, and whether the street is paved."
+  }
+ ],
+ "related": [
+  "Properties in Luque",
+  "Properties in San Lorenzo",
+  "Properties in Lambaré",
+  "Houses for Sale"
+ ]
+}

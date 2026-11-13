@@ -1,0 +1,133 @@
+{
+ "_src": "65933daf845e",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contrato de arrendamento na Venezuela: o que revisar antes de assinar",
+  "h1": "Contrato de arrendamento de moradia na Venezuela: as cláusulas que você deve revisar",
+  "description": "Antes de usar um modelo de contrato de arrendamento na Venezuela, verifique as partes, o aluguel, a duração, o depósito, condomínio, reparos e a saída. Guia para o locatário.",
+  "answer": "Um contrato de arrendamento de moradia na Venezuela deve identificar bem as partes e o imóvel, fixar o aluguel e a forma de pagamento, a duração, a garantia, quem paga condomínio e serviços, quem faz cada reparo e como se encerra. Antes de assinar, confirme que quem aluga é o proprietário ou tem procuração, que o contrato não contradiz a lei de arrendamentos de moradia e, se possível, autentique-o em notária. Um modelo baixado da internet é apenas um ponto de partida."
+ },
+ "sections": [
+  {
+   "h2": "Por que um modelo baixado não basta",
+   "paras": [
+    "Buscar \"contrato de arrendamento modelo\" e preencher os espaços é tentador, mas muitos modelos que circulam são para locais comerciais, são de antes da lei de habitação vigente ou vêm de outros países. Um contrato de moradia que contradiz a lei pode ter cláusulas que não valem, e isso te deixa sem a proteção que você acreditava ter.",
+    "Use-o como lista de verificação, não como documento final. O que segue são os pontos que você deve analisar um a um."
+   ]
+  },
+  {
+   "h2": "Partes e imóvel: quem aluga e o que se aluga",
+   "bullets": [
+    "Nome completo e cédula do arrendador e do arrendatário. Se assinar um procurador, que o contrato cite a procuração notarial com seus dados.",
+    "Que o arrendador coincida com o proprietário que aparece no documento de propriedade registrado.",
+    "Endereço completo: edifício, andar, número do apartamento, vaga de estacionamento e depósito se houver.",
+    "Inventário do que é entregue: móveis, linha branca, estado dos pisos, paredes e banheiros. Melhor com fotos datadas como anexo."
+   ]
+  },
+  {
+   "h2": "Aluguel, moeda e forma de pagamento",
+   "paras": [
+    "O contrato deve dizer quanto você paga, quando, como e a quem. Preste atenção na data de pagamento, no meio (transferência, pagamento móvel, dinheiro) e na conta em nome de quem. Se pagar em dinheiro, exija recibo assinado a cada mês.",
+    "A moeda é um ponto delicado. No mercado é comum usar valores de referência em moedas estrangeiras ou calculados ao câmbio oficial publicado pelo Banco Central da Venezuela, enquanto a lei de arrendamentos de moradia tem suas próprias regras sobre a fixação do aluguel. Peça a um advogado que revise como fica redigida essa cláusula e qual câmbio é usado se pagar em bolívares."
+   ]
+  },
+  {
+   "h2": "Duração, prorrogação e aumentos",
+   "paras": [
+    "Verifique de quando a até quando dura o contrato, se se renova automaticamente ou se é preciso assinar novamente, e com que antecedência deve avisar se uma das partes não quiser continuar.",
+    "Veja também como o aluguel é ajustado. Um aumento livre \"quando o arrendador decidir\" te deixa exposto. O razoável é que o mecanismo de ajuste esteja escrito e seja compatível com a lei."
+   ]
+  },
+  {
+   "h2": "Depósito ou garantia: valor e devolução",
+   "paras": [
+    "O contrato deve dizer quanto você entregou como garantia, em que moeda, onde é guardado e em que prazo e condições é devolvido quando entregar o imóvel. A lei de arrendamentos de moradia regula a garantia, então um valor exagerado ou uma cláusula que diga que \"o depósito não é devolvido\" é um sinal para consultar."
+   ]
+  },
+  {
+   "h2": "Condomínio, serviços e reparos",
+   "paras": [
+    "As taxas especiais do condomínio (por exemplo, para reparar o elevador ou impermeabilizar) são uma fonte frequente de discussão. Deixe isso escrito."
+   ],
+   "table": {
+    "head": [
+     "Conceito",
+     "O que o contrato deve esclarecer"
+    ],
+    "rows": [
+     [
+      "Condomínio",
+      "Se está incluído no aluguel ou se paga à parte, e quem paga as taxas especiais"
+     ],
+     [
+      "Eletricidade, água, gás, limpeza",
+      "Quem paga e em nome de quem ficam os serviços"
+     ],
+     [
+      "Internet",
+      "Se o imóvel já tem linha e se você pode contratar outra"
+     ],
+     [
+      "Reparos maiores",
+      "Que estrutura, tubulações embutidas e infiltrações são do arrendador"
+     ],
+     [
+      "Manutenção menor",
+      "Que pequenos consertos você assume"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como termina o contrato",
+   "paras": [
+    "A lei de habitação limita as causas pelas quais um arrendador pode pedir o imóvel e estabelece procedimentos perante a SUNAVI antes de chegar a um tribunal. Um contrato que diga que você pode ser despejado sem mais trâmite contradiz esse marco. Verifique também o que acontece se você quiser sair antes: com quanto de antecedência e se há penalidade."
+   ],
+   "tip": "Assine somente quando tiver lido tudo, com todos os anexos (inventário, fotos) incluídos, e guarde sua cópia autenticada e os comprovantes de pagamento em um só lugar."
+  },
+  {
+   "h2": "Sinais de alerta em um contrato",
+   "paras": [
+    "Nenhum desses sinais significa por si só uma fraude, mas cada um é um motivo para parar, perguntar e, se necessário, buscar outro imóvel. Um arrendador sério não tem problema em você revisar o contrato com calma."
+   ],
+   "bullets": [
+    "O arrendador não é o proprietário e não mostra uma procuração notarial que o autorize a alugar.",
+    "O contrato não menciona o depósito, ou diz que não é devolvido em nenhum caso.",
+    "Pedem que você assine em branco ou com espaços não preenchidos \"para completar depois\".",
+    "Não há inventário e o apartamento tem danos visíveis que ninguém registra.",
+    "Pressionam para pagar no mesmo dia, sem deixar você levar o contrato para revisar.",
+    "Existe uma cláusula de renúncia a direitos que a lei reconhece ao arrendatário."
+   ]
+  },
+  {
+   "h2": "Antes do contrato, a busca",
+   "paras": [
+    "No Casa-Libre você pode comparar aluguéis no mapa por zona e escrever ao anunciante para pedir o modelo de contrato antes de visitar. Assim você chega com as dúvidas resolvidas. Está na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Um contrato de arrendamento modelo em PDF serve?",
+   "a": "Como guia, serve. Mas verifique se é para moradia, se está atualizado com a lei vigente e adapte-o ao seu caso. O ideal é que um advogado o revise."
+  },
+  {
+   "q": "É obrigatório notarizar o contrato?",
+   "a": "Autenticá-lo em notária nem sempre é obrigatório, mas confere data certa e é a prática recomendada para ambas as partes."
+  },
+  {
+   "q": "O locador pode me tirar do imóvel sem aviso?",
+   "a": "A lei de arrendamentos de moradia estabelece causas e procedimentos para a desocupação, com intervenção da SUNAVI. Diante de uma ameaça de desocupação, procure assessoria antes de deixar o imóvel."
+  },
+  {
+   "q": "Quem paga o condomínio quando eu alugo?",
+   "a": "Depende do que estiver no contrato. O habitual é deixar isso claro expressamente, junto com as quotas especiais."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Casas para alugar",
+  "Requisitos para alugar um apartamento"
+ ]
+}

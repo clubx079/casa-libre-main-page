@@ -1,0 +1,138 @@
+{
+ "_src": "3fbf767264bf",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Selling a rented property in Paraguay: how to do it",
+  "h1": "How to sell a property that is rented",
+  "description": "Selling with a tenant inside: what happens to the contract, how to notify and coordinate visits, when it makes sense to offer it to the tenant, and what buyer to look for.",
+  "answer": "You can sell a rented property in Paraguay, but before listing it you must decide between two paths: sell it with the tenant inside to a buyer who wants it as an investment and accepts the existing contract, or wait for the contract to end to sell it vacant. In both cases, the prudent thing is to read the contract with your escribano (notary), notify the tenant in advance, agree on visits in writing, and tell the buyer the situation from the first message."
+ },
+ "sections": [
+  {
+   "h2": "First I decided: with tenant or vacant?",
+   "paras": [
+    "There is no single answer. It depends on how long until the lease expires, what kind of buyer you are looking for, and how urgently you need to sell."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Sell with tenant",
+     "Sell vacant"
+    ],
+    "rows": [
+     [
+      "Typical buyer",
+      "Investor looking for rent from day one",
+      "Family who wants it to live in, or investor"
+     ],
+     [
+      "Advantage",
+      "You keep collecting rent while you sell; the buyer sees real income",
+      "More potential buyers and free viewings"
+     ],
+     [
+      "Disadvantage",
+      "Fewer buyers; viewings subject to the tenant",
+      "Months without rent while it sells"
+     ],
+     [
+      "When it makes sense",
+      "Long lease, compliant tenant, property intended for rent",
+      "Lease about to expire or family home (large houses)"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "What happens to the lease if you sell",
+   "paras": [
+    "This is the question the buyer will ask you the most. The Paraguayan Civil Code (Law 1183/1985) regulates leasing starting at article 803, and the lease itself may contain clauses about what happens if the property is sold. Before listing, ask your escribano (notary) or lawyer to read the contract and tell you how it applies in your case.",
+    "As a practical rule, it is prudent to assume that the existing lease is respected until its expiration, and that the buyer receives it with the tenant inside. Framing it this way avoids promises you later cannot keep, such as offering \"immediate delivery\" of a rented house.",
+    "If you want to sell vacant before the lease ends, the cleanest exit is an agreement with the tenant: an early termination in writing, with a delivery date and, if needed, some compensation for the move."
+   ]
+  },
+  {
+   "h2": "How to notify the tenant",
+   "paras": [
+    "The tenant will find out anyway, so it’s better that you tell them first and before the listing goes public. An honest conversation usually saves problems with viewings."
+   ],
+   "steps": [
+    "Tell them you are selling and explain what happens to their lease according to what your escribano told you.",
+    "Ask if they are interested in buying (see below).",
+    "Agree how viewings will be handled: days, times, notice period, and who will accompany.",
+    "Leave everything in writing, even if it’s just a WhatsApp message that the tenant confirms.",
+    "Thank them for their cooperation: some owners offer a rent discount while the sale is ongoing."
+   ]
+  },
+  {
+   "h2": "Viewings with the house occupied",
+   "paras": [
+    "The house belongs to the owner, but while the lease lasts it is the tenant’s home. Respecting that is also the best commercial strategy: an upset tenant may show the house messy or speak badly about the neighborhood."
+   ],
+   "bullets": [
+    "Group viewings: better two or three in the same time slot than one per day.",
+    "Filter beforehand via WhatsApp so only truly interested parties (budget, payment method, timelines) attend.",
+    "You or your agent should accompany each visit; don’t ask the tenant to show the house.",
+    "Use photos taken at an agreed time, or photos from before the tenancy if they are still accurate, and do not display the tenant’s personal belongings.",
+    "For the first interested parties, an agreed video tour with the tenant avoids unnecessary visits."
+   ]
+  },
+  {
+   "h2": "Offer it to the tenant first",
+   "paras": [
+    "Often the best buyer already lives inside. They know the house, the neighborhood, and the flaws, and have no moving costs. Before listing, ask if they are interested.",
+    "If they are interested but need financing, keep in mind that a mortgage loan takes time for analysis and appraisal. They can sign a reservation or a boleto with a reasonable period to obtain the loan, always with guidance from an escribano."
+   ]
+  },
+  {
+   "h2": "How to present it to an investor buyer",
+   "paras": [
+    "The investor buys numbers. If you sell with a tenant, your listing must answer the questions an investor asks, without exaggerating:"
+   ],
+   "bullets": [
+    "Current monthly rent and currency.",
+    "Start and end dates of the lease, and how adjustments are made.",
+    "Whether there is a guarantee and what type, and if the deposit transfers to the buyer.",
+    "Who pays the expensas and property tax.",
+    "Payment history of the tenant, stated honestly."
+   ],
+   "tip": "Do not publish the tenant’s personal data or copies of their lease. Those details are shared with serious buyers at the negotiation stage, and with permission."
+  },
+  {
+   "h2": "Documents to have ready",
+   "paras": [
+    "In addition to the usual sale paperwork (title, property tax up to date, plans if available), in a sale with a tenant it is useful to have a copy of the current lease, recent payment receipts, and any signed agreement with the tenant about the sale or handover. The escribano will tell you what to include in the escritura regarding the existing lease and the deposit."
+   ]
+  },
+  {
+   "h2": "Listing it on Casa-Libre",
+   "paras": [
+    "On Casa-Libre you list for free, with no commission, and buyers contact you directly via WhatsApp. In the description you can clarify \"Se vende con inquilino, contrato hasta [mes/año], ideal inversión\" to attract the right buyer from the first message. You can post from the website or from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I sell my house if it is rented?",
+   "a": "Yes. What you need to resolve is what happens to the existing contract: sell it with the tenant inside to a buyer who accepts it, or agree with the tenant on delivery before selling. Consult it with your escribano."
+  },
+  {
+   "q": "Does the buyer have to respect the rental contract?",
+   "a": "It depends on what the Civil Code and the contract itself establish for your case, so it is advisable to have a escribano or lawyer read it. The prudent thing is to advertise the property assuming the existing contract is respected until its expiration."
+  },
+  {
+   "q": "Do I have to notify the tenant that I am selling?",
+   "a": "It is recommended: visits depend on their cooperation and the tenant may even want to buy. Notify them before publishing and put in writing how the visits will be conducted."
+  },
+  {
+   "q": "Is a rented property sold for less?",
+   "a": "Not necessarily. For an investor buyer, a compliant tenant with a valid contract can be a plus. For a family that wants to move in right away, it is a disadvantage."
+  }
+ ],
+ "related": [
+  "Publicá gratis en Casa-Libre",
+  "Departamentos en venta",
+  "Documentos para vender un inmueble"
+ ]
+}

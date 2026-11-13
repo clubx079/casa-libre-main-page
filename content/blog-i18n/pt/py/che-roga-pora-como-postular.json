@@ -1,0 +1,141 @@
+{
+ "_src": "9e5b99001488",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Che Róga Porã: requisitos, taxas e como se inscrever",
+  "h1": "Che Róga Porã: quem pode acessar e como se inscrever passo a passo",
+  "description": "O que é Che Róga Porã, quem se qualifica, as taxas de 6,5% e 9,9% conforme renda, os valores máximos e como se inscrever em um banco, financeira ou cooperativa.",
+  "answer": "Che Róga Porã é um programa de crédito para moradia do Governo paraguaio, financiado através da AFD e tramitado em bancos, financeiras e cooperativas aderidas. Segundo o site oficial (consultado em novembro de 2026), é pensado para pessoas de 18 a 75 anos com renda de 1 a 9 salários mínimos: de 1 a 6 salários mínimos a taxa é de 6,5% ao ano e de mais de 6 a 9 salários mínimos, de 9,9%. Para se inscrever você vai diretamente a uma entidade aderida, que avalia se você é sujeito de crédito."
+ },
+ "sections": [
+  {
+   "h2": "O que é Che Róga Porã e em que se diferencia de um crédito comum",
+   "paras": [
+    "Che Róga Porã (\"minha casa linda\", em guarani) é um programa habitacional impulsionado pelo Ministério de Urbanismo, Habitação e Habitat (MUVH) com fundos canalizados pela Agência Financeira de Desenvolvimento (AFD). A AFD não empresta diretamente às pessoas: empresta a bancos, financeiras e cooperativas, e são essas entidades que concedem o crédito a você.",
+    "A diferença em relação a um crédito hipotecário comum está nas condições: taxas fixas mais baixas que as habituais do mercado para o segmento ao qual se destina, e prazos longos que permitem que a parcela mensal se assemelhe ao que muitas famílias já pagam de aluguel. O site oficial o apresenta como uma opção para quem não consegue empréstimos no sistema financeiro em condições acessíveis.",
+    "A AFD tem ainda outros produtos habitacionais, como Primera Vivienda e Mi Casa. Se você não se enquadrar no Che Róga Porã por renda ou pelo valor do imóvel, pergunte na mesma entidade sobre essas linhas."
+   ]
+  },
+  {
+   "h2": "Quem pode se candidatar",
+   "paras": [
+    "Segundo o site oficial do programa, os requisitos básicos são estes. Atenção: além de cumpri-los, a entidade financeira precisa qualificá-lo como sujeito de crédito, ou seja, analisar sua renda, seu histórico e sua capacidade de pagamento."
+   ],
+   "bullets": [
+    "Ter entre 18 e 75 anos.",
+    "Cédula de identidade vigente.",
+    "Renda entre 1 e 9 salários mínimos (pode somar a renda do núcleo familiar, conforme o que a entidade aceitar).",
+    "Que o imóvel que você deseja comprar ou construir não ultrapasse o valor máximo fixado para sua faixa de renda.",
+    "Ser aprovado por uma entidade financeira aderida à AFD."
+   ]
+  },
+  {
+   "h2": "Taxas e valores máximos por faixa de renda",
+   "paras": [
+    "Estes são os valores publicados no site oficial do Che Róga Porã, consultado em novembro de 2026. Os valores estão atrelados ao salário mínimo, portanto mudam quando há reajuste. Confirme sempre na entidade antes de assinar."
+   ],
+   "tip": "O teto do valor do imóvel é tão importante quanto o teto do crédito. Antes de se apaixonar por uma casa, compare seu preço com o valor máximo da sua faixa: se ultrapassar, o imóvel não entra no programa.",
+   "table": {
+    "head": [
+     "Faixa de renda",
+     "Taxa anual",
+     "Financiamento máximo",
+     "Valor máximo do imóvel"
+    ],
+    "rows": [
+     [
+      "De 1 a 6 salários mínimos (até Gs. 18.264.000)",
+      "6,5%",
+      "Gs. 684.900.000",
+      "Gs. 821.880.000"
+     ],
+     [
+      "Mais de 6 até 9 salários mínimos (até Gs. 27.396.000)",
+      "9,9%",
+      "Gs. 761.000.000",
+      "Gs. 913.200.000"
+     ],
+     [
+      "Assunção, Central e distritos de Pdte. Hayes (Nova Assunção, Benjamín Aceval, Villa Hayes), de 1 a 9 salários mínimos",
+      "Conforme sua faixa",
+      "Gs. 837.100.000",
+      "Gs. 1.156.720.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Prazo e parcela: como pensar quanto você vai pagar",
+   "paras": [
+    "O site oficial não detalha o prazo na tabela de condições, mas a imprensa paraguaia informou prazos de até 30 anos. Um prazo longo reduz a parcela mensal, mas aumenta o total de juros pagos ao longo do crédito. Peça à entidade uma simulação com pelo menos dois prazos diferentes para comparar.",
+    "A parcela também depende do valor que você solicitar: quanto mais capital próprio colocar, menos lhe emprestam e menos paga por mês. As entidades verificam se a parcela é razoável em relação à sua renda; se ficar muito alta, oferecerão um valor menor."
+   ]
+  },
+  {
+   "h2": "Como se candidatar passo a passo",
+   "paras": [
+    "O site oficial também oferece um formulário para deixar seus dados e ser contactado, mas a candidatura formal é feita na entidade financeira."
+   ],
+   "steps": [
+    "Revise sua renda familiar e identifique sua faixa (1 a 6 ou mais de 6 a 9 salários mínimos).",
+    "Escolha uma entidade aderida. O site oficial lista bancos (por exemplo Atlas, BASA, Familiar, GNB, Itaú, Bancop, BNF, Interfisa, Solar, Sudameris e ZETA), financeiras e mais de vinte cooperativas.",
+    "Solicite na entidade a lista exata de documentos: geralmente incluem cédula, comprovantes de renda e, se for autônomo, constância de RUC e extratos.",
+    "Peça uma pré-qualificação: eles informam quanto você poderia receber e com qual parcela aproximada.",
+    "Busque o imóvel dentro do valor máximo da sua faixa e com documentação em ordem (título registrado, sem dívidas ou gravames pendentes).",
+    "A entidade faz a avaliação e a análise jurídica do imóvel com um escribano (tabelião).",
+    "Se tudo for aprovado, assina a escritura (escritura pública) de compra e venda e a hipoteca a favor da entidade."
+   ]
+  },
+  {
+   "h2": "Que tipo de imóvel você pode comprar com Che Róga Porã",
+   "paras": [
+    "O programa foi pensado para habitação: comprar uma casa ou apartamento, ou construir. Existem projetos de incorporadoras especialmente voltados para o programa, mas você também pode buscar um imóvel no mercado, desde que respeite o teto de valor e que a entidade o aceite após a avaliação e o estudo de títulos.",
+    "As condições específicas sobre imóveis usados, terrenos ou construção em terreno próprio podem variar conforme a versão do programa e a entidade. Pergunte antes de sinalizar um imóvel."
+   ]
+  },
+  {
+   "h2": "Dicas para não ser rejeitado ou ter atrasos",
+   "bullets": [
+    "Organize sua documentação antes: comprovantes dos últimos meses, constância de trabalho ou de RUC, e dívidas em dia no sistema financeiro.",
+    "Se houver dívidas atrasadas, regularize-as antes de se candidatar: o histórico pesa na avaliação.",
+    "Candidate-se em mais de uma entidade se a primeira demorar ou oferecer um valor baixo; as condições do programa são as mesmas, mas a avaliação e a rapidez mudam.",
+    "Não entregue sinal alto por um imóvel até ter a pré-qualificação: se o crédito não for aprovado, você pode perdê-lo.",
+    "Desconfie de intermediários que cobram por \"garantir\" o crédito: a candidatura é feita diretamente na entidade."
+   ]
+  },
+  {
+   "h2": "Procure imóveis dentro do seu teto",
+   "paras": [
+    "Quando já souber seu valor máximo, filtre por preço no Casa-Libre e veja casas e apartamentos à venda no mapa. Escreva direto por WhatsApp ao proprietário ou à imobiliária e pergunte se o imóvel tem a documentação em dia para um crédito. Você também pode salvar opções no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual taxa tem Che Róga Porã?",
+   "a": "Segundo o site oficial (novembro de 2026), 6,5% ao ano para renda de 1 a 6 salários mínimos e 9,9% para renda de mais de 6 até 9 salários mínimos."
+  },
+  {
+   "q": "Onde se inscreve no Che Róga Porã?",
+   "a": "Em bancos, financeiras e cooperativas aderidas à AFD. A entidade revisa seus documentos, qualifica você como sujeito de crédito e tramita o empréstimo."
+  },
+  {
+   "q": "Posso somar a renda do meu parceiro ou família?",
+   "a": "O programa permite somar rendas do núcleo familiar para fortalecer o perfil, mas cada entidade define como avalia isso. Consulte ao solicitar a pré-qualificação."
+  },
+  {
+   "q": "Existe um valor máximo para a moradia?",
+   "a": "Sim. Segundo o site oficial, Gs. 821.880.000 para a faixa de 1 a 6 salários mínimos, Gs. 913.200.000 para a de mais de 6 a 9, e até Gs. 1.156.720.000 em Assunção, Central e alguns distritos de Presidente Hayes."
+  },
+  {
+   "q": "Che Róga Porã é só para a primeira moradia?",
+   "a": "O site oficial não menciona isso nos requisitos básicos que publica. Confirme na entidade, pois as condições podem mudar entre versões do programa."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: como comprar sua primeira casa"
+ ]
+}

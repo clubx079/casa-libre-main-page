@@ -1,0 +1,104 @@
+{
+ "_src": "5329d36c4905",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Transferência de imóvel na Bolívia: procedimento passo a passo",
+  "h1": "Transferência de um imóvel na Bolívia: minuta, escritura pública, impostos e registro passo a passo",
+  "description": "Como se transfere uma casa, apartamento ou lote na Bolívia: o que é a minuta, o que faz o notário, qual imposto se paga, o que pede Direitos Reais e o que falta após o registro.",
+  "answer": "A transferência de um imóvel na Bolívia tem quatro momentos: a minuta (o contrato de compra e venda redigido e assinado por um advogado), a escritura pública (o notário de fé pública protocoliza a minuta com a assinatura das partes), o pagamento do imposto de transferência na alcaldía e o registro em Direitos Reais, que é o que te torna proprietário perante todos. Depois falta atualizar o cadastro municipal e os serviços."
+ },
+ "sections": [
+  {
+   "h2": "Passo 1: a minuta de compravenda",
+   "paras": [
+    "A minuta é o documento onde comprador e vendedor deixam por escrito a compra e venda. Ela é redigida por um advogado, que a assina junto com as partes. Embora circulem modelos de minuta na internet, cada transferência tem dados próprios que precisam estar bem escritos, porque Direitos Reais verifica que o título designe com clareza as partes e o imóvel."
+   ],
+   "bullets": [
+    "Dados completos das partes: nome, cédula, estado civil, domicílio. Se o vendedor for casado, normalmente assina também o cônjuge.",
+    "Identificação do imóvel: localização, superfície, confrontações e número de matrícula nos Direitos Reais.",
+    "Antecedente de domínio: como o vendedor adquiriu (compra, herança, etc.).",
+    "Preço, moeda e forma de pagamento, inclusive se houver saldo pendente ou crédito bancário.",
+    "Declaração de que o imóvel está livre de gravames, ou quais são cancelados no ato.",
+    "Quem paga cada gasto: imposto de transferência, notario, Direitos Reais."
+   ]
+  },
+  {
+   "h2": "Passo 2: a escritura pública ante notario",
+   "paras": [
+    "O notario de fé pública recebe a minuta, verifica a identidade das partes e a protocoliza: a converte em uma escritura pública que fica em seu registro e da qual emite um testimonio. Esse testimonio é o título que se apresenta nos Direitos Reais.",
+    "Antes de assinar, o notario costuma solicitar o folio real (folha real) atualizado, o comprovante de impostos municipais em dia e as cédulas. Se houver crédito bancário, na mesma escritura ou em outra se constitui a hipoteca a favor do banco."
+   ],
+   "tip": "Pague o saldo do preço no ato da assinatura, por transferência ou com cheque de gerência em nome do vendedor, e faça com que a escritura indique como foi pago. Evite entregar dinheiro em espécie."
+  },
+  {
+   "h2": "Passo 3: o imposto de transferência",
+   "paras": [
+    "Quando vende uma pessoa que não se dedica a vender imóveis como negócio, corresponde o Imposto Municipal às Transferências (IMT). Segundo seu regulamento, é de 3% sobre o maior entre o preço e o valor do imóvel para o imposto sobre a propriedade, e deve ser pago dentro dos 10 dias úteis seguintes à assinatura. Se vender uma empresa do ramo, aplicam-se impostos nacionais. Sem o comprovante de pagamento, os Direitos Reais não registram."
+   ]
+  },
+  {
+   "h2": "Passo 4: a inscrição nos Direitos Reais",
+   "paras": [
+    "O Código Civil e a Lei de Inscrição de Direitos Reais estabelecem que os atos sobre imóveis produzem efeito frente a terceiros a partir da sua inscrição. Enquanto você não inscrever, outro comprador ou um credor do vendedor que inscrever antes de você pode ter prioridade."
+   ],
+   "steps": [
+    "Reúna o testimonio da escritura, o comprovante do imposto de transferência, as cédulas e os demais requisitos que a oficina solicitar.",
+    "Apresente o procedimento na oficina dos Direitos Reais do departamento onde está o imóvel e pague as taxas.",
+    "Se o registrador observar algo (um dado escrito errado, diferença de superfície), corrija com o notario ou o advogado; os procedimentos observados que ninguém retira são arquivados após algum tempo.",
+    "Retire a constância de inscrição e solicite um folio real (folha real) atualizado onde já conste como proprietário."
+   ]
+  },
+  {
+   "h2": "Depois de inscrever: o que falta",
+   "bullets": [
+    "Alteração de nome no cadastro municipal e no registro do imposto sobre a propriedade.",
+    "Alteração de titularidade de luz, água e gás, com a escritura e sua cédula.",
+    "Se for um apartamento, avisar a administração do prédio para despesas e regulamento.",
+    "Guardar em local seguro o testimonio, o folio real e os comprovantes de impostos."
+   ]
+  },
+  {
+   "h2": "Quem faz cada coisa",
+   "paras": [
+    "O advogado redige a minuta e revisa os papéis; o notario de fé pública dá forma à escritura pública e verifica identidades; a alcaldía cobra o imposto e atualiza o cadastro; os Direitos Reais inscrevem. Como comprador, convém que uma única pessoa de confiança (normalmente seu advogado) acompanhe o procedimento do início ao fim."
+   ]
+  },
+  {
+   "h2": "Quanto tempo leva",
+   "paras": [
+    "Depende muito da cidade, do estado dos papéis e da carga de trabalho de cada oficina. A parte mais lenta costuma ser resolver problemas que surgem tarde: diferenças de superfície, gravames não cancelados ou dados escritos incorretamente. Revisar o folio real e o plano antes de assinar a minuta é a melhor forma de encurtar o procedimento."
+   ]
+  },
+  {
+   "h2": "Comece com um imóvel com papéis em ordem",
+   "paras": [
+    "Ao buscar, pergunte desde o início sobre a matrícula, o plano aprovado e os impostos. No Casa-Libre você vê imóveis à venda no mapa e escreve direto por WhatsApp ao anunciante. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é uma minuta de transferência de imóvel?",
+   "a": "O documento de compra e venda que redige e assina um advogado com as partes. O notário a protocoliza como escritura pública, que é o título que se registra em Direitos Reais."
+  },
+  {
+   "q": "Quais requisitos pede Direitos Reais para uma transferência?",
+   "a": "Principalmente o testimonio (testemunho) da escritura, o comprovante do imposto de transferência e as cédulas. Confirme a lista exata no escritório do seu departamento."
+  },
+  {
+   "q": "Posso registrar um documento privado?",
+   "a": "O regulamento de Direitos Reais admite documentos privados legalmente reconhecidos, mas para uma compra e venda o habitual e mais seguro é a escritura pública perante notário."
+  },
+  {
+   "q": "O que acontece se eu não registrar a compra?",
+   "a": "O contrato vale entre as partes, mas não perante terceiros. Outro comprador ou um credor que registre antes pode ter prioridade."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Guia: documentos para vender um imóvel",
+  "Guia: custos ao comprar",
+  "Folio real: o que é"
+ ]
+}

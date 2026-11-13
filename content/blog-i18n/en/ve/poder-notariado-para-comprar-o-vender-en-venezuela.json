@@ -1,0 +1,124 @@
+{
+ "_src": "333b79a970e8",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Notarized Power of Attorney to Buy or Sell in Venezuela",
+  "h1": "Notarized Power of Attorney to Buy or Sell a Property in Venezuela, Also from Abroad",
+  "description": "When you need a power of attorney to buy or sell a property in Venezuela, the difference between general and special power, how to grant it at a notary or abroad and how to verify one.",
+  "answer": "If you cannot be in Venezuela to sign a purchase or sale, you can grant a power of attorney to a trusted person to sign for you. For real estate, a special power that names the property and the exact authorities (sell, collect, sign before the registry) is advisable. In Venezuela it is granted before a notaría; abroad, before the Venezuelan consulate or a local notary with an apostille. If you buy from an attorney-in-fact, verify the power at the notaría that authenticated it."
+ },
+ "sections": [
+  {
+   "h2": "When you need a power of attorney",
+   "paras": [
+    "Many Venezuelans living abroad own property in the country or want to buy one. Since the sale is signed before the Real Estate Registry, someone has to be present. If you cannot travel, the power of attorney allows another person to sign on your behalf.",
+    "It is also used when the owner is ill, when several heirs sell together and some live far away, or when a person wants a family member to handle the paperwork."
+   ]
+  },
+  {
+   "h2": "General power or special power",
+   "paras": [
+    "To sell a property, the power must expressly include the authority to dispose (sell) and, if the attorney-in-fact will receive the money, the authority to collect and give receipt. A power that only says \"manage\" is not enough to sell."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "What it allows",
+     "When to use it"
+    ],
+    "rows": [
+     [
+      "General power of administration and disposition",
+      "Act on many matters of the grantor, including his assets",
+      "When you fully trust the attorney-in-fact and need them to handle several matters"
+     ],
+     [
+      "Special power",
+      "Specific acts on a specific asset: sell a particular apartment, collect the price, sign before the registry",
+      "For a one-time purchase or sale; this is the most recommended option"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "What a special power for a property must say",
+   "bullets": [
+    "Full details of the grantor and the attorney-in-fact: names, ID numbers and marital status.",
+    "Identification of the property: address, boundaries and registration data of the title document.",
+    "Exact authorities: sell or buy, set price, collect or pay, sign the document, process clearances and payments before the SENIAT and the alcaldía (city hall).",
+    "If there is a spouse with rights over the asset, their consent or their own power.",
+    "Validity period, if you want to limit it in time."
+   ]
+  },
+  {
+   "h2": "How it is granted in Venezuela",
+   "steps": [
+    "Ask a lawyer to draft the power. Notarías usually require the document to be endorsed by a lawyer.",
+    "Start the procedure through the SAREN online system, upload the document and pay the fees.",
+    "Go to the notario (notary) at the assigned appointment with your ID to sign before the notario.",
+    "Pick up the authenticated power and give a certified copy to the attorney-in-fact."
+   ]
+  },
+  {
+   "h2": "If you live abroad",
+   "paras": [
+    "There are two common routes. The first is to grant the power before the Venezuelan consulate in your country of residence, which acts as a notary office. The second is to sign it before a notary in the country where you live and then apostille it (if that country is a party to the Hague Apostille Convention) so it is valid in Venezuela. If the power is in another language, a translation by a public interpreter will be required.",
+    "Before signing abroad, have your lawyer in Venezuela review the text. An error in the property data or in the authorities can cause the registry to reject the power and force you to repeat the whole process."
+   ],
+   "tip": "Send the original with the apostille to the attorney-in-fact via a tracked courier service. A simple scanned copy is not valid for signing before the registry."
+  },
+  {
+   "h2": "If you buy from someone acting with a power",
+   "paras": [
+    "It is a common and legitimate situation, but also a point where frauds appear: false powers, revoked powers, or powers that do not include the authority to sell."
+   ],
+   "bullets": [
+    "Request a copy of the power and verify that it expressly includes the authority to sell that property.",
+    "Check with the notary office or consulate that issued it that the power exists and has not been revoked.",
+    "If it is from abroad, verify the apostille or legalization.",
+    "Have your lawyer confirm that the registry will accept that power.",
+    "Pay to an account in the name of the owner, unless the power expressly authorizes the attorney-in-fact to collect."
+   ]
+  },
+  {
+   "h2": "How to revoke a power",
+   "paras": [
+    "If you no longer trust the attorney-in-fact or the transaction has changed, you can revoke the power with a revocation document authenticated before a notary or consulate. Notify the revocation to the attorney-in-fact and, if you know who they were negotiating with, also to that person, so no one acts with a power that is no longer valid."
+   ]
+  },
+  {
+   "h2": "Buy or sell remotely with Casa-Libre",
+   "paras": [
+    "If you sell from abroad, you can list your property on Casa-Libre and handle inquiries via WhatsApp while your attorney-in-fact conducts the viewings. If you buy, you can view options on the map and request videos before deciding. Available on the website and the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I sell my apartment in Venezuela while I am abroad?",
+   "a": "Yes, by granting a special power before the Venezuelan consulate or a local notary with an apostille, so an attorney-in-fact can sign on your behalf."
+  },
+  {
+   "q": "Does a general power work for selling?",
+   "a": "Only if it expressly includes the authority to dispose of or sell assets. For a one-time sale, a special power is recommended."
+  },
+  {
+   "q": "How do I verify that a power is genuine?",
+   "a": "Confirm with the notaría or the consulate that issued it that it exists and has not been revoked, and have your lawyer review it."
+  },
+  {
+   "q": "Do I need to apostille a power made abroad?",
+   "a": "If you sign it before a foreign notary, usually yes, or legalize it if the country is not a party to the apostille convention. If you grant it at the Venezuelan consulate, follow its instructions."
+  },
+  {
+   "q": "Can a power be revoked?",
+   "a": "Yes, with a revocation document authenticated before a notaría or consulate. Notify the attorney-in-fact and anyone who was dealing with them."
+  }
+ ],
+ "related": [
+  "Post Your Property",
+  "Properties for Sale",
+  "Buy a Home from Abroad"
+ ]
+}

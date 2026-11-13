@@ -1,0 +1,108 @@
+{
+ "_src": "db2f0d24b8a3",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Changing the Account Holder for UTE, OSE and Antel When You Move: Step by Step",
+  "h1": "Changing the Account Holder for UTE, OSE and Antel: How to Put the Services in Your Name When You Move",
+  "description": "How to change the account holder for UTE (electricity), OSE (water) and Antel when renting or buying in Uruguay: documents, online procedure, WhatsApp or phone, previous debts and what to do when you leave.",
+  "answer": "When you move, it is advisable to put the electricity (UTE), water (OSE) and, if applicable, internet or phone in your name. At UTE the procedure is called \"cambio de nombre del servicio\" and can be done online, via WhatsApp or phone if you already have a user account, or at a commercial office; you must be of legal age and have no debt with UTE. At OSE you need your ID and something that proves the property registration number (a tax receipt or the cadastral certificate); if the service has debt, you also have to prove your link to the property, for example with the rental contract. Do it as soon as you receive the keys and with a meter reading."
+ },
+ "sections": [
+  {
+   "h2": "Why it’s worth putting the services in your name",
+   "paras": [
+    "If the services remain in the name of the owner or the previous tenant, any problem (a cut, a complaint, a mis-calculated bill) has to be handled by someone else. And if debt accumulates in another’s name, it later becomes hard to separate what is yours and what isn’t.",
+    "With the service in your name, you receive the bills, you can make complaints and you have a proof of address, which is required in many procedures."
+   ]
+  },
+  {
+   "h2": "UTE: change of service name",
+   "paras": [
+    "UTE calls this procedure “cambio de nombre del servicio”. According to UTE, the new holder does it and it can be carried out:"
+   ],
+   "bullets": [
+    "Online or via WhatsApp, if you are or have been a UTE client (you need a web user).",
+    "By phone, through UTE Telegestiones, calling 0800 1930 from a landline or *1930 from a mobile phone.",
+    "At a commercial office, presenting your identity document."
+   ],
+   "tip": "For natural persons, UTE requires you to be over 18 and have no pending debt with UTE. If you have an old debt from another address, regularize it first."
+  },
+  {
+   "h2": "OSE: change of water service holder",
+   "paras": [
+    "At OSE the procedure allows changing the holder of an active service. According to OSE, the following are required:"
+   ],
+   "bullets": [
+    "Valid identity document (ID card, passport or RUT card).",
+    "Documentation that proves the cadastral number: a domestic tax receipt or the cadastral account sheet.",
+    "If the service has debt: documentation that proves your link to the property (rental contract, deed of sale, loan for use or other) and sign an affidavit."
+   ]
+  },
+  {
+   "h2": "Where to do the OSE procedure",
+   "paras": [
+    "You can start online with a registered user, completing the web form, or at an OSE Service Center with the documentation. OSE also assists via WhatsApp and by phone (0800 1871 or *1871 from a mobile). If you go to the office, schedule an appointment beforehand to avoid waiting.",
+    "Ask the owner, before you move, for a copy of a property tax receipt or the cadastral number: it’s the most forgotten item and they will ask for it."
+   ]
+  },
+  {
+   "h2": "If the service has previous debt",
+   "paras": [
+    "The debt of a service belongs to its holder, but it can complicate the procedure for you. Before signing the contract or the escritura (public deed), ask for the latest UTE and OSE bills and verify that they are paid. If there is debt, agree in writing who will pay it before you receive the keys.",
+    "In a sale, your escribano (notary) checks tax debts, but you should also review service debts yourself."
+   ]
+  },
+  {
+   "h2": "Antel and internet",
+   "paras": [
+    "If the dwelling has an Antel phone or internet line in someone else’s name, you can request a change of holder or a new connection in your name. If you already have a service at your previous home, check whether you can transfer it to the new address and how far in advance you should request it, so you don’t lose connection in the first days."
+   ]
+  },
+  {
+   "h2": "Step-by-step on moving day",
+   "steps": [
+    "Take a photo of the electricity and water meters with the date, the day you receive the keys.",
+    "Ask the owner for the cadastral number and the latest paid bills.",
+    "Make the name change at UTE via web, WhatsApp, phone or office.",
+    "Make the holder change at OSE online or at a Service Center.",
+    "Arrange internet in advance.",
+    "Save the request numbers for each procedure."
+   ]
+  },
+  {
+   "h2": "When you leave",
+   "paras": [
+    "When a lease ends, pay the bills up to the hand-over day, take a photo of the meters and coordinate with the owner whether a new holder change or a termination is done. The payment receipts help you recover the guarantee or deposit without disputes.",
+    "If you are looking for a place to move, at Casa-Libre you can see rentals and properties for sale throughout Uruguay on the map and write directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What happens if I don’t change the account holder and the service remains in the owner’s name?",
+   "a": "The service keeps working, but the bills, complaints and any debt remain in another person’s name. If there is a problem, you depend on the holder to manage it, and when you leave there can be disputes about which consumption belongs to whom."
+  },
+  {
+   "q": "How do I change the UTE account holder?",
+   "a": "Request the \"cambio de nombre del servicio\" online or via WhatsApp if you already have a UTE user account, by phone at 0800 1930 or *1930, or at a commercial office with your ID."
+  },
+  {
+   "q": "What do I need for the OSE account holder change?",
+   "a": "Identity document and something that proves the registration number (tax receipt or cadastral certificate). If there is debt, also the rental contract or another document that proves your link and a sworn statement."
+  },
+  {
+   "q": "Can I do the OSE account holder change online?",
+   "a": "Yes, OSE allows you to start the procedure online with a registered user, in addition to doing it at a Service Center."
+  },
+  {
+   "q": "Can the tenant put the electricity in their name?",
+   "a": "Yes. That is the recommended approach: the new holder carries out the procedure and takes responsibility for the service from that moment on."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Properties in Montevideo",
+  "Requirements to rent"
+ ]
+}

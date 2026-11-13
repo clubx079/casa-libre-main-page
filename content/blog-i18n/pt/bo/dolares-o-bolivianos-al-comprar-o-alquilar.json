@@ -1,0 +1,92 @@
+{
+ "_src": "0e57b0d2e553",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dólares ou bolivianos ao comprar ou alugar na Bolívia?",
+  "h1": "Dólares ou bolivianos: em que moeda convém comprar, alugar ou fazer um anticrético na Bolívia",
+  "description": "Com a taxa de câmbio flexível desde 2026, a moeda do contrato imobiliário importa mais. Quais riscos tem pactuar em dólares ou em bolivianos e como redigir a cláusula de moeda.",
+  "answer": "Não há uma moeda \"melhor\" para todos: convém que a moeda do contrato coincida com a moeda em que você tem sua renda ou suas economias. Desde junho de 2026 a Bolívia deixou a taxa de câmbio fixa de 6,96 e passou a uma taxa de câmbio oficial flexível que publica o Banco Central da Bolívia todos os dias. Por isso, se você pactuar em dólares e receber em bolivianos (ou o contrário), assume o risco de que a taxa de câmbio se mova. Escreva isso com precisão no contrato."
+ },
+ "sections": [
+  {
+   "h2": "O que mudou em 2026",
+   "paras": [
+    "Durante mais de uma década o dólar oficial esteve fixo em Bs 6,96, e muitos contratos de compra e venda, aluguel e anticrético foram pactuados em dólares sem se preocupar muito com a conversão. Nos últimos anos, a escassez de dólares fez aparecer preços diferentes conforme onde se trocava.",
+    "Em junho de 2026 o Governo e o Banco Central da Bolívia adotaram um regime cambial flexível: o tipo de câmbio oficial é calculado a cada dia a partir das operações de compra de dólares das instituições financeiras. Desde então o tipo de câmbio oficial se movimentou de forma importante em poucas semanas. Para um contrato imobiliário, isso significa que a conversão entre dólares e bolivianos já não é uma formalidade."
+   ]
+  },
+  {
+   "h2": "Ao comprar: preço, pagamento e crédito",
+   "paras": [
+    "Muitos imóveis são anunciados em dólares. Se você vai pagar com poupança em dólares, pactuar em dólares é simples. Se vai pagar com bolivianos ou com um crédito bancário, a pergunta chave é: a que tipo de câmbio o preço será convertido, e em que data?",
+    "Os créditos habitacionais são concedidos majoritariamente em bolivianos, e a regulação de habitação de interesse social só computa créditos em moeda nacional. Se o preço está em dólares e o crédito em bolivianos, entre a assinatura do compromisso e o desembolso o valor em bolivianos pode mudar. Fixe o preço na moeda do pagamento ou concorde com um tipo de câmbio concreto."
+   ]
+  },
+  {
+   "h2": "Ao alugar: a parcela de cada mês",
+   "paras": [
+    "Se você recebe em bolivianos e o aluguel está em dólares, a cada mês paga uma quantidade diferente de bolivianos. Com um tipo de câmbio que sobe, seu aluguel aumenta embora o contrato não mude. Se puder, negocie o aluguel em bolivianos com um reajuste anual pactuado; para o proprietário é uma forma de ter previsibilidade, e para você também."
+   ]
+  },
+  {
+   "h2": "No anticrético: o que você entrega é o que devolvem",
+   "paras": [
+    "Em um anticrético a moeda pesa ainda mais, porque a soma volta a você após anos. Se você entrega dólares e o contrato diz dólares, eles têm que devolver dólares. Se entrega bolivianos, devolvem bolivianos, que podem valer menos em dólares do que quando foram entregues. Essa diferença pode ser grande em um contrato de até cinco anos."
+   ],
+   "tip": "Se o anticrético está em dólares e o dono propõe devolver em bolivianos, o contrato deve indicar qual tipo de câmbio será usado: por exemplo, o oficial publicado pelo BCB no dia da devolução."
+  },
+  {
+   "h2": "Como redigir a cláusula de moeda",
+   "bullets": [
+    "Moeda da obrigação: em que moeda se fixa o preço, o aluguel ou o valor do anticrético.",
+    "Moeda de pagamento: se pode pagar na outra moeda e com qual tipo de câmbio (oficial do BCB, de uma entidade concreta) e de que data.",
+    "Forma de pagamento: transferência bancária para uma conta nessa moeda, com comprovante.",
+    "Reajuste: se o valor é atualizado (por exemplo, o aluguel a cada ano) e com que critério.",
+    "O que acontece se não houver dólares disponíveis para pagar nessa moeda na data."
+   ]
+  },
+  {
+   "h2": "Se você está economizando para comprar",
+   "paras": [
+    "Se você economiza para a entrada e as propriedades que lhe interessam são anunciadas em dólares, uma alta do tipo de câmbio pode afastar seu objetivo mesmo que economize o mesmo valor todo mês. Pense em que moeda está o preço do que quer comprar e em que moeda está economizando, e consulte sua instituição financeira as opções disponíveis para seu caso."
+   ]
+  },
+  {
+   "h2": "A UFV: a outra unidade que você verá",
+   "paras": [
+    "Na habitação aparece uma terceira unidade: a Unidade de Fomento de Habitação (UFV), um índice que publica diariamente o Banco Central da Bolívia e que acompanha a inflação. É usada, por exemplo, para fixar os tetos da habitação de interesse social. Não é uma moeda com a qual você paga, mas alguns contratos a utilizam para atualizar valores frente à inflação."
+   ]
+  },
+  {
+   "h2": "Compare preços na moeda que lhe serve",
+   "paras": [
+    "Quando comparar propriedades anunciadas em moedas diferentes, converta-as ao tipo de câmbio do dia para ter uma referência comum. No Casa-Libre você vê propriedades à venda e aluguel no mapa e pode perguntar por WhatsApp ao anunciante se aceita pagamentos em bolivianos. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O dólar continua em 6,96 na Bolívia?",
+   "a": "Não. Desde o final de junho de 2026 vigora uma taxa de câmbio oficial flexível que o Banco Central da Bolívia calcula e publica todos os dias."
+  },
+  {
+   "q": "Convém alugar em dólares ou em bolivianos?",
+   "a": "Em geral, na moeda em que você recebe. Se você recebe em bolivianos e aluga em dólares, seu aluguel em bolivianos sobe cada vez que a taxa de câmbio sobe."
+  },
+  {
+   "q": "Em que moeda se devolve um anticrético?",
+   "a": "Na que estiver no contrato. Se foi pactuado em dólares, devem devolver dólares, salvo se o contrato prever outra coisa e fixar a taxa de câmbio."
+  },
+  {
+   "q": "O que é a UFV?",
+   "a": "A Unidade de Fomento de Habitação, um índice diário do BCB que acompanha a inflação. É usada em tetos de habitação social e para atualizar valores."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Aluguéis no mapa",
+  "Guia: gastos ao comprar uma casa",
+  "Contrato de anticrético: o que revisar"
+ ]
+}

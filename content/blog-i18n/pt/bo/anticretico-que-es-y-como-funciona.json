@@ -1,0 +1,94 @@
+{
+ "_src": "acb201fbc18e",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Anticrético na Bolívia: o que é, como funciona e seus riscos",
+  "h1": "Anticrético na Bolívia: o que é, como funciona e como se proteger",
+  "description": "O que é o anticrético, por que é usado na Bolívia, quanto dura (máximo 5 anos segundo o Código Civil), por que deve ser feito perante notário e inscrito em Direitos Reais, e seus riscos.",
+  "answer": "O anticrético é um contrato em que você entrega ao proprietário uma soma de dinheiro e, em troca, mora no imóvel dele sem pagar aluguel mensal; ao terminar, devolve o imóvel e o dono devolve o dinheiro completo. O Código Civil o chama de anticrésis: deve ser feito em documento público (ante notário), só vale frente a terceiros a partir da inscrição em Direitos Reais e não pode ser pactuado por mais de cinco anos."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona o anticrético na prática",
+   "paras": [
+    "Jurídicamente, o anticrético é uma garantia: o proprietário recebe um dinheiro (como um empréstimo) e te entrega o uso do imóvel como garantia e como \"juros\". Você não paga aluguel e ele não te paga juros. Quando vence o prazo, o dono te devolve exatamente a soma recebida e você lhe devolve o imóvel.",
+    "Para quem busca moradia, a vantagem é clara: não há um gasto mensal de aluguel e, se tudo correr bem, você recupera o dinheiro ao final. Para o proprietário, é uma forma de obter uma soma grande de uma vez sem passar por um banco. Por isso o anticrético é tão comum em cidades como La Paz, El Alto, Cochabamba e Santa Cruz."
+   ]
+  },
+  {
+   "h2": "O que diz o Código Civil",
+   "paras": [
+    "O Código Civil boliviano regula a anticresis nos artigos 1429 a 1435. Estas são as regras que mais te afetam se você vai entregar seu dinheiro:"
+   ],
+   "bullets": [
+    "Deve constituir-se por documento público, ou seja, com escritura ante notario de fé pública (art. 1430).",
+    "Só produz efeito frente a terceiros a partir do dia de sua inscrição no registro, que é Direitos Reales (art. 1430).",
+    "Concede direito de retenção (você pode ficar no imóvel enquanto não devolvem o dinheiro) e de preferência frente a outros credores (arts. 1431 e 1432).",
+    "Salvo pacto distinto, quem dá o dinheiro (o anticresista) paga os impostos e encargos anuais do imóvel e deve conservá-lo como um bom pai de família (art. 1434).",
+    "Não pode ser pactuado por mais de cinco anos; se for pactuado prazo maior, reduz-se a cinco (art. 1435).",
+    "Um imóvel urbano destinado a moradia não pode estar ao mesmo tempo em aluguel e em anticrético (art. 716)."
+   ]
+  },
+  {
+   "h2": "Os riscos reais do anticrético",
+   "paras": [
+    "O grande risco é não recuperar seu dinheiro. Acontece sobretudo em três situações: quando o dono já tinha uma hipoteca e o banco executa a casa; quando o mesmo imóvel é entregue em anticrético a mais de uma pessoa; e quando o proprietário simplesmente não tem o dinheiro para devolver ao final do prazo.",
+    "A inscrição em Direitos Reales é sua principal defesa: se seu anticrético está inscrito, quem comprar ou receber depois o imóvel tem que respeitá-lo. Um contrato privado sem inscrição te deixa muito mais exposto."
+   ],
+   "tip": "Antes de entregar um só boliviano, peça o folio real (folha real) atualizado do imóvel. Se constar uma hipoteca ou um anticrético anterior vigente, pare e consulte um advogado."
+  },
+  {
+   "h2": "Passos para fazer um anticrético seguro",
+   "steps": [
+    "Peça o número de matrícula e obtenha o folio real (folha real) atualizado em Direitos Reales: confirme que quem oferece o anticrético é o dono e que não há hipotecas, anticréticos nem penhoras vigentes.",
+    "Verifique que os impostos municipais do imóvel estejam pagos.",
+    "Combine o valor, o prazo (máximo cinco anos) e quem paga impostos, expensas (despesas) e reparos.",
+    "Assine a minuta e a escritura pública (escritura pública) ante notario (notário) de fé pública.",
+    "Entregue o dinheiro por transferência ou com comprovante bancário em nome do proprietário registrado, no mesmo ato da assinatura.",
+    "Inscreva o anticrético em Direitos Reales e guarde o folio real onde figura seu direito.",
+    "Ao receber o imóvel, faça uma ata de entrega com fotos do estado de tudo."
+   ]
+  },
+  {
+   "h2": "Se você não tem todo o dinheiro: crédito para anticrético",
+   "paras": [
+    "Várias entidades financeiras oferecem créditos para anticrético de moradia. A regulação de habitação de interesse social até permite que esses créditos contem dentro da carteira de habitação social quando o imóvel não supera os limites de valor. Compare a parcela do crédito com o que pagaria de aluguel: se a parcela for parecida, o anticrético pode fazer sentido porque ao final você recupera o capital; se for muito maior, talvez não."
+   ]
+  },
+  {
+   "h2": "Como buscar um anticrético",
+   "paras": [
+    "Primeiro procure por zona e depois pergunte diretamente se o dono aceita anticrético: muitos proprietários que anunciam aluguel também consideram. No Casa-Libre você pode ver casas e apartamentos no mapa e escrever por WhatsApp ao dono ou à imobiliária. Peça o número de matrícula na primeira mensagem. Também pode buscar pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto tempo pode durar um anticrético?",
+   "a": "Segundo o artigo 1435 do Código Civil, no máximo cinco anos. Se for pactado um prazo maior, ele se reduz a cinco."
+  },
+  {
+   "q": "O anticrético precisa ser inscrito em Direitos Reais?",
+   "a": "Para ser oponível a terceiros, sim. O artigo 1430 dispõe que o contrato se constitui por documento público e produz efeito frente a terceiros a partir da sua inscrição no registro."
+  },
+  {
+   "q": "Quem paga os impostos em um anticrético?",
+   "a": "Conforme o artigo 1434, se não houver acordo em contrário, o credor anticresista. Na prática, costuma-se negociar; deixe isso escrito no contrato."
+  },
+  {
+   "q": "O que acontece se, ao final, o dono não me devolver o dinheiro?",
+   "a": "Você tem direito de retenção: pode permanecer no imóvel enquanto não for pago, e pode reivindicar judicialmente. Com o anticrético inscrito, sua posição frente a outros credores é muito mais forte."
+  },
+  {
+   "q": "É possível alugar e dar em anticrético a mesma residência?",
+   "a": "Não ao mesmo tempo. O artigo 716 do Código Civil proíbe isso para imóveis urbanos destinados a moradia e sanciona o anticrético com nulidade."
+  }
+ ],
+ "related": [
+  "Apartamentos para viver",
+  "Casas para viver",
+  "Propriedades em La Paz",
+  "Contrato de anticrético: o que revisar"
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "_src": "35b0eb99b135",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to know if a land has an owner or is public in Paraguay",
+  "h1": "How to know if a land has an owner or is public before buying it",
+  "description": "Catastro, Public Registries, INDERT and escribano (notary): how to verify who owns a land in Paraguay, whether it is public or has mortgages before paying.",
+  "answer": "To find out if a land has an owner in Paraguay you cross-check two registers: the catastro (National Cadastre Service), which identifies the property by its cuenta corriente catastral or padrón, and the Dirección General de los Registros Públicos, where the title is registered with the holder's name. The domain condition report, which is usually requested by an escribano, shows who the owner is and whether there are mortgages or liens. If the land does not appear registered in a person's name, it may be public or municipal, or be part of an INDERT settlement."
+ },
+ "sections": [
+  {
+   "h2": "Why the seller’s words aren’t enough",
+   "paras": [
+    "A vacant lot has no house to show who lives there. That’s why it’s the type of property where problems appear most often: parcels that actually belong to the State or the municipality, overlapping titles (two people with papers on the same land), unfinished successions or \"rights\" over an occupation that cannot be deeded.",
+    "The only way to know who the owner is would be to check the official registers, and let a escribano (notary) and, if needed, a surveyor confirm that the land you see on site is the same one that appears on the papers."
+   ]
+  },
+  {
+   "h2": "Step 1: identify the property in the cadastre",
+   "paras": [
+    "Every registered property has a cadastral identifier: in urban areas, the cuenta corriente catastral; in rural areas, the padrón. That number appears on the property tax bill and on the title. Ask the seller for it from the first conversation: if they don’t have it or don’t want to give it, that’s a red flag.",
+    "The National Cadastre Service records the physical data of the property (location, area, dimensions) and its fiscal valuation, which is the basis of the property tax. The fact that the land is listed in the cadastre does not by itself prove who owns it, but it allows you to pinpoint the exact property being discussed and detect differences between what is offered and what is registered."
+   ]
+  },
+  {
+   "h2": "Step 2: the title and the domain condition report",
+   "paras": [
+    "Ownership is recorded at the Dirección General de los Registros Públicos, which depends on the Judicial Branch. The key document is the domain condition report (or certificate): it indicates in whose name the property is registered, by which finca or matrícula it is identified, and whether mortgages, liens, injunctions or other measures burden it.",
+    "In practice, that report is requested by the escribano. The escribanos and lawyers can request it online through the Sistema de Gestión Registral (SIGRE) of the Judicial Branch, in addition to the in-person procedure. A judicial fee is paid and the response indicates the property’s status as of that date."
+   ],
+   "bullets": [
+    "The owner’s name matches the ID of the seller.",
+    "There are no mortgages or liens, or they are cancelled before or at the same moment of the escritura.",
+    "The area and dimensions match what is shown to you and the cadastre.",
+    "If the owner has died, the succession is completed and the property was awarded to the seller."
+   ]
+  },
+  {
+   "h2": "The new unified registration and cadastre system",
+   "paras": [
+    "Law No. 7424/2025 created the Sistema Nacional Unificado Registral y Catastral and the Registro Unificado Nacional (RUN), with the aim of integrating property registration information and the cadastre. The Judicial Branch has already issued a digital catastro-registral property certificate that combines both sets of information in a single procedure.",
+    "Since the system is still being implemented, ask your escribano which certificates apply today to your case. What matters for you does not change: the cadastral and registration information must match."
+   ]
+  },
+  {
+   "h2": "When a lot can be state or municipal",
+   "paras": [
+    "If the land does not appear registered in a person’s name, or the seller only has a \"rights\" document, an occupancy certificate, or an old purchase receipt, the property may be owned by the State or the municipality. There are also lands that are part of settlements administered by the Instituto Nacional de Desarrollo Rural y de la Tierra (INDERT), which have their own rules for allocation and transfer.",
+    "Buying \"rights\" on such land does not make you the owner. At best it leaves you in the previous occupant’s position to start a long regularization process with no guarantee of result. If the price is very low and there is no title, that is almost always the reason."
+   ],
+   "tip": "Be wary of phrases like \"the title will be issued in a few months\" or \"they have all the rights, only the escritura is missing\". Before paying, ask your escribano to confirm whether a title is registered in the seller’s name."
+  },
+  {
+   "h2": "Step 3: verify on the ground",
+   "paras": [
+    "The papers may be in order and still not match what you see on site. Before buying, especially with large, rural or unfenced lots, it’s advisable to have a surveyor locate the land using the title’s measurements and check the boundary markers. Also talk to the neighbors: they usually know if there are boundary disputes or if someone else is claiming the lot."
+   ],
+   "bullets": [
+    "Is anyone occupying the land or using it as a passage?",
+    "Do the on-site measurements match those on the title?",
+    "Does it have access to a public street?",
+    "Are services (ANDE, water) available or would they need to be brought in?"
+   ]
+  },
+  {
+   "h2": "If you are a foreigner: the border security zone",
+   "paras": [
+    "Law No. 2532/2005 establishes a border security zone of 50 kilometers along the country’s land and river borders. Within that strip, citizens of neighboring countries, and companies primarily owned by them, cannot be owners, co-owners or usufructuaries of rural properties, unless authorized by a decree of the Executive Branch. If this applies to you and the land is rural, consult an escribano before any payment."
+   ]
+  },
+  {
+   "h2": "Short checklist before paying a deposit for a lot",
+   "steps": [
+    "Ask for the cuenta corriente catastral or the padrón and a copy of the title.",
+    "Ask for the latest property tax bill.",
+    "Have your escribano request the domain condition report.",
+    "If the lot is large or unfenced, hire a surveyor.",
+    "Only after everything is in order, sign the deposit with a receipt or boleto that states the conditions."
+   ]
+  },
+  {
+   "h2": "Look for lots with clear information",
+   "paras": [
+    "On Casa-Libre you can view lots for sale on the map and ask the seller via WhatsApp, from the first message, whether the lot has a title and a cuenta corriente catastral. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a land has an owner in Paraguay?",
+   "a": "With the domain condition report from the Dirección General de los Registros Públicos, which is usually requested by an escribano. It indicates the registered holder and any mortgages or liens. It is complemented by data from the National Cadastre Service."
+  },
+  {
+   "q": "How do I know if a land is public?",
+   "a": "If there is no title registered in a person's name and only \"rights\" or occupancy certificates exist, it may be public, municipal, or part of an INDERT settlement. An escribano can confirm this with the registers."
+  },
+  {
+   "q": "What is the cuenta corriente catastral?",
+   "a": "It is the number used to identify an urban property in the catastro and on the property tax bill. In rural areas the padrón is used."
+  },
+  {
+   "q": "Can a foreigner buy land in Paraguay?",
+   "a": "Generally yes. The main exception is Law 2532/2005: citizens of neighboring countries cannot own rural properties within a 50 km border strip, except with authorization by decree."
+  }
+ ],
+ "related": [
+  "Land for sale",
+  "Guide: property documents",
+  "Guide: buying costs"
+ ]
+}

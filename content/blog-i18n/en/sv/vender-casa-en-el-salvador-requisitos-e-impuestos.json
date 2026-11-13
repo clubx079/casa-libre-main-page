@@ -1,0 +1,146 @@
+{
+ "_src": "47ef6d8951bb",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Selling a house in El Salvador: requirements and taxes",
+  "h1": "Selling a house in El Salvador: requirements, taxes and how to list it",
+  "description": "What you need to sell your house in El Salvador: escritura (public deed) and registration, municipal solvency, mortgage cancellation, capital gains tax, who pays the transfer tax and how to list it.",
+  "answer": "To sell a house in El Salvador you need your DUI, the escritura (public deed) registered in your name and the property registration, the municipal solvency and utilities up to date, and if the house has a mortgage, to cancel it (usually with part of the price). The transfer tax is paid by the buyer; you, as the seller, may have to pay income tax on the capital gain if you sell for more than it cost you. The sale is formalized with a escritura before a notary and recorded in the CNR."
+ },
+ "sections": [
+  {
+   "h2": "The papers you must have ready",
+   "paras": [
+    "A serious buyer, his notario (notary) and his bank or the FSV will ask for the same documents. Having them ready before you publish speeds up the sale."
+   ],
+   "bullets": [
+    "Current DUI of yours and, if applicable, of the co-owners.",
+    "Escritura (deed) of your purchase registered and registration number.",
+    "Recent extracted certification from the CNR.",
+    "Municipal solvency of the property.",
+    "Latest water and electricity bills paid.",
+    "If in a residential or condominium, proof of up-to-date fees and the rules.",
+    "If you have a mortgage, a balance statement issued by the bank or the FSV."
+   ],
+   "tip": "Get the CNR certification yourself before publishing. If there is an error in name, measurements, or an old annotation, it is better to resolve it before the buyer discovers it."
+  },
+  {
+   "h2": "If the house has a mortgage",
+   "paras": [
+    "You can sell a mortgaged house, but the buyer will want to receive it free of debt. Usually, at the same time as the escritura, part of the price is used to pay the balance and the creditor provides the mortgage cancellation. If the buyer uses a loan, his bank or the FSV coordinates the balance payment.",
+    "Avoid informal arrangements to \"sell the right\": you would remain the debtor and the registered owner, with all the risks that entails."
+   ]
+  },
+  {
+   "h2": "Taxes: what you pay and what the buyer pays",
+   "paras": [
+    "The Real Estate Transfer Tax (3% on the amount exceeding US$28,571.43) is paid by the buyer, according to the law.",
+    "You, as the seller, must consider income tax on capital gains. If you sell for more than the house cost (plus documented improvements), that difference is a gain. Under the Income Tax Law, capital gains are taxed at 10% when the property is sold after twelve months of acquisition; if sold earlier, the gain is added to ordinary income. If you sell at a loss, there is no taxable gain."
+   ],
+   "table": {
+    "head": [
+     "Tax or expense",
+     "Who pays it",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Real Estate Transfer Tax",
+      "Buyer",
+      "3% on the excess of US$28,571.43"
+     ],
+     [
+      "Income tax on capital gains",
+      "Seller",
+      "Only if there is a gain; consult an accountant"
+     ],
+     [
+      "Mortgage cancellation",
+      "Seller",
+      "With part of the price, at the same time"
+     ],
+     [
+      "Municipal taxes and overdue services",
+      "Seller",
+      "Before escriturar"
+     ],
+     [
+      "Notary fees",
+      "Agreed",
+      "Set it in writing with the buyer"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to set the price",
+   "paras": [
+    "Compare with similar properties in your same area: size, number of rooms, condition and type (neighborhood, residential, apartment). A market-aligned price gets inquiries from the first week; a very high price stays listed and ends up selling cheaper. If the buyer will use financing, remember the lender will appraise and lend based on that value."
+   ]
+  },
+  {
+   "h2": "How to publish to sell faster",
+   "bullets": [
+    "Well-lit photos of all rooms, the façade and the street.",
+    "Clear price and whether you accept FSV or bank financing.",
+    "Land and building measurements.",
+    "What is included: parking, cistern, maintenance fee.",
+    "Correct location on the map."
+   ]
+  },
+  {
+   "h2": "Inquiries and visits safely",
+   "paras": [
+    "Reply quickly via WhatsApp, ask for the full name of anyone who wants to visit and schedule daytime visits, accompanied. Do not give copies of your escritura or DUI to anyone who asks: share them with the notario or with a buyer who has already made a serious offer."
+   ]
+  },
+  {
+   "h2": "Step-by-step sale process",
+   "steps": [
+    "Gather documents and obtain a CNR certification.",
+    "Set the price by comparing with your area.",
+    "Publish with good photos and complete data.",
+    "Handle inquiries and visits.",
+    "Agree on price, payment method and date in writing with the buyer.",
+    "Sign the escritura before the notario and, if applicable, cancel the mortgage.",
+    "Declare the capital gain if required."
+   ]
+  },
+  {
+   "h2": "How long it may take",
+   "paras": [
+    "A cash sale with papers in order can close in a few weeks once there is a buyer. With financing, add approval and appraisal time. Having the documentation ready from the start is what shortens the timeline the most."
+   ]
+  },
+  {
+   "h2": "Publish on Casa-Libre",
+   "paras": [
+    "On Casa-Libre buyers see your house on the map and message you directly via WhatsApp. You can publish from the website or from the Casa-Libre app for iPhone and Android. Also check the guide for selling without an agency and the one for documents needed to sell."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What documents do I need to sell my house in El Salvador?",
+   "a": "DUI, escritura (public deed) registered and registration, CNR certification, municipal solvency, utility bills up to date and, if there is a mortgage, the balance certificate."
+  },
+  {
+   "q": "Are taxes paid when selling a house in El Salvador?",
+   "a": "The seller may pay income tax on the capital gain if the sale price exceeds the purchase cost. The transfer tax is paid by the buyer."
+  },
+  {
+   "q": "Can I sell my house while I am still paying it?",
+   "a": "Yes. It is common to cancel the loan balance with part of the price at the same time as the escritura, to deliver the house free of mortgage."
+  },
+  {
+   "q": "Who pays the notary in a sale?",
+   "a": "It is agreed between the parties. Put it in writing before signing."
+  }
+ ],
+ "related": [
+  "Guide: sell without an agency",
+  "Guide: taxes and expenses when selling",
+  "Guide: how much my property is worth"
+ ]
+}

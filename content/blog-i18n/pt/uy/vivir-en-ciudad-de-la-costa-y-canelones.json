@@ -1,0 +1,132 @@
+{
+ "_src": "fc38de7bf41a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver em Ciudad de la Costa ou Canelones: o que considerar",
+  "h1": "Viver em Ciudad de la Costa e na área metropolitana de Canelones: alternativas ao Montevidéu",
+  "description": "O que saber antes de se mudar para Ciudad de la Costa ou outras cidades de Canelones: deslocamentos ao Montevidéu, saneamento, casas com terreno, serviços, custos e como comparar com a capital.",
+  "answer": "Ciudad de la Costa e outras cidades de Canelones próximas ao Montevidéu são uma alternativa para quem busca uma casa com terreno, mais tranquilidade ou proximidade ao mar sem pagar preços dos bairros costeiros da capital. Em troca, convém medir bem o deslocamento diário ao Montevidéu no horário de pico, verificar se a propriedade tem saneamento conectado ou poço, revisar o estado das ruas e a proximidade dos serviços, e levar em conta que a contribuição imobiliária é cobrada pela Intendência de Canelones, com suas próprias regras."
+ },
+ "sections": [
+  {
+   "h2": "Por que tantas famílias olham Canelones",
+   "paras": [
+    "A área metropolitana de Montevidéu se estende para Canelones pelo leste (Cidade da Costa e os balneários que seguem) e pelo norte (cidades como Las Piedras, La Paz ou Pando), e também para San José pelo oeste. Muitas pessoas vivem lá e trabalham ou estudam na capital.",
+    "Os motivos mais comuns: uma casa com quintal ou fundo em vez de apartamento, pets, horta, um ritmo mais tranquilo e, na costa, a praia a poucas quadras."
+   ]
+  },
+  {
+   "h2": "A mudança: a conta que você tem que fazer",
+   "paras": [
+    "De Cidade da Costa, a conexão principal com Montevidéu é pela avenida Giannattasio e a rota Interbalneária, e há linhas de ônibus metropolitanos. Nas horas de pico, os acessos ficam congestionados. Pelo norte, as rotas nacionais cumprem o mesmo papel.",
+    "Antes de decidir, faça o trajeto real em um dia de semana no horário em que o faria. Calcule o tempo e o custo mensal (passagens ou gasolina e pedágio se aplicar). O que você economiza em aluguel ou preço pode ser gasto em deslocamentos se trabalhar todos os dias no Centro."
+   ],
+   "tip": "Se você trabalha alguns dias de casa, o cálculo muda muito: com dois ou três dias de deslocamento por semana, viver mais longe se torna mais razoável."
+  },
+  {
+   "h2": "Saneamento: uma pergunta chave",
+   "paras": [
+    "Em várias áreas de Cidade da Costa e da área metropolitana, durante anos muitas moradias não tiveram rede de saneamento e usavam poço negro, com o custo da bomba barométrica periódica. As obras de saneamento avançaram em diferentes zonas, mas não em todas igualmente.",
+    "Pergunte sempre se a casa está conectada à rede ou tem poço. Se houver rede em frente ao imóvel, a Lei 18.840 obriga a conexão, e a OSE emite declarações e certificados vinculados a essa obrigação. Se for comprar, seu escribano (tabelião) pode solicitá-los."
+   ]
+  },
+  {
+   "h2": "Casas, terrenos e o estado da zona",
+   "bullets": [
+    "Ruas: em algumas áreas há ruas de cascalho ou em mau estado; veja como se chega em dias de chuva.",
+    "Umidade e alagamento: em terrenos baixos ou perto de áreas alagadiças, pergunte se o quintal ou a garagem inundam.",
+    "Areias e dunas: na costa, o vento traz areia; as aberturas sofrem.",
+    "Iluminação e segurança: percorra a quadra de dia e de noite.",
+    "Terrenos: se comprar para construir, peça o plano de mensura e consulte na Intendência de Canelones o que pode ser edificado."
+   ]
+  },
+  {
+   "h2": "Serviços próximos",
+   "paras": [
+    "Cidade da Costa tem shoppings, supermercados, policlínicas e centros educacionais, mas as distâncias são maiores que em um bairro de Montevidéu, e para muitas coisas você vai precisar de carro ou ônibus. Veja o que tem a uma distância caminhável: armazém, farmácia, ponto de ônibus, escola, sua mutualista."
+   ]
+  },
+  {
+   "h2": "Custos: o que muda em relação a Montevidéu",
+   "table": {
+    "head": [
+     "Custo",
+     "O que ter em conta"
+    ],
+    "rows": [
+     [
+      "Aluguel ou preço",
+      "Costuma render mais em metros e terreno, conforme a zona"
+     ],
+     [
+      "Contribuição imobiliária",
+      "É cobrada pela Intendência de Canelones, com seu próprio cálculo e vencimentos"
+     ],
+     [
+      "Saneamento",
+      "Se houver poço, some o custo da bomba barométrica"
+     ],
+     [
+      "Transporte",
+      "Passagens metropolitanas, gasolina, eventualmente um segundo carro"
+     ],
+     [
+      "Manutenção",
+      "Uma casa com terreno tem mais manutenção (gramado, telhado, cercas)"
+     ],
+     [
+      "Despesas comuns",
+      "Se for casa individual, não há; em bairros privados ou complexos, há"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Outras alternativas na área metropolitana",
+   "paras": [
+    "Além da costa, as cidades do eixo norte de Canelones e Ciudad del Plata, em San José, oferecem outras combinações de preço, distância e serviços. Aplique os mesmos critérios: deslocamento real, saneamento, estado das ruas e serviços a pé."
+   ]
+  },
+  {
+   "h2": "Teste antes de comprar",
+   "paras": [
+    "Se estiver em dúvida, uma boa estratégia é alugar primeiro um tempo na zona antes de comprar. Assim você verifica o deslocamento diário, como é o inverno, como as ruas se comportam com chuva e se o bairro lhe parece confortável. Comprar é uma decisão de longo prazo; alugar alguns meses lhe dá informações que nenhuma visita oferece."
+   ]
+  },
+  {
+   "h2": "Compare no mapa",
+   "paras": [
+    "Veja lado a lado o que seu orçamento oferece em Montevidéu e em Canelones, somando deslocamentos. No Casa-Libre você pode ver propriedades em Cidade da Costa, Canelones e Montevidéu no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vale a pena alugar antes de comprar em Ciudad de la Costa?",
+   "a": "Se você não conhece a região, sim: alguns meses de aluguel permitem testar o deslocamento, o inverno e o bairro antes de uma decisão de longo prazo."
+  },
+  {
+   "q": "É uma boa ideia viver em Ciudad de la Costa e trabalhar no Montevidéu?",
+   "a": "Pode ser se o deslocamento diário lhe parecer razoável. Meça a viagem real no horário de pico e seu custo antes de decidir."
+  },
+  {
+   "q": "Ciudad de la Costa tem saneamento?",
+   "a": "Depende da zona: houve obras importantes, mas nem todas as residências estão conectadas. Pergunte sempre se a casa tem saneamento ou poço."
+  },
+  {
+   "q": "Quem cobra a contribuição imobiliária em Ciudad de la Costa?",
+   "a": "A Intendência de Canelones, com seu próprio cálculo, vencimentos e isenções."
+  },
+  {
+   "q": "Quais alternativas há ao Montevidéu além da costa?",
+   "a": "As cidades do eixo norte de Canelones e Ciudad del Plata, em San José, entre outras. Compare distância, serviços e custo total."
+  }
+ ],
+ "related": [
+  "Propriedades em Ciudad de la Costa",
+  "Propriedades em Canelones",
+  "Casas à venda",
+  "Como escolher bairro no Montevidéu"
+ ]
+}

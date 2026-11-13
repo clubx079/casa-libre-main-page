@@ -1,0 +1,145 @@
+{
+ "_src": "d85dc19df3da",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Despesas de escrituração ao comprar casa em El Salvador",
+  "h1": "Despesas de escrituração ao comprar uma casa em El Salvador: lista completa",
+  "description": "Quais despesas há além do preço ao comprar casa em El Salvador: notario (tabelião), imposto de transferência, inscrição no CNR, certificações, solvências e, com crédito, hipoteca, avaliação e seguros.",
+  "answer": "Ao comprar uma casa em El Salvador, além do preço, o comprador costuma pagar: o Imposto sobre Transferência de Bens Imóveis (3% sobre o excesso de US$28,571.43), os honorários do notario (tabelião) pela escritura (escritura pública), os direitos de inscrição no Registro da Propriedade Raiz e Hipotecas do CNR e as certificações prévias. Se comprar com crédito somam-se a escritura de hipoteca, a avaliação, comissões e seguros. Peça ao notario (tabelião) uma cotação por escrito antes de assinar."
+ },
+ "sections": [
+  {
+   "h2": "A lista de gastos, de um vistazo",
+   "table": {
+    "head": [
+     "Gasto",
+     "Quem normalmente paga",
+     "Como é fixado"
+    ],
+    "rows": [
+     [
+      "Imposto sobre Transferência de Bens Imóveis",
+      "Comprador",
+      "3% sobre o valor que exceda US$28,571.43"
+     ],
+     [
+      "Honorários do notário (compra e venda)",
+      "Conforme acordado; frequentemente o comprador",
+      "Acordo livre; solicite cotação"
+     ],
+     [
+      "Inscrição no CNR",
+      "Comprador",
+      "Tarifa do registro"
+     ],
+     [
+      "Certificação extraída ou outras certificações",
+      "Quem a solicita, geralmente o comprador",
+      "Tarifa do CNR"
+     ],
+     [
+      "Solvência municipal do imóvel",
+      "Vendedor",
+      "Deve estar em dia antes de escriturar"
+     ],
+     [
+      "escritura pública (tabelião) de hipoteca (se houver crédito)",
+      "Comprador",
+      "Honorários do notário da entidade"
+     ],
+     [
+      "Avaliação e seguros (se houver crédito)",
+      "Comprador",
+      "Conforme a entidade"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O notário: o que faz e como cotar",
+   "paras": [
+    "No El Salvador a compra e venda de um imóvel se formaliza em escritura pública ante notario, que é um advogado autorizado pela Corte Suprema de Justiça para exercer a função notarial. O notário redige a escritura, verifica identidades e faculdades, revisa os antecedentes registrais e, normalmente, apresenta a escritura ao CNR para sua inscrição.",
+    "Seus honorários são acordados com você. Peça uma cotação por escrito que indique o que está incluído: estudo de antecedentes, redação, testamento, apresentação ao registro, declaração do imposto e acompanhamento até que a escritura seja inscrita."
+   ],
+   "tip": "Pergunte se a cotação inclui o acompanhamento da inscrição. Uma escritura assinada mas não inscrita não o protege contra terceiros."
+  },
+  {
+   "h2": "Inscrição no CNR",
+   "paras": [
+    "A escritura é apresentada ao Registro de Propriedade Raiz e Hipotecas, que administra o Centro Nacional de Registros. O registro cobra direitos conforme sua tarifa e, antes de inscrever, exige o comprovante de pagamento do imposto de transferência quando aplicável.",
+    "Uma vez inscrita, convém solicitar uma nova certificação para confirmar que a casa já aparece em seu nome e ativar os avisos registrais gratuitos do CNR, que o notificam por correio sobre qualquer trâmite relativo ao imóvel."
+   ]
+  },
+  {
+   "h2": "Certificações e solvências antes de assinar",
+   "paras": [
+    "Antes de escriturar, o notário ou você devem revisar a situação do imóvel. Segundo o CNR, citado pela imprensa, a certificação extraída resume o nome do proprietário, sua porcentagem, a situação legal do imóvel e os documentos em tramitação, e pode ser solicitada online."
+   ],
+   "bullets": [
+    "Certificação extraída recente do imóvel.",
+    "Solvência municipal: confirma que não há taxas pendentes com a alcaldía.",
+    "Recibos de água e luz em dia.",
+    "Se a casa está em um residencial com administração, comprovação de que não há cotas de manutenção pendentes."
+   ]
+  },
+  {
+   "h2": "Se comprar com crédito",
+   "paras": [
+    "Com crédito, a compra e venda e a hipoteca costumam ser assinadas no mesmo ato. A entidade (banco ou FSV) normalmente trabalha com seus notários, e os honorários da hipoteca se somam aos seus gastos. Além disso paga a avaliação e os seguros: de dívida, que quita o saldo se o devedor falecer ou ficar inválido, e de danos sobre a residência. Solicite à entidade a lista completa de encargos iniciais antes de aceitar a oferta."
+   ]
+  },
+  {
+   "h2": "O que cabe ao vendedor",
+   "paras": [
+    "O vendedor deve entregar o imóvel com suas taxas municipais e serviços em dia e, se houver hipoteca, cancelá-la (normalmente com parte do preço). Se obtiver lucro na venda, o imposto sobre esse lucro é responsabilidade dele, não do comprador."
+   ]
+  },
+  {
+   "h2": "Como evitar surpresas",
+   "steps": [
+    "Peça ao notário uma cotação por escrito com tudo incluído.",
+    "Calcule o imposto de transferência com a fórmula de 3% sobre o excedente.",
+    "Solicite à entidade de crédito a lista de gastos iniciais.",
+    "Acorde por escrito com o vendedor quem paga o quê.",
+    "Reserve uma margem extra para imprevistos."
+   ]
+  },
+  {
+   "h2": "Um exemplo para organizar a conta",
+   "paras": [
+    "Exemplo hipotético: compra uma casa de US$70,000 à vista. O imposto de transferência é 3% sobre US$41,428.57 (70,000 − 28,571.43), cerca de US$1,243. Some a isso os honorários do notário conforme a cotação recebida, os direitos de inscrição do CNR e as certificações prévias. Se ainda usar crédito, adicione a escritura de hipoteca, a avaliação e o primeiro pagamento dos seguros.",
+    "A lição: o dinheiro que você precisa no dia da assinatura é maior que a entrada ou o preço. Faça a lista completa com seu notário antes de se comprometer."
+   ]
+  },
+  {
+   "h2": "Orçar desde o aviso",
+   "paras": [
+    "No Casa-Libre você pode ver o preço de cada casa ou apartamento, somar os gastos desta lista e perguntar por WhatsApp ao vendedor se as solvências estão em dia. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto cobra um notario (tabelião) por uma escritura de compraventa em El Salvador?",
+   "a": "Os honorários são acordados livremente com o notario (tabelião). Peça várias cotações por escrito e confirme o que incluem, especialmente a inscrição no CNR."
+  },
+  {
+   "q": "Quem paga as despesas de escrituração?",
+   "a": "Normalmente o comprador paga o imposto de transferência e a inscrição; os honorários do notario (tabelião) são pactuados. O vendedor entrega solvências em dia e cancela sua hipoteca se a tiver."
+  },
+  {
+   "q": "Quanto custa uma certificação extraída do CNR?",
+   "a": "A imprensa reportou em 2026 um preço de US$8.86 informado pelo CNR. Confirme a tarifa vigente ao solicitá-la."
+  },
+  {
+   "q": "O que acontece se eu não inscrever a escritura?",
+   "a": " perante terceiros, o proprietário continuaria sendo o vendedor: o imóvel poderia ser penhorado por suas dívidas ou vendido novamente. Inscrever é parte essencial da compra."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Apartamentos em venda",
+  "Guia: despesas ao comprar uma casa"
+ ]
+}

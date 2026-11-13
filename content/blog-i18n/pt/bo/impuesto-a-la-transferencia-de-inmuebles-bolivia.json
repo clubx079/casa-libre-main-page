@@ -1,0 +1,124 @@
+{
+ "_src": "d1742ae519e9",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Imposto sobre a transferência de imóveis na Bolívia (IMT)",
+  "h1": "Imposto sobre a transferência de imóveis na Bolívia: quanto é, quem paga e quando",
+  "description": "Como funciona o Imposto Municipal sobre as Transferências (IMT) na Bolívia: alíquota de 3%, base de cálculo, quem é o responsável, prazo de 10 dias úteis e quando se aplica outro imposto.",
+  "answer": "Quando uma pessoa vende um imóvel na Bolívia, a operação paga o Imposto Municipal sobre as Transferências (IMT). Segundo seu regulamento (DS 24054), a alíquota geral é de 3%, sobre o maior entre o preço pago e o valor que o imóvel tem para o imposto sobre a propriedade. O responsável é quem figura como dono no registro (o vendedor), e o pagamento deve ser feito dentro de 10 dias úteis após a assinatura da transferência. Sem esse pagamento a compra não é inscrita em Derechos Reales."
+ },
+ "sections": [
+  {
+   "h2": "O que é o IMT",
+   "paras": [
+    "O Imposto Municipal sobre as Transferências de Imóveis e Veículos Automotores (IMT) grava a venda de imóveis que estavam inscritos em Direitos Reais quando são transferidos, feita por pessoas que não se dedicam como negócio a vender imóveis. O cobra o governo municipal onde está o imóvel. A Lei 154 de 2011 confirma que a transferência onerosa de imóveis por pessoas que não têm essa atividade como giro é um fato imponível de domínio municipal.",
+    "Se quem vende é uma empresa que se dedica a vender imóveis (por exemplo, uma construtora que vende departamentos novos), em vez do IMT correspondem impostos nacionais que administra o Serviço de Impostos Nacionais. Por isso convém perguntar ao notário que imposto se aplica no seu caso."
+   ]
+  },
+  {
+   "h2": "Como se calcula",
+   "paras": [
+    "Um exemplo hipotético: se uma casa se vende por um preço de Bs 500.000 e seu valor para o imposto sobre a propriedade é menor, o IMT se calcula sobre Bs 500.000; a 3%, seriam Bs 15.000. Se o valor para o imposto sobre a propriedade fosse maior que o preço, usaria esse valor. Os números são apenas para mostrar o cálculo."
+   ],
+   "table": {
+    "head": [
+     "Elemento",
+     "O que diz o regulamento (DS 24054)"
+    ],
+    "rows": [
+     [
+      "Hecho generador",
+      "A celebração do ato por que se transfere a propriedade a título oneroso"
+     ],
+     [
+      "Obligado (sujeto pasivo)",
+      "A pessoa a cujo nome está registrado o bem: o vendedor"
+     ],
+     [
+      "Base imponible",
+      "O maior entre o valor efetivamente pago e o valor do imóvel para o imposto sobre a propriedade da última gestão vencida"
+     ],
+     [
+      "Alícuota",
+      "3% geral"
+     ],
+     [
+      "Plazo de pago",
+      "Dentro dos 10 dias úteis posteriores ao hecho generador"
+     ],
+     [
+      "Comisiones de intermediarios",
+      "Não fazem parte da base imponível"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Quem paga na prática",
+   "paras": [
+    "A norma coloca a obrigação no vendedor, porque ele é o titular registrado. Na prática, como se dividem os gastos da compra e venda é algo que comprador e vendedor negociam, e em alguns casos o comprador acaba assumindo o imposto como parte do preço. O importante é que fique escrito na minuta quem paga o quê."
+   ],
+   "tip": "Como comprador, não se conforme com que lhe digam que o imposto \"já foi pago\". Peça o comprovante: Direitos Reais exige para inscrever a transferência em seu nome."
+  },
+  {
+   "h2": "Heranças, doações e permutas",
+   "bullets": [
+    "Heranças e doações: a Lei 154 as coloca no domínio dos governos departamentais, com seu próprio imposto; não são uma compra e venda.",
+    "Permutas: o regulamento do IMT as trata como duas transferências, e o imposto se aplica a cada bem.",
+    "Leasing de moradia (arrendamento financeiro): o imposto se gera ao pagar o saldo quando se exerce a opção de compra."
+   ]
+  },
+  {
+   "h2": "Onde o IMT se encaixa na compra e venda",
+   "paras": [
+    "O regulamento esclarece algo importante: pagar o IMT não consolida o direito de proprietário. O pagamento é um requisito; o que o torna dono perante todos é a inscrição em Direitos Reais."
+   ],
+   "steps": [
+    "Assina-se a minuta e o notário a protocoliza como escritura pública.",
+    "Dentro dos 10 dias úteis, liquida-se e paga-se o IMT no município, nos bancos ou locais que este autorizar.",
+    "Com o comprovante de pagamento, apresenta-se a escritura em Direitos Reais para a inscrição.",
+    "Depois atualiza-se o registro cadastral e tributário do município em nome do comprador."
+   ]
+  },
+  {
+   "h2": "Erros que encarecem a transferência",
+   "bullets": [
+    "Declarar na minuta um preço menor que o real \"para pagar menos\": a base é o maior entre o preço e o valor para o imposto sobre a propriedade, e uma declaração falsa pode trazer problemas tributários e deixar o comprador com um título que não reflete o que pagou.",
+    "Deixar passar o prazo de 10 dias úteis: o pagamento tardio soma multas e juros.",
+    "Pagar o imposto no município errado: corresponde ao município onde está o imóvel.",
+    "Não guardar o comprovante: você vai precisar dele em Direitos Reais e, mais adiante, se vender."
+   ]
+  },
+  {
+   "h2": "Calcule os gastos antes de ofertar",
+   "paras": [
+    "Ao comparar imóveis, some ao preço os gastos de fechamento: imposto de transferência (se o assumir), notário, advogado e Direitos Reais. No Casa-Libre você pode ver imóveis à venda no mapa e perguntar por WhatsApp ao anunciante como propõe dividir os gastos. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto é o imposto sobre a transferência de um imóvel na Bolívia?",
+   "a": "O regulamento do IMT fixa uma alíquota geral de 3% sobre o maior entre o preço pago e o valor do imóvel para o imposto sobre a propriedade."
+  },
+  {
+   "q": "Quem paga o IMT, o comprador ou o vendedor?",
+   "a": "A norma obriga o titular registrado, ou seja, o vendedor. Na prática se negocia; deixe isso escrito na minuta (esboço)."
+  },
+  {
+   "q": "Em que prazo o pagamento deve ser feito?",
+   "a": "Dentro de 10 dias úteis posteriores à celebração do ato de transferência, segundo o DS 24054."
+  },
+  {
+   "q": "Se eu compro de uma construtora também pago IMT?",
+   "a": "Se a empresa vende imóveis como atividade principal, normalmente se aplicam impostos nacionais em vez do IMT. Pergunte ao notario (notário)."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Guia: impostos e despesas ao vender",
+  "Guia: despesas ao comprar uma casa",
+  "Transferência de imóvel passo a passo"
+ ]
+}

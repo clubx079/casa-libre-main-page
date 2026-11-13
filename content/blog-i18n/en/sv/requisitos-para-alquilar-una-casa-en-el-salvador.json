@@ -1,0 +1,130 @@
+{
+ "_src": "e714d3f7ea7a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Rent a House in El Salvador",
+  "h1": "Requirements to Rent a House or Apartment in El Salvador",
+  "description": "What they ask for when renting in El Salvador: DUI, proof of salary, guarantor, deposit and one month in advance. Complete list, how to prepare and what the law says about the contract.",
+  "answer": "To rent a house or an apartment in El Salvador they usually ask for your DUI (or passport and resident card if you are a foreigner), a proof of salary or income statements, references, sometimes a guarantor, and an initial payment that typically includes the first month in advance and a deposit. There is no single mandatory list: each owner or agent decides what to request. What the Ley de Inquilinato does require for housing is that the contract be in writing."
+ },
+ "sections": [
+  {
+   "h2": "The basic list they will ask for",
+   "paras": [
+    "The papers a landlord (the owner) requests are very similar. Having them ready, on paper and scanned on your phone, allows you to respond the same day you find a property you like."
+   ],
+   "bullets": [
+    "Current DUI. If you are a foreigner, passport and resident card issued by the Dirección General de Migración y Extranjería.",
+    "Salary or employment certificate, with position, seniority and salary, or income proof if you work for yourself.",
+    "Personal references and, if you have rented before, the contact of the previous owner.",
+    "Guarantor, if the owner asks for one: a person with income or assets who will be responsible if you do not pay.",
+    "Money for signing: usually the first month in advance and a deposit."
+   ]
+  },
+  {
+   "h2": "How to prove your income depending on how you work",
+   "paras": [
+    "What the owner wants to know is whether you will be able to pay each month. A practical rule of thumb is that rent should not exceed about one third of household income; it is not a legal rule, but many use it to decide."
+   ],
+   "table": {
+    "head": [
+     "Your situation",
+     "What usually serves as proof"
+    ],
+    "rows": [
+     [
+      "Private or public sector employee",
+      "Salary certificate and, if requested, AFP account statement"
+     ],
+     [
+      "Independent professional",
+      "Issued invoices or receipts and bank statements"
+     ],
+     [
+      "Trader or entrepreneur",
+      "Business registration or license, statements and tax returns"
+     ],
+     [
+      "Retiree",
+      "Pension certificate"
+     ],
+     [
+      "Receiving remittances",
+      "Remittance history for the last months and, if possible, a guarantor"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Guarantor, deposit and months in advance",
+   "paras": [
+    "The guarantor is the most traditional guarantee: they sign the contract and agree to pay if you do not. Some owners accept, instead of a guarantor, a higher deposit or payment of several months in advance.",
+    "The Ley de Inquilinato does not set a maximum deposit amount for houses and apartments, so it is a negotiable point. The important thing is that the contract states how much was given, what it is for, and when and how it will be returned at the end."
+   ],
+   "tip": "Always request a receipt for everything you pay: deposit, month in advance and each monthly payment. The Ley de Inquilinato requires the landlord to issue a receipt for each payment."
+  },
+  {
+   "h2": "The contract: in writing and read in full",
+   "paras": [
+    "For residential rentals, the Ley de Inquilinato requires the contract to be in writing, with the parties, the property, the price and the payment method. Read it completely before signing: term, amount and payment date, who pays water, electricity and maintenance fee, which repairs each party is responsible for, whether pets are allowed and what happens if you want to leave early.",
+    "Make an inventory with photos of the house’s condition on the day you move in, signed by both parties. It is your best evidence when recovering the deposit."
+   ]
+  },
+  {
+   "h2": "What to ask before visiting",
+   "paras": [
+    "Many viewings are wasted because the tenant later does not meet a requirement. By WhatsApp, before going, ask:"
+   ],
+   "bullets": [
+    "Do you require a guarantor or accept an additional deposit?",
+    "How much must be paid at signing, in total?",
+    "Does the price include the neighborhood or residential maintenance fee?",
+    "Are water and electricity transferred to the tenant’s name or paid to the owner?",
+    "What is the contract length and can it be renewed?",
+    "Do you allow pets or use as an office?"
+   ]
+  },
+  {
+   "h2": "If you are a foreigner or a Salvadoran returning home",
+   "paras": [
+    "A foreigner can rent without problem; normally they will ask for a passport and resident card, and they will offset the lack of local history with more months in advance or a local guarantor. If you are returning after years abroad, a letter from your employer in El Salvador or recent account statements help a lot."
+   ]
+  },
+  {
+   "h2": "Beware of fake listings",
+   "paras": [
+    "Do not give deposits or advances before seeing the property in person and confirming that the person renting it is the owner or is authorized. Be wary of prices far below the area average and of anyone urging you to pay quickly to \"reserve\" the house."
+   ]
+  },
+  {
+   "h2": "How to search for rentals without wasting time",
+   "paras": [
+    "Filter by area and budget and write to the advertiser with your basic details: how many people will live there, if you have pets, when you want to move in and what guarantee you can offer. On Casa-Libre you see rentals on the map and write directly by WhatsApp to the owner or agent, without paying anything to use the site. You can also search from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What documents are requested to rent a house in El Salvador?",
+   "a": "Usually DUI, proof of salary or income statements, references and, sometimes, a guarantor. In addition, the first month in advance and a deposit."
+  },
+  {
+   "q": "Does the rental contract have to be written?",
+   "a": "For housing, the Ley de Inquilinato requires it to be in writing with the parties, the property, the price and the payment method."
+  },
+  {
+   "q": "Can you rent without a guarantor?",
+   "a": "Yes, if the owner accepts it. The most common alternatives are a higher deposit or paying several months in advance."
+  },
+  {
+   "q": "How much is the rental deposit?",
+   "a": "The law does not set an amount for houses and apartments; it is negotiated. Make sure the contract states how much you gave and how it will be returned."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Apartments for rent",
+  "Guide for owners: how to rent your property"
+ ]
+}

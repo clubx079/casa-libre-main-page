@@ -1,0 +1,115 @@
+{
+ "_src": "222e1bbc199e",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar casa no Uruguai sendo estrangeiro ou do exterior",
+  "h1": "Comprar uma casa ou um apartamento no Uruguai sendo estrangeiro",
+  "description": "Como compra um estrangeiro no Uruguai: documentos, escribano (tabelião), origem dos fundos, poder apostilado para comprar do exterior, impostos e o que acontece se depois quiser alugá-la.",
+  "answer": "Um estrangeiro pode comprar uma casa ou um apartamento urbano no Uruguai com os mesmos passos que um uruguaio: boleto de reserva, estudo de títulos e escritura (escritura pública) ante escribano. Não precisa de residência para comprar; basta o seu passaporte. O que vão exigir é justificar a origem do dinheiro, porque os escribanos e as imobiliárias têm obrigações de controle. Se não puder viajar, pode comprar através de um procurador com um poder concedido no seu país e apostilado. Comprar não lhe dá residência por si só."
+ },
+ "sections": [
+  {
+   "h2": "Sim, é possível: não é preciso ser residente",
+   "paras": [
+    "Para propriedades urbanas, o Uruguai não impõe restrições especiais por nacionalidade. As buscas a partir da Espanha, Argentina, Brasil e outros países são frequentes, e o processo é o mesmo que para um comprador local.",
+    "O que muda são alguns trâmites: como se identificar, como trazer o dinheiro e como assinar se você não estiver no país. E, se depois quiser alugá-la, como tributar esses aluguéis."
+   ]
+  },
+  {
+   "h2": "Documentos que você vai precisar",
+   "bullets": [
+    "Passaporte válido (ou cédula uruguaia se já tiver residência).",
+    "Dados do seu estado civil; se for casado, em alguns casos também os do seu cônjuge.",
+    "Documentação da origem dos fundos: extratos bancários, venda de outra propriedade, herança, poupança declarada.",
+    "Domicílio no exterior e, se for ter rendas no Uruguai, a inscrição correspondente na DGI."
+   ]
+  },
+  {
+   "h2": "A origem dos fundos",
+   "paras": [
+    "A Lei 19.574 sobre prevenção da lavagem de dinheiro inclui entre os sujeitos obrigados as imobiliárias, promotores e construtoras, e os escribano (tabelião) quando intervêm em compravendas. Na prática, isso significa que vão pedir documentação que justifique de onde vem o dinheiro, sobretudo para valores importantes.",
+    "Tenha os papéis prontos desde o início. Uma compra pode ser travada dias ou semanas se o escribano não puder concluir a devida diligência."
+   ],
+   "tip": "Pague por transferência bancária de uma conta em seu nome. Evite o dinheiro em espécie: complica a justificativa dos fundos e o expõe a riscos."
+  },
+  {
+   "h2": "Comprar sem viajar: a procuração",
+   "paras": [
+    "Se não puder estar na assinatura, pode conceder uma procuração a uma pessoa de confiança no Uruguai. A procuração é concedida perante um notario (notário) do seu país e, se o seu país for parte da Convenção de Haia, é legalizada com apostila. Se não for, é legalizada por via consular. Depois, no Uruguai, é protocolizada e, se estiver em outro idioma, é traduzida.",
+    "Peça ao seu escribano uruguaio o texto exato da procuração antes de assiná-la no seu país: uma procuração muito genérica ou mal redigida pode não servir para a escritura."
+   ],
+   "steps": [
+    "Escolha um escribano em Uruguai e solicite o modelo de procuração.",
+    "Assine perante notario em seu país e apostile.",
+    "Envie para o Uruguai; o escribano a protocoliza e, se necessário, a traduz.",
+    "Seu procurador assina o boleto e a escritura em seu nome."
+   ]
+  },
+  {
+   "h2": "Moeda e forma de pagamento",
+   "paras": [
+    "As compravendas de imóveis no Uruguai são pactuadas majoritariamente em dólares americanos. Se seu dinheiro está em euros ou outra moeda, calcule o custo da conversão e das transferências internacionais. Coordene com seu banco os prazos: uma transferência internacional pode levar vários dias para ser creditada."
+   ]
+  },
+  {
+   "h2": "E o crédito hipotecário?",
+   "paras": [
+    "Existe demanda de crédito hipotecário para estrangeiros, mas os bancos uruguaios costumam exigir rendimentos comprováveis no país, histórico e, às vezes, residência. Se não viver no Uruguai, o mais realista é comprar com recursos próprios ou com financiamento do seu país. Consulte diretamente cada banco."
+   ]
+  },
+  {
+   "h2": "Impostos ao comprar e ao ter a propriedade",
+   "paras": [
+    "Ao comprar, paga o Impuesto a las Transmisiones Patrimoniales (ITP), que segundo a DGI é de 2% para o comprador sobre o valor real fixado pelo Catastro, além dos honorários do escribano. Enquanto for proprietário, paga a contribuição imobiliária do departamento onde está o imóvel e, em áreas urbanas, o imposto de Primaria.",
+    "Se alugá-lo, os aluguéis pagam imposto de renda: os não residentes tributam pelo IRNR e os residentes pelo IRPF. Consulte um contador antes de publicar o aluguel."
+   ]
+  },
+  {
+   "h2": "Comprar não dá residência",
+   "paras": [
+    "A residência legal é tramitada perante a Dirección Nacional de Migración com seus próprios requisitos. Ter uma propriedade pode ajudar a demonstrar vínculo ou meios de vida, mas não a concede automaticamente."
+   ]
+  },
+  {
+   "h2": "Erros frequentes de quem compra do exterior",
+   "bullets": [
+    "Reservar apenas com fotos e vídeo, sem que ninguém de confiança visite o imóvel.",
+    "Assinar o boleto sem escribano próprio, confiando no do vendedor ou da imobiliária.",
+    "Não calcular os custos da conversão de moeda e das transferências.",
+    "Esquecer os custos de manter o imóvel vazio: contribuição, despesas comuns, seguros.",
+    "Conceder uma procuração muito ampla, que permita mais atos do que o necessário."
+   ]
+  },
+  {
+   "h2": "Buscar de longe",
+   "paras": [
+    "Veja a região no mapa, peça videochamadas e que alguém de confiança visite antes de reservar. Na Casa-Libre você pode ver propriedades em Montevideo, Maldonado, Punta del Este, Canelones e outras cidades no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Um estrangeiro pode comprar casa no Uruguai?",
+   "a": "Sim. Para propriedades urbanas não é necessário ser residente: com passaporte e os mesmos passos de um comprador local, mais a justificativa da origem dos fundos."
+  },
+  {
+   "q": "Posso comprar no Uruguai sem viajar?",
+   "a": "Sim, mediante um procurador com um poder concedido no seu país e apostilado, que depois é protocolizado no Uruguai."
+  },
+  {
+   "q": "Comprar uma casa me dá a residência uruguaia?",
+   "a": "Não automaticamente. A residência é solicitada à Dirección Nacional de Migración com seus próprios requisitos."
+  },
+  {
+   "q": "Em que moeda são compradas as propriedades no Uruguai?",
+   "a": "Majoritariamente em dólares americanos, embora possa ser acordada outra moeda."
+  }
+ ],
+ "related": [
+  "Propiedades en Montevideo",
+  "Propiedades en Punta del Este",
+  "Propiedades en venta",
+  "Guía: cómo comprar tu primera casa"
+ ]
+}

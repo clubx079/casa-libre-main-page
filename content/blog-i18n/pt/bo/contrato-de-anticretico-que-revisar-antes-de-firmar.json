@@ -1,0 +1,141 @@
+{
+ "_src": "c8aa721c6918",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contrato de anticrético (anticrese): o que revisar antes de assinar",
+  "h1": "Contrato de anticrético (anticrese) na Bolívia: as cláusulas que você precisa revisar antes de assinar",
+  "description": "Antes de assinar um contrato de anticrético (anticrese) na Bolívia verifique o valor, prazo, devolução, impostos, reparos, inscrição em Derechos Reales (Direitos Reais) e o que acontece se o imóvel for vendido. Lista de cláusulas.",
+  "answer": "Um contrato de anticrético (anticrese) deve identificar o imóvel com sua matrícula de Derechos Reales (Direitos Reais), fixar o valor entregue e a moeda, o prazo (máximo cinco anos), como e quando o dinheiro será devolvido, quem paga impostos, expensas e reparos, e o que acontece se alguma parte quiser terminar antes. Além disso, deve ser firmado como escritura pública perante notario (notário) e inscrito em Derechos Reales (Direitos Reais). Um modelo baixado da internet não substitui a revisão desses pontos."
+ },
+ "sections": [
+  {
+   "h2": "Antes do contrato: o que você deve verificar",
+   "paras": [
+    "O melhor contrato não serve se o imóvel tem problemas. Antes de negociar cláusulas, peça o folio real (registro) atualizado: tem que constar como dono quem assina com você, e não devem existir hipotecas, penhoras nem outro anticrético (contrato de anticrese) vigente. Se o proprietário for casado, normalmente assina também o cônjuge, porque o imóvel pode ser bem comum."
+   ]
+  },
+  {
+   "h2": "As cláusulas que não podem faltar",
+   "table": {
+    "head": [
+     "Cláusula",
+     "O que deve dizer",
+     "Por que importa"
+    ],
+    "rows": [
+     [
+      "Partes",
+      "Nomes completos, cédulas, estado civil e, se for o caso, assinatura do cônjuge",
+      "Evita que alguém diga depois que não consentiu"
+     ],
+     [
+      "Imóvel",
+      "Endereço, superfície, matrícula de Direitos Reais e o que inclui (estacionamento, depósito, móveis)",
+      "Sem matrícula não se pode inscrever"
+     ],
+     [
+      "Valor",
+      "Soma exata, moeda e forma de entrega (transferência, cheque)",
+      "É o que têm que devolver a você"
+     ],
+     [
+      "Prazo",
+      "Data de início e de fim; máximo cinco anos",
+      "O Código Civil reduz a cinco qualquer prazo maior"
+     ],
+     [
+      "Devolução",
+      "Quando, como e em que moeda o dinheiro é devolvido",
+      "O ponto mais conflituoso ao final"
+     ],
+     [
+      "Despesas",
+      "Quem paga impostos, expensas, serviços e reparos",
+      "Por padrão a lei coloca impostos e encargos a cargo do anticrescente"
+     ],
+     [
+      "Rescisão antecipada",
+      "O que acontece se uma das partes quiser terminar antes",
+      "Evita discussões se você se mudar ou se o dono precisar do imóvel"
+     ],
+     [
+      "Venda do imóvel",
+      "Que o comprador deva respeitar o anticrético",
+      "Com inscrição, seu direito é oponível a terceiros"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A moeda do anticrético: um ponto delicado",
+   "paras": [
+    "Durante anos muitos anticréticos foram pactuados em dólares com taxa de câmbio fixa. Desde meados de 2026, com taxa oficial flexível, a moeda do contrato pesa mais que nunca: se você entregou dólares, vai querer recuperar dólares; se o dono recebeu bolivianos, vai querer devolver bolivianos.",
+    "Escreva com precisão em que moeda a entrega será feita e em que moeda a devolução ocorrerá. Se for aceito pagar na outra moeda, indique qual taxa de câmbio será usada (por exemplo, a oficial publicada pelo Banco Central da Bolívia na data da devolução). A ambiguidade aqui é a causa de muitas disputas."
+   ]
+  },
+  {
+   "h2": "Reparos e estado do imóvel",
+   "paras": [
+    "Segundo o Código Civil, o anticrescente deve conservar o imóvel como um bom pai de família. Convém separar no contrato os reparos menores (que você assume) dos estruturais ou de instalações (que o dono assume): telhado, tubulações embutidas, sistema elétrico.",
+    "Faça uma ata de entrega com fotos e anexe ao contrato. No final do prazo é sua prova de que o imóvel foi devolvido no mesmo estado, salvo o desgaste normal."
+   ]
+  },
+  {
+   "h2": "Como planejar o fim do contrato",
+   "paras": [
+    "Muitos conflitos surgem ao terminar: o dono não tem o dinheiro pronto ou o anticrescente não encontra onde se mudar. Acorde no contrato com quanto de antecedência a saída deve ser avisada (por exemplo, alguns meses antes), como será feita a inspeção final do imóvel e que a devolução do dinheiro e a entrega das chaves ocorram no mesmo dia, perante notário se possível."
+   ]
+  },
+  {
+   "h2": "Assinatura perante notário e inscrição em Direitos Reais",
+   "steps": [
+    "Um advogado redige a minuta com as cláusulas acordadas.",
+    "O notário de fé pública a protocoliza como escritura pública.",
+    "Você entrega o dinheiro no ato, com comprovante bancário em nome do proprietário.",
+    "A escritura é inscrita em Direitos Reais; depois peça um folio real (registro) onde conste seu anticrético.",
+    "Ao terminar, assine com o proprietário o cancelamento do anticrético somente quando receber seu dinheiro."
+   ],
+   "tip": "Não assine o cancelamento do anticrético nem entregue as chaves antes de ter o dinheiro na sua conta. Seu direito de retenção é sua garantia."
+  },
+  {
+   "h2": "Sinais de alerta",
+   "bullets": [
+    "O dono pede que o dinheiro seja entregue em dinheiro a um terceiro ou a um \"administrador\" sem poder notarial.",
+    "Oferecem apenas um documento privado e dizem que a escritura \"não é necessária\".",
+    "O folio real (registro) mostra uma hipoteca ou um anticrético anterior vigente.",
+    "O valor é muito baixo para a região: pode ser um imóvel com problemas ou uma tentativa de fraude.",
+    "Pedem um adiantamento para \"reservar\" antes de mostrar o folio real."
+   ]
+  },
+  {
+   "h2": "Encontre opções e compare-as",
+   "paras": [
+    "Compare quanto se pede em anticrético com o que custaria alugar algo similar na mesma região. No Casa-Libre você vê casas e apartamentos no mapa e pode escrever direto por WhatsApp para perguntar se o dono aceita anticrético. Também funciona pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Um contrato de anticrético (anticrese) privado tem validade?",
+   "a": "O Código Civil exige documento público para constituir a anticrese e a inscrição para que valha perante terceiros. Um documento privado deixa você muito exposto; faça-o perante notário e inscreva-o."
+  },
+  {
+   "q": "Posso usar um modelo de contrato de anticrético (anticrese) da internet?",
+   "a": "Serve como referência, mas cada caso tem dados próprios (matrícula, moeda, gastos, prazos). Peça a um advogado que o adapte e revise o folio real."
+  },
+  {
+   "q": "O que acontece se o dono vender o imóvel durante o anticrético (anticrese)?",
+   "a": "Se o seu anticrético (anticrese) estiver inscrito em Derechos Reales (Direitos Reais), o novo dono deve respeitá-lo. Sem inscrição, sua posição é muito mais fraca."
+  },
+  {
+   "q": "É possível renovar um anticrético (anticrese)?",
+   "a": "Sim, com um novo acordo. Faça por escrito, perante notário, e inscreva a modificação, respeitando o máximo legal de cinco anos por contrato."
+  }
+ ],
+ "related": [
+  "Ver opções para viver no mapa",
+  "Propriedades em Cochabamba",
+  "Anticrético (anticrese): o que é e como funciona"
+ ]
+}

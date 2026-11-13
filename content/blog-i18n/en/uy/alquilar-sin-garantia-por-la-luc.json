@@ -1,0 +1,128 @@
+{
+ "_src": "883e2874db60",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Renting without guarantee under the LUC: how it works and what you sign",
+  "h1": "Renting without guarantee under the LUC: requirements, advantages and risks for the tenant",
+  "description": "How renting without guarantee under Law 19.889 (LUC) works in Uruguay: what the contract must say, how much can be requested in advance, adjustment, expenses and eviction periods.",
+  "answer": "Renting \"under the LUC\" means signing a housing contract under the rental regime without guarantee of Law 19.889. You do not need a guarantee, guarantor or deposit, and the owner cannot ask for more than one month’s rent in advance. For it to be valid, the contract must be written, with term and price, without any guarantee and with a clause in which both parties declare they submit to that law. The flip side: if you do not pay, the eviction is much faster than in a regular rental."
+ },
+ "sections": [
+  {
+   "h2": "What is the rent-free guarantee regime",
+   "paras": [
+    "Law 19.889, known as LUC (Urgent Consideration Law), added a chapter called \"Rent-free guarantee regime\" (articles 421 and following). The idea is simple: the tenant does not provide a guarantee and, in exchange, the landlord has a shorter eviction process if the tenant stops paying.",
+    "It is a voluntary option. The owner is not obliged to accept it and you are not either. If the contract does not meet all the requirements, LUC does not apply and the common rental rules apply (Decree-Law 14.219 or the Civil Code, as appropriate)."
+   ]
+  },
+  {
+   "h2": "The five requirements the contract must meet",
+   "paras": [
+    "According to article 421 of the law, the regime applies only if all these conditions are met together:"
+   ],
+   "steps": [
+    "The property’s purpose is residential (it is allowed, for example, to practice a profession at home, with limits).",
+    "There are no guarantees of any kind in favor of the owner.",
+    "The contract is written.",
+    "The contract expressly states the term and the price.",
+    "The parties expressly acknowledge that they submit to this law."
+   ],
+   "tip": "Look in the contract for the clause that says the parties submit to the regime of Law 19.889. If it is missing, the contract is not \"under LUC\", even if no one asked you for a guarantee."
+  },
+  {
+   "h2": "What can be freely agreed",
+   "paras": [
+    "Article 422 leaves several matters to the parties. Read them carefully because they define how much you will pay and for how long:"
+   ],
+   "bullets": [
+    "Term: the parties agree it. If neither gives notice otherwise within the 30 days before expiration, the contract is automatically extended for an equal term.",
+    "Price: it can be in pesos, foreign currency, adjustable units (UR) or indexed units (UI). Unless otherwise agreed, it is paid monthly within the first ten days of the month.",
+    "Advance payment: the owner cannot demand more than one month’s rent in advance.",
+    "Adjustment: whatever the parties agree. If the price is in pesos and nothing is stipulated, it is adjusted once a year according to the Consumer Price Index (CPI).",
+    "Inspection: it can be agreed that the owner inspects the property to verify it is used according to the contract."
+   ]
+  },
+  {
+   "h2": "Common expenses, utilities and taxes",
+   "paras": [
+    "By article 427, utilities (electricity, water, internet), common expenses and ancillary services are the tenant’s responsibility, unless the contract says otherwise. And there is an important detail: if the owner had to pay two or more months of those expenses because you did not pay them, that debt is added to the rent and its non-payment has the same effect as not paying rent.",
+    "Therefore, in addition to the price, ask how much the common expenses are and what they include before signing."
+   ]
+  },
+  {
+   "h2": "What happens if you fall behind: eviction timelines",
+   "paras": [
+    "This is the point you need to understand most. If you do not pay on time, the owner can formally demand payment (for example, with a registered telegram). If you do not pay within the three business days following the demand, you are in default, unless the contract has stipulated automatic default.",
+    "With the tenant in default, the owner can start eviction for \"non-payer\" and the judge orders it with a deadline of six business days from the notification of the judgment. If the contract expires and is not renewed, eviction for term expiration is ordered with thirty days. These are very short periods compared to a regular lease."
+   ],
+   "table": {
+    "head": [
+     "Situation",
+     "Deadline set by LUC"
+    ],
+    "rows": [
+     [
+      "Pay after the demand",
+      "3 business days to avoid default"
+     ],
+     [
+      "Eviction for non-payer",
+      "6 business days from judgment notification"
+     ],
+     [
+      "Eviction for term expiration",
+      "30 days from judgment notification"
+     ],
+     [
+      "Enforcement (if you do not vacate)",
+      "Within 15 business days from notification"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Clauses the law does not allow",
+   "paras": [
+    "Article 428 declares null, among others, clauses in which you waive the eviction and enforcement deadlines in advance, clauses that raise the price or charge it in advance for the period after expiration, and penalties for late delivery that exceed five times the rent amount. If you see something like that in a draft, ask for it to be removed."
+   ]
+  },
+  {
+   "h2": "Is renting under LUC right for you?",
+   "paras": [
+    "It is usually advantageous if you have no guarantee, if you have just arrived in the country or a city, or if you want to save the monthly cost of a guarantee. It is also useful for short contracts, for example for students.",
+    "It is less advantageous if your income is irregular and a few days of delay are possible: under this regime, a difficult month can quickly turn into an eviction. If you choose this route, set up a small reserve fund equivalent to one or two months’ rent."
+   ]
+  },
+  {
+   "h2": "How to find owners who accept LUC",
+   "paras": [
+    "In your first message say directly that you are looking to rent under LUC without a guarantee. Many private owners accept it, and this filters them from the start. On Casa-Libre you can view rentals in Uruguay on the map and message the advertiser via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is renting under the LUC the same as renting without a contract?",
+   "a": "No. The regime requires a written contract with term, price and an express clause of submission to Law 19.889. Without those requirements it does not apply."
+  },
+  {
+   "q": "Can they ask for a deposit if I rent under the LUC?",
+   "a": "No. One condition of the regime is that there are no guarantees of any kind. What can be requested is advance payment of one month at most."
+  },
+  {
+   "q": "Does the LUC contract have to be registered?",
+   "a": "It is not mandatory for it to be valid between the parties, but according to article 423 it is only enforceable against third parties once registered. If the owner sells, the buyer must respect the contract if it is registered."
+  },
+  {
+   "q": "How is the rent adjusted under the LUC?",
+   "a": "As the parties agree. If it is in pesos and nothing is agreed, it is adjusted annually according to the CPI."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Properties in Montevideo",
+  "Requirements to rent in Uruguay",
+  "What to check in a rental contract"
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "_src": "6369f874ee8f",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Property Tax in Uruguay: What It Is and Who Pays It",
+  "h1": "Property Tax: What It Is, Who Pays It, and How to Check Debts Before Buying or Renting",
+  "description": "What the property tax is in Uruguay, who pays it (owner or tenant), the Primary Education tax, departmental fees, and how to verify that a property has no debts before purchasing.",
+  "answer": "Property tax is the annual levy that each Intendencia charges on the real estate in its department, calculated from the cadastral value, and it can generally be paid in installments. The owner pays it. In a rental, unless the contract says otherwise, it remains the owner's responsibility, although some contracts shift fees to the tenant. In urban areas, this is added to the Primary Education tax. If you are buying, your escribano (notary) verifies that both are up to date: a property tax debt follows the property and it is advisable for the seller to clear it before the escritura."
+ },
+ "sections": [
+  {
+   "h2": "What is the property tax",
+   "paras": [
+    "It is a departmental levy: it is set and collected by the Intendencia of each department (Montevideo, Canelones, Maldonado, etc.), which is why searches are always \"property tax Montevideo\", \"Maldonado\", \"Salto\"... Each one has its own calculation system, due dates, discounts for annual payment and exemptions.",
+    "It is calculated from the cadastral value of the property register. Therefore, two properties with the same market price can pay different taxes. To know how much a specific property pays, the most direct way is to ask the owner for the latest receipt or check on the Intendencia website using the register number."
+   ]
+  },
+  {
+   "h2": "Other taxes that accompany the property",
+   "table": {
+    "head": [
+     "Tax",
+     "Who collects it",
+     "What to know"
+    ],
+    "rows": [
+     [
+      "Property tax",
+      "The Intendencia of the department",
+      "Annual, in installments; based on cadastral value"
+     ],
+     [
+      "Primary Education Tax",
+      "National, for urban and suburban properties",
+      "Has exemptions depending on value and use"
+     ],
+     [
+      "Departmental fees",
+      "The Intendencia",
+      "For example, service fees; vary by department"
+     ],
+     [
+      "Sewage",
+      "Intendencia or OSE depending on the area",
+      "Law 18.840 requires connection if there is a network in front of the property"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "In a rental, who pays it?",
+   "paras": [
+    "As a general rule, the taxes that burden the property, such as the property tax and Primary Education Tax, are paid by the owner. But the contract may say otherwise, and there are contracts that shift some fee or part of the taxes to the tenant.",
+    "In the guarantee-free regime of the LUC, the law provides that if the owner had to pay two or more monthly tax installments that the contract or the law placed on the tenant, that debt is added to the rent. Therefore it is important to know, before signing, which taxes are your responsibility."
+   ],
+   "tip": "If the ad says \"rent + expenses\", ask what \"expenses\" include: only common expenses, or also tax and fees?"
+  },
+  {
+   "h2": "If you are buying: how to verify there are no debts",
+   "paras": [
+    "The property tax debt follows the property, not the person. If you buy a property with debt, the Intendencia can claim it from you. For that reason, in every sale:"
+   ],
+   "steps": [
+    "Ask the seller for the register number and the latest paid receipt.",
+    "Check the debt on the Intendencia website with the register number, or ask your escribano (notary) to do it.",
+    "Your escribano requests certificates that the property tax and Primary Education Tax are up to date.",
+    "If there is debt, agree in writing that the seller cancels it before closing or that it is deducted from the price."
+   ]
+  },
+  {
+   "h2": "How and where to pay",
+   "paras": [
+    "Each Intendencia allows online payment and payment through collection networks. In Montevideo, for example, the Intendencia has an online procedure for property tax with debt inquiry and receipt issuance. There is usually a discount for paying the full year in advance and surcharges for late payment.",
+    "If you are retired or a pensioner, if the property is your only home and of low value, or if it belongs to a user cooperative, there may be exemptions or discounts. Check with your Intendencia."
+   ]
+  },
+  {
+   "h2": "If you are an owner and you are going to sell or rent",
+   "paras": [
+    "Having the taxes up to date saves delays: the buyer's escribano will demand it without fail. If you rent, make clear in the contract who pays each tax and fee."
+   ]
+  },
+  {
+   "h2": "How to use it to compare properties",
+   "paras": [
+    "When you compare two properties to buy, add the annual cost of owning them to the price: property tax, Primary Education Tax, common expenses if it is an apartment, and insurance. Divided by twelve, this is a monthly cost you will pay every month while you own it, just like a mortgage payment.",
+    "Since the tax is calculated from the cadastral value and each Intendencia has its own system, a house in one department can pay considerably more or less than a similar one in the neighboring department. If you are undecided between a property in Montevideo and one in Canelones, request the receipts for both."
+   ]
+  },
+  {
+   "h2": "Before deciding",
+   "paras": [
+    "When reviewing an ad, ask how much property tax is paid per year and whether it is up to date. It is part of the real cost of owning that property. On Casa-Libre you can view properties in Montevideo, Canelones, Maldonado and other cities on the map and write directly via WhatsApp, also from the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can the property tax be paid in installments?",
+   "a": "Generally yes: the Intendencias allow installment payments throughout the year and usually offer a discount for early annual payment. Check the deadlines for your department."
+  },
+  {
+   "q": "Who pays the property tax in a rental?",
+   "a": "Generally the owner. But the contract may shift taxes or fees to the tenant: review that clause before signing."
+  },
+  {
+   "q": "How do I know if a property owes property tax?",
+   "a": "With the cadastral number you can consult the department's Intendencia website. In a purchase, the escribano requests the certificates."
+  },
+  {
+   "q": "Does the property tax debt transfer to the buyer?",
+   "a": "Yes, the debt goes with the property. That is why the escribano checks that it is up to date and it is common for the seller to clear it."
+  },
+  {
+   "q": "What is the Primary Education tax?",
+   "a": "A national tax on urban and suburban real estate intended for primary education, with exemptions based on value and use."
+  }
+ ],
+ "related": [
+  "Properties in Montevideo",
+  "Properties in Canelones",
+  "Guide: Buying Costs"
+ ]
+}

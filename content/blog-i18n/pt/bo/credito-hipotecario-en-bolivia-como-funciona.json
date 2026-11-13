@@ -1,0 +1,128 @@
+{
+ "_src": "d056a0a9c7da",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito hipotecário na Bolívia: como funciona e o que observar",
+  "h1": "Crédito hipotecário de moradia na Bolívia: como funciona, quanto custa e como compará-lo",
+  "description": "Como funciona um crédito hipotecário na Bolívia: taxa regulada ou livre, taxa efetiva, seguros, prazo, parcela, garantia em Derechos Reales (Direitos Reais) e o que te protege segundo a Lei 393.",
+  "answer": "Um crédito hipotecário de moradia na Bolívia é um empréstimo de longo prazo que uma entidade financeira regulada pela ASFI lhe concede para comprar, construir ou melhorar uma moradia, e que fica garantido com uma hipoteca inscrita em Derechos Reales (Direitos Reais). Se a moradia se enquadra como de interesse social, a taxa tem um teto por lei; caso contrário, a taxa é fixada pelo mercado. Para comparar ofertas, observe a taxa efetiva anual e a parcela total com seguros."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona, em simples",
+   "paras": [
+    "A entidade lhe empresta parte do valor da moradia e você coloca o resto como aporte próprio. Você paga o empréstimo em parcelas mensais durante muitos anos. Enquanto deve, a moradia fica hipotecada a favor da entidade: se deixar de pagar, a entidade pode executar a hipoteca e leiloar o imóvel para se cobrar.",
+    "A hipoteca se constitui por escritura pública ante notario (tabelião) e se inscreve em Direitos Reais, no folio real do imóvel. Quando terminar de pagar, a entidade entrega a documentação para cancelar (levantar) essa hipoteca."
+   ]
+  },
+  {
+   "h2": "Moradia de interesse social ou crédito de taxa livre",
+   "paras": [
+    "Se você está perto do teto de interesse social, vale a pena calcular bem: uma moradia que apenas o supera pode sair bastante mais cara em juros ao longo do crédito."
+   ],
+   "table": {
+    "head": [
+     "Tipo",
+     "Para que moradia",
+     "Taxa"
+    ],
+    "rows": [
+     [
+      "Moradia de interesse social",
+      "Única moradia, sem fins comerciais, até UFV 400.000 (apartamento) ou UFV 460.000 (casa)",
+      "Teto máximo por decreto: 5,5%, 6% ou 6,5% conforme valor"
+     ],
+     [
+      "Crédito de moradia de taxa livre",
+      "Moradias que superam os tetos ou que não são a única moradia",
+      "A fixa de cada entidade conforme o mercado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Taxa nominal, taxa efetiva e seguros",
+   "paras": [
+    "A Lei 393 de Serviços Financeiros obriga as entidades a calcular a taxa de juros anual efetiva, que inclui todos os encargos, recargos ou comissões adicionais, usando fórmulas do Banco Central da Bolívia. Esse é o número que serve para comparar entre entidades.",
+    "Além da taxa, a parcela costuma incluir um seguro de desgravamen (cobre a dívida se o devedor falecer) e às vezes um seguro sobre o imóvel. Sempre peça um plano de pagamento com a parcela total, não só a taxa."
+   ],
+   "tip": "A Lei 393 proíbe que a entidade modifique unilateralmente a taxa pactuada se isso lhe prejudicar. Se seu crédito for de taxa variável, leia com cuidado como se calcula e qual é o teto."
+  },
+  {
+   "h2": "Prazo e parcela: quanto você vai pagar",
+   "paras": [
+    "Um prazo mais longo reduz a parcela mensal, mas aumenta o total de juros. Peça simulações com ao menos dois prazos diferentes. As entidades verificam se a parcela não é muito alta em relação à sua renda; se for, oferecerão um valor menor.",
+    "A maioria dos créditos de moradia são concedidos em bolivianos. Se sua renda for em bolivianos, um crédito na mesma moeda evita o risco de que a taxa de câmbio, hoje flexível, altere a parcela."
+   ]
+  },
+  {
+   "h2": "Requisitos habituais",
+   "bullets": [
+    "Cédula de identidade vigente.",
+    "Comprovantes de renda: recibos de pagamento e certificado de trabalho, ou NIT, notas fiscais e extratos se for autônomo.",
+    "Histórico de crédito sem atrasos importantes.",
+    "Documentos do imóvel: folio real, certificado alodial, impostos pagos, planta aprovada.",
+    "Avaliação de um perito registrado na entidade.",
+    "Aporte próprio, salvo se um fundo de garantia cobrir essa parte."
+   ]
+  },
+  {
+   "h2": "Os passos, da pré-qualificação ao desembolso",
+   "steps": [
+    "Solicite uma pré-qualificação em duas ou três entidades.",
+    "Escolha a moradia dentro do valor aprovado e com documentos em ordem.",
+    "A entidade avalia o imóvel e revisa os títulos.",
+    "O crédito é aprovado e assinam a compra e venda e a hipoteca ante notario (tabelião).",
+    "Ambos são inscritos em Direitos Reais.",
+    "A entidade desembolsa o dinheiro ao vendedor."
+   ]
+  },
+  {
+   "h2": "Como comparar duas ofertas",
+   "bullets": [
+    "Peça a cada entidade um plano de pagamento com o mesmo valor e o mesmo prazo.",
+    "Compare a taxa efetiva anual e a parcela total com seguros, não só a taxa nominal.",
+    "Pergunte se a taxa é fixa ou variável e, se for variável, como se calcula.",
+    "Pergunte se pode fazer pagamentos antecipados e se há algum custo.",
+    "Considere a rapidez e o atendimento: um trâmite lento pode fazer você perder a moradia."
+   ]
+  },
+  {
+   "h2": "Se você tem um problema com sua entidade",
+   "paras": [
+    "Primeiro reclame no ponto de reclamação da própria entidade, por escrito e guardando o número. Se não responderem ou você não concordar, pode recorrer à Autoridade de Supervisão do Sistema Financeiro (ASFI), que regula bancos e entidades financeiras."
+   ]
+  },
+  {
+   "h2": "Com seu valor aprovado, busque com critério",
+   "paras": [
+    "Quando souber quanto lhe emprestam, filtre por preço. No Casa-Libre você vê casas e apartamentos à venda no mapa e pode perguntar por WhatsApp se o imóvel tem os documentos prontos para um crédito. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual taxa tem um crédito hipotecário na Bolívia?",
+   "a": "Se a moradia é de interesse social, a taxa tem um teto de 5,5% a 6,5% ao ano conforme o valor (DS 1842). Caso contrário, cada entidade a fixa. Compare sempre a taxa efetiva anual."
+  },
+  {
+   "q": "O banco pode me aumentar a taxa?",
+   "a": "A Lei 393 proíbe modificar unilateralmente a taxa pactuada se isso prejudicar o cliente. Em créditos de taxa variável, verifique como ela é calculada."
+  },
+  {
+   "q": "O que é o seguro de desgravamen?",
+   "a": "Um seguro que cobre a dívida se o titular falecer. É cobrado junto com a parcela e não está incluído na taxa regulada."
+  },
+  {
+   "q": "Onde reclamo se tenho problemas com meu crédito?",
+   "a": "Primeiro no ponto de reclamação da entidade; depois, na ASFI."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: custos ao comprar uma casa",
+  "Crédito de moradia social"
+ ]
+}

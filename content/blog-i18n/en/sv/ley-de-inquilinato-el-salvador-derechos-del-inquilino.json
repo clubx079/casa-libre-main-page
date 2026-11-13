@@ -1,0 +1,109 @@
+{
+ "_src": "fdd4603bf284",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Landlord-Tenant Law in El Salvador: tenant rights",
+  "h1": "Landlord-Tenant Law of El Salvador: what rights you have as a tenant",
+  "description": "What the Landlord-Tenant Law of El Salvador says for someone renting a home: written contract, receipts, depositing rent, utilities, increases, subletting and grounds for eviction.",
+  "answer": "The Landlord-Tenant Law of El Salvador (Legislative Decree 2591 of 1958) applies to the leasing of houses and premises for housing and protects the tenant: the contract must be in writing, the landlord must give you a receipt for each payment, if he refuses to accept the rent you can deposit it in the court, he cannot cut off your water or electricity to pressure you and may only request vacating for the causes listed in the law. In addition, the rights the law gives the tenant are non-waivable."
+ },
+ "sections": [
+  {
+   "h2": "What the Tenancy Law Is and Which Rentals It Applies To",
+   "paras": [
+    "Rentals in general are regulated by the Civil Code, which calls them leases. The Tenancy Law is a special, more protective law that applies to the lease and sublease of houses and premises intended for housing, and also to certain small premises, educational centers and offices.",
+    "It is an old law, with reforms, and many of its price provisions refer to situations from decades ago. But its rules on contracts, receipts, payments and eviction remain the reference for anyone renting a home."
+   ]
+  },
+  {
+   "h2": "Your rights cannot be waived in the contract",
+   "paras": [
+    "The law says that the rights it grants tenants are irrevocable. That means a clause in the contract that says, for example, that you agree to leave without a trial when the owner wants, or that you waive receiving receipts, does not take away those rights."
+   ]
+  },
+  {
+   "h2": "Written contract and receipt for each payment",
+   "paras": [
+    "Tenancy contracts must be in writing and state who the parties are, what the property is, the price and the payment method. The law provides a fine for the landlord who does not do it in writing.",
+    "The landlord is also required to issue a receipt for every payment. Keep each receipt or, if you pay by transfer, the proof with a clear reference to the month you are paying."
+   ],
+   "tip": "If you pay by transfer, put in the concept \"Rent [month and year] — [address]\". That way each payment is identified even if the owner does not send you a receipt."
+  },
+  {
+   "h2": "If the owner does not want to receive the payment",
+   "paras": [
+    "Sometimes a landlord refuses to receive the rent in order to later claim the tenant is in default. The law provides a remedy: you can deposit the rent with the competent court within eight days of the payment date. That shows you paid on time.",
+    "According to the same law, default occurs when the tenant does not pay or deposit the rent within eight days of the set date."
+   ]
+  },
+  {
+   "h2": "They cannot cut off services to pressure you",
+   "paras": [
+    "The law prohibits the landlord from suspending services such as water or electricity to force the tenant to leave or accept conditions. If that happens, document the situation with photos, messages and dates, and seek legal advice."
+   ]
+  },
+  {
+   "h2": "Rent increases",
+   "paras": [
+    "The Tenancy Law limits rent increases during the lease to specific cases, such as major improvements made to the property, and requires a procedure. In practice, many increases are agreed upon when renewing the contract. That is why it is essential that the contract states the term and how the price will be set upon renewal."
+   ]
+  },
+  {
+   "h2": "Why they may ask you to vacate",
+   "paras": [
+    "The landlord cannot evict you at will: the law lists termination causes and eviction is resolved in court. The most common causes are:"
+   ],
+   "bullets": [
+    "Default on rent payment.",
+    "Using the property for something other than what was agreed.",
+    "Causing serious damage to the property through fault or malice.",
+    "Making modifications without the owner's written permission.",
+    "Subletting without written authorization.",
+    "The owner needs the property to live in it himself, under the conditions set by law.",
+    "Ruins, indispensable works or a declaration of uninhabitability."
+   ]
+  },
+  {
+   "h2": "If you fall behind: what you need to know",
+   "paras": [
+    "If you are sued for default, the law gives you a short deadline to respond. In a first lawsuit for default on the same contract, you can avoid eviction by paying what you owe plus costs. Do not wait for the lawsuit: if you know you will fall behind, talk to the owner beforehand and put any payment agreement in writing."
+   ]
+  },
+  {
+   "h2": "Your obligations as a tenant",
+   "paras": [
+    "The law also requires you to comply: pay on time, use the property as agreed, not make changes without written permission and take care of the property. Fulfilling these obligations is your best defense if a conflict arises."
+   ]
+  },
+  {
+   "h2": "Rent with clear rules from the start",
+   "paras": [
+    "Most conflicts are avoided with a clear contract and a signed inventory. At Casa-Libre you can search rentals on the map and ask via WhatsApp, before visiting, how the contract is and what the price includes. Also through the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is the Landlord-Tenant Law still in force in El Salvador?",
+   "a": "It appears as current in the collections of Salvadoran laws. It is a 1958 law with amendments; for a specific case, consult a lawyer on how it applies today."
+  },
+  {
+   "q": "Can they evict me without a trial?",
+   "a": "No. The law specifies particular grounds for termination and eviction is resolved through the courts. Cutting utilities to pressure you is also not allowed."
+  },
+  {
+   "q": "What should I do if the owner does not accept my payment?",
+   "a": "You can deposit the rent in the court within eight days of the payment date. This shows that you paid on time."
+  },
+  {
+   "q": "Can I sublet a room?",
+   "a": "Only with written authorization from the landlord. Subletting without permission is a cause for termination of the contract."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Houses for rent",
+  "Requirements to rent in El Salvador"
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "_src": "7dd1ec8c43c0",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Depósito de garantia do aluguel: como recuperá-lo",
+  "h1": "Como recuperar o depósito de garantia ao deixar um aluguel",
+  "description": "Como fazer com que devolvam o depósito do aluguel: ata com fotos, desgaste normal vs. dano, pré-aviso, últimas contas e o que fazer se não devolvem.",
+  "answer": "Para recuperar o depósito de garantia você precisa comprovar duas coisas: que não deixou dívidas (aluguéis, expensas, luz, água) e que o imóvel volta no mesmo estado em que o recebeu, salvo o desgaste normal pelo uso. A melhor ferramenta é uma ata ou inventário com fotos na entrada e outra na saída, assinados pelas duas partes. Se ainda assim não devolvem, reclame por escrito e, se não houver acordo, você pode recorrer a uma mediação ou à via judicial."
+ },
+ "sections": [
+  {
+   "h2": "O depósito é devolvido no dia em que você entra, não no dia em que sai",
+   "paras": [
+    "A maioria das discussões sobre o depósito se resolvem com uma única pergunta: como estava o imóvel quando você o recebeu? Se não houver como provar, é a sua palavra contra a do proprietário.",
+    "Por isso, no primeiro dia, antes de colocar os móveis, percorra cada ambiente e documente tudo. Esse registro vale mais que qualquer argumento no final."
+   ],
+   "steps": [
+    "Tire fotos e vídeos de cada ambiente, com data: paredes, pisos, tetos, aberturas, banheiros, cozinha e pátio.",
+    "Foque no que já está errado: manchas de umidade, azulejos quebrados, riscos, torneiras que pingam, tomadas soltas.",
+    "Teste tudo o que for possível testar: luzes, tomadas, torneiras, vasos sanitários, ar-condicionado, termocalefão, portão.",
+    "Anote a leitura dos medidores de energia e água.",
+    "Registre tudo em uma ata ou inventário e peça que o proprietário ou a imobiliária assinem. Se não quiser assinar, envie as fotos por WhatsApp ou e-mail no mesmo dia: fica constância da data."
+   ]
+  },
+  {
+   "h2": "Desgaste normal ou dano: onde está a diferença",
+   "paras": [
+    "Viver em uma casa a desgasta, e isso não é culpa do inquilino. O depósito serve para cobrir danos e dívidas, não para devolver o imóvel como novo. A linha nem sempre é nítida, mas esses exemplos ajudam:"
+   ],
+   "table": {
+    "head": [
+     "Costuma ser considerado desgaste normal",
+     "Costuma ser considerado dano"
+    ],
+    "rows": [
+     [
+      "Pintura um pouco opaca ou suja após um ano ou mais",
+      "Paredes riscadas, escritas ou pintadas de outra cor sem permissão"
+     ],
+     [
+      "Pequenos furos de pregos para quadros",
+      "Furos grandes, prateleiras arrancadas"
+     ],
+     [
+      "Piso com brilho gasto nas áreas de passagem",
+      "Pisos queimados, manchados ou com peças quebradas"
+     ],
+     [
+      "Vedação ou borrachas de torneira vencidas",
+      "Sanitários ou vidros quebrados"
+     ],
+     [
+      "Eletrodoméstico que falha por idade",
+      "Eletrodoméstico quebrado por mau uso"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Antes de sair: aviso prévio e contas zeradas",
+   "paras": [
+    "Revise o contrato: quanto de aviso prévio você deve dar para não renovar ou para sair antes, e como deve fazê-lo. Faça por escrito e guarde a comprovação.",
+    "Depois, deixe as contas zeradas. O proprietário pode reter o depósito até ver as últimas faturas, porque os serviços são faturados após o consumo. Para acelerar a devolução:"
+   ],
+   "bullets": [
+    "Pague o último aluguel e as despesas do último mês, e guarde os comprovantes.",
+    "Faça a leitura final dos medidores de energia (ANDE) e água no dia da entrega, com foto.",
+    "Se os serviços estavam em seu nome, solicite o cancelamento ou a mudança de titularidade para não continuar recebendo faturas.",
+    "Proponha descontar do depósito o consumo estimado entre a última fatura e a entrega, para não esperar mais um mês.",
+    "Cancele a internet e outros serviços que você contratou."
+   ]
+  },
+  {
+   "h2": "O dia da entrega",
+   "paras": [
+    "Entregue o imóvel limpo, com todas as chaves e controles, e faça o mesmo percurso do primeiro dia, mas na presença do proprietário ou da imobiliária. Compare com as fotos da entrada.",
+    "O ideal é assinar uma ata de entrega que diga uma de duas coisas: que o imóvel foi recebido conforme, ou quais observações há. Se houver observações, peça que seja escrito o valor que o proprietário pretende descontar e o motivo. O que não for escrito naquele dia depois aumenta."
+   ],
+   "tip": "Leve suas fotos da entrada no celular. Quando o proprietário apontar uma mancha ou um risco, verifique se já estava. É a forma mais rápida de encerrar a discussão."
+  },
+  {
+   "h2": "Como negociar um desconto que lhe parece injusto",
+   "paras": [
+    "Se o proprietário quiser descontar algo, peça o detalhamento por escrito: qual reparo, quanto custa e com qual orçamento. Você tem direito a entender cada desconto.",
+    "Se o dano for seu, às vezes sai mais barato consertar você mesmo antes de entregar (com um profissional e nota fiscal) do que deixar que descontem. Se não for seu, mostre a foto da entrada. E se for desgaste normal, explique calmamente: a pintura de um apartamento onde você morou dois anos não é um dano."
+   ]
+  },
+  {
+   "h2": "Se não devolvem o depósito",
+   "paras": [
+    "Primeiro, uma reclamação por escrito (WhatsApp e e-mail servem como comprovação) com o valor, a data da entrega, a ata e as fotos, e um prazo razoável para a devolução.",
+    "Se não houver resposta, existem dois caminhos gerais. Um é a mediação: um mediador ajuda as partes a chegar a um acordo, e é mais rápido e barato que um processo. O outro é a via judicial: a reclamação de dinheiro é apresentada ao tribunal competente conforme o valor. Para valores baixos costuma atuar a justiça de paz. Em ambos os casos, convém consultar um advogado, que lhe dirá o que corresponde ao seu caso.",
+    "A maioria dos casos se resolve antes, quando o inquilino demonstra que tem provas. Por isso tudo volta ao primeiro ponto: documente na entrada."
+   ]
+  },
+  {
+   "h2": "Para o seu próximo aluguel",
+   "paras": [
+    "Quando buscar sua próxima casa, pergunte antes de assinar como o depósito será devolvido e em que prazo, e que isso fique registrado. No Casa-Libre você pode buscar aluguéis no mapa e perguntar isso ao proprietário ou à imobiliária por WhatsApp, pelo site ou pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Em quanto tempo devem devolver o depósito?",
+   "a": "Depende do que está no contrato. É comum que o proprietário espere as últimas contas de serviços; por isso convém que o contrato fixe um prazo concreto e que acordem um desconto estimado pelo último consumo."
+  },
+  {
+   "q": "Podem descontar a pintura do depósito?",
+   "a": "Se a pintura apenas mostra o desgaste normal do uso, geralmente não cabe desconto. Se houver paredes danificadas, escritas ou pintadas sem permissão, pode haver desconto."
+  },
+  {
+   "q": "Posso usar o depósito para pagar o último mês?",
+   "a": "Só se o proprietário aceitar por escrito. O depósito garante danos e dívidas; se você usá-lo como último mês e depois aparecer um dano, não resta nada para cobri-lo."
+  },
+  {
+   "q": "As fotos do WhatsApp servem como prova?",
+   "a": "Ajudam muito, sobretudo se você as enviou ao proprietário no dia em que entrou: a data fica registrada. O ideal é ainda uma ata assinada pelas duas partes."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Cláusulas do contrato de aluguel",
+  "Alugar em Casa-Libre"
+ ]
+}

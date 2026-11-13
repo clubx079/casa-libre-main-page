@@ -1,0 +1,146 @@
+{
+ "_src": "47ef6d8951bb",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Vender uma casa em El Salvador: requisitos e impostos",
+  "h1": "Vender uma casa em El Salvador: requisitos, impostos e como publicá-la",
+  "description": "O que você precisa para vender sua casa em El Salvador: escritura e matrícula, solvências, cancelamento de hipoteca, imposto sobre ganho de capital, quem paga o imposto de transferência e como publicá-la.",
+  "answer": "Para vender uma casa em El Salvador você precisa do seu DUI, a escritura (escritura pública) inscrita em seu nome e a matrícula do imóvel, a solvência municipal e os serviços em dia, e, se a casa tem hipoteca, cancelá-la (normalmente com parte do preço). O imposto de transferência é pago pelo comprador; você, como vendedor, pode ter que pagar imposto de renda sobre o ganho de capital se vender por preço superior ao que custou. A venda se formaliza com escritura perante notario (notário) e é inscrita no CNR."
+ },
+ "sections": [
+  {
+   "h2": "Os papéis que você deve ter prontos",
+   "paras": [
+    "Um comprador sério, seu notario (tabelião) e seu banco ou o FSV vão pedir os mesmos documentos. Tê-los prontos desde que publica acelera a venda."
+   ],
+   "bullets": [
+    "DUI vigente seu e, se for o caso, dos copropietários.",
+    "Escritura (escritura pública) de sua compra inscrita e número de matrícula.",
+    "Certificação extraída recente do CNR.",
+    "Solvência municipal do imóvel.",
+    "Últimos recibos de água e luz pagos.",
+    "Se estiver em residencial ou condomínio, comprovação de quotas em dia e regulamento.",
+    "Se houver hipoteca, comprovação do saldo emitida pelo banco ou pelo FSV."
+   ],
+   "tip": "Pegue você mesmo a certificação do CNR antes de publicar. Se aparecer um erro de nome, de medidas ou uma anotação antiga, é melhor resolvê-lo antes que o comprador descubra."
+  },
+  {
+   "h2": "Se a casa tem hipoteca",
+   "paras": [
+    "É possível vender uma casa hipotecada, mas o comprador vai querer recebê-la livre. O usual é que, no mesmo ato da escritura, parte do preço seja usada para pagar o saldo e o credor conceda a quitação da hipoteca. Se o comprador usar crédito, seu banco ou o FSV coordenam o pagamento do saldo.",
+    "Evite os acordos informais de \"vender o direito\": você continuaria sendo o devedor e o dono registrado, com todos os riscos que isso implica."
+   ]
+  },
+  {
+   "h2": "Impostos: o que você paga e o que o comprador paga",
+   "paras": [
+    "O Impuesto sobre Transferencia de Bienes Raíces (3% sobre o valor que exceda US$28,571.43) é pago pelo comprador, conforme a lei.",
+    "Você, como vendedor, deve considerar o imposto de renda sobre ganho de capital. Se vender por mais do que custou a casa (mais as melhorias documentadas), essa diferença é um ganho. Segundo a Ley de Impuesto sobre la Renta, o ganho de capital é tributado a 10% quando o bem é vendido após doze meses de aquisição; se for vendido antes, o ganho se soma à renda ordinária. Se vender com prejuízo, não há ganho a tributar."
+   ],
+   "table": {
+    "head": [
+     "Imposto ou gasto",
+     "Quem paga",
+     "Nota"
+    ],
+    "rows": [
+     [
+      "Impuesto sobre Transferencia de Bienes Raíces",
+      "Comprador",
+      "3% sobre o excesso de US$28,571.43"
+     ],
+     [
+      "Impuesto sobre la renta por ganancia de capital",
+      "Vendedor",
+      "Só se houver ganho; consulte um contador"
+     ],
+     [
+      "Cancelación de hipoteca",
+      "Vendedor",
+      "Com parte do preço, no mesmo ato"
+     ],
+     [
+      "Tasas municipales y servicios atrasados",
+      "Vendedor",
+      "Antes de escriturar"
+     ],
+     [
+      "Honorarios del notario",
+      "A combinar",
+      "Acorde por escrito com o comprador"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como definir o preço",
+   "paras": [
+    "Compare com propriedades semelhantes na sua mesma zona: tamanho, número de quartos, estado e tipo (colônia, residencial, apartamento). Um preço alinhado ao mercado recebe consultas já na primeira semana; um preço muito alto fica publicado e acaba sendo vendido por menos. Se o comprador for usar crédito, lembre-se que a instituição fará uma avaliação e concederá o empréstimo sobre esse valor."
+   ]
+  },
+  {
+   "h2": "Como publicar para vender mais rápido",
+   "bullets": [
+    "Fotos com boa iluminação de todos os ambientes, da fachada e da rua.",
+    "Preço claro e se aceita crédito do FSV ou bancário.",
+    "Medidas do terreno e da construção.",
+    "O que inclui: vaga de estacionamento, cisterna, taxa de manutenção.",
+    "Localização correta no mapa."
+   ]
+  },
+  {
+   "h2": "Consultas e visitas com segurança",
+   "paras": [
+    "Responda rápido por WhatsApp, peça o nome completo de quem quer visitar e agende visitas em horário diurno, acompanhado. Não entregue cópias da sua escritura ou do seu DUI a qualquer pessoa que pergunte: compartilhe-as com o notario ou com um comprador que já fez uma oferta séria."
+   ]
+  },
+  {
+   "h2": "Passo a passo da venda",
+   "steps": [
+    "Reúna documentos e obtenha uma certificação do CNR.",
+    "Defina o preço comparando com sua zona.",
+    "Publique com boas fotos e dados completos.",
+    "Atenda consultas e visitas.",
+    "Combine preço, forma de pagamento e data por escrito com o comprador.",
+    "Assine a escritura perante notario e, se for o caso, quite a hipoteca.",
+    "Declare o ganho de capital se for necessário."
+   ]
+  },
+  {
+   "h2": "Quanto pode demorar",
+   "paras": [
+    "Uma venda à vista com papéis em ordem pode ser concluída em poucas semanas a partir do momento em que há comprador. Com crédito, some o tempo de aprovação e avaliação. Ter a documentação pronta desde o início é o que mais encurta os prazos."
+   ]
+  },
+  {
+   "h2": "Publicar no Casa-Libre",
+   "paras": [
+    "No Casa-Libre os compradores veem sua casa no mapa e escrevem direto por WhatsApp. Você pode publicar pelo site ou pelo app do Casa-Libre para iPhone e Android. Confira também o guia para vender sem imobiliária e o de documentos para vender."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quais documentos eu preciso para vender minha casa em El Salvador?",
+   "a": "DUI, escritura inscrita e matrícula, certificação do CNR, solvência municipal, recibos de serviços em dia e, se houver hipoteca, a constância de saldo."
+  },
+  {
+   "q": "Pagam-se impostos ao vender uma casa em El Salvador?",
+   "a": "O vendedor pode pagar imposto de renda sobre o ganho de capital se vender por preço superior ao que custou. O imposto de transferência é pago pelo comprador."
+  },
+  {
+   "q": "Posso vender minha casa se ainda estou pagando?",
+   "a": "Sim. O habitual é cancelar o saldo do crédito com parte do preço no mesmo ato da escritura, para entregar a casa livre de hipoteca."
+  },
+  {
+   "q": "Quem paga o notario em uma compra e venda?",
+   "a": "É acordado entre as partes. Deixe por escrito antes de assinar."
+  }
+ ],
+ "related": [
+  "Guia: vender sem imobiliária",
+  "Guia: impostos e despesas ao vender",
+  "Guia: quanto vale minha propriedade"
+ ]
+}

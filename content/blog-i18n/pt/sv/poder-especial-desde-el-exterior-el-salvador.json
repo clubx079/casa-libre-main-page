@@ -1,0 +1,115 @@
+{
+ "_src": "85cb9c269b14",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Procuração especial do exterior para um imóvel em El Salvador",
+  "h1": "Procuração especial do exterior para comprar ou vender um imóvel em El Salvador",
+  "description": "Como conceder uma procuração especial dos Estados Unidos ou de outro país para que alguém compre, venda ou administre sua casa em El Salvador: tipos de procuração, consulado, apostila e precauções.",
+  "answer": "Se você mora no exterior e precisa comprar, vender ou administrar um imóvel em El Salvador, pode nomear um procurador com uma procuração especial que indique exatamente o que pode fazer e sobre qual imóvel. A procuração é concedida perante o consulado de El Salvador ou perante um notario (tabelião) do país onde você reside; neste segundo caso, se esse país for parte da Convenção de Haia, normalmente se apostila, e se não for, se legaliza pela via consular. Antes de assiná-la, faça com que o notario salvadorenho que conduzirá a operação revise o texto."
+ },
+ "sections": [
+  {
+   "h2": "O que é uma procuração e por que especial",
+   "paras": [
+    "Uma procuração é um documento com o qual você autoriza outra pessoa (o procurador) a agir em seu nome. Uma procuração geral concede faculdades amplas; uma procuração especial se limita a atos concretos: por exemplo, vender a casa com matrícula tal, por um preço mínimo, e receber o pagamento em uma conta em seu nome.",
+    "Para operações com imóveis, o mais prudente é a procuração especial. Quanto mais clara e limitada for, menor o risco de ser usada para algo que você não queria."
+   ]
+  },
+  {
+   "h2": "Para que se usa com imóveis",
+   "bullets": [
+    "Comprar um imóvel determinado e assinar a escritura (escritura pública).",
+    "Vender sua casa ou terreno e assinar a escritura (escritura pública).",
+    "Constituir ou cancelar uma hipoteca.",
+    "Representá-lo perante o Registro de la Propiedad Raíz e Hipotecas do CNR.",
+    "Assinar um contrato de aluguel e cobrar o aluguel.",
+    "Fazer trâmites perante a alcaldía, ANDA ou a distribuidora de energia."
+   ]
+  },
+  {
+   "h2": "Onde se concede: consulado ou notario estrangeiro",
+   "paras": [
+    "Existem dois caminhos. O primeiro é concedê-la em um consulado de El Salvador, onde o cônsul pode exercer funções notariais. O segundo é concedê-la perante um notario (tabelião) do país onde você mora e depois dar validade para El Salvador.",
+    "No segundo caso, se o país onde se concede for parte do Convênio de Haia de 1961, normalmente basta a apostila. Se não for, a legalização é feita via consular e do Ministério das Relações Exteriores. Depois, o documento é enviado a El Salvador; se estiver em outro idioma, é traduzido, e conforme o caso é protocolizado perante notario (tabelião)."
+   ],
+   "tip": "Pergunte no consulado quais requisitos tem para procurações sobre imóveis e quanto tempo leva a marcação. Em alta temporada pode haver espera."
+  },
+  {
+   "h2": "O que deve dizer a procuração",
+   "bullets": [
+    "Dados completos seus e do procurador (nomes e DUI ou passaporte).",
+    "Identificação do imóvel: localização e matrícula.",
+    "Faculdades concretas: comprar, vender, hipotecar, receber o preço, assinar escrituras, inscrever.",
+    "Limites: preço mínimo de venda, conta onde o dinheiro deve ser depositado, prazo de validade.",
+    "Se o procurador pode ou não delegar a procuração a outra pessoa."
+   ]
+  },
+  {
+   "h2": "Precauções para não perder sua propriedade",
+   "paras": [
+    "A procuração é uma ferramenta útil, mas também uma das vias de fraude imobiliária mais conhecidas. Tome estas precauções:"
+   ],
+   "bullets": [
+    "Escolha alguém de confiança e explique por escrito o que espera.",
+    "Prefira uma procuração especial e com prazo, não uma procuração geral sem limite.",
+    "Exija que o preço de uma venda seja depositado em uma conta em seu nome.",
+    "Ative os avisos registrais do CNR, que enviam um e-mail quando há um trâmite sobre seu imóvel.",
+    "Se já não precisar mais da procuração, revogue-a formalmente e avise o procurador e o notario (tabelião)."
+   ]
+  },
+  {
+   "h2": "Revogar uma procuração",
+   "paras": [
+    "Uma procuração pode ser revogada quando você quiser, também do exterior, por escritura pública. A revogação deve ser comunicada ao procurador e, se a procuração foi apresentada em alguma instituição, também a ela. Consulte um notario (tabelião) como fazer efetiva para que não possa ser usada depois."
+   ]
+  },
+  {
+   "h2": "Passo a passo",
+   "steps": [
+    "Converse com o notario salvadorenho que conduzirá a operação e peça o texto da procuração.",
+    "Revise o texto: imóvel, faculdades, limites e prazo.",
+    "Conceda-la no consulado ou perante um notario de seu país de residência.",
+    "Se a concedeu perante um notario estrangeiro, apostilize-a ou legalize-a conforme o caso.",
+    "Envie o original a El Salvador por um serviço com rastreamento.",
+    "Ative os avisos registrais do CNR sobre seu imóvel."
+   ]
+  },
+  {
+   "h2": "Como escolher o procurador",
+   "paras": [
+    "O procurador assinará em seu nome, portanto a confiança vem primeiro. Mas também importa que ele tenha tempo para fazer trâmites, que entenda o que está assinando e que se comunique com você em cada etapa. Algumas pessoas escolhem um familiar e outras um advogado de confiança.",
+    "Peça que ele lhe envie cópia de tudo que assinar e os comprovantes de cada pagamento. Se a procuração for para vender, acordem previamente o preço mínimo e a conta onde o dinheiro será depositado."
+   ]
+  },
+  {
+   "h2": "Buscar ou publicar de longe",
+   "paras": [
+    "Se for comprar ou vender à distância, na Casa-Libre você pode ver propriedades no mapa, compartilhá-las com o procurador e coordenar por WhatsApp com o dono ou o agente. Também pelo app da Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso vender minha casa em El Salvador dos Estados Unidos?",
+   "a": "Sim, por meio de um procurador com uma procuração especial concedida no consulado salvadorenho ou perante um notario dos EUA com apostila. O procurador assina a escritura perante notario em El Salvador."
+  },
+  {
+   "q": "O que é melhor, procuração geral ou especial?",
+   "a": "Para imóveis, a procuração especial: limita o que o procurador pode fazer e reduz o risco de uso indevido."
+  },
+  {
+   "q": "A procuração feita nos EUA precisa de apostila?",
+   "a": "Se for concedida perante um notario americano, normalmente sim, porque os EUA são parte da Convenção de Haia. Se for concedida no consulado salvadorenho, o trâmite é diferente. Confirme com seu notario."
+  },
+  {
+   "q": "Posso cancelar uma procuração?",
+   "a": "Sim, pode ser revogada por escritura pública a qualquer momento. Comunicar ao procurador e às instituições onde foi apresentada."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Guia: vender sem imobiliária",
+  "Comprar casa dos Estados Unidos"
+ ]
+}

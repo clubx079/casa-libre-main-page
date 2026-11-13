@@ -1,0 +1,115 @@
+{
+ "_src": "ce8fecc1d347",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Onde viver em Montevidéu: 6 critérios para escolher bairro",
+  "h1": "Onde viver em Montevidéu: como escolher o bairro que lhe convém",
+  "description": "Não há um \"melhor bairro\" em Montevidéu: há um que se encaixa na sua rotina. Traslados de ônibus, rambla e umidade, barulho, casa ou apartamento, serviços a pé, segurança e orçamento.",
+  "answer": "Para escolher bairro em Montevidéu convém decidir primeiro pela sua rotina e depois pela fama da zona: quanto tempo você leva para chegar ao trabalho ou ao centro de estudos de ônibus ou de carro na hora real, se quer estar perto da rambla (com seu vento e sua umidade), quanto barulho há à noite, o que tem a pé e quanto custa viver aí, somando despesas comuns se for um apartamento. Os bairros costeiros e centrais concentram serviços e apartamentos; os bairros mais tradicionais do norte e do oeste costumam oferecer casas com mais espaço pelo mesmo dinheiro."
+ },
+ "sections": [
+  {
+   "h2": "Comece pela sua semana, não pelo ranking",
+   "paras": [
+    "As buscas por \"melhores bairros de Montevidéu\" são muito comuns, mas um ranking serve pouco: o que é ideal para um casal jovem que sai à noite não é para uma família com filhos em idade escolar ou para alguém que trabalha de casa.",
+    "Antes de abrir o mapa, anote os três ou quatro lugares que você frequenta todas as semanas e a que horas: trabalho, faculdade, escola, a casa da sua família, o clube. Essa lista vai decidir mais que qualquer recomendação."
+   ]
+  },
+  {
+   "h2": "Critério 1: o deslocamento real",
+   "paras": [
+    "Montevidéu é uma cidade extensa e muitas pessoas se deslocam de ônibus. Veja quais linhas passam a poucas quadras, com que frequência e se deixam você sem transferência onde precisa ir. As avenidas principais que vão ao Centro e à Ciudad Vieja ficam congestionadas na hora pico, e os acessos do leste e do oeste também.",
+    "Faça o percurso uma vez, no horário real, antes de assinar. Se usar bicicleta, veja se há ciclovias ou ruas tranquilas no seu trajeto: a rambla é uma excelente via, mas nem todos os destinos estão sobre ela."
+   ]
+  },
+  {
+   "h2": "Critério 2: a rambla, o vento e a umidade",
+   "paras": [
+    "Viver perto da rambla é um dos grandes atrativos de Montevidéu: caminhar, correr, a praia. Mas tem contrapartidas: mais vento, salitre que prejudica aberturas e aparelhos de ar condicionado, e em algumas construções, mais umidade. Montevidéu em geral é úmida no inverno.",
+    "Em qualquer bairro, verifique a orientação (um apartamento ao norte recebe mais sol no inverno), se há manchas de umidade nas paredes e armários, e como é a ventilação."
+   ],
+   "tip": "Visite o imóvel em um dia de chuva ou logo depois, e abra os armários: é onde a umidade aparece primeiro."
+  },
+  {
+   "h2": "Critério 3: ruído e vida noturna",
+   "paras": [
+    "As áreas com mais bares, restaurantes e vida noturna, em bairros centrais ou costeiros, têm vantagens e ruído. As avenidas com muito trânsito de ônibus, também. E as feiras de bairro, que são parte da vida de muitos bairros, implicam movimento cedo no dia em que são montadas.",
+    "Volte à noite e em um fim de semana. Veja se há boates perto, uma parada de ônibus na porta ou uma feira na quadra."
+   ]
+  },
+  {
+   "h2": "Critério 4: casa ou apartamento",
+   "paras": [
+    "Nos bairros costeiros e centrais predominam os edifícios de apartamentos; nos bairros tradicionais do norte e oeste é mais fácil encontrar casas com quintal ou fundo. No extremo leste da cidade há casas maiores e zonas residenciais com preço diferente."
+   ],
+   "table": {
+    "head": [
+     "Se você prioriza…",
+     "Veja zonas com…"
+    ],
+    "rows": [
+     [
+      "Caminhar a tudo e vida de bairro",
+      "Edifícios em bairros centrais ou costeiros, com comércio na quadra"
+     ],
+     [
+      "Espaço, quintal ou pets",
+      "Casas em bairros residenciais tradicionais"
+     ],
+     [
+      "Praia e rambla",
+      "Bairros na costa, aceitando mais vento e preços mais altos"
+     ],
+     [
+      "Custo mensal menor",
+      "Casas ou edifícios sem portaria nem amenities, com despesas comuns baixas"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Critério 5: o que você tem a pé",
+   "paras": [
+    "Faça o teste das dez quadras: você tem mercearia ou supermercado, farmácia, padaria, uma policlínica ou sua mutualista, uma parada de ônibus, uma praça? Se tem filhos, a escola ou o liceu próximo pesa muito. Se trabalha em casa, veja a conexão de internet disponível no edifício."
+   ]
+  },
+  {
+   "h2": "Critério 6: segurança, observando a quadra",
+   "paras": [
+    "A segurança é uma preocupação frequente, e vale a pena observá-la em escala de quadra, não de bairro: dentro de um mesmo bairro há ruas muito diferentes. Caminhe pela área de dia e de noite, veja a iluminação, converse com vizinhos ou com o porteiro, e pergunte por experiências recentes. Em um edifício, veja como é o acesso."
+   ]
+  },
+  {
+   "h2": "Orçamento: o custo total, não só o preço",
+   "paras": [
+    "Para comparar duas opções some aluguel ou parcela, despesas comuns, contribuição imobiliária se comprar, e transporte. Um apartamento um pouco mais caro perto do seu trabalho pode sair mais barato que um distante se economizar ônibus ou gasolina.",
+    "No Casa-Libre você pode ver propriedades em Montevidéu no mapa, comparar bairros lado a lado e escrever direto por WhatsApp ao dono ou à imobiliária, também a partir do app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é o melhor bairro para viver em Montevidéu?",
+   "a": "Depende da sua rotina, do seu orçamento e se prefere casa ou apartamento. Escolha pelos traslados, barulho, serviços a pé e custo total antes da fama do bairro."
+  },
+  {
+   "q": "É caro viver em Montevidéu?",
+   "a": "Depende muito da zona e do tipo de moradia. Os bairros costeiros costumam ser mais caros; os tradicionais do norte e do oeste oferecem mais espaço pelo mesmo dinheiro. Sempre some as despesas comuns."
+  },
+  {
+   "q": "Compensa viver perto da rambla?",
+   "a": "Tem vantagens de qualidade de vida, mas também mais vento, salitre e às vezes umidade. Verifique o estado das aberturas e das paredes."
+  },
+  {
+   "q": "Como saber se uma zona de Montevidéu é segura?",
+   "a": "Olhe em escala de quarteirão: caminhe de dia e de noite, observe a iluminação e converse com os vizinhos. Dentro de um mesmo bairro há ruas muito diferentes."
+  }
+ ],
+ "related": [
+  "Propriedades em Montevidéu",
+  "Apartamentos para aluguel",
+  "Casas à venda",
+  "Alternativas: Cidade da Costa e Canelones"
+ ]
+}

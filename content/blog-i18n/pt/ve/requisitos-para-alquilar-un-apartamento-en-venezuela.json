@@ -1,0 +1,119 @@
+{
+ "_src": "8f54daf1343c",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para alugar um apartamento na Venezuela",
+  "h1": "Requisitos para alugar um apartamento na Venezuela: o que vão pedir de você",
+  "description": "Quais documentos são exigidos para alugar um apartamento na Venezuela, quais garantias são habituais, o que diz a lei de arrendamento de moradia e como se preparar.",
+  "answer": "Para alugar um apartamento na Venezuela normalmente pedem cópia da sua cédula de identidade (ou passaporte se for estrangeiro), comprovação de trabalho ou comprovantes de renda, referências pessoais ou bancárias e, muitas vezes, um fiador ou uma garantia em dinheiro. O arrendamento de moradia está regulado por uma lei especial e supervisionado pela SUNAVI, então há cobranças que o locador não pode exigir. Chegue à primeira visita com sua pasta pronta e pergunte por escrito qual garantia aceitam."
+ },
+ "sections": [
+  {
+   "h2": "Os documentos que quase sempre pedem",
+   "paras": [
+    "Cada locador tem sua lista, mas há um núcleo que se repete em quase todo o país, tanto se você aluga direto do proprietário quanto se há um corretor no meio. Ter tudo escaneado no telefone permite responder no mesmo dia, e em um mercado onde os bons apartamentos são alugados rápido isso faz a diferença."
+   ],
+   "bullets": [
+    "Cópia da cédula de identidade laminada vigente de cada adulto que viverá no imóvel. Se for estrangeiro, passaporte e, se houver, cédula de estrangeiro.",
+    "Comprovante de trabalho com cargo, tempo de serviço e salário, ou recibos de pagamento recentes.",
+    "Se trabalha por conta própria: RIF, extratos bancários dos últimos meses ou uma certificação de renda assinada por um contador público registrado.",
+    "Referências pessoais e, se houver, bancárias ou de um locador anterior.",
+    "Dados do fiador, se o locador solicitar: cédula, comprovante de renda e, às vezes, documento de um imóvel em seu nome."
+   ]
+  },
+  {
+   "h2": "Qual lei regula o aluguel de moradia",
+   "paras": [
+    "O aluguel de moradia na Venezuela é regido pela Lei para a Regularização e Controle dos Arrendamentos de Moradia, vigente desde 2011, e a autoridade que a aplica é a Superintendência Nacional de Arrendamento de Moradia (SUNAVI). Os locais comerciais têm outra normativa, então não se baseie em modelos de contrato pensados para comércios.",
+    "A lei protege especialmente o locatário de moradia: estabelece obrigações mínimas de manutenção para o locador, limita as causas de despejo e proíbe certos cobranças. Na prática, muitos contratos são pactuados com valores de referência em moedas estrangeiras, algo que entra em conflito com o que a lei prevê para a fixação do aluguel. Antes de assinar, consulte um advogado ou a própria SUNAVI sobre como o aluguel deve ser expressado no seu contrato."
+   ]
+  },
+  {
+   "h2": "Fiador, depósito ou adiantamentos: quais garantias são habituais",
+   "paras": [
+    "O mais comum é que o locador peça uma garantia para se proteger de aluguéis não pagos ou danos. As formas que você encontrará são o depósito em dinheiro, um fiador solidário com renda comprovada e, em alguns casos, pagamentos adiantados.",
+    "A lei de arrendamentos de moradia impõe limites ao que pode ser exigido como garantia e como pagamento adiantado. Se pedirem muitos meses adiantados ou um depósito que lhe pareça desproporcional, peça que mostrem em que se baseiam e consulte antes de pagar. Não é raro que a exigência seja negociada quando você apresenta bons comprovantes de renda."
+   ],
+   "table": {
+    "head": [
+     "Garantia",
+     "O que cobre",
+     "Quanto custa"
+    ],
+    "rows": [
+     [
+      "Depósito em dinheiro",
+      "Danhos e aluguéis não pagos, até o valor entregue",
+      "Dinheiro imobilizado que deve ser devolvido ao final se tudo estiver em ordem"
+     ],
+     [
+      "Fiador solidário",
+      "O mesmo que cobriria o locatário",
+      "Nada em dinheiro, mas compromete outra pessoa"
+     ],
+     [
+      "Pagamentos adiantados",
+      "Os meses já pagos",
+      "Muito dinheiro de entrada; a lei limita quanto pode ser exigido"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O contrato: por escrito e com todos os dados",
+   "paras": [
+    "Sempre assine um contrato escrito. O ideal é que esteja autenticado em cartório, porque assim fica data certa e é mais fácil fazê-lo valer. Verifique se constam quem é o proprietário (e se coincide com o documento de propriedade), o endereço exato, o aluguel, a forma de pagamento, a duração, quem paga o condomínio e os serviços, e como o depósito será devolvido.",
+    "Peça para ver o documento de propriedade ou, se quem aluga não for o dono, a procuração que o autoriza. É a defesa mais simples contra locadores falsos."
+   ]
+  },
+  {
+   "h2": "Como se preparar, passo a passo",
+   "steps": [
+    "Defina seu orçamento total: aluguel, condomínio se for pagar, serviços, depósito e mudança.",
+    "Monte sua pasta digital com cédula, comprovante de trabalho, extratos e referências.",
+    "Busque e filtre por zona e tipo de imóvel; escreva ao anunciante perguntando que garantia aceitam.",
+    "Visite o apartamento: verifique água, eletricidade, gás, infiltrações e estado do prédio.",
+    "Peça o documento de propriedade e verifique se o locador é o dono ou tem procuração.",
+    "Revise o contrato com calma, idealmente com um advogado, antes de entregar dinheiro.",
+    "Pague contra recibo ou por transferência em nome do locador e guarde todos os comprovantes."
+   ]
+  },
+  {
+   "h2": "Uma primeira mensagem que funciona",
+   "paras": [
+    "O locador quer saber três coisas: quem vai morar, se você pode pagar e se vai cuidar do imóvel. Responda isso já na primeira mensagem. Por exemplo: \"Olá, tenho interesse no apartamento. Somos dois adultos sem pets, trabalho com carteira assinada há três anos e tenho comprovante de trabalho e referências. Que garantia pedem e quando posso visitá-lo?\""
+   ],
+   "tip": "Se pedirem dinheiro para \"reservar\" antes de visitar ou antes de ver o documento de propriedade, pare. É o padrão mais comum de fraude em aluguéis."
+  },
+  {
+   "h2": "Onde buscar",
+   "paras": [
+    "No Casa-Libre você pode ver apartamentos e casas para alugar no mapa, filtrar por cidade e escrever direto ao anunciante por WhatsApp para perguntar requisitos antes de ir. A busca é grátis, na web e no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso alugar sem fiador na Venezuela?",
+   "a": "Sim, se o locador aceitar outra garantia, como um depósito. O fiador não é exigência da lei, mas uma condição do locador, e costuma ser negociado se você demonstrar boa renda."
+  },
+  {
+   "q": "O que é a SUNAVI?",
+   "a": "É a Superintendência Nacional de Arrendamento de Moradia, o órgão que aplica a lei de arrendamento de moradia. Você pode recorrer a ela se tiver um conflito com o locador."
+  },
+  {
+   "q": "O contrato precisa ser notariado?",
+   "a": "Não é sempre obrigatório para que o contrato exista, mas autenticá-lo em cartório (escribano) dá data certa e facilita a reclamação se houver problemas. É o recomendado."
+  },
+  {
+   "q": "Podem exigir o aluguel em dólares?",
+   "a": "Na prática é frequente usar valores de referência em moedas estrangeiras, mas a lei de arrendamento de moradia tem regras sobre como o aluguel é fixado. Consulte um advogado ou a SUNAVI para saber como deve ficar no seu contrato."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Contrato de arrendamento: o que revisar"
+ ]
+}

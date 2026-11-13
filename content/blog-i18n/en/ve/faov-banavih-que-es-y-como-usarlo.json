@@ -1,0 +1,135 @@
+{
+ "_src": "ad31c84319d8",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "FAOV and BANAVIH: what they are and how they work for your home",
+  "h1": "FAOV and BANAVIH: what they are, how to check your contributions and how they are used to buy a home",
+  "description": "What FAOV is, what BANAVIH does, how to check your FAOV account online and what your contributions are for when you want to buy or build a home in Venezuela.",
+  "answer": "FAOV (Mandatory Housing Savings Fund) is a fund to which workers and their employers contribute each month based on salary. It is managed by BANAVIH, the National Housing and Habitat Bank. Those contributions form a savings account in your name that is used to finance housing loans, and being up to date is usually a requirement to access them. You can check your account statement in BANAVIH's online FAOV system."
+ },
+ "sections": [
+  {
+   "h2": "What is the FAOV",
+   "paras": [
+    "The FAOV is part of the housing and habitat benefit regime. It works as a mandatory savings: a portion is contributed by the worker (deducted from salary) and another portion by the employer. Those contributions are recorded in an individual account in your name.",
+    "In addition to employees in dependent relationships, there is a voluntary contribution scheme for self-employed workers, known as voluntary FAOV. If you are self-employed and want to access a loan with these resources at some point, ask BANAVIH how to join."
+   ]
+  },
+  {
+   "h2": "What is BANAVIH",
+   "paras": [
+    "BANAVIH is the National Bank of Housing and Habitat, the public entity that manages the resources of the FAOV and other housing funds. BANAVIH does not usually serve you as a teller bank to give the loan directly: loans with FAOV resources are processed through operating banks, which receive the application, analyze your case and formalize the mortgage.",
+    "Its portal has online systems for workers and employers: account status query, employer registration, payroll upload and payments."
+   ]
+  },
+  {
+   "h2": "How to check your FAOV account statement",
+   "steps": [
+    "Enter the BANAVIH portal and look for the online FAOV system.",
+    "Register as a worker with your ID and an email address, if you haven’t done so.",
+    "Log in and view your account statement: you will see the contributions recorded by each employer and the months covered.",
+    "Check that your current and former employers have contributed for all months worked.",
+    "If any period is missing, ask your employer to regularize it. For loans a minimum amount of contributions and being up to date is usually required."
+   ],
+   "tip": "Download and save your account statement as a PDF from time to time. If you change jobs or an employer closes, it will help you claim missing contributions."
+  },
+  {
+   "h2": "What your contributions are for",
+   "paras": [
+    "The amounts, terms and conditions of these loans change over time and with the economic situation. That’s why we do not give figures here: ask the operating bank and BANAVIH for the current conditions before planning."
+   ],
+   "table": {
+    "head": [
+     "Use",
+     "What it entails",
+     "What to check"
+    ],
+    "rows": [
+     [
+      "Acquisition loan",
+      "Buy a home with financing from the fund’s resources",
+      "That you are up to date and which bank processes the line"
+     ],
+     [
+      "Construction loan",
+      "Build on your own land",
+      "Permits, project and construction budget"
+     ],
+     [
+      "Improvement or expansion loan",
+      "Repair or enlarge your home",
+      "Current amounts and requirements"
+     ],
+     [
+      "Savings withdrawal",
+      "In certain cases foreseen by the regulations",
+      "Exact conditions at BANAVIH"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Requirements usually requested for an FAOV loan",
+   "bullets": [
+    "Be Venezuelan or a resident foreigner, of legal age.",
+    "Be registered in the FAOV system with contributions up to date and a minimum accumulated amount.",
+    "Proof of employment and pay slips.",
+    "Not own another home in your name, for some lines.",
+    "Property documents: title deed, cadastral ID and solvency certificates.",
+    "Property appraisal performed by an appraiser accepted by the bank."
+   ]
+  },
+  {
+   "h2": "Realistic expectations",
+   "paras": [
+    "Over the years, inflation has greatly reduced the real value of savings accumulated in bolívares, and loans with these resources have had limited amounts compared with home prices. That does not mean it isn’t worth keeping your account in order: if a line is active, having everything up to date saves you weeks.",
+    "Combine the information from BANAVIH with what your bank offers in its own mortgage loan, and build your budget with the down payment you actually have."
+   ]
+  },
+  {
+   "h2": "If your employer does not contribute",
+   "paras": [
+    "If, when reviewing your account statement, you see months without contributions from an employer you worked for, first talk to their human resources or payroll department: sometimes it is a data entry error. Ask them to correct it and show you the receipt.",
+    "If they do not resolve it, BANAVIH has mechanisms for workers to report missing contributions. Keep your pay slips with the FAOV deductions: they are proof that the contribution was withheld even if it does not appear in your account."
+   ]
+  },
+  {
+   "h2": "With your budget, start looking",
+   "paras": [
+    "When you know how much you could finance, filter homes by price and area on Casa-Libre and ask the seller if they accept payment with a loan. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much is contributed to FAOV?",
+   "a": "A percentage of salary paid by the worker and a larger percentage paid by the employer. Confirm the current percentages with BANAVIH or your payroll department."
+  },
+  {
+   "q": "How do I know if my employer is paying FAOV?",
+   "a": "By checking your account statement in BANAVIH's online FAOV system. The contributions recorded by each employer appear there."
+  },
+  {
+   "q": "Can I use FAOV if I work for myself?",
+   "a": "There is a voluntary contribution scheme for self-employed individuals. Ask BANAVIH how to enroll and what requirements apply."
+  },
+  {
+   "q": "Does BANAVIH give me the loan directly?",
+   "a": "Usually not: loans funded by FAOV are processed through operating banks, which evaluate your application and formalize the mortgage."
+  },
+  {
+   "q": "What should I do if my employer didn’t pay FAOV?",
+   "a": "First ask payroll to correct it and show you the receipt. If they don’t resolve it, consult BANAVIH on how to report it, using your pay slips as proof."
+  },
+  {
+   "q": "Do FAOV contributions disappear if I change jobs?",
+   "a": "No: they remain in your individual account. The new employer continues contributing to the same account."
+  }
+ ],
+ "related": [
+  "Apartments for sale",
+  "Houses for sale",
+  "Mortgage loan in Venezuela"
+ ]
+}

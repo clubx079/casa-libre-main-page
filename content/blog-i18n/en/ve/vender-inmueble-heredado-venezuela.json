@@ -1,0 +1,133 @@
+{
+ "_src": "980515b63498",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Selling an Inherited Property in Venezuela: Steps and Paperwork",
+  "h1": "How to Sell an Inherited Property in Venezuela: Succession Declaration, Heirs and Paperwork",
+  "description": "Steps to sell a house or apartment inherited in Venezuela: succession declaration before SENIAT, solvency certificate, signature of all heirs, powers of attorney from abroad and how to publish it.",
+  "answer": "To sell an inherited property in Venezuela, you must first file the succession declaration before SENIAT and obtain the succession solvency certificate, which allows the heirs to dispose of the assets. Then all heirs must sign the sale (or their representatives, if any live abroad), or you can first carry out a partition so that the property is in one name. With that, plus the cadastral certificate and the municipal and condominium solvencies, the sale is recorded at the Real Estate Registry."
+ },
+ "sections": [
+  {
+   "h2": "Why you cannot sell directly",
+   "paras": [
+    "When a person dies, their assets pass to their heirs, but the property deed remains in the name of the deceased. For the Real Estate Registry to accept a sale, you must prove who the heirs are and that the inheritance tax has been paid. Without that, no informed buyer or bank will move forward."
+   ]
+  },
+  {
+   "h2": "The steps, in order",
+   "steps": [
+    "Gather the documents: death certificate, documents proving relationship (birth and marriage certificates) and, if any, the will.",
+    "If there is no will, process the declaration of sole and universal heirs before a court, when needed to certify who inherits.",
+    "Inventory the decedent’s assets, including the property with its deed and cadastral certificate.",
+    "Submit the inheritance declaration to SENIAT through its online system, within the legal deadline.",
+    "Pay the tax if applicable and obtain the inheritance solvency certificate.",
+    "Decide whether to sell everything together or first make a partition to allocate the property to one of them.",
+    "Gather municipal and condominium solvency certificates, and sign the sale at the Real Estate Registry."
+   ]
+  },
+  {
+   "h2": "The inheritance declaration and solvency",
+   "paras": [
+    "The inheritance declaration is the document with which the heirs inform SENIAT of the deceased’s assets and debts. There is a legal deadline to file it counted from the date of death, and filing late generates fines and interest. Therefore it is advisable not to let it pass even if you do not yet plan to sell.",
+    "The law provides exemptions and deductions, including one linked to the decedent’s primary residence, subject to conditions. An accountant or tax lawyer can tell you if they apply in your case.",
+    "Once filed and paid (or settled without tax), SENIAT issues the inheritance solvency certificate. That paper is what the registry will request."
+   ]
+  },
+  {
+   "h2": "When there are multiple heirs",
+   "tip": "If the heirs are scattered across several countries, coordinate the powers of attorney at the same time and with the same lawyer. A power of attorney with an error forces you to repeat the process and delays the sale for months.",
+   "table": {
+    "head": [
+     "Situation",
+     "How it is resolved"
+    ],
+    "rows": [
+     [
+      "All agree and are in the country",
+      "Sign the sale together at the registry"
+     ],
+     [
+      "Some live abroad",
+      "Grant a special power of attorney before the consulate or before a notary with apostille"
+     ],
+     [
+      "One wants to keep the property",
+      "Partition: the others transfer their rights or are compensated with money"
+     ],
+     [
+      "No agreement",
+      "Mediation or, as a last resort, judicial partition"
+     ],
+     [
+      "There is a minor heir",
+      "Judicial authorization is required to sell their share"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "If you are a buyer of an inherited property",
+   "bullets": [
+    "Request the inheritance solvency certificate and the inheritance declaration.",
+    "Verify that all heirs listed in the declaration sign, or their agents with verifiable powers of attorney.",
+    "Check that there are no minor heirs without judicial authorization.",
+    "Request certification of liens and municipal and condominium solvencies.",
+    "Pay at the registry upon signing, never to a single heir in advance."
+   ]
+  },
+  {
+   "h2": "Timelines and costs to anticipate",
+   "paras": [
+    "An orderly succession can be resolved in weeks or months; one with scattered heirs, missing documents or disagreements can take much longer. Planning from the start prevents the buyer from getting tired of waiting."
+   ],
+   "bullets": [
+    "Attorney or accountant fees for preparing the inheritance declaration.",
+    "Inheritance tax, if applicable, and possible late-filing fines.",
+    "Certificates and certified copies from the civil registry.",
+    "Powers of attorney and apostilles for heirs living abroad.",
+    "Update of cadastral certificate and payment of pending municipal or condominium debts.",
+    "Seller’s own sale expenses: registration and tax payments."
+   ]
+  },
+  {
+   "h2": "Publish while you finish the paperwork",
+   "paras": [
+    "You can start showing the property while the succession is progressing, as long as you are transparent with buyers about the stage of the paperwork. Many buyers agree to sign a purchase option with a deadline for the heirs to complete the procedures.",
+    "On Casa-Libre you can publish the property with photos and location on the map and handle inquiries via WhatsApp, even if you live outside the country. From the website or from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can you sell an inherited house without doing the succession?",
+   "a": "In practice, no: the registry will require the succession solvency and the heirs' signatures. You must first file the succession declaration before SENIAT."
+  },
+  {
+   "q": "What is the succession solvency?",
+   "a": "The certificate issued by SENIAT when the succession declaration has been filed and the corresponding tax has been paid. It allows the heirs to dispose of the assets."
+  },
+  {
+   "q": "Do all heirs have to sign?",
+   "a": "Yes, all who have rights over the property, personally or through representatives, unless a partition is done beforehand."
+  },
+  {
+   "q": "What if an heir lives abroad?",
+   "a": "They can grant a special power of attorney before the Venezuelan consulate or before a local notario with an apostille so someone can sign for them."
+  },
+  {
+   "q": "Is there a deadline to file the succession declaration?",
+   "a": "Yes, the law sets a deadline counted from the date of death, and filing late incurs fines and interest. Check the exact deadline with an accountant or lawyer."
+  },
+  {
+   "q": "Can I publish the property before completing the succession?",
+   "a": "You can show it, as long as you clearly state what stage the paperwork is at. The sale signature will have to wait for the succession solvency."
+  }
+ ],
+ "related": [
+  "Publish Your Property",
+  "Properties for Sale",
+  "Notarized Power of Attorney to Sell"
+ ]
+}

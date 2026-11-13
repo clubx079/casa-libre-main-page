@@ -1,0 +1,123 @@
+{
+ "_src": "f04280c512d0",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito hipotecário no Uruguai: como funciona e como comparar",
+  "h1": "Crédito hipotecário no Uruguai: como funciona, em que moeda e como comparar ofertas",
+  "description": "Como funciona um crédito hipotecário no Uruguai: BHU, BROU e bancos privados, empréstimos em UI ou dólares, poupança prévia, avaliação, seguros, garantia da ANV e como comparar simulações.",
+  "answer": "Um crédito hipotecário é um empréstimo de longo prazo para comprar, construir ou reformar um imóvel, em que a propriedade fica hipotecada a favor do banco até que você termine de pagar. No Uruguai eles são oferecidos pelo Banco Hipotecário do Uruguai (BHU), o BROU e os bancos privados, e muitos são concedidos em Unidades Indexadas (UI), que se ajustam pela inflação, ou em dólares. Quase sempre você precisa colocar uma parte com poupança própria; o banco avalia a propriedade, analisa sua renda e exige seguros. Para comparar, peça simulações com o mesmo valor e prazo e observe o custo total, a moeda e a taxa."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona, em simples",
+   "paras": [
+    "O banco te empresta parte do preço e você devolve em parcelas mensais durante muitos anos. Como garantia, constitui-se uma hipoteca sobre a propriedade, por escritura ante escribano (tabelião), normalmente no mesmo ato da compra, e é inscrita no Registro de la Propiedad. Se você deixar de pagar, o banco pode executar essa garantia. Quando quitar, a hipoteca é levantada.",
+    "Por isso o crédito, a compra e a inscrição são coordenados entre o banco, os escribanos, o vendedor e você. Se comprar com crédito, peça que o boleto de reserva fique condicionado à aprovação do empréstimo."
+   ]
+  },
+  {
+   "h2": "Quem empresta: BHU, BROU e bancos privados",
+   "paras": [
+    "O BHU é o banco público especializado em habitação e tem linhas de crédito e programas de poupança prévia. O BROU, o banco público comercial, também oferece créditos hipotecários, e os bancos privados têm os seus. Cada um publica simuladores em seu site: são úteis para uma primeira ideia, mas a oferta real depende do seu perfil.",
+    "Além disso, a Lei 18.795 criou na Agência Nacional de Vivienda (ANV) um Fundo de Garantia de Créditos Hipotecários, que dá garantias parciais para créditos destinados à compra, construção ou reforma de uma habitação de interesse social. Na prática, essa garantia pode permitir que o banco financie um percentual maior e que você precise de menos poupança. Pergunte em cada banco se trabalha com esse fundo e para que tipos de habitação."
+   ]
+  },
+  {
+   "h2": "UI, dólares ou pesos: a decisão mais importante",
+   "paras": [
+    "No Uruguai é muito comum que os créditos hipotecários sejam concedidos em Unidades Indexadas (UI). A UI é uma unidade de conta que se ajusta conforme a inflação (o IPC), e seu valor diário é publicado pelo INE. Isso significa que a parcela em UI é estável, mas a parcela em pesos sobe à medida que a inflação aumenta."
+   ],
+   "tip": "Regra prática: contraia dívida na mesma moeda em que recebe, ou em UI se seu salário for ajustado pela inflação.",
+   "table": {
+    "head": [
+     "Moeda do crédito",
+     "Vantagem",
+     "Risco"
+    ],
+    "rows": [
+     [
+      "UI",
+      "Taxa geralmente mais baixa; acompanha a inflação",
+      "A parcela em pesos sobe com o IPC; se seu salário subir menos que a inflação, pesa mais"
+     ],
+     [
+      "Dólares",
+      "Útil se você recebe em dólares",
+      "Se você recebe em pesos e o dólar sobe, a parcela sobe"
+     ],
+     [
+      "Pesos nominais",
+      "Parcela em pesos previsível",
+      "Taxas geralmente mais altas; menos oferta a longo prazo"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Quanto de poupança você precisa",
+   "paras": [
+    "Os bancos quase nunca financiam 100% do valor. Emprestam um percentual do menor valor entre o preço e a avaliação, e esse percentual depende do banco, do tipo de habitação (por exemplo, se é nova ou usada, ou habitação promovida) e do seu perfil. Pergunte na primeira consulta.",
+    "Além da poupança para a parte não financiada, você vai precisar de dinheiro para o ITP (2% do comprador sobre o valor real do Catastro, segundo a DGI), os honorários do escribano, a avaliação, os seguros e a mudança. Isso normalmente não entra no crédito."
+   ]
+  },
+  {
+   "h2": "Avaliação e seguros",
+   "paras": [
+    "O banco manda avaliar a propriedade. Se a avaliação for menor que o preço, emprestam sobre o valor avaliado e a diferença fica por sua conta ou é renegociada com o vendedor. O escribano do banco também estuda os títulos.",
+    "Eles vão exigir, no mínimo, um seguro de vida sobre o devedor (que quita a dívida se ele falecer) e um seguro contra incêndio sobre a propriedade. O custo se soma à parcela."
+   ]
+  },
+  {
+   "h2": "Documentos que costumam solicitar",
+   "bullets": [
+    "Cédula de identidade dos titulares e, se for o caso, do cônjuge.",
+    "Recibos de salário ou certificado de rendimentos de contador público se for autônomo.",
+    "Histórico laboral do BPS, em alguns casos.",
+    "Dados da propriedade: cadastro, boleto de reserva e documentos do vendedor.",
+    "Para construção: licença de construção e orçamento da obra."
+   ]
+  },
+  {
+   "h2": "Como comparar duas ofertas",
+   "bullets": [
+    "Moeda: UI, dólares ou pesos.",
+    "Taxa: fixa ou variável, e qual a taxa efetiva anual.",
+    "Prazo: mais anos diminuem a parcela mas aumentam os juros totais.",
+    "Seguros e comissões: quanto somam por mês e por única vez.",
+    "Percentual financiado e poupança exigida.",
+    "Cancelamento antecipado: se pode adiantar pagamentos sem penalidade.",
+    "Tempo de aprovação: o vendedor nem sempre espera."
+   ]
+  },
+  {
+   "h2": "Escolher a propriedade pensando no crédito",
+   "paras": [
+    "Uma propriedade com títulos em ordem, sem dívidas e com a avaliação alinhada ao preço é aprovada mais rápido. Ao consultar um anúncio, pergunte se o dono aceita venda com crédito bancário. No Casa-Libre você pode filtrar casas e apartamentos por preço, vê-los no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é um crédito hipotecário em UI?",
+   "a": "Um empréstimo cujo saldo e parcelas são expressos em Unidades Indexadas, que se ajustam pela inflação. A parcela em UI é fixa, mas em pesos aumenta com o IPC."
+  },
+  {
+   "q": "Quanto financiam os bancos no Uruguai?",
+   "a": "Não há um percentual único: depende do banco, do tipo de imóvel e do seu perfil. A garantia do Fundo da ANV pode permitir financiar mais em moradias de interesse social."
+  },
+  {
+   "q": "Posso solicitar um crédito hipotecário sendo estrangeiro?",
+   "a": "Alguns bancos permitem, mas costumam exigir renda comprovada no Uruguai, histórico e às vezes residência. Consulte cada banco."
+  },
+  {
+   "q": "Quais seguros exige um crédito hipotecário?",
+   "a": "Habitualmente um seguro de vida do devedor e um seguro contra incêndio sobre o imóvel. Seu custo se soma à parcela."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: gastos e impostos ao comprar"
+ ]
+}

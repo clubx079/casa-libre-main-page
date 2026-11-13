@@ -1,0 +1,124 @@
+{
+ "_src": "50c469b98fec",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar casa de praia em El Salvador: o que revisar",
+  "h1": "Comprar uma casa ou um lote de praia em El Salvador: o que revisar antes de decidir",
+  "description": "Critérios para comprar uma casa ou um lote perto do mar em El Salvador: acesso, água, salitre, ondas e chuvas, papéis no CNR, permissões e custos de manutenção.",
+  "answer": "Antes de comprar uma casa ou um lote de praia em El Salvador revise cinco coisas: que o imóvel esteja inscrito em nome do vendedor no CNR e livre de gravames; que tenha acesso o ano todo e água potável; o quanto está exposto às ondas, às cheias de rios e a deslizamentos na época de chuvas; quais permissões são necessárias para construir ou ampliar; e quanto custa mantê-lo frente ao salitre. Uma casa de praia é usada poucos dias por mês, mas é mantida o ano inteiro."
+ },
+ "sections": [
+  {
+   "h2": "Primeiro: para que você a quer?",
+   "paras": [
+    "Não é o mesmo uma casa para viver o ano todo, uma casa para fins de semana ou uma propriedade para alugar a turistas. Se você vai viver lá, importa a distância a um centro de saúde, a um supermercado e ao trabalho. Se for para descansar, pesa mais o tempo de viagem de San Salvador ou Santa Ana e quem cuidará da casa quando você não estiver. Se for para alugar, importa que a zona tenha demanda e que você possa administrá-la.",
+    "Defina o uso antes de ver propriedades: evita se apaixonar por uma casa que não se encaixa na sua vida."
+   ]
+  },
+  {
+   "h2": "Papéis: mais cuidado do normal",
+   "paras": [
+    "Em áreas costeiras há terrenos que foram divididos muitas vezes, heranças sem resolver e construções feitas sem permissões. Peça a matrícula e obtenha uma certificação extraída no Centro Nacional de Registros: confirme que o vendedor é o dono, que não há hipotecas nem penhoras e que o imóvel que lhe mostram é o mesmo da escritura.",
+    "Compare as medidas e os limites com o que está no terreno, sobretudo se faz fronteira com a praia, um estuário ou um rio. Pergunte ao notario (notário) se alguma parte do terreno pode ter restrições por estar na faixa costeira ou junto a um cauce."
+   ],
+   "bullets": [
+    "Certificação do CNR em nome do vendedor.",
+    "Correspondência entre as medidas da escritura e o terreno real.",
+    "Permissões da construção existente, se houver.",
+    "Solvência municipal e recibos de serviços."
+   ]
+  },
+  {
+   "h2": "Água, luz e acesso o ano todo",
+   "paras": [
+    "Muitas propriedades de praia dependem de poços ou de sistemas de água locais. Pergunte de onde vem a água, se é potável e o que acontece nos meses secos. Se houver poço, pergunte sua profundidade e se a água tem sal.",
+    "Verifique o caminho de acesso no inverno: um trecho de terra que no verão é fácil pode ficar intransitável com as chuvas. E confirme que há energia elétrica estável; em algumas áreas os cortes são mais frequentes."
+   ]
+  },
+  {
+   "h2": "Ondulação, rios e chuvas: como ler o terreno",
+   "paras": [
+    "A costa salvadorenha recebe ondas fortes em certas épocas, e várias áreas têm rios que aumentam na temporada de chuvas. Algumas partes da estrada costeira passam ao lado de encostas que podem ter deslizamentos.",
+    "Visite a propriedade na época de chuvas se puder. Procure marcas de água nas paredes, areia acumulada dentro do terreno, muros de contenção danificados ou fissuras. Pergunte aos vizinhos até onde a água chegou nas últimas tempestades. A Direção Geral de Proteção Civil emite alertas por chuvas e ondas: siga-os antes de visitar e antes de decidir."
+   ],
+   "tip": "Uma casa à beira-mar parece espetacular nas fotos, mas uma a poucas quadras, em terreno mais alto, costuma ser mais fácil de manter e segurar."
+  },
+  {
+   "h2": "O custo oculto: salitre e manutenção",
+   "paras": [
+    "O ar salino corrói metais, eletrodomésticos, instalações elétricas e telhados de chapa. Pergunte quando a casa foi pintada e impermeabilizada pela última vez, em que estado estão as janelas e as portas metálicas e se é preciso trocar o telhado.",
+    "Além disso, uma casa fechada precisa de alguém que a cuide, limpe e a verifique após cada tempestade. Esse custo é mensal e não aparece no preço de venda."
+   ],
+   "table": {
+    "head": [
+     "Despesa recorrente",
+     "Por que importa na praia"
+    ],
+    "rows": [
+     [
+      "Cuidador ou vigilância",
+      "A casa fica muitos dias vazia"
+     ],
+     [
+      "Pintura e impermeabilização",
+      "O salitre e o sol desgastam mais rápido"
+     ],
+     [
+      "Manutenção de piscina e jardim",
+      "Se houver, são semanais"
+     ],
+     [
+      "Reparo de metais e equipamentos",
+      "A corrosão encurta sua vida útil"
+     ],
+     [
+      "Taxas municipais e serviços",
+      "São pagas mesmo que a casa não seja usada"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Se vai construir ou ampliar",
+   "paras": [
+    "Para construir precisa de permissões da alcaldía (prefeitura) e, conforme o projeto e a zona, de outras instituições, inclusive o Ministério do Meio Ambiente para obras em áreas sensíveis. Consulte antes de comprar o que pode ser construído no lote e quanto tempo leva o trâmite. Um engenheiro dirá que fundação necessita um terreno arenoso ou próximo a uma encosta."
+   ]
+  },
+  {
+   "h2": "Custos ao comprar",
+   "paras": [
+    "Como em qualquer compra e venda, o comprador paga o Impuesto sobre Transferencia de Bienes Raíces (3% sobre o excesso de US$28,571.43), os honorários do notario (tabelião) e a inscrição no CNR. Se a casa for para alugar a turistas, consulte também um contador sobre as obrigações tributárias desses rendimentos."
+   ]
+  },
+  {
+   "h2": "Buscar casas e lotes na costa",
+   "paras": [
+    "No Casa-Libre você pode ver casas e terrenos à venda no mapa, por exemplo em La Libertad, e escrever por WhatsApp ao dono ou ao agente para solicitar fotos atuais e a matrícula. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que devo revisar antes de comprar uma casa na praia?",
+   "a": "Papéis no CNR, acesso no inverno, origem e qualidade da água, exposição às ondas e às cheias, permissões do que foi construído e o custo de manutenção pelo salitre."
+  },
+  {
+   "q": "Um estrangeiro pode comprar casa de praia em El Salvador?",
+   "a": "Sim. A Constituição limita a certos estrangeiros apenas a compra de terrenos rústicos, conforme a reciprocidade com seu país. Um notario (tabelião) pode confirmar se seu caso tem alguma restrição."
+  },
+  {
+   "q": "Compensa comprar à beira-mar ou a algumas quadras para dentro?",
+   "a": " À beira-mar se aproveita mais, mas há maior exposição às ondas e ao salitre. A algumas quadras para dentro, em terreno mais alto, costuma haver menos risco e menos manutenção."
+  },
+  {
+   "q": "Paga-se imposto por comprar uma casa de praia?",
+   "a": "Sim, o mesmo que em qualquer imóvel: 3% sobre o valor que exceda US$28,571.43, mais despesas de notario e inscrição."
+  }
+ ],
+ "related": [
+  "Propriedades em La Libertad",
+  "Terrenos à venda",
+  "Casas à venda"
+ ]
+}

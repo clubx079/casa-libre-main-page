@@ -1,0 +1,126 @@
+{
+ "_src": "7e4f700b66ca",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Rent a House in Paraguay (tenant)",
+  "h1": "Requirements to rent a house or an apartment in Paraguay",
+  "description": "What documents they ask for when renting in Paraguay: ID card, proof of income, guarantor or guarantee, reports and deposit. Complete list and how to prepare yourself.",
+  "answer": "To rent in Paraguay they usually ask for an identity card, a proof of income (pay slips, employment certificate or invoices if you are self-employed), a guarantee (owner guarantor, guarantor with income or a rental insurance/bond) and an initial payment that typically includes the first month in advance and a deposit. There is no single list fixed by law: each owner or real-estate agency creates its own, so it’s advisable to ask before you visit."
+ },
+ "sections": [
+  {
+   "h2": "The basic list you will hear almost always",
+   "paras": [
+    "Paraguayan Civil Code regulates the lease contract but does not specify which documents the tenant must present. That list is decided by the landlord: a private owner may ask for little and a real-estate agency usually asks for more, because it is responsible to the owner for the tenant selection.",
+    "Still, most requests look alike. If you have this ready in a folder (paper and scanned on your phone), you will be able to respond the same day you like a property, which in high-demand areas makes the difference."
+   ],
+   "bullets": [
+    "Current Paraguayan identity card (or passport and residency card if you are a foreigner).",
+    "Proof of income: latest pay slips, employment certificate with seniority and salary, or invoices and tax returns if you work for yourself.",
+    "Contact details and references: a previous landlord, your employer or someone who can attest that you fulfill your obligations.",
+    "Guarantee: guarantor (with property or demonstrable income) or an alternative such as insurance or rental bond, if the owner accepts it.",
+    "Money for signing: usually the first month in advance and a security deposit; if a real-estate agency is involved, there may also be a fee."
+   ]
+  },
+  {
+   "h2": "How to prove income depending on how you work",
+   "paras": [
+    "The landlord’s core question is one: will you be able to pay every month? A common reference is that rent should not exceed roughly one-third of household income, although this is not a legal rule and each landlord applies it in their own way.",
+    "If you are an employee, pay slips and a company-signed certificate are usually enough. If you are self-employed or run a business, the most important documents are the RUC certificate and a billing or bank-statement history. If you have just arrived in a city or a job, an advance of several months or a strong guarantor can compensate for the lack of history."
+   ],
+   "table": {
+    "head": [
+     "Your situation",
+     "What usually serves as proof"
+    ],
+    "rows": [
+     [
+      "Employee",
+      "Latest pay slips and employment certificate with seniority"
+     ],
+     [
+      "Self-employed or professional",
+      "RUC certificate, issued invoices and recent bank statements"
+     ],
+     [
+      "Trader",
+      "RUC certificate, municipal business license and bank movements"
+     ],
+     [
+      "Retiree",
+      "Pension receipt or certificate"
+     ],
+     [
+      "New arrival from abroad",
+      "Work contract, demonstrable savings and, if possible, advance of months"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Guarantor, insurance or deposit: the guarantee options",
+   "paras": [
+    "The guarantee protects the owner if the tenant stops paying or causes damage. In Paraguay the traditional method is the guarantor: a person who signs the contract and commits to answer if you do not fulfill it. Some owners require the guarantor to own property in their name; others accept a guarantor with a good salary.",
+    "When you have no one to ask, there are alternatives that some owners accept: insurance or rental bonds offered by insurers, a larger deposit or the advance payment of several months. Not all owners accept them, so it is worth asking in the first consultation and not after the viewing."
+   ],
+   "tip": "If your guarantor is a family member, ask them well in advance for a copy of their identity card and, if applicable, the title or a report of the property they are offering as guarantee. That is what takes the most time."
+  },
+  {
+   "h2": "What to ask before you go see the property",
+   "paras": [
+    "Many viewings fall through because the tenant discovers at the end that a requirement is not met. By WhatsApp, before arranging the visit, ask the concrete questions:"
+   ],
+   "bullets": [
+    "What guarantee do you accept? Only property-owner guarantor or also rental insurance?",
+    "How much must be paid at signing? (first month, deposit, fees, expensas if it is an apartment).",
+    "Does the price include expensas? Will utilities (ANDE, water, internet) be in the tenant’s name?",
+    "What is the lease term and how is the price adjusted?",
+    "Do you accept pets? Can it be used as an office or only as a residence?"
+   ]
+  },
+  {
+   "h2": "The lease: what you need to read before signing",
+   "paras": [
+    "The lease should be in writing and signed by all parties, including the guarantor. Read it in full: term, price and currency, adjustment method, who pays which repairs, what happens if you want to leave early and how the deposit is returned.",
+    "Ask for an inventory or hand-over act with photos of the property’s condition at move-in. That is your best protection when recovering the deposit."
+   ]
+  },
+  {
+   "h2": "If you are a foreigner or have just moved to Paraguay",
+   "paras": [
+    "A foreigner can rent in Paraguay. Usually they ask for a passport or the residency card issued by the Dirección General de Migraciones, and the lack of local history is compensated with more months in advance, a larger deposit or a local guarantor. If your company brought you, a letter from the company helps a lot."
+   ]
+  },
+  {
+   "h2": "How to search for rentals without wasting time",
+   "paras": [
+    "First filter by area and budget, and write to the advertiser with your basic data: how many people will live there, whether you have pets, when you want to move in and what guarantee you can offer. A message like that gets a response faster than a \"Is it still available?\".",
+    "On Casa-Libre you see rentals on the map and write directly by WhatsApp to the owner or agency, without paying anything to use the site. You can also search from the Casa-Libre app for iPhone and Android and save the properties that interest you."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can you rent without a guarantor in Paraguay?",
+   "a": "Yes, if the owner accepts another guarantee: a rental insurance or bond, a larger deposit, or the advance payment of several months. It depends on each landlord, so it’s best to ask before you visit."
+  },
+  {
+   "q": "How much money do I need to start a rental?",
+   "a": "Usually the first month in advance plus a security deposit; if a real-estate agency is involved, there may be a fee. Add moving costs and utility connection fees as well."
+  },
+  {
+   "q": "Does the rental contract have to be written?",
+   "a": "It is recommended. A written and signed contract makes the term, price, adjustments, repairs and deposit return clear, and avoids disputes at the end."
+  },
+  {
+   "q": "Can a foreigner rent in Paraguay?",
+   "a": "Yes. Usually a passport or residence card is required, and the lack of local credit history is compensated with additional guarantees or advance payments."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Apartments for rent",
+  "Guide for owners: how to rent your property"
+ ]
+}

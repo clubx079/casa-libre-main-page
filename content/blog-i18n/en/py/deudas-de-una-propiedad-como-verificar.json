@@ -1,0 +1,93 @@
+{
+ "_src": "21d71f0bbcfd",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Know If a Property Has Debts Before Buying",
+  "h1": "How to Verify If a Property Has Debts Before Buying",
+  "description": "Before buying, check property tax, ANDE, water, expenses, mortgages and liens: what to request, from whom and why a debt stops the escritura.",
+  "answer": "Before buying a property in Paraguay, verify three types of debt: those on the property with the State (property tax and municipal fees, with a certificate of no debt from the municipality), those for services and the building (ANDE and water bills, expenses if it is an apartment) and those that encumber the title (mortgages, liens or inhibitions, which appear in the domain condition report requested by the escribano (notary) at the Registros Públicos). Request everything before paying the deposit or make the deposit conditional on clean reports."
+ },
+ "sections": [
+  {
+   "h2": "Why the property’s debts matter to you",
+   "paras": [
+    "Some debts stick to the property and not to the person. The property tax, for example, is settled for each cuenta corriente catastral, and overdue debts generate fines and surcharges that can block procedures such as the transfer. A mortgage or a registered lien follows the property even if the owner changes, unless they are cancelled.",
+    "In practice, the escribano (notary) should not sign a escritura with unresolved debts or encumbrances, but it’s useful for you to know this beforehand: negotiating with information is much easier than discovering the problem after you hand over the deposit."
+   ]
+  },
+  {
+   "h2": "Property tax and municipal fees",
+   "paras": [
+    "The property tax is annual and equals 1% of the fiscal value of the property, an assessment set by the State and usually below market value. Since Law 5513/2015 that assessment is adjusted each year for inflation, and for 2026 the Executive Power decreed a readjustment. Municipalities collect it.",
+    "What you need to request is the certificate of no debt (or certificate of clear debt) from the municipality where the property is located, which shows whether the tax and fees are paid. To request it you need the cuenta corriente catastral (in urban areas) or the padrón (in rural areas). In addition, the DNIT has enabled on its website the calculation of the property tax based on the National Cadastre Service, which allows you to have a reference of the annual amount."
+   ],
+   "tip": "Ask the seller for the latest property tax receipt as soon as you become interested in the property. If they don’t have it or are unsure, that’s a signal to request the certificate immediately."
+  },
+  {
+   "h2": "ANDE, water and other services",
+   "paras": [
+    "Late electricity and water bills don’t always block the escritura, but they can complicate your move: there are cases where service is cut off or, to transfer the contract to your name, the outstanding balance must be settled first. Ask for the latest ANDE and water (ESSAP, sanitation board or private water company, depending on the area) bills and verify they are paid.",
+    "Agree in writing that the seller delivers the property with services up to date and that the title transfer is done as soon as the deed is signed."
+   ]
+  },
+  {
+   "h2": "Condominium fees if it’s an apartment or a condo",
+   "paras": [
+    "In buildings and gated communities, common expenses cover cleaning, security, elevators and maintenance. If the seller owes fees, the administration can claim them and, according to the rules, condition procedures. Ask the administration for a statement that there are no pending fees, and inquire whether any extraordinary fees have been approved for future works: that is an expense you will inherit."
+   ]
+  },
+  {
+   "h2": "Mortgages, liens and inhibitions: the domain condition report",
+   "paras": [
+    "The most serious debts do not appear on any bill: they are registered in the Public Registries. The domain condition report shows who holds title to the property and whether it has mortgages, liens, inhibitions or other annotations. It is issued by the Dirección General de los Registros Públicos of the Judicial Power and is usually requested by the escribano, who has online access through the registry system.",
+    "In addition, the Registro Unificado Nacional introduced in 2026 a digital cadastral-registry property certificate, which combines in a single procedure information from the cadastre and the registry. Ask your escribano which one applies to your transaction."
+   ],
+   "bullets": [
+    "Mortgage: the property guarantees a loan. You can buy, but the mortgage must be cancelled before or at the same time as the escritura.",
+    "Lien: a judge has tied the property to a debt or lawsuit. It must be lifted before transfer.",
+    "Inhibition: the person cannot dispose of their assets. If the seller is inhibited, they cannot sell until it is resolved.",
+    "Litigation or court annotations: there is a dispute over the property. Consult a lawyer before proceeding."
+   ]
+  },
+  {
+   "h2": "In what order to do it",
+   "steps": [
+    "Ask the seller for the title, the cuenta corriente catastral, the latest property tax receipt and the latest service bills.",
+    "Choose a trusted escribano and request the domain condition report and the municipal no-debt certificate.",
+    "If it’s an apartment, request the fee statement from the administration.",
+    "Only after you have the reports in hand, sign the deposit or the boleto. If you must deposit earlier, make the document state that the deposit is refundable if undisclosed debts or encumbrances appear.",
+    "In the escritura, have the escribano record the cancellations (mortgage, debts) made with the purchase money."
+   ]
+  },
+  {
+   "h2": "Ask from the first message",
+   "paras": [
+    "When you write about a listing, asking \"Does it have title and taxes up to date?\" saves useless visits. On Casa-Libre you write directly to the owner or the agency via WhatsApp, from the website or the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a house has property tax debt?",
+   "a": "Request the certificate of no debt from the municipality of the district using the cuenta corriente catastral or the registry. You can also ask the seller for the last paid receipt."
+  },
+  {
+   "q": "How do I know if a property is mortgaged in Paraguay?",
+   "a": "With the domain condition report or certificate from the Dirección General de los Registros Públicos, which is usually handled by the escribano. It shows mortgages, liens and inhibitions."
+  },
+  {
+   "q": "Can I buy a property with a mortgage?",
+   "a": "Yes, if the mortgage is cancelled before or at the same time as the escritura, for example with part of the purchase money. The escribano coordinates the cancellation with the creditor entity."
+  },
+  {
+   "q": "Do electricity and water debts pass to the new owner?",
+   "a": "They can complicate the title change or reconnection. Agree in writing that the seller delivers the services up to date and request the latest paid bills."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: costs and taxes when buying"
+ ]
+}

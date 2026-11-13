@@ -1,0 +1,125 @@
+{
+ "_src": "6bfd4c875222",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Agência Estatal de Habitação: programas e como acessar",
+  "h1": "Agência Estatal de Habitação (AEVIVIENDA): quais programas tem e como se informar",
+  "description": "O que faz a Agência Estatal de Habitação da Bolívia, seus cinco programas (habitação nova, melhoria, emergência, comunidades urbanas e atenção extraordinária) e como consultar se você se enquadra.",
+  "answer": "A Agência Estatal de Habitação (AEVIVIENDA) é a entidade pública que executa os programas de habitação social do Estado boliviano. Segundo seu site oficial, trabalha com cinco programas: Comunidades Urbanas, Habitação Qualitativa (melhoria e ampliação), Habitação Nova (para famílias sem moradia própria), Habitação de Emergência e Atenção Extraordinária. Não é um banco: os projetos são executados por convênios, frequentemente com municípios, e a informação de acesso é solicitada por sua linha gratuita 800-10-2373."
+ },
+ "sections": [
+  {
+   "h2": "O que é AEVIVIENDA e em que se diferencia de um crédito",
+   "paras": [
+    "Quando se fala em \"plano moradia\" na Bolívia, misturam-se duas coisas distintas. Por um lado, está o crédito habitacional de interesse social, que você solicita em um banco ou instituição financeira e paga com juros regulados. Por outro, estão os programas de moradia social do Estado, executados pela Agência Estatal de Habitação: construção de novas casas, melhoria de moradias existentes ou atendimento a famílias afetadas por desastres.",
+    "A diferença prática é importante: o crédito você acessa diretamente em uma instituição financeira; os programas da AEVIVIENDA são acessados conforme projetos concretos, em áreas específicas, e com critérios de priorização definidos pelo programa."
+   ]
+  },
+  {
+   "h2": "Os cinco programas",
+   "paras": [
+    "Esta é a descrição publicada pela própria agência em seu site. Os detalhes de cada projeto (localização, quantidade de moradias, requisitos específicos) mudam conforme o convênio."
+   ],
+   "table": {
+    "head": [
+     "Programa",
+     "Para que serve"
+    ],
+    "rows": [
+     [
+      "Comunidades Urbanas",
+      "Projetos integrados de moradia em áreas urbanas"
+     ],
+     [
+      "Vivienda Cualitativa",
+      "Melhoria, ampliação ou renovação de moradias existentes"
+     ],
+     [
+      "Vivienda Nueva",
+      "Construção de moradias para famílias que não possuem casa própria"
+     ],
+     [
+      "Vivienda de Emergencia",
+      "Famílias cuja moradia foi afetada por um desastre"
+     ],
+     [
+      "Atención Extraordinaria",
+      "Famílias altamente vulneráveis"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como acessar, na prática",
+   "paras": [
+    "AEVIVIENDA trabalha muitas vezes por meio de convênios com governos municipais. Por exemplo, em 2026 a agência informou convênios com municípios do departamento de La Paz para construir moradias sociais, com preferência para pessoas em situação de pobreza ou vulnerabilidade. Isso significa que o primeiro lugar para perguntar costuma ser a sua alcaldía: se houver um projeto no seu município, lá saberão como as famílias são registradas.",
+    "As \"convocações\" que aparecem no site da agência geralmente são contratações para empresas construtoras e supervisores, não inscrições de famílias. Não confunda uma coisa com a outra."
+   ],
+   "steps": [
+    "Ligue para a linha gratuita da AEVIVIENDA (800-10-2373) e pergunte se há projetos no seu município e quais são os requisitos.",
+    "Consulte no seu governo municipal se existe um convênio vigente e como as famílias são registradas.",
+    "Reúna os documentos que pedirem: normalmente identidade dos membros da família e documentos que comprovem sua situação habitacional.",
+    "Se já foi beneficiário de um programa, pode verificá-lo na página de verificação de benefício do site oficial."
+   ]
+  },
+  {
+   "h2": "Cuidado com os intermediários",
+   "paras": [
+    "Ao redor dos programas de moradia social surgem pessoas que oferecem \"garantir sua vaga\" em troca de dinheiro. Os programas públicos não são comprados: se alguém pedir um pagamento para incluí-lo em uma lista, desconfie e consulte diretamente a agência ou a sua alcaldía."
+   ],
+   "tip": "Sempre peça que mostrem o convênio ou a publicação oficial do projeto. Se ninguém puder apresentar um documento oficial, não entregue dinheiro nem documentos originais."
+  },
+  {
+   "h2": "O que ter preparado caso abra um projeto na sua região",
+   "paras": [
+    "Quando um projeto é aberto, os prazos para inscrição podem ser curtos. Ter os papéis básicos organizados dá vantagem. A lista exata é definida por cada projeto, mas costuma girar em torno destes pontos:"
+   ],
+   "bullets": [
+    "Cédulas de identidade vigentes dos membros da família e certidões de nascimento dos filhos.",
+    "Documentos que mostrem sua situação habitacional atual: contrato de aluguel ou de anticrético (contrato de anticrético), ou comprovação de que mora com familiares.",
+    "Se possui um lote ou uma casa que deseja melhorar, os documentos do imóvel: folio real, impostos e planta.",
+    "Dados de contato atualizados, para que possam avisá-lo."
+   ]
+  },
+  {
+   "h2": "Enquanto isso: outras opções",
+   "paras": [
+    "Os programas estaduais têm vagas limitadas e prazos longos. Se você tem renda estável, verifique paralelamente se se qualifica para um crédito habitacional de interesse social, com taxas máximas reguladas e, em alguns casos, com um fundo de garantia que ajuda na entrada. Outra via muito usada na Bolívia é o anticrético (contrato de anticrético), que permite viver sem pagar aluguel mensal enquanto economiza, com os cuidados explicados no artigo correspondente.",
+    "Se está avaliando opções, veja preços reais na sua região: no Casa-Libre você pode ver casas e apartamentos à venda e para aluguel no mapa e escrever por WhatsApp ao anunciante. Também pode usar o app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é a Agência Estatal de Habitação?",
+   "a": "A entidade pública que executa programas de habitação social na Bolívia: habitação nova, melhoria, emergência, comunidades urbanas e atenção extraordinária."
+  },
+  {
+   "q": "AEVIVIENDA concede crédito?",
+   "a": "Seu site oficial apresenta programas de construção e melhoria, não crédito bancário. O crédito de habitação social é solicitado em bancos e entidades financeiras reguladas."
+  },
+  {
+   "q": "Como me inscrevo em um programa de habitação?",
+   "a": "Depende de cada projeto. Ligue para a linha gratuita 800-10-2373 e consulte na sua alcaldia se há um convênio vigente em seu município."
+  },
+  {
+   "q": "Como sei se já consto como beneficiário de um programa?",
+   "a": "O site oficial da AEVIVIENDA tem uma página de verificação de benefício. Se tiver dúvidas sobre o resultado, consulte pela linha gratuita 800-10-2373."
+  },
+  {
+   "q": "Posso me candidatar a um programa e solicitar um crédito de habitação social ao mesmo tempo?",
+   "a": "São caminhos diferentes. Pergunte no programa se ter recebido um crédito ou ter uma casa em seu nome o exclui, pois vários programas são destinados a famílias sem moradia própria."
+  },
+  {
+   "q": "As convocações da AEVIVIENDA são para famílias?",
+   "a": "Muitas das convocações publicadas são contratações para empresas. Para saber como acessar como família, consulte pela linha gratuita ou no seu município."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Aluguéis no mapa",
+  "Guia: como comprar sua primeira casa",
+  "Crédito de habitação social"
+ ]
+}

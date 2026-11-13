@@ -1,0 +1,124 @@
+{
+ "_src": "50c469b98fec",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buy a Beach House in El Salvador: What to Check",
+  "h1": "Buy a Beach House or Lot in El Salvador: What to Check Before Deciding",
+  "description": "Criteria for buying a house or lot near the sea in El Salvador: access, water, salt spray, waves and rain, papers at the CNR, permits and maintenance costs.",
+  "answer": "Before buying a beach house or lot in El Salvador, review five things: that the property is registered in the seller’s name at the CNR and free of liens; that it has year-round access and potable water; how exposed it is to waves, river floods and landslides during the rainy season; what permits are needed to build or expand; and how much it costs to maintain it against salt spray. A beach house is used only a few days a month, but it is maintained all year."
+ },
+ "sections": [
+  {
+   "h2": "First: What do you want it for?",
+   "paras": [
+    "It’s not the same to have a house to live in year-round, a weekend house, or a property to rent to tourists. If you will live there, you care about the distance to a health center, a supermarket and work. If it’s for vacation, travel time from San Salvador or Santa Ana matters more and who will look after the house when you are not there. If it’s for renting, you care that the area has demand and that you can manage it.",
+    "Define the use before looking at properties: it prevents you from falling in love with a house that does not fit your life."
+   ]
+  },
+  {
+   "h2": "Paperwork: more care than usual",
+   "paras": [
+    "In coastal zones there are lots that have been divided many times, unresolved inheritances and constructions built without permits. Request the title deed and obtain an extracted certification from the Centro Nacional de Registros: confirm that the seller is the owner, that there are no mortgages or liens and that the property shown is the same as in the escritura.",
+    "Compare the measurements and boundaries with what is on the land, especially if it borders the beach, a lagoon or a river. Ask the notario (notary) if any part of the land may have restrictions for being in the coastal strip or next to a watercourse."
+   ],
+   "bullets": [
+    "CNR certification in the seller’s name.",
+    "Match between the measurements in the escritura and the actual land.",
+    "Construction permits for the existing building, if any.",
+    "Municipal solvency and service bills."
+   ]
+  },
+  {
+   "h2": "Water, electricity and access year-round",
+   "paras": [
+    "Many beach properties depend on wells or local water systems. Ask where the water comes from, if it is potable and what happens in the dry months. If there is a well, ask its depth and whether the water is salty.",
+    "Check the access road in winter: a dirt stretch that is easy in summer can become impassable with rain. And confirm that there is stable electricity; in some areas outages are more frequent."
+   ]
+  },
+  {
+   "h2": "Waves, rivers and rain: how to read the land",
+   "paras": [
+    "The Salvadoran coast receives strong waves at certain times, and several areas have rivers that swell during the rainy season. Some parts of the coastal road run alongside slopes that may experience landslides.",
+    "Visit the property during the rainy season if you can. Look for water stains on walls, sand buildup inside the land, damaged retaining walls or cracks. Ask neighbors how far the water reached in the last storms. The Dirección General de Protección Civil issues alerts for rain and waves: follow them before visiting and before deciding."
+   ],
+   "tip": "A house on the seafront looks spectacular in photos, but one a few blocks away on higher ground is usually easier to maintain and insure."
+  },
+  {
+   "h2": "The hidden cost: salt and maintenance",
+   "paras": [
+    "Saline air corrodes metals, appliances, electrical installations and metal-sheet roofs. Ask when the house was last painted and waterproofed, the condition of windows and metal doors and whether the roof needs replacement.",
+    "Also, a closed house needs someone to look after it, clean it and inspect it after each storm. That cost is monthly and does not appear in the sale price."
+   ],
+   "table": {
+    "head": [
+     "Recurring expense",
+     "Why it matters on the beach"
+    ],
+    "rows": [
+     [
+      "Caretaker or security",
+      "The house sits empty many days"
+     ],
+     [
+      "Painting and waterproofing",
+      "Salt and sun wear them faster"
+     ],
+     [
+      "Pool and garden maintenance",
+      "If present, they are weekly"
+     ],
+     [
+      "Repair of metals and equipment",
+      "Corrosion shortens their useful life"
+     ],
+     [
+      "Municipal taxes and services",
+      "They are paid even if you don’t use the house"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "If you are going to build or expand",
+   "paras": [
+    "To build you need permits from the alcaldía and, depending on the project and zone, from other institutions, including the Ministry of Environment for works in sensitive areas. Check before buying what can be built on the lot and how long the process takes. An engineer will tell you what foundation a sandy or sloped lot needs."
+   ]
+  },
+  {
+   "h2": "Costs when buying",
+   "paras": [
+    "As with any sale, the buyer pays the Transfer Tax on Real Estate (3% on the amount exceeding US$28,571.43), the notario’s fees and registration in the CNR. If the house is for renting to tourists, also consult an accountant about the tax obligations of that income."
+   ]
+  },
+  {
+   "h2": "Looking for houses and lots on the coast",
+   "paras": [
+    "On Casa-Libre you can view houses and land for sale on the map, for example in La Libertad, and write via WhatsApp to the owner or agent to request current photos and the title deed. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What should I check before buying a beach house?",
+   "a": "Papers at the CNR, winter access, source and quality of water, exposure to waves and floods, permits for what is built, and the maintenance cost due to salt spray."
+  },
+  {
+   "q": "Can a foreigner buy a beach house in El Salvador?",
+   "a": "Yes. The Constitution limits certain foreigners to buying only rustic land, according to reciprocity with their country. A notario can confirm if your case has any restriction."
+  },
+  {
+   "q": "Is it better to buy right on the shoreline or a few blocks inland?",
+   "a": "On the shoreline you enjoy more, but there is greater exposure to waves and salt spray. A few blocks inland, on higher ground, usually means less risk and lower maintenance."
+  },
+  {
+   "q": "Is there a tax when buying a beach house?",
+   "a": "Yes, the same as for any property: 3% on the amount that exceeds US$28,571.43, plus notary and registration fees."
+  }
+ ],
+ "related": [
+  "Properties in La Libertad",
+  "Land for Sale",
+  "Houses for Sale"
+ ]
+}

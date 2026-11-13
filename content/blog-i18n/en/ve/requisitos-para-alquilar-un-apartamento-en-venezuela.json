@@ -1,0 +1,119 @@
+{
+ "_src": "8f54daf1343c",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Rent an Apartment in Venezuela",
+  "h1": "Requirements to Rent an Apartment in Venezuela: What They Will Ask You For",
+  "description": "What documents are required to rent an apartment in Venezuela, what guarantees are common, what the housing lease law says, and how to prepare yourself.",
+  "answer": "To rent an apartment in Venezuela they usually ask for a copy of your identity card (or passport if you are a foreigner), proof of employment or income statements, personal or bank references, and often a guarantor or a cash guarantee. Housing leases are regulated by a special law and supervised by SUNAVI, so there are charges the landlord cannot demand. Arrive at the first viewing with your file ready and ask in writing what guarantee they accept."
+ },
+ "sections": [
+  {
+   "h2": "The documents that are almost always requested",
+   "paras": [
+    "Each landlord has his own list, but there is a core set that repeats across the country, whether you rent directly from the owner or through an agent. Having it scanned on your phone lets you respond the same day, and in a market where good apartments rent quickly that makes the difference."
+   ],
+   "bullets": [
+    "Copy of the current laminated identity card of each adult who will live in the property. If you are a foreigner, passport and, if you have it, foreigner ID card.",
+    "Work certificate with position, seniority and salary, or recent pay slips.",
+    "If you are self-employed: RIF, bank statements from the last months or an income certification signed by a licensed public accountant.",
+    "Personal references and, if you have them, bank references or from a previous landlord.",
+    "Guarantor data, if the landlord asks for it: ID card, income certificate and, sometimes, a document of a property in his name."
+   ]
+  },
+  {
+   "h2": "Which law regulates residential rentals",
+   "paras": [
+    "Residential rentals in Venezuela are governed by the Ley para la Regularización y Control de los Arrendamientos de Vivienda, in force since 2011, and the authority that applies it is the Superintendencia Nacional de Arrendamiento de Vivienda (SUNAVI). Commercial premises have a different regulation, so do not rely on contract models designed for businesses.",
+    "The law especially protects the residential tenant: it sets minimum maintenance obligations for the landlord, limits grounds for eviction and prohibits certain charges. In practice, many contracts are agreed with reference amounts in foreign currency, which conflicts with what the law provides for setting the rent. Before signing, consult a lawyer or SUNAVI itself about how the rent should be expressed in your contract."
+   ]
+  },
+  {
+   "h2": "Guarantor, deposit or advance payments: common guarantees",
+   "paras": [
+    "The most common thing is that the landlord asks for a guarantee to cover unpaid rent or damages. The forms you will encounter are a cash deposit, a joint guarantor with verifiable income, and, in some cases, advance payments.",
+    "The residential rental law sets limits on what can be demanded as a guarantee and as an advance payment. If they ask for many months in advance or a deposit that seems disproportionate, ask them to show the basis and consult before paying. It is not unusual for the requirement to be negotiated when you present solid proof of income."
+   ],
+   "table": {
+    "head": [
+     "Guarantee",
+     "What it covers",
+     "What it costs"
+    ],
+    "rows": [
+     [
+      "Cash deposit",
+      "Damages and unpaid rent, up to the amount delivered",
+      "Cash immobilized that must be returned at the end if everything is in order"
+     ],
+     [
+      "Joint guarantor",
+      "The same as the tenant would cover",
+      "No cash, but you involve another person"
+     ],
+     [
+      "Advance payments",
+      "The months already paid",
+      "A large cash outlay upfront; the law limits how much can be demanded"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The contract: in writing and with all details",
+   "paras": [
+    "Always sign a written contract. Ideally it is authenticated before a notary, because that gives a certain date and makes it easier to enforce. Check that it states who the owner is (and that it matches the property document), the exact address, the rent, the payment method, the duration, who pays the condominium and utilities, and how the deposit is returned.",
+    "Ask to see the property document or, if the person renting to you is not the owner, the power of attorney that authorizes them. It is the simplest defense against fake landlords."
+   ]
+  },
+  {
+   "h2": "How to prepare, step by step",
+   "steps": [
+    "Define your total budget: rent, condominium if you pay it, utilities, deposit and moving costs.",
+    "Create your digital folder with ID, work certificate, bank statements and references.",
+    "Search and filter by area and property type; message the advertiser asking what guarantee they accept.",
+    "Visit the apartment: check water, electricity, gas, leaks and building condition.",
+    "Ask for the property document and verify that the landlord is the owner or has power of attorney.",
+    "Review the contract calmly, ideally with a lawyer, before handing over money.",
+    "Pay against a receipt or by transfer in the landlord’s name and keep all receipts."
+   ]
+  },
+  {
+   "h2": "A first message that works",
+   "paras": [
+    "The landlord wants to know three things: who will live there, if you can pay, and if you will take care of the property. Answer those from the first message. For example: \"Hello, I’m interested in the apartment. We are two adults without pets, I have been employed for three years and have a work certificate and references. What guarantee do you require and when can I visit?\""
+   ],
+   "tip": "If they ask for money to \"reserve\" before you visit or before seeing the property document, stop. It is the most common rental scam."
+  },
+  {
+   "h2": "Where to look",
+   "paras": [
+    "On Casa-Libre you can see apartments and houses for rent on the map, filter by city and message the advertiser directly via WhatsApp to ask about requirements before going. The search is free, on the website and in the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I rent without a guarantor in Venezuela?",
+   "a": "Yes, if the landlord accepts another guarantee, such as a deposit. The guarantor is not a legal requirement but a condition set by the landlord, and it is usually negotiated if you show good income."
+  },
+  {
+   "q": "What is SUNAVI?",
+   "a": "It is the Superintendencia Nacional de Arrendamiento de Vivienda, the agency that enforces the housing lease law. You can contact it if you have a dispute with your landlord."
+  },
+  {
+   "q": "Does the contract have to be notarized?",
+   "a": "It is not always mandatory for the contract to exist, but authenticating it at a notaría gives it a certain date and makes it easier to claim if problems arise. It is recommended."
+  },
+  {
+   "q": "Can they ask for the rent in dollars?",
+   "a": "In practice it is common to use reference amounts in foreign currency, but the housing lease law has rules on how the rent is set. Consult a lawyer or SUNAVI on how it should appear in your contract."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Apartments for rent",
+  "Lease contract: what to review"
+ ]
+}

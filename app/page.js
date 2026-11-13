@@ -1,5 +1,6 @@
 'use client';
 import { useState, useEffect, useRef } from 'react';
+import { LANG_KEY } from '@/lib/blog-i18n';
 
 // Eight-country network. Paraguay + Bolivia are live, Uruguay in early access,
 // the rest scheduled/planned. Statuses: live | beta | next | planned.
@@ -234,7 +235,19 @@ const Arrow = () => (
 );
 
 export default function Hub() {
-  const [lang, setLang] = useState('es');
+  // Language is remembered under the same key as the blog (lib/blog-i18n.js
+  // LANG_KEY), so ES/EN/PT follows the reader between home and /blog.
+  const [lang, setLangState] = useState('es');
+  useEffect(() => {
+    try {
+      const saved = window.localStorage.getItem(LANG_KEY);
+      if (saved && DICT[saved]) setLangState(saved);
+    } catch { /* storage blocked */ }
+  }, []);
+  const setLang = (l) => {
+    setLangState(l);
+    try { window.localStorage.setItem(LANG_KEY, l); } catch { /* storage blocked */ }
+  };
   const t = DICT[lang];
   const nm = (c) => c.name[lang] || c.name.es;
   // Contact form ("Connect with the founder"). Email OR phone required. On submit we POST to /api/contact,
@@ -563,7 +576,7 @@ export default function Hub() {
                 );
               })}
             </FootCol>
-            {/* Blog (Spanish-only articles, labelled "Blog" in every language). */}
+            {/* Blog (ES/EN/PT, same language choice as this page via LANG_KEY). */}
             <FootCol title="Casa-Libre">
               <li><a href="/blog" className="text-paper/75 hover:text-paper">Blog</a></li>
               <li><a href="#connect" className="text-paper/75 hover:text-paper">{t.nav.connect}</a></li>

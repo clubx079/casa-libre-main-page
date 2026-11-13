@@ -1,0 +1,103 @@
+{
+ "_src": "07d95ec9e854",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Living in La Paz or El Alto: How to Choose a Neighborhood",
+  "h1": "Living in La Paz or El Alto: How to Choose a Neighborhood Based on Altitude, Terrain, Transportation, and Budget",
+  "description": "Criteria for choosing where to live in La Paz or El Alto: altitude and climate, slopes and risk, sun and orientation, routes and cable car, services and budget. Useful questions before renting or buying.",
+  "answer": "In La Paz and El Alto geography decides a lot: altitude changes the climate (the lower areas are milder), slope changes the risk and access, and the sun changes how much cold you feel inside the house. Choose first by your daily commute (including the cable car), then review the land and the orientation of the home, and only then compare prices. El Alto usually offers more space for the same money; La Paz, more variety of neighborhoods and services."
+ },
+ "sections": [
+  {
+   "h2": "Two cities united, with very different geographies",
+   "paras": [
+    "La Paz spreads out in a deep valley and its slopes, with large altitude differences between areas. In general, as you go down toward the south, the climate is milder. El Alto, on the other hand, sits on the Altiplano, higher up, with much flatter terrain and a colder, windier climate.",
+    "For someone coming from another region, altitude is not a minor detail: the first days can be tough (the famous soroche), and you should consider heating, insulation and warm clothing as part of your housing budget."
+   ]
+  },
+  {
+   "h2": "Routes: the cable car changed the map",
+   "paras": [
+    "The Mi Teleférico network connects different zones of La Paz with El Alto, and for many people it reduced daily travel time. When choosing a neighborhood, check if you have a station near your home and your work: a home a few blocks from a station can be worth more than a larger one without good connection."
+   ],
+   "bullets": [
+    "Make a test trip during rush hour, including minibuses, trufi or cable car.",
+    "Count the climbs: in La Paz, five blocks uphill are not the same as five blocks on flat ground.",
+    "Ask how the area moves on days of blockades or marches, which are frequent in the center."
+   ]
+  },
+  {
+   "h2": "Slopes and risk: what you need to look at",
+   "paras": [
+    "Part of the city is built on slopes and near rivers and ravines. In the rainy season landslides and mudflows can occur in risky zones. Before buying, and also before a anticrético (long-term lease) , ask the municipal office if the property is in an area with risk restrictions and check the condition of the construction."
+   ],
+   "bullets": [
+    "Cracks in walls, uneven floors or doors that don’t close can indicate ground movement.",
+    "Retaining walls and drainage: do they exist and are they in good condition?",
+    "Proximity to ravines, swollen rivers or fill areas.",
+    "History: ask neighbors if there were problems in previous rains."
+   ],
+   "tip": "If the house is on a slope, have an engineer or architect inspect it before you buy. It’s a small expense compared to the risk of a structural repair."
+  },
+  {
+   "h2": "Sun and orientation: free heating",
+   "paras": [
+    "At altitude, a home that receives sun during the day stays much warmer at night. When you visit, note which way the main windows face, whether buildings block the sun, and if the home has humidity. A bright apartment can save you months of cold and stove costs."
+   ]
+  },
+  {
+   "h2": "Services and housing expenses at altitude",
+   "paras": [
+    "In a cold city, heating and hot-water costs weigh on the budget. Ask if the home has piped gas or relies on bottles, how the water is heated and whether there is heating. In buildings, check what the maintenance fees cover and if there is a water tank for outages. These are details that don’t appear in photos and that change how much you pay each month."
+   ]
+  },
+  {
+   "h2": "El Alto: more space, a different dynamic",
+   "paras": [
+    "El Alto is its own city, with its own municipal office, commerce and a very strong economy. It usually offers larger lots and houses for the same money as in La Paz, and a direct connection to the airport and the roads to the Altiplano. For someone who works in El Alto or moves toward the Altiplano, it can be the best option.",
+    "If you buy a lot in El Alto, apply everything that applies to any lot: folio real (land title) in the seller’s name, approved urbanization, services and access. In recently developing areas, verify especially water, sewerage and piped gas."
+   ]
+  },
+  {
+   "h2": "Quick checklist to compare neighborhoods",
+   "steps": [
+    "Mark your work, school and cable-car stations on the map.",
+    "Choose two or three neighborhoods based on actual travel time.",
+    "Check terrain risk and construction condition.",
+    "Visit during day and night, and note sun orientation.",
+    "Compare rental, anticrético or sale prices in those neighborhoods."
+   ]
+  },
+  {
+   "h2": "Compare on the map",
+   "paras": [
+    "On Casa-Libre you can see properties in La Paz and El Alto on the map, compare them by area and price, and message the owner or agency directly via WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Where is it less cold in La Paz?",
+   "a": "Generally, in the lower parts of the valley, toward the south. But within each area, the house’s orientation to the sun makes a big difference."
+  },
+  {
+   "q": "Is it better to live in El Alto or in La Paz?",
+   "a": "It depends on where you work and your budget. El Alto usually offers more space for the same money; La Paz, more variety of neighborhoods. The cable car shortened the trips between the two."
+  },
+  {
+   "q": "How do I know if a house is in a risk zone?",
+   "a": "Check with the alcaldía whether the property has risk restrictions, ask neighbors, and have a professional inspect the structure if it’s on a slope."
+  },
+  {
+   "q": "Is it hard to adapt to the altitude?",
+   "a": "The first days can be tough. Take it easy and consult a doctor if you have pre-existing health issues."
+  }
+ ],
+ "related": [
+  "Properties in La Paz",
+  "Properties in El Alto",
+  "Apartments for rent",
+  "Anticrético: what it is and how it works"
+ ]
+}

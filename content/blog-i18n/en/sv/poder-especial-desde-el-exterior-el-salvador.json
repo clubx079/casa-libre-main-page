@@ -1,0 +1,115 @@
+{
+ "_src": "85cb9c269b14",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Special Power of Attorney from abroad for a property in El Salvador",
+  "h1": "Special Power of Attorney from abroad to buy or sell a property in El Salvador",
+  "description": "How to grant a special power of attorney from the United States or another country so someone can buy, sell or manage your house in El Salvador: types of power, consulate, apostille and precautions.",
+  "answer": "If you live abroad and need to buy, sell or manage a property in El Salvador, you can appoint an attorney-in-fact with a special power of attorney that states exactly what they can do and on which property. The power is granted before the El Salvador consulate or before a notario (notary) in the country where you live; in the latter case, if that country is a party to the Hague Convention, it is usually apostilled, and if not, it is legalized through the consular route. Before signing, have the Salvadoran notario who will handle the transaction review the text."
+ },
+ "sections": [
+  {
+   "h2": "What a power of attorney is and why special",
+   "paras": [
+    "A power of attorney is a document by which you authorize another person (the attorney-in-fact) to act on your behalf. A general power grants broad authority; a special power is limited to specific acts: for example, selling the house with a certain registration, for a minimum price, and receiving payment into an account in your name.",
+    "For real-estate transactions, the special power is the safest choice. The clearer and more limited it is, the lower the risk that it will be used for something you did not intend."
+   ]
+  },
+  {
+   "h2": "What it is used for with real estate",
+   "bullets": [
+    "Buy a specific property and sign the escritura (deed).",
+    "Sell your house or land and sign the escritura (deed).",
+    "Create or cancel a mortgage.",
+    "Represent you before the Registro de la Propiedad Raíz e Hipotecas del CNR.",
+    "Sign a lease contract and collect rent.",
+    "Handle procedures with the mayor’s office, ANDA or the electricity provider."
+   ]
+  },
+  {
+   "h2": "Where it is granted: consulate or foreign notario",
+   "paras": [
+    "You have two options. The first is to grant it at a Salvadoran consulate, where the consul can perform notarial functions. The second is to grant it before a notario (notary) in the country where you live and then give it validity for El Salvador.",
+    "In the second case, if the country where it is granted is a party to the 1961 Hague Convention, an apostille is usually sufficient. If not, legalization is done through the consular route and the Ministry of Foreign Affairs. Afterwards, the document is sent to El Salvador; if it is in another language, it is translated, and as needed it is protocolized before a notario (notary)."
+   ],
+   "tip": "Ask the consulate what requirements it has for powers of attorney on real estate and how long the appointment takes. In peak seasons there may be a wait."
+  },
+  {
+   "h2": "What the power must say",
+   "bullets": [
+    "Full data of you and the attorney-in-fact (names and DUI or passport).",
+    "Identification of the property: location and registration number.",
+    "Specific powers: buy, sell, mortgage, receive the price, sign escrituras (deeds), register.",
+    "Limits: minimum sale price, account where the money must be deposited, validity period.",
+    "Whether the attorney-in-fact may or may not delegate the power to another person."
+   ]
+  },
+  {
+   "h2": "Precautions to avoid losing your property",
+   "paras": [
+    "The power of attorney is a useful tool, but it is also one of the best-known avenues for real-estate fraud. Take these precautions:"
+   ],
+   "bullets": [
+    "Choose someone you trust and explain in writing what you expect.",
+    "Prefer a special power with a time limit, not a general power without limits.",
+    "Require that the price of a sale be deposited into an account in your name.",
+    "Activate the CNR’s registration alerts, which send you an email when a procedure is filed on your property.",
+    "If you no longer need the power, revoke it formally and notify the attorney-in-fact and the notario (notary)."
+   ]
+  },
+  {
+   "h2": "Revoking a power",
+   "paras": [
+    "A power can be revoked whenever you wish, even from abroad, by escritura pública. The revocation must be communicated to the attorney-in-fact and, if the power was filed with any institution, also to that institution. Consult a notario (notary) on how to make it effective so it cannot be used afterward."
+   ]
+  },
+  {
+   "h2": "Step by step",
+   "steps": [
+    "Talk to the Salvadoran notario (notary) who will handle the transaction and ask for the draft of the power.",
+    "Review the draft: property, powers, limits and term.",
+    "Grant it at the consulate or before a notario (notary) in your country of residence.",
+    "If you granted it before a foreign notario (notary), apostille it or legalize it as appropriate.",
+    "Send the original to El Salvador via a tracked service.",
+    "Activate the CNR’s registration alerts for your property."
+   ]
+  },
+  {
+   "h2": "How to choose the attorney-in-fact",
+   "paras": [
+    "The attorney-in-fact will sign on your behalf, so trust is paramount. It also matters that they have time to handle procedures, understand what they are signing, and communicate with you at each step. Some people choose a family member and others a trusted lawyer.",
+    "Ask them to send you copies of everything they sign and receipts for each payment. If the power is for a sale, agree in advance on the minimum price and the account where the money will be deposited."
+   ]
+  },
+  {
+   "h2": "Search or list from afar",
+   "paras": [
+    "If you are buying or selling remotely, Casa-Libre lets you view properties on a map, share them with your attorney-in-fact and coordinate via WhatsApp with the owner or agent. Also through the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I sell my house in El Salvador from the United States?",
+   "a": "Yes, through an attorney-in-fact with a special power of attorney granted at the Salvadoran consulate or before a U.S. notario with apostille. The attorney-in-fact signs the escritura (public deed) before a notario in El Salvador."
+  },
+  {
+   "q": "What is better, a general power or a special one?",
+   "a": "For real estate, the special power: it limits what the attorney-in-fact can do and reduces the risk of misuse."
+  },
+  {
+   "q": "Does a power made in the U.S. need an apostille?",
+   "a": "If you grant it before a U.S. notario, usually yes, because the U.S. is part of the Hague Convention. If you grant it at the Salvadoran consulate, the procedure is different. Confirm with your notario."
+  },
+  {
+   "q": "Can I cancel a power?",
+   "a": "Yes, it can be revoked by escritura (public deed) pública at any time. Notify the attorney-in-fact and the institutions where it was filed."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Guide: sell without a real-estate agency",
+  "Buy a house from the United States"
+ ]
+}

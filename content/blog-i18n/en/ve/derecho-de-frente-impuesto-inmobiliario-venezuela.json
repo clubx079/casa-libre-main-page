@@ -1,0 +1,129 @@
+{
+ "_src": "3539c4f5e217",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Frontage Right in Venezuela: What It Is and How to Pay It",
+  "h1": "Frontage Right and property tax in Venezuela: what it is, who collects it and why municipal solvency matters",
+  "description": "What the frontage right (urban property tax) is, who collects it, how to check and pay it at your municipality and why municipal solvency is key for buying or selling.",
+  "answer": "\"Derecho de frente\" is the popular name for the urban property tax, a municipal levy paid by the owner of a house, apartment, commercial space or urban land. It is collected by the municipality's mayor's office where the property is located, according to its own ordinance, so rates, discounts and dates vary between Libertador, Chacao, Baruta, Sucre or any other municipality. Being up to date gives you municipal solvency, a document required to register a sale."
+ },
+ "sections": [
+  {
+   "h2": "What is the frontage tax",
+   "paras": [
+    "The name comes from when the tax was calculated based on the meters of frontage of the property facing the street. Today the term is still used, but what is paid is the urban property tax that the Constitution and the municipal regime law assign to the municipalities.",
+    "Each mayor’s office regulates it with an ordinance: it defines how the property value is calculated (usually from cadastral data), which rate applies, when it is paid and what discounts exist for early payment or exemptions."
+   ]
+  },
+  {
+   "h2": "Who pays it",
+   "paras": [
+    "The owner pays it. If you rent, it usually does not apply to you unless the lease says otherwise. If you buy, once you are the owner it becomes your obligation, and any overdue property debts can complicate the registration of the transaction."
+   ]
+  },
+  {
+   "h2": "Why it varies by municipality",
+   "paras": [
+    "In Caracas, for example, the metropolitan area is divided among several municipalities (Libertador in the Capital District, and Chacao, Baruta, Sucre and El Hatillo in Miranda), and each has its own mayor’s office, its own cadastral system and its own ordinance. The same happens in Valencia, Maracaibo, Barquisimeto or any large city that spans more than one municipality.",
+    "Therefore, before buying, confirm exactly which municipality the property belongs to. It does not always match what neighborhood residents tell you."
+   ]
+  },
+  {
+   "h2": "How to check and pay",
+   "steps": [
+    "Identify the municipality and look for the portal or the tax administration office of the mayor’s office.",
+    "Have the cadastral certificate or the property account number, and the owner’s ID or RIF, ready.",
+    "Check the account statement: paid periods and outstanding balance.",
+    "Pay online or at the counters indicated by the mayor’s office.",
+    "Download and keep the payment receipt.",
+    "If you are selling or buying, request the municipal solvency certificate for the property."
+   ],
+   "tip": "Many mayor’s offices offer discounts for paying the full year up front. Ask before paying month by month."
+  },
+  {
+   "h2": "Municipal solvency: the most important document when buying",
+   "paras": [
+    "To notarize a sale in the Real Estate Registry, the current urban property solvency is usually required, which shows that the property has no outstanding tax debt with the mayor’s office. If the seller does not have it, they must first bring the account up to date.",
+    "As a buyer, verify that the solvency corresponds to the exact property you are purchasing (same cadastral number) and that it is valid on the signing date."
+   ]
+  },
+  {
+   "h2": "Other related municipal payments",
+   "table": {
+    "head": [
+     "Payment",
+     "When it appears"
+    ],
+    "rows": [
+     [
+      "Urban property tax (frontage tax)",
+      "Every year, as long as you are the owner"
+     ],
+     [
+      "Urban cleaning fee",
+      "Monthly or periodic, depending on the municipality and the service provider"
+     ],
+     [
+      "Cadastral procedures (cadastral certificate, updates)",
+      "When buying, selling or modifying the property"
+     ],
+     [
+      "Municipal tax on real estate transactions",
+      "In some municipalities, when registering the sale"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "What to do with the frontage tax when buying",
+   "paras": [
+    "When negotiating a purchase, agree with the seller to provide a current urban property solvency before signing, and that any prior debt remains their responsibility. If the seller has several years of unpaid tax, the accumulated amount with interest can be significant: you need to know this from the start because it can delay the transaction.",
+    "After registering the purchase, update the taxpayer name at the mayor’s office so the property is recorded in your name in the cadastral system and municipal tax records. If you do not, notifications and account statements will continue to go to the previous owner and you could accumulate debt without realizing it."
+   ],
+   "bullets": [
+    "Before signing: request the current solvency and the property’s account statement.",
+    "In the document: state that prior debts belong to the seller.",
+    "After registration: update the taxpayer in the cadastral system and municipal tax office.",
+    "Each year: check for early-payment discounts and keep the receipts."
+   ]
+  },
+  {
+   "h2": "Before falling in love with a property",
+   "paras": [
+    "When you see a property on Casa-Libre that interests you, ask the seller on WhatsApp if they have the municipal solvency and the cadastral certificate up to date. If they hesitate, you know there are pending procedures. Free, on the website and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the frontage right?",
+   "a": "It is the popular name for the municipal tax on urban properties. The owner pays it to the mayor's office of the municipality where the property is located."
+  },
+  {
+   "q": "How much is the frontage right?",
+   "a": "It depends on each municipality's ordinance and the cadastral value of the property. Check the statement at your mayor's office."
+  },
+  {
+   "q": "Does the tenant pay the frontage right?",
+   "a": "Usually not, unless the lease explicitly says so. It is an obligation of the owner."
+  },
+  {
+   "q": "Is municipal solvency needed to sell?",
+   "a": "Yes, the Real Estate Registry usually requires current municipal solvency for urban properties to formalize the sale."
+  },
+  {
+   "q": "What happens if I don’t pay the frontage right?",
+   "a": "The debt accrues with surcharges and interest according to the ordinance, and without municipal solvency you cannot register a sale or complete many procedures at the mayor's office."
+  },
+  {
+   "q": "How do I change the taxpayer after buying?",
+   "a": "Go to the cadastral or tax office of the mayor's office with the registered purchase document and your ID, so the property can be put in your name."
+  }
+ ],
+ "related": [
+  "Properties in Caracas",
+  "Houses for sale",
+  "Cadastral ID: what it is"
+ ]
+}

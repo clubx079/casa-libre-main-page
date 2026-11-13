@@ -1,0 +1,126 @@
+{
+ "_src": "e1892d267776",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "What is the cadastral current account and how to find it",
+  "h1": "What is the cadastral current account and why you will need it",
+  "description": "The cadastral current account identifies an urban property in Paraguay. What it is, how it differs from the registry and the parcel, and where to find it.",
+  "answer": "The cadastral current account is the number with which the Catastro identifies an urban property in Paraguay: with that number the property tax is calculated and collected and certificates are requested. In rural areas the equivalent is the registry number. It is not the same as the parcel or matrícula, which is the number with which the property appears in the Dirección General de los Registros Públicos. You will find it on the property tax bill, on the title deed and on cadastral certificates."
+ },
+ "sections": [
+  {
+   "h2": "Three different numbers for the same property",
+   "paras": [
+    "When you start looking at paperwork for a property, several numbers appear and it’s easy to mix them up. Each belongs to a different office and serves a different purpose. Understanding which is which saves you trips back and forth with the escribano (notary), the municipality and the bank.",
+    "Think of it like this: the Cadastre describes the property physically (where it is, how big it is, what is built on it and its fiscal value), while the Registry tells you who the owner is and whether there are mortgages, liens or other annotations. The municipality uses the cadastral data to collect the property tax."
+   ],
+   "table": {
+    "head": [
+     "Number",
+     "Who handles it",
+     "What it’s for"
+    ],
+    "rows": [
+     [
+      "Cuenta corriente catastral (urbano)",
+      "Servicio Nacional de Catastro",
+      "Identify the urban lot, its area and its fiscal value; settle the property tax"
+     ],
+     [
+      "Padrón (rural)",
+      "Servicio Nacional de Catastro",
+      "The same, for rural properties"
+     ],
+     [
+      "Finca o matrícula",
+      "Dirección General de los Registros Públicos",
+      "Identify the property in the Registry: owner, mortgages, liens, inhibitions"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Where to find the cuenta corriente catastral",
+   "paras": [
+    "If you are the owner, or if the owner gives you their papers, the number is usually visible in more than one place. It is commonly found in:"
+   ],
+   "bullets": [
+    "The receipt or payment voucher for the property tax issued by the municipality.",
+    "The title deed (the escritura (deed)), where the escribano transcribes the cadastral data of the property.",
+    "A cadastral certificate or valuation report issued by the Servicio Nacional de Catastro.",
+    "Survey plans or plans approved by the municipality, in many cases."
+   ],
+   "tip": "When you inquire about a property for sale, ask the seller for the cuenta corriente catastral and the finca or matrícula number. A owner who has the paperwork in order will provide them without problem; if there are delays or evasive answers, take it as a signal to review more carefully."
+  },
+  {
+   "h2": "Why you need it when buying",
+   "paras": [
+    "With the cuenta corriente catastral you can verify at the municipality whether the property has any outstanding property tax debts. These tax debts are attached to the property, which is why the escribano requests a certificate of no debt before signing the escritura.",
+    "It also helps you compare what the notice says with what the Cadastre says: land area, built square meters and location. It is not uncommon for a house to have extensions that were never declared. That does not prevent the purchase, but it is good to know, because it may involve regularization costs and affect the fiscal valuation.",
+    "Finally, the bank or financial institution will ask for it if you take out a mortgage, together with the Registry data, for appraisal and for registering the mortgage."
+   ]
+  },
+  {
+   "h2": "What if you are only renting?",
+   "paras": [
+    "As a tenant you are not required to know it, but requesting it makes sense in a specific case: when you want to confirm that the person renting to you is really the owner or has authorization. With the finca number you can request, through an escribano or lawyer, information from the Registry; with the cuenta corriente catastral you can cross-check the address with the Cadastre data. For long-term rentals or commercial spaces, that check is worthwhile."
+   ]
+  },
+  {
+   "h2": "Fiscal value is not market value",
+   "paras": [
+    "The Cadastre assigns each property a fiscal value, which is the base on which the property tax is calculated (generally 1% of that value, plus additional amounts depending on the case). This value is updated each year by decree of the Executive Branch and is usually far lower than the price at which the property sells on the market.",
+    "Therefore, looking at the fiscal value does not tell you whether a price is high or low. For that you must compare with similar properties in the same area. What the fiscal value does tell you is, roughly, how much you will pay in property tax per year."
+   ]
+  },
+  {
+   "h2": "What’s new: the unified registry and cadastre system",
+   "paras": [
+    "Law No. 7424/2025 created the National Unified Registry and Cadastre System and the National Unified Registry (RUN), with the idea that the information from the Registry and the Cadastre will no longer live in separate offices. In practice, this aims for the property numbers and ownership data to be consulted in an integrated way.",
+    "The Judiciary reported the launch of a digital Certificado Catastro Registral Inmobiliario, which gathers in a single document data that previously had to be requested separately. Implementation is gradual: not all procedures or all properties move to the new system at the same time, and those who request it are usually escribanos and lawyers. Before starting a procedure, ask your escribano which certificate applies to your case."
+   ]
+  },
+  {
+   "h2": "What to do if the numbers don’t match",
+   "paras": [
+    "Sometimes the notice shows one area, the title another, and the Cadastre a third. Or the cuenta corriente catastral corresponds to a larger lot that was later subdivided. These are common situations in fast-growing areas and don’t always hide a problem, but they do require an escribano or a surveyor to review before signing."
+   ],
+   "steps": [
+    "Ask the seller for a copy of the title, the latest property tax receipt, and, if available, the survey plan.",
+    "Compare area, location and lot number among the three documents.",
+    "If something doesn’t add up, ask your escribano for an updated cadastral certificate and a Registry report.",
+    "Do not pay a deposit until the discrepancy is explained in writing."
+   ]
+  },
+  {
+   "h2": "Before you get to the paperwork",
+   "paras": [
+    "At Casa-Libre you can compare properties on the map by zone and price and message the owner or the real-estate agency directly via WhatsApp to request these data before visiting. It also works from the Casa-Libre app for iPhone and Android, where you can save the properties you want to review with your escribano."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is the cadastral current account the same as the parcel number?",
+   "a": "No. The cadastral current account is assigned by the Catastro to identify the urban property and its fiscal value; the parcel or matrícula is the property number in the Dirección General de los Registros Públicos, where the owner and any liens are recorded."
+  },
+  {
+   "q": "What is the registry of a property?",
+   "a": "It is the rural equivalent of the cadastral current account: the number with which the Catastro identifies a rural property and on which the property tax is assessed."
+  },
+  {
+   "q": "Where can I see the cadastral current account of my house?",
+   "a": "On the property tax bill, on the title deed and on any cadastral certificate of the property."
+  },
+  {
+   "q": "Can I use the cadastral current account to know who the owner is?",
+   "a": "Not directly. Ownership is recorded in the Registros Públicos, with the parcel or matrícula number. The safest way is to request a report through an escribano (notary)."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Land for sale",
+  "Guide: costs and taxes when buying"
+ ]
+}

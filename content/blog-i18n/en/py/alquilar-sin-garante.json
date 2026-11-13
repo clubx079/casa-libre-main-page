@@ -1,0 +1,143 @@
+{
+ "_src": "4b7ae5c3d8f3",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to rent without a guarantor in Paraguay: real options",
+  "h1": "Rent without a guarantor in Paraguay: what options you have and how to propose them",
+  "description": "Don't have a guarantor to rent? Rental insurance or bond, larger deposit, months paid in advance, or co-debtor: how to propose it to the owner and what to check when signing.",
+  "answer": "You can rent without a guarantor in Paraguay, as long as the owner accepts another form of guarantee. The most used alternatives are a rental insurance or bond purchased from an insurer, a deposit higher than usual, advance payment of several months, a co-debtor with proven income, or a guarantee letter from your employer. None of these is mandatory for the landlord: the key is to offer it in writing from the first message, with concrete numbers."
+ },
+ "sections": [
+  {
+   "h2": "Why the owner asks for a guarantor (and what they are really looking for)",
+   "paras": [
+    "The guarantor is a person who signs the contract with you and commits to pay if you don’t pay or if you cause damage. For the landlord it is an informal insurance: if something goes wrong, they have someone to claim against besides the tenant.",
+    "Understanding that helps you negotiate. The owner doesn’t want a guarantor out of whim: they want the peace of mind that the rent will be collected and the property will be returned in good condition. If you can give that peace of mind another way, they often accept. What they almost never accept is having no guarantee at all.",
+    "Think of it from their side: one month of non-payment, an unannounced move-out or a major repair can cost them more than several months of rent. The more your proposal covers those risks, the easier it is for them to say yes."
+   ]
+  },
+  {
+   "h2": "The alternatives to a guarantor, one by one",
+   "paras": [
+    "Not all work for every case. This table summarizes what each offers and what it costs each party:"
+   ],
+   "table": {
+    "head": [
+     "Alternative",
+     "What it covers",
+     "Cost to you",
+     "When it usually works"
+    ],
+    "rows": [
+     [
+      "Rental insurance or bond",
+      "Unpaid rent and, depending on the policy, damages",
+      "A premium (single payment or in installments) that is not refundable",
+      "Landlords and agencies accustomed to working with insurers"
+     ],
+     [
+      "Higher deposit",
+      "Damages and any unpaid month, up to the deposited amount",
+      "Locked-in money that is returned at the end if everything is fine",
+      "Private owners who prefer cash to paperwork"
+     ],
+     [
+      "Advance months",
+      "Months already paid",
+      "A lot of cash up front",
+      "Short contracts or when you are new and have no history"
+     ],
+     [
+      "Co-debtor with income",
+      "Everything a guarantor would cover",
+      "No cash, but you commit another person",
+      "When the owner accepts a guarantor with salary and does not require property"
+     ],
+     [
+      "Guarantee letter from your company",
+      "What the letter expressly states",
+      "No cash",
+      "Work relocations and large companies"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Rental insurance or bond: how it works in general",
+   "paras": [
+    "Some insurers operating in Paraguay offer products to guarantee rental contracts. The typical scheme is: you request coverage, the insurer analyzes your income and background, and if approved issues a policy or bond in favor of the owner. If you stop paying, the owner claims from the insurer, and the insurer then claims from you.",
+    "Important detail: the insurance does not free you from the debt. It spares you from asking a family member to risk their home, but if you don’t pay, the debt remains yours. That’s why you should read the policy carefully."
+   ],
+   "bullets": [
+    "Ask exactly what is covered: only rent, or also expenses, unpaid utilities and damages.",
+    "Ask how many months are covered and from when the owner can claim.",
+    "Confirm whether the premium is paid once or annually, and if any amount is returned if you leave early.",
+    "Before paying, ask the owner or agency if they accept that particular insurer. Some have preferences."
+   ]
+  },
+  {
+   "h2": "Higher deposit or advance months: what you need to know",
+   "paras": [
+    "If you have savings, offering a larger deposit or paying several months in advance is the most direct way to compensate for the lack of a guarantor. For many private owners, cash is worth more than any paper.",
+    "The downside is the risk for you: you are handing over money before living in the property. Protect yourself with three things. First, the contract must state exactly how much you gave, in which currency and for what concept (deposit or advance rent are not the same). Second, a signed receipt for each payment, or better, a bank transfer to the owner’s name. Third, the contract must specify how and when the deposit is returned.",
+    "Never advance money for a property you haven’t visited, nor to someone who cannot prove they own it or are authorized to rent it. This is the most common rental scam."
+   ]
+  },
+  {
+   "h2": "Co-debtor or letter from your employer",
+   "paras": [
+    "Sometimes the issue isn’t that you have no one, but that no one in your circle has property in their name. In that case ask if they accept a co-debtor with verifiable income (pay slips or invoices). Many owners do, especially for apartments.",
+    "If you are moving for work, ask your company for a letter stating your position, seniority and salary, or even that the company guarantees the contract. Companies that relocate staff usually have experience with this."
+   ]
+  },
+  {
+   "h2": "How to propose it to the owner without being dismissed",
+   "paras": [
+    "The worst way to bring it up is writing \"I don’t have a guarantor, can I still rent?\". The most likely answer is no. It works better to present yourself with a resolved situation and a concrete proposal. For example:",
+    "\"Hi, I’m interested in the apartment. We are two people, no pets, I have been employed for four years. I don’t have a property-owner guarantor, but I can offer rental insurance or, if you prefer, three months’ deposit. I can send my pay slips today. When can we schedule a visit?\"",
+    "That message answers the questions the owner would ask, gives options and shows you are serious. If you have references from a previous rental (a landlord who can confirm you paid on time), mention them."
+   ],
+   "tip": "Prepare your folder before writing: ID, pay slips or invoices, bank statement and, if you have it, contact of your previous landlord. Responding within minutes with everything ready is worth as much as a guarantor."
+  },
+  {
+   "h2": "What to check in the paperwork when you sign without a guarantor",
+   "bullets": [
+    "That the contract names the alternative guarantee with all its details: policy number, deposit amount or advance months.",
+    "That it is clear the deposit is returned once the contract is fulfilled, and the timeframe for the return.",
+    "That the advance months appear as payments already applied to specific months (for example, \"the months of March, April and May are considered paid\").",
+    "That you are not asked to sign insurance, guarantor and triple deposit at once: one reasonable guarantee is enough.",
+    "That the contract is signed by the owner or by someone with written authorization to rent."
+   ]
+  },
+  {
+   "h2": "Where to find more flexible owners",
+   "paras": [
+    "Private owners tend to be more flexible than agencies regarding guarantees, because they decide on their own. On Casa-Libre you can view on the map properties from owners and agencies, and message directly via WhatsApp to ask what guarantee they accept before visiting. The search is free, on the website and in the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it legal to rent without a guarantor in Paraguay?",
+   "a": "Yes. The guarantor is not a legal requirement but a condition set by the owner. If both parties agree on another guarantee, or none at all, the contract is equally valid."
+  },
+  {
+   "q": "Does rental insurance replace the guarantor?",
+   "a": "For many owners it does, but only if they accept it. Before purchasing it, ask whether they accept that insurer and what coverage they require."
+  },
+  {
+   "q": "How many months of deposit is reasonable to offer?",
+   "a": "There is no number fixed by law. The usual practice is one month; without a guarantor it is common to offer two or three, or to combine a deposit with months paid in advance. Always put it in writing in the contract."
+  },
+  {
+   "q": "Can they ask for a guarantor and a deposit at the same time?",
+   "a": "Yes, it is common for both to be requested. If you don’t have a guarantor, the reasonable approach is to negotiate a stronger alternative guarantee, not to add unlimited demands."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Apartments for rent",
+  "Requirements to rent a house"
+ ]
+}

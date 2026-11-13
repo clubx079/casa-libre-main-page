@@ -1,0 +1,143 @@
+{
+ "_src": "4b7ae5c3d8f3",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como alugar sem fiador no Paraguai: opções reais",
+  "h1": "Alugar sem fiador no Paraguai: quais opções você tem e como propô-las",
+  "description": "Não tem fiador para alugar? Seguro ou fiança de aluguel, depósito maior, meses adiantados ou codevedor: como propor ao proprietário e o que verificar ao assinar.",
+  "answer": "Sim, é possível alugar sem fiador no Paraguai, desde que o proprietário aceite outra forma de garantia. As alternativas mais usadas são um seguro ou fiança de aluguel contratado com uma seguradora, um depósito mais alto que o habitual, o pagamento adiantado de vários meses, um codevedor com rendas comprováveis ou uma carta de garantia do seu empregador. Nenhuma é obrigatória para o proprietário: a chave é oferecê-la por escrito desde a primeira mensagem, com números concretos."
+ },
+ "sections": [
+  {
+   "h2": "Por que o dono pede garantidor (e o que ele realmente busca)",
+   "paras": [
+    "O garantidor é uma pessoa que assina o contrato junto com você e se compromete a pagar se você não pagar ou se causar danos. Para o proprietário é um seguro informal: se algo der errado, ele tem alguém a quem cobrar além do inquilino.",
+    "Entender isso ajuda você a negociar. O dono não quer \"um garantidor\" por capricho: quer a tranquilidade de que o aluguel será cobrado e a propriedade retornará em bom estado. Se você puder dar essa tranquilidade de outra forma, muitas vezes aceita. O que quase nunca aceita é que não haja nenhuma garantia.",
+    "Pense do lado dele: um mês de inadimplência, uma mudança sem aviso ou um grande reparo podem custar mais que vários meses de aluguel. Quanto mais sua proposta cobrir esses riscos, mais fácil será que ele diga sim."
+   ]
+  },
+  {
+   "h2": "As alternativas ao garantidor, uma a uma",
+   "paras": [
+    "Nem todas servem para todos os casos. Esta tabela resume o que cada uma oferece e quanto custa para cada parte:"
+   ],
+   "table": {
+    "head": [
+     "Alternativa",
+     "O que cobre",
+     "Custa para você",
+     "Quando costuma funcionar"
+    ],
+    "rows": [
+     [
+      "Seguro ou fiança de aluguel",
+      "Aluguéis inadimplentes e, segundo a apólice, danos",
+      "Um prêmio (pagamento único ou em parcelas) que não é devolvido",
+      "Donos e imobiliárias acostumados a trabalhar com seguradoras"
+     ],
+     [
+      "Depósito maior",
+      "Danos e algum mês inadimplente, até o valor depositado",
+      "Dinheiro imobilizado que é devolvido ao final se tudo estiver bem",
+      "Donos particulares que preferem dinheiro a papéis"
+     ],
+     [
+      "Meses adiantados",
+      "Os meses já pagos",
+      "Muito dinheiro à vista",
+      "Contratos curtos ou quando você acabou de chegar e não tem histórico"
+     ],
+     [
+      "Codevedor com renda",
+      "Tudo que cobriria um garantidor",
+      "Nada em dinheiro, mas compromete outra pessoa",
+      "Quando o dono aceita garantidor com salário e não exige propriedade"
+     ],
+     [
+      "Carta de garantia da sua empresa",
+      "O que a carta disser expressamente",
+      "Nada em dinheiro",
+      "Transferências de trabalho e empresas grandes"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Seguro ou fiança de aluguel: como funciona em geral",
+   "paras": [
+    "Algumas seguradoras que operam no Paraguai oferecem produtos para garantir contratos de aluguel. O esquema típico é este: você pede a cobertura, a seguradora analisa sua renda e seus antecedentes, e se aprovar emite uma apólice ou uma fiança a favor do dono. Se você deixar de pagar, o dono reclama da seguradora, e a seguradora depois cobra de você.",
+    "Detalhe importante: o seguro não o libera da dívida. Ele evita que você peça a um familiar que arrisque sua casa, mas se não pagar, a dívida continua sendo sua. Por isso vale a pena ler a apólice com calma."
+   ],
+   "bullets": [
+    "Pergunte o que cobre exatamente: só aluguéis, ou também despesas, serviços inadimplentes e danos.",
+    "Pergunte por quantos meses cobre e a partir de quando o dono pode reclamar.",
+    "Confirme se o prêmio é pago uma única vez ou anualmente, e se devolve algo se você sair antes.",
+    "Antes de pagar, pergunte ao dono ou à imobiliária se aceitam aquela seguradora em particular. Alguns têm preferências."
+   ]
+  },
+  {
+   "h2": "Depósito maior ou meses adiantados: o que é preciso saber",
+   "paras": [
+    "Se você tem poupança, oferecer um depósito maior ou pagar vários meses adiantados é a forma mais direta de compensar a falta de garantidor. Para muitos donos particulares, o dinheiro vale mais que qualquer papel.",
+    "A contracara é o risco para você: está entregando dinheiro antes de morar na propriedade. Proteja-se com três coisas. Primeiro, que o contrato diga exatamente quanto você entregou, em que moeda e em que conceito (depósito ou aluguéis adiantados não são a mesma coisa). Segundo, recibo assinado por cada pagamento, ou melhor, transferência bancária em nome do proprietário. Terceiro, que o contrato diga como e quando o depósito será devolvido.",
+    "Nunca adiante dinheiro por uma propriedade que você não visitou, nem a alguém que não possa demonstrar que é o dono ou que está autorizado a alugá-la. É a forma mais comum de golpe em aluguéis."
+   ]
+  },
+  {
+   "h2": "Codevedor ou carta do seu empregador",
+   "paras": [
+    "Às vezes o problema não é que você não tenha ninguém, mas que ninguém do seu círculo tem propriedade em seu nome. Nesse caso, pergunte se aceitam um codevedor com renda comprovável (holerites ou faturamento). Muitos donos aceitam, sobretudo para apartamentos.",
+    "Se você se mudar a trabalho, peça à sua empresa uma carta que indique seu cargo, tempo de serviço e salário, ou até que a empresa garanta o contrato. As empresas que transferem pessoal costumam ter experiência com isso."
+   ]
+  },
+  {
+   "h2": "Como propor ao dono sem ser descartado",
+   "paras": [
+    "A pior forma de apresentar é escrever \"não tenho garantidor, ainda assim dá?\". A resposta mais provável é não. Funciona melhor se você se apresenta com a situação resolvida e uma proposta concreta. Por exemplo:",
+    "\"Olá, tenho interesse no apartamento. Somos duas pessoas, sem pets, trabalho com vínculo empregatício há quatro anos. Não tenho garantidor proprietário, mas posso oferecer um seguro de aluguel ou, se preferir, três meses de depósito. Posso enviar meus holerites ainda hoje. Quando podemos visitar?\"",
+    "Essa mensagem responde às perguntas que o dono faria, oferece opções e mostra que você está sério. Se tiver referências de um aluguel anterior (um dono que possa dizer que você pagava pontualmente), mencione-as."
+   ],
+   "tip": "Monte sua pasta antes de escrever: RG, holerites ou notas fiscais, extrato bancário e, se tiver, o contato do seu antigo proprietário. Responder em minutos com tudo pronto vale tanto quanto um garantidor."
+  },
+  {
+   "h2": "O que revisar nos documentos ao assinar sem garantidor",
+   "bullets": [
+    "Que o contrato nomeie a garantia alternativa com todos os seus dados: número da apólice, valor do depósito ou meses adiantados.",
+    "Que fique claro que, cumprido o contrato, o depósito será devolvido, e em que prazo.",
+    "Que os meses adiantados constem como pagamentos já imputados a meses concretos (por exemplo, \"são considerados pagos os meses de março, abril e maio\").",
+    "Que não lhe façam assinar seguro, garantidor e depósito triplo ao mesmo tempo: uma garantia razoável basta.",
+    "Que o contrato esteja assinado pelo proprietário ou por alguém com autorização escrita para alugar."
+   ]
+  },
+  {
+   "h2": "Onde buscar donos mais flexíveis",
+   "paras": [
+    "Os donos particulares costumam ser mais flexíveis que as imobiliárias quanto à garantia, porque decidem sozinhos. No Casa-Libre você pode ver no mapa propriedades de donos e de imobiliárias, e escrever direto por WhatsApp para perguntar que garantia aceitam antes de visitar. A busca é grátis, no site e no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É legal alugar sem fiador no Paraguai?",
+   "a": "Sim. O fiador não é uma exigência da lei, mas uma condição que o proprietário impõe. Se as duas partes concordam com outra garantia, ou nenhuma, o contrato tem a mesma validade."
+  },
+  {
+   "q": "O seguro de aluguel substitui o fiador?",
+   "a": "Para muitos proprietários sim, mas só se eles aceitarem. Antes de contratá-lo, pergunte se aceitam aquela seguradora e que cobertura exigem."
+  },
+  {
+   "q": "Quantos meses de depósito é razoável oferecer?",
+   "a": "Não há número fixado por lei. O habitual é um mês; sem fiador é comum oferecer dois ou três, ou combinar depósito com meses adiantados. Deixe sempre escrito no contrato."
+  },
+  {
+   "q": "Podem pedir fiador e depósito ao mesmo tempo?",
+   "a": "Sim, é frequente que peçam ambos. Se não tem fiador, o razoável é negociar uma garantia alternativa mais forte, não somar exigências sem limite."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Requisitos para alugar uma casa"
+ ]
+}

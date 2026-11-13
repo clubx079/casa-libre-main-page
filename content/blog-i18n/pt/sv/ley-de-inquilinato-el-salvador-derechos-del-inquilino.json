@@ -1,0 +1,109 @@
+{
+ "_src": "fdd4603bf284",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Lei de Inquilinato em El Salvador: direitos do inquilino",
+  "h1": "Lei de Inquilinato de El Salvador: quais direitos você tem como inquilino",
+  "description": "O que diz a Lei de Inquilinato de El Salvador para quem aluga moradia: contrato escrito, recibos, consignar o aluguel, serviços, aumentos, sublocação e causas de despejo.",
+  "answer": "A Lei de Inquilinato de El Salvador (Decreto Legislativo 2591 de 1958) se aplica ao arrendamento de casas e locais para moradia e protege o inquilino: o contrato deve constar por escrito, o arrendante deve lhe dar recibo de cada pagamento, se ele se recusar a receber o aluguel você pode depositá-lo no tribunal, não pode cortar a água ou a luz para pressioná-lo e só pode solicitar a desocupação pelas causas que a lei indica. Além disso, os direitos que a lei concede ao inquilino são irrenunciáveis."
+ },
+ "sections": [
+  {
+   "h2": "O que é a Lei de Inquilinato e a que aluguéis se aplica",
+   "paras": [
+    "O aluguel em geral está regulado pelo Código Civil, que o chama de arrendamento. A Lei de Inquilinato é uma lei especial, mais protetiva, que se aplica ao arrendamento e subarrendamento de casas e locais destinados a moradia, e também a certos locais pequenos, centros educacionais e consultórios.",
+    "É uma lei antiga, com reformas, e várias de suas disposições sobre preços referem-se a situações de décadas atrás. Mas suas regras sobre contrato, recibos, pagamentos e desocupação continuam sendo a referência para quem aluga moradia."
+   ]
+  },
+  {
+   "h2": "Seus direitos não podem ser renunciados no contrato",
+   "paras": [
+    "A lei diz que os direitos que concede aos inquilinos são irrenunciáveis. Isso significa que uma cláusula do contrato que diga, por exemplo, que você aceita sair sem processo quando o dono quiser, ou que renuncia a receber recibos, não tira esses direitos."
+   ]
+  },
+  {
+   "h2": "Contrato escrito e recibo por cada pagamento",
+   "paras": [
+    "Os contratos de inquilinato devem constar por escrito e indicar quem são as partes, qual é o imóvel, o preço e a forma de pagamento. A lei prevê multa para o locador que não o faça por escrito.",
+    "O locador também está obrigado a emitir recibo por todo pagamento. Guarde cada recibo ou, se pagar por transferência, o comprovante com uma referência clara ao mês que paga."
+   ],
+   "tip": "Se pagar por transferência, coloque no conceito \"Aluguel [mês e ano] — [endereço]\". Assim cada pagamento fica identificado embora o dono não lhe envie recibo."
+  },
+  {
+   "h2": "Se o dono não quiser receber o pagamento",
+   "paras": [
+    "Às vezes um locador se recusa a receber o aluguel para depois alegar que o inquilino está em mora. A lei prevê uma saída: você pode depositar (consignar) o aluguel no tribunal competente dentro dos oito dias seguintes à data de pagamento. Assim fica comprovado que pagou a tempo.",
+    "Segundo a mesma lei, há mora quando o inquilino não paga nem deposita o aluguel dentro dos oito dias seguintes à data fixada."
+   ]
+  },
+  {
+   "h2": "Não podem cortar os serviços para pressioná-lo",
+   "paras": [
+    "A lei proíbe o locador de suspender serviços como água ou luz para obrigar o inquilino a sair ou aceitar condições. Se isso acontecer, documente a situação com fotos, mensagens e datas, e procure assessoria jurídica."
+   ]
+  },
+  {
+   "h2": "Aumentos de preço",
+   "paras": [
+    "A Lei de Inquilinato limita os aumentos de aluguel durante o contrato a casos específicos, como melhorias importantes feitas no imóvel, e com um procedimento. Na prática, muitos aumentos são acordados na renovação do contrato. Por isso é fundamental que o contrato indique o prazo e como será fixado o preço na renovação."
+   ]
+  },
+  {
+   "h2": "Por que causas podem pedir que desocupe",
+   "paras": [
+    "O locador não pode tirá-lo quando quiser: a lei enumera causas de término e o despejo se resolve em processo judicial. Entre as causas mais comuns estão:"
+   ],
+   "bullets": [
+    "Mora no pagamento do aluguel.",
+    "Usar o imóvel para algo distinto do pactuado.",
+    "Causar danos graves ao imóvel por culpa ou malícia.",
+    "Fazer modificações sem permissão escrita do dono.",
+    "Subarrendar sem autorização escrita.",
+    "Que o proprietário precise do imóvel para habitá-lo ele mesmo, nas condições que fixa a lei.",
+    "Ruína, obras indispensáveis ou declaração de inhabitabilidade."
+   ]
+  },
+  {
+   "h2": "Se atrasou: o que convém saber",
+   "paras": [
+    "Se o demandarem por mora, a lei lhe dá um prazo curto para responder. Em uma primeira demanda por mora sobre o mesmo contrato, pode evitar o despejo pagando o que deve mais as custas. Não espere a ação: se souber que vai se atrasar, converse com o dono antes e deixe por escrito qualquer acordo de pagamento."
+   ]
+  },
+  {
+   "h2": "Suas obrigações como inquilino",
+   "paras": [
+    "A lei também exige que cumpra: pagar pontualmente, usar o imóvel para o pactuado, não fazer mudanças sem permissão escrita e cuidar da propriedade. Cumprir essas obrigações é sua melhor defesa se surgir um conflito."
+   ]
+  },
+  {
+   "h2": "Alugar com regras claras desde o início",
+   "paras": [
+    "A maioria dos conflitos é evitada com um contrato claro e um inventário assinado. No Casa-Libre você pode buscar aluguéis no mapa e perguntar por WhatsApp, antes de visitar, como é o contrato e o que inclui o preço. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "A Lei de Inquilinato continua vigente em El Salvador?",
+   "a": "Consta como vigente nas compilações de leis salvadorenhas. É uma lei de 1958 com reformas; para um caso concreto, consulte um advogado sobre como se aplica hoje."
+  },
+  {
+   "q": "Podem me despejar sem processo?",
+   "a": "Não. A lei indica causas específicas de término e o despejo é resolvido judicialmente. Cortar serviços para pressioná-lo também não é permitido."
+  },
+  {
+   "q": "O que faço se o proprietário não aceita o pagamento?",
+   "a": "Pode depositar o aluguel no tribunal dentro dos oito dias seguintes à data de pagamento. Assim demonstra que pagou pontualmente."
+  },
+  {
+   "q": "Posso sublocar um quarto?",
+   "a": "Somente com autorização escrita do arrendante. Sublocar sem permissão é causa de término do contrato."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Casas para alugar",
+  "Requisitos para alugar em El Salvador"
+ ]
+}

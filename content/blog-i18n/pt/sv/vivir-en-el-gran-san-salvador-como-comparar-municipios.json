@@ -1,0 +1,135 @@
+{
+ "_src": "691fb41b3d2a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver na Grande San Salvador: como comparar zonas",
+  "h1": "Viver na Grande San Salvador: como comparar San Salvador, Santa Tecla, Antiguo Cuscatlán e outras zonas",
+  "description": "Como comparar zonas da área metropolitana de San Salvador para viver: deslocamento, tipo de moradia, serviços, terreno e custo total. Critérios para decidir entre a capital e os municípios vizinhos.",
+  "answer": "A área metropolitana de San Salvador (AMSS) reúne a capital e zonas vizinhas como Santa Tecla, Antiguo Cuscatlán, Nuevo Cuscatlán, Soyapango, Mejicanos, Apopa ou Ilopango. Para comparar onde viver, não se guie pela fama de cada nome: compare o tempo real de deslocamento até seu trabalho, o tipo de moradia que pode pagar em cada zona, os serviços próximos, o terreno e o custo total ao mês (aluguel ou prestação, taxa de manutenção, impostos e transporte)."
+ },
+ "sections": [
+  {
+   "h2": "O que é a área metropolitana",
+   "paras": [
+    "O AMSS é uma zona urbana contínua que abrange a capital e municípios vizinhos. Tem sua própria lei de desenvolvimento e ordenamento territorial e um escritório de planejamento, a OPAMSS, que participa na regulação do uso do solo e das construções na zona.",
+    "Desde maio de 2024, com a reestruturação municipal, vários desses lugares são agora distritos dentro de municípios maiores. Os nomes de sempre continuam sendo usados para falar de cada zona."
+   ]
+  },
+  {
+   "h2": "Capital ou municípios vizinhos: a questão de fundo",
+   "paras": [
+    "Viver na capital ou próximo às suas áreas de escritórios costuma significar menos tempo de deslocamento e mais serviços à mão, em troca de preços mais altos ou espaços menores. Viver em zonas vizinhas pode dar mais metros pelo mesmo dinheiro, mas convém medir bem quanto tempo custará chegar na hora de pico.",
+    "Não há uma resposta única: depende de onde está seu trabalho, se tem filhos em idade escolar e se possui veículo."
+   ]
+  },
+  {
+   "h2": "Cinco critérios para comparar zonas",
+   "table": {
+    "head": [
+     "Critério",
+     "O que se perguntar",
+     "Como comprovar"
+    ],
+    "rows": [
+     [
+      "Deslocamento",
+      "Quanto levo ao trabalho na hora de pico?",
+      "Faça o percurso real em um dia útil"
+     ],
+     [
+      "Tipo de moradia",
+      "O que posso pagar aqui: casa, residencial ou apartamento?",
+      "Compare anúncios atuais da zona"
+     ],
+     [
+      "Serviços",
+      "Tenho escola, saúde e supermercado perto?",
+      "Mapa e percurso a pé"
+     ],
+     [
+      "Terreno",
+      "Há encostas, ravinas ou ruas que inundam?",
+      "Visite após uma chuva e converse com vizinhos"
+     ],
+     [
+      "Custo total",
+      "Quanto pagarei por mês somando tudo?",
+      "Aluguel ou parcela + manutenção + taxas + transporte"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O que costuma buscar cada tipo de lar",
+   "bullets": [
+    "Pessoa solteira ou casal que trabalha na zona de escritórios: costuma priorizar apartamentos perto do trabalho para reduzir deslocamentos.",
+    "Família com filhos: costuma priorizar casa com espaço, escola próxima e residencial com áreas comuns.",
+    "Quem trabalha de casa: pode se afastar mais do centro se a conexão de internet for boa.",
+    "Salvadorenho que retorna do exterior: costuma valorizar segurança de acesso, estacionamento e facilidade de manutenção."
+   ]
+  },
+  {
+   "h2": "O terreno da área metropolitana",
+   "paras": [
+    "O AMSS está rodeada de vulcões e morros e atravessada por ravinas. Isso significa que dentro de uma mesma zona há ruas mais expostas que outras: as que ficam junto a ravinas ou ao pé de encostas, e as ruas baixas onde a água se acumula em tempestades.",
+    "Antes de decidir, pergunte aos vizinhos como a rua se comportou nas últimas chuvas fortes e observe muros de contenção e drenagens. Em casas, peça que um engenheiro revise fissuras ou assentamentos que veja."
+   ],
+   "tip": "Duas casas na mesma colônia podem ter riscos muito diferentes. Avalie a rua e o lote concretos, não apenas o nome da zona."
+  },
+  {
+   "h2": "E fora da área metropolitana?",
+   "paras": [
+    "Santa Ana e San Miguel são as outras grandes cidades do país, com seu próprio mercado de trabalho, comércio e serviços. Se seu trabalho ou sua família estão lá, aplicam-se os mesmos critérios: deslocamento, tipo de moradia, serviços, terreno e custo total."
+   ]
+  },
+  {
+   "h2": "Como decidir em uma semana",
+   "steps": [
+    "Escolha três zonas candidatas de acordo com seu trabalho e orçamento.",
+    "Compare anúncios atuais em cada uma.",
+    "Faça o trajeto real ao seu trabalho a partir de cada zona.",
+    "Visite as ruas concretas em diferentes horários.",
+    "Calcule o custo total por mês em cada opção.",
+    "Decida com os números, não apenas com a impressão de uma visita."
+   ]
+  },
+  {
+   "h2": "Trâmites que dependem da zona",
+   "paras": [
+    "Ao escolher zona, você também escolhe alcaldía. A solvência municipal, as taxas por serviços e as permissões para ampliar ou remodelar são tramitadas na alcaldía do município ao qual pertence o distrito. Na área metropolitana, além disso, a OPAMSS intervém em certos alvarás de construção. Se pensa em ampliar a casa, pergunte antes de comprar quais permissões precisaria e quanto tempo levam.",
+    "Os serviços também mudam: em algumas zonas a água chega pela rede da ANDA todos os dias e em outras há horários ou sistemas locais. Pergunte aos vizinhos antes de decidir."
+   ]
+  },
+  {
+   "h2": "Comparar zonas no Casa-Libre",
+   "paras": [
+    "No Casa-Libre você pode ver no mapa propriedades em San Salvador, Santa Tecla, Antiguo Cuscatlán, Nuevo Cuscatlán ou Soyapango, filtrar por venda ou aluguel e escrever por WhatsApp a proprietários e agentes. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É melhor viver em San Salvador ou em Santa Tecla?",
+   "a": "Depende de onde você trabalha, do seu orçamento e do tipo de moradia que procura. Compare o deslocamento real, os serviços e o custo total ao mês em cada zona."
+  },
+  {
+   "q": "Quais municípios formam a Grande San Salvador?",
+   "a": "A capital e zonas vizinhas como Santa Tecla, Antiguo Cuscatlán, Nuevo Cuscatlán, Soyapango, Mejicanos, Apopa ou Ilopango, entre outras. Desde 2024, várias são distritos de municípios maiores."
+  },
+  {
+   "q": "O que é a OPAMSS?",
+   "a": "A Oficina de Planejamento da Área Metropolitana de San Salvador, que participa da regulação do uso do solo e das construções nessa zona."
+  },
+  {
+   "q": "Como avalio o risco de uma casa em área inclinada?",
+   "a": "Verifique muros, taludes e drenagens, pergunte aos vizinhos sobre as últimas chuvas e, se notar fissuras, solicite a opinião de um engenheiro."
+  }
+ ],
+ "related": [
+  "Propriedades em Santa Tecla",
+  "Propriedades em Antiguo Cuscatlán",
+  "Propriedades em Nuevo Cuscatlán",
+  "Propriedades em Soyapango"
+ ]
+}

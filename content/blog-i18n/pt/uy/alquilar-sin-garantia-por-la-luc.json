@@ -1,0 +1,128 @@
+{
+ "_src": "883e2874db60",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Alugar sem garantia pela LUC: como funciona e o que você assina",
+  "h1": "Alugar sem garantia pela LUC: requisitos, vantagens e riscos para o inquilino",
+  "description": "Como funciona o aluguel sem garantia da Lei 19.889 (LUC) no Uruguai: o que deve constar no contrato, quanto podem pedir adiantado, reajuste, despesas e prazos de despejo.",
+  "answer": "Alugar \"pela LUC\" significa assinar um contrato de moradia sob o regime de arrendamento sem garantia da Lei 19.889. Você não precisa de garantia, fiador nem depósito, e o proprietário não pode exigir mais de um mês de aluguel adiantado. Para que valha, o contrato tem que ser escrito, com prazo e preço, sem nenhuma garantia e com uma cláusula em que ambos declaram se sujeitar a essa lei. A contracara: se você não pagar, o despejo é muito mais rápido que em um aluguel comum."
+ },
+ "sections": [
+  {
+   "h2": "O que é o regime de arrendamento sem garantia",
+   "paras": [
+    "A Lei 19.889, conhecida como LUC (Lei de Urgente Consideração), incluiu um capítulo chamado \"Regime de arrendamento sem garantia\" (artigos 421 e seguintes). A ideia é simples: o inquilino não apresenta garantia e, em troca, o proprietário tem um processo de despejo mais curto se o inquilino deixar de pagar.",
+    "É uma opção voluntária. O dono não está obrigado a aceitá-la e você também não. Se o contrato não cumprir todos os requisitos, não se aplica a LUC, mas sim as normas comuns de arrendamento (o Decreto-Lei 14.219 ou o Código Civil, conforme o caso)."
+   ]
+  },
+  {
+   "h2": "Os cinco requisitos que o contrato deve cumprir",
+   "paras": [
+    "Segundo o artigo 421 da lei, o regime se aplica somente se todas essas condições forem atendidas simultaneamente:"
+   ],
+   "steps": [
+    "O destino do imóvel é casa-habitação (admite-se, por exemplo, exercer uma profissão na casa, com limites).",
+    "Não há garantias de nenhum tipo a favor do dono.",
+    "O contrato é feito por escrito.",
+    "O contrato indica expressamente o prazo e o preço.",
+    "As partes deixam constância expressa de que se submetem a esta lei."
+   ],
+   "tip": "Busque no contrato a cláusula que diz que as partes se submetem ao regime da Lei 19.889. Se faltar, o contrato não é \"por LUC\", ainda que ninguém tenha pedido garantia."
+  },
+  {
+   "h2": "O que pode ser pactuado livremente",
+   "paras": [
+    "O artigo 422 deixa várias coisas nas mãos das partes. Leia-as com atenção porque definem quanto você vai pagar e por quanto tempo:"
+   ],
+   "bullets": [
+    "Prazo: acordado entre as partes. Se ninguém avisar o contrário dentro dos 30 dias anteriores ao vencimento, o contrato se prorroga por prazo igual.",
+    "Preço: pode ser em pesos, em moeda estrangeira, em unidades reajustáveis (UR) ou em unidades indexadas (UI). Salvo pacto diverso, paga-se mensalmente nos primeiros dez dias do mês.",
+    "Pagamento adiantado: o dono não pode exigir mais de um mês de aluguel adiantado.",
+    "Reajuste: o que for acordado. Se o preço for em pesos e nada for pactuado, ajusta-se uma vez por ano segundo o Índice de Preços ao Consumidor (IPC).",
+    "Inspeção: pode ser pactuado que o dono inspecione o imóvel para verificar se está sendo usado conforme o contrato."
+   ]
+  },
+  {
+   "h2": "Despesas comuns, consumos e tributos",
+   "paras": [
+    "Pelo artigo 427, os consumos (luz, água, internet), as despesas comuns e os serviços acessórios correm por conta do inquilino, salvo se o contrato disser o contrário. E há um detalhe importante: se o dono teve que pagar dois ou mais meses desses gastos porque você não os pagou, essa dívida se soma ao aluguel e a falta de pagamento tem os mesmos efeitos que não pagar o aluguel.",
+    "Por isso, além do preço, pergunte quanto são as despesas comuns e o que incluem antes de assinar."
+   ]
+  },
+  {
+   "h2": "O que acontece se você atrasar: os prazos de despejo",
+   "paras": [
+    "Este é o ponto que você mais precisa entender. Se não pagar na data, o dono pode intimá-lo a pagar (por exemplo, com um telegrama colacionado). Se não pagar dentro dos três dias úteis seguintes à intimação, você entra em mora, salvo se o contrato houver pactuado mora automática.",
+    "Com o inquilino em mora, o dono pode iniciar o despejo por \"mal pagador\" e o juiz o decreta com prazo de seis dias úteis a partir da notificação da sentença. Se o contrato vencer e não for renovado, o despejo por vencimento do prazo se decreta com trinta dias. São prazos muito curtos comparados com um aluguel comum."
+   ],
+   "table": {
+    "head": [
+     "Situação",
+     "Prazo que fixa a LUC"
+    ],
+    "rows": [
+     [
+      "Pagar após a intimação",
+      "3 dias úteis para não entrar em mora"
+     ],
+     [
+      "Despejo por mal pagador",
+      "6 dias úteis a partir da notificação da sentença"
+     ],
+     [
+      "Despejo por vencimento do prazo",
+      "30 dias a partir da notificação da sentença"
+     ],
+     [
+      "Lançamento (se não entregar)",
+      "Dentro de 15 dias úteis a partir da notificação"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cláusulas que a lei não permite",
+   "paras": [
+    "O artigo 428 declara nulas, entre outras, as cláusulas nas quais você renuncia antecipadamente aos prazos de despejo e lançamento, as que aumentam o preço ou o cobram adiantado para o período posterior ao vencimento, e as multas por não entregar a tempo que superem cinco vezes o valor do aluguel. Se vir algo assim em um rascunho, peça que seja retirado."
+   ]
+  },
+  {
+   "h2": "Vale a pena alugar pela LUC?",
+   "paras": [
+    "Geralmente vale se você não tem garantia, se acabou de chegar ao país ou a uma cidade, ou se quer economizar o custo mensal de uma garantia. Também é útil para contratos curtos, por exemplo de estudantes.",
+    "Vale menos se sua renda é irregular e um atraso de poucos dias é possível: com este regime, um mês complicado pode terminar rápido em despejo. Se escolher esta via, constitua um pequeno fundo de reserva equivalente a um ou dois aluguéis."
+   ]
+  },
+  {
+   "h2": "Como encontrar donos que aceitam a LUC",
+   "paras": [
+    "Na sua primeira mensagem diga diretamente que busca alugar pela LUC sem garantia. Muitos proprietários particulares aceitam, e assim você filtra desde o início. No Casa-Libre pode ver os aluguéis do Uruguai no mapa e escrever ao anunciante por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Alugar pela LUC é o mesmo que alugar sem contrato?",
+   "a": "Não. O regime exige contrato escrito com prazo, preço e uma cláusula expressa de sujeição à Lei 19.889. Sem esses requisitos não se aplica."
+  },
+  {
+   "q": "Podem me pedir depósito se eu alugar pela LUC?",
+   "a": "Não. Uma condição do regime é que não haja garantias de nenhum tipo. O que pode ser pedido é o pagamento adiantado de um mês, no máximo."
+  },
+  {
+   "q": "O contrato pela LUC precisa ser inscrito?",
+   "a": "Não é obrigatório para que valha entre as partes, mas segundo o artigo 423 só é oponível a terceiros após sua inscrição. Se o proprietário vender, o comprador deve respeitar o contrato se estiver inscrito."
+  },
+  {
+   "q": "Como o aluguel pela LUC é reajustado?",
+   "a": "Como as partes acordarem. Se for em pesos e nada for pactuado, ajusta-se anualmente segundo o IPC."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Propriedades em Montevidéu",
+  "Requisitos para alugar no Uruguai",
+  "O que verificar no contrato de aluguel"
+ ]
+}

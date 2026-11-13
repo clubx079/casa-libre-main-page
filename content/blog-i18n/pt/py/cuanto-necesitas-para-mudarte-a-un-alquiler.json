@@ -1,0 +1,149 @@
+{
+ "_src": "84ec1c2b163d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Quanto dinheiro você precisa para mudar para um aluguel",
+  "h1": "Quanto dinheiro você precisa para mudar para um aluguel no Paraguai",
+  "description": "O orçamento real para entrar em um aluguel: mês adiantado, depósito, honorários, despesas, mudança, conexões e móveis. Checklist e exemplo de cálculo.",
+  "answer": "Para entrar em um aluguel no Paraguai convém ter disponível, no mínimo, o equivalente a dois ou três aluguéis mensais: o primeiro mês adiantado, o depósito de garantia e, se houver uma imobiliária, seu honorário. Some a isso a mudança, a conexão ou a troca de titular dos serviços e o que faltar para equipar a casa. O valor exato depende do que cada proprietário exigir, então pergunte o \"valor para entrar\" antes de visitar."
+ },
+ "sections": [
+  {
+   "h2": "Os pagamentos que pedem ao assinar",
+   "paras": [
+    "O preço que você vê no anúncio é o que vai pagar a cada mês, mas não é o que precisa no dia da assinatura. Ao entrar se juntam vários pagamentos, e cada dono ou imobiliária monta sua combinação. Estes são os mais comuns:"
+   ],
+   "bullets": [
+    "Primeiro mês adiantado: o aluguel no Paraguai costuma ser pago por mês adiantado, então o primeiro é pago ao assinar.",
+    "Depósito de garantia: um valor que fica nas mãos do dono enquanto durar o contrato e é devolvido ao final se não houver dívidas nem danos. O mais comum é um mês, mas pode ser mais se não houver fiador.",
+    "Honorário da imobiliária: se alugar através de uma, pode cobrar um honorário. Pergunte quanto é e se paga o inquilino, o dono ou ambos.",
+    "Expensas: em edifícios e condomínios há um gasto comum mensal que pode estar incluído no preço ou à parte. Se for à parte, o primeiro mês também se paga ao entrar.",
+    "Seguro ou fiança de aluguel: se usar no lugar de fiador, o prêmio costuma ser pago antes de assinar."
+   ]
+  },
+  {
+   "h2": "Os gastos que ninguém conta: mudança, serviços e equipamentos",
+   "paras": [
+    "Depois de assinado, ainda falta mudar e deixar a casa funcionando. São gastos menores, mas somados pesam:"
+   ],
+   "bullets": [
+    "Frete ou caminhão de mudança, e ajudantes se houver móveis grandes. Peça ao menos dois orçamentos e pergunte se cobram por hora ou por viagem.",
+    "Serviços: a luz (ANDE) e a água podem estar no nome do dono ou você precisa transferir para o seu. Conforme o caso, pode haver custo de trâmite ou garantia de consumo.",
+    "Internet e TV: instalação e, às vezes, o primeiro mês adiantado.",
+    "Gás: garrafa e, se a cozinha não vier, a própria cozinha.",
+    "Linha branca: muitas propriedades são alugadas sem geladeira, fogão, máquina de lavar ou ar-condicionado. Verifique o que inclui antes de assinar.",
+    "Pequenos reparos e itens da primeira semana: cortinas, lâmpadas, fechaduras novas, produtos de limpeza."
+   ]
+  },
+  {
+   "h2": "Um exemplo de cálculo (números hipotéticos)",
+   "paras": [
+    "Para que veja como se soma, tomemos um caso inventado com números redondos. Não são preços de mercado: substitua pelos da propriedade que está analisando.",
+    "Suponha um apartamento de Gs. 3.000.000 por mês, com expensas à parte de Gs. 400.000, alugado por imobiliária com um depósito de um mês."
+   ],
+   "table": {
+    "head": [
+     "Conceito",
+     "Valor do exemplo"
+    ],
+    "rows": [
+     [
+      "Primeiro mês adiantado",
+      "Gs. 3.000.000"
+     ],
+     [
+      "Depósito de garantia (1 mês)",
+      "Gs. 3.000.000"
+     ],
+     [
+      "Honorário da imobiliária (suposto: meio mês)",
+      "Gs. 1.500.000"
+     ],
+     [
+      "Primeiro mês de expensas",
+      "Gs. 400.000"
+     ],
+     [
+      "Frete de mudança (suposto)",
+      "Gs. 600.000"
+     ],
+     [
+      "Internet: instalação e primeiro mês (suposto)",
+      "Gs. 300.000"
+     ],
+     [
+      "Imprevistos da primeira semana (suposto)",
+      "Gs. 500.000"
+     ],
+     [
+      "Total do exemplo",
+      "Gs. 9.300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como ler esse exemplo",
+   "paras": [
+    "No exemplo, entrar custa um pouco mais de três aluguéis. Se no seu caso não houver imobiliária, o número baixa; se pedirem dois meses de depósito porque não tem fiador, sobe. Se ainda precisar comprar geladeira ou fogão, some isso à parte.",
+    "Uma forma prática de orçar: multiplique o aluguel por três para ter um valor inicial, e depois ajuste com o que o anunciante confirmar. E guarde uma reserva: o primeiro mês em uma casa nova sempre surge algum imprevisto.",
+    "Não esqueça que o depósito é dinheiro que volta ao final, se entregar a propriedade em bom estado. Não é gasto perdido, mas é dinheiro que não poderá usar enquanto morar lá."
+   ]
+  },
+  {
+   "h2": "Guaranis ou dólares: atenção à moeda",
+   "paras": [
+    "Alguns aluguéis são publicados em guaranis e outros em dólares, sobretudo apartamentos em edifícios novos e casas grandes. Se seu salário é em guaranis e o aluguel em dólares, o custo mensal varia com a taxa de câmbio. Ao calcular a entrada, use a cotação do dia e deixe uma margem.",
+    "Na Casa-Libre os preços são mostrados com uma conversão referencial ao câmbio do dia, para que possa comparar anúncios em diferentes moedas."
+   ]
+  },
+  {
+   "h2": "Checklist para perguntar antes de visitar",
+   "paras": [
+    "Envie estas perguntas por WhatsApp antes de ir. Elas evitam visitas a propriedades que não cabem no seu orçamento:"
+   ],
+   "steps": [
+    "Quanto há que pagar no total ao assinar, e em que moeda?",
+    "O depósito é de quantos meses? Como e quando é devolvido?",
+    "Há honorário de imobiliária? Quem paga?",
+    "As expensas estão incluídas? Quanto são?",
+    "Quais eletrodomésticos e móveis ficam na propriedade?",
+    "Os serviços estão em dia e em nome de quem?"
+   ]
+  },
+  {
+   "h2": "Como reduzir o custo de entrada",
+   "bullets": [
+    "Procure também propriedades de donos diretos: pode não haver honorário de imobiliária.",
+    "Negocie: às vezes o dono aceita dividir o depósito em dois ou três pagamentos.",
+    "Mude no meio do mês só se concordar pagar o primeiro mês proporcional; caso contrário, aproveite o mês completo.",
+    "Peça que deixem os eletrodomésticos que o dono não usa, ou negocie um preço por eles.",
+    "Compare no mapa: na Casa-Libre você vê aluguéis de donos e imobiliárias juntos, e escreve a cada um por WhatsApp. Também pelo app da Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quantos meses eu preciso pagar para entrar em um aluguel?",
+   "a": "Normalmente o primeiro mês adiantado mais um mês de depósito. Se houver uma imobiliária pode haver um honorário, e se você não tiver fiador podem pedir um depósito maior."
+  },
+  {
+   "q": "O depósito de garantia é devolvido?",
+   "a": "Sim, ao terminar o contrato, se não houver aluguéis, despesas ou serviços em atraso e a propriedade for entregue em bom estado, salvo o desgaste normal pelo uso."
+  },
+  {
+   "q": "Quem paga o honorário da imobiliária em um aluguel?",
+   "a": "Depende de cada imobiliária e do acordo com o proprietário. Pergunte antes de visitar para não ter surpresas ao assinar."
+  },
+  {
+   "q": "Compensa alugar mobiliado para gastar menos ao entrar?",
+   "a": "Pode ser vantajoso se você não tem móveis nem eletrodomésticos, pois evita essa compra. Compare o aluguel mensal, que costuma ser mais alto, com o que custaria equipar a casa."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Casas para alugar",
+  "Como alugar sem fiador"
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "_src": "ec6546e563a4",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Grand Mission Housing Venezuela: how it works",
+  "h1": "Grand Mission Housing Venezuela: what it is, how to register, and what to know before buying one of its homes",
+  "description": "What the Grand Mission Housing Venezuela (GMVV) is, how the registry works, what to expect from the allocation and what to check if you are offered to buy or rent a mission home.",
+  "answer": "The Grand Mission Housing Venezuela (GMVV) is the State program, launched in 2011, that builds and allocates homes to registered families. Registration is done through the official channels indicated by the government, which in recent years have included the platform linked to the Carnet de la Patria. Mission homes have a special ownership and transfer regime, so if someone offers to sell or rent you one, first verify with a lawyer whether that transaction is allowed."
+ },
+ "sections": [
+  {
+   "h2": "What the Grand Mission Housing Venezuela Is",
+   "paras": [
+    "The GMVV is a public housing program launched in 2011. The State, through the Ministry of Popular Power for Habitat and Housing and other entities, builds urban developments and homes and allocates them to families who register and meet priority criteria.",
+    "It is not a traditional bank loan nor an open market: the home is assigned, not bought through a real-estate agency. Therefore the rules for obtaining it, paying for it, and eventually transferring it are different from those of a regular sale."
+   ]
+  },
+  {
+   "h2": "How Registration Works",
+   "paras": [
+    "Registration is done through the official channels announced by the government. In recent years registration has been promoted through the platform linked to the Carnet de la Patria, as well as in-person sessions in some communities. Channels and requirements change, so confirm them on the ministry’s official sources before starting."
+   ],
+   "steps": [
+    "Confirm on the ministry’s official channels which registration method is currently in force.",
+    "Have the identity card of every member of the family group ready.",
+    "Accurately complete the information on income, current housing situation, and family composition.",
+    "Save the receipt or registration number.",
+    "Keep your contact information up to date in case you are called."
+   ],
+   "tip": "No one should charge you to register. If someone asks for money to \"get you on the list\" or \"speed up your allocation\", it is a scam."
+  },
+  {
+   "h2": "Who Has Priority",
+   "paras": [
+    "Public housing programs prioritize families without their own home, those in risk situations, disaster-affected families, or low-income households, among other criteria. There are also lines or announcements aimed at specific groups, such as female heads of household or young people. There is no guaranteed timeframe between registration and allocation."
+   ]
+  },
+  {
+   "h2": "The Special Regime for Mission Housing",
+   "paras": [
+    "GMVV homes have their own rules regarding ownership, use, and transfer. Among other things, their condominium regime is not the one established by the ordinary Horizontal Property Law, but a special regime for these developments, and there are restrictions on selling or renting them on the open market.",
+    "In practice, offers for \"sale of rights\" or rentals of mission apartments circulate. Before paying for anything like that, consult a lawyer to see if the transaction is valid: you could pay for something that cannot be transferred legally and end up without a home and without money."
+   ],
+   "bullets": [
+    "Ask to see the allocation document or title and who is listed as the beneficiary.",
+    "Inquire whether there is authorization from the competent authority for the transfer.",
+    "Be wary of cash payments without a registered document."
+   ]
+  },
+  {
+   "h2": "If You Don’t Want to Wait: Market Alternatives",
+   "table": {
+    "head": [
+     "Path",
+     "Advantage",
+     "What to Consider"
+    ],
+    "rows": [
+     [
+      "GMVV",
+      "Much lower cost than the market",
+      "Uncertain timelines and special ownership regime"
+     ],
+     [
+      "FAOV-funded loan",
+      "Long-term financing",
+      "Up-to-date contributions and limited amounts"
+     ],
+     [
+      "Bank loan",
+      "Purchases on the open market",
+      "High down payment and variable offers"
+     ],
+     [
+      "Cash purchase or rent",
+      "Speed and freedom to choose location",
+      "Requires savings or sufficient income"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "If You Have Already Been Allocated a Home",
+   "paras": [
+    "Receiving a mission home brings obligations. Keep the allocation document and any other paperwork you receive in a safe place, and find out the status of the title: whether you have already received a property title or if it is still being processed.",
+    "Also learn about the organization of the development: how the special condominium works, who manages it, how contributions are made, and how decisions are taken. Getting involved from the start helps keep the building in good condition."
+   ],
+   "bullets": [
+    "Preserve the allocation document and payment receipts, if you are paying installments.",
+    "Ask about the status of the property title and how it is being processed.",
+    "Before renting or transferring the home to another person, confirm whether it is allowed.",
+    "Keep your data updated with the entity that allocated the home to you."
+   ]
+  },
+  {
+   "h2": "Compare with the Market",
+   "paras": [
+    "While you wait, it’s useful to know what’s available in your city’s market. On Casa-Libre you can view houses and apartments for sale and rent on a map, with photos and direct contact via WhatsApp. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I register for the Grand Mission Housing?",
+   "a": "Through the official channels announced by the Ministry of Habitat and Housing; in recent years the platform linked to the Carnet de la Patria has been used. Confirm the current channel before registering."
+  },
+  {
+   "q": "How long does the allocation take?",
+   "a": "There is no guaranteed timeframe. It depends on housing availability and priority criteria."
+  },
+  {
+   "q": "Can I buy a Mission Housing apartment from someone?",
+   "a": "These homes have a special regime with transfer restrictions. Before paying, consult a lawyer to see if the transaction is valid."
+  },
+  {
+   "q": "Can they charge me for registration?",
+   "a": "No. If someone asks you for money to register or expedite your allocation, it is a scam."
+  },
+  {
+   "q": "Can I register if I already own a home?",
+   "a": "Public programs prioritize families without their own home. Check the current criteria on the official channels before registering."
+  },
+  {
+   "q": "What should I do if I was allocated a home and I don’t have a title?",
+   "a": "Ask the entity that allocated it what the title status is and how it is processed, and keep all the documents they gave you."
+  }
+ ],
+ "related": [
+  "Apartments for sale",
+  "Rentals on the map",
+  "FAOV and BANAVIH: what they are"
+ ]
+}

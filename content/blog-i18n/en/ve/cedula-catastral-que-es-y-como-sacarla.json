@@ -1,0 +1,140 @@
+{
+ "_src": "e873fe48fc65",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Cadastral Certificate in Venezuela: What It Is and How to Get It",
+  "h1": "Cadastral Certificate in Venezuela: What It Is, What It Is Used For, and How to Process It at Your Municipality",
+  "description": "What the cadastral certificate (or cadastral record) of a property in Venezuela is, why it is required when buying or selling, how to process it at the municipal cadastral office, and what documents to bring.",
+  "answer": "The cadastral certificate is the document issued by the municipality’s cadastral office to identify a property within the municipality: it assigns a code, records its location, area, construction and use, and serves as the basis for the urban property tax. It is required to register a sale, to obtain municipal solvency, and for many permits. It is processed at the cadastral office of the municipality where the property is located, with the ownership document and the owner’s ID."
+ },
+ "sections": [
+  {
+   "h2": "What is the cadastral certificate",
+   "paras": [
+    "The cadastre is the inventory of the properties in a municipality. Each alcaldía has its cadastre office that records the physical data of each property (location, boundaries, land and building area, use) and assigns it a cadastral code. The cadastral certificate is the document that certifies that registration.",
+    "In some municipalities they refer to a \"cadastral file\" or \"registration certificate\"; the names vary, but the idea is the same: the property is identified in the municipal cadastre."
+   ]
+  },
+  {
+   "h2": "What it is used for",
+   "table": {
+    "head": [
+     "Procedure",
+     "Why they ask for it"
+    ],
+    "rows": [
+     [
+      "Registration of a sale",
+      "The registry needs to identify the property and its cadastral situation"
+     ],
+     [
+      "Municipal solvency",
+      "The urban property tax is calculated with the cadastral data"
+     ],
+     [
+      "Mortgage loan",
+      "The bank includes it in the property appraisal"
+     ],
+     [
+      "Construction or remodeling permits",
+      "The alcaldía uses the cadastral data"
+     ],
+     [
+      "Inheritance declaration",
+      "To identify and value the decedent's properties"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Documents usually requested",
+   "paras": [
+    "Each alcaldía has its own list. Before you go, check the municipality’s portal or call the cadastre office."
+   ],
+   "bullets": [
+    "Copy of the registered ownership document.",
+    "Copy of the owner’s identity card and RIF.",
+    "Survey plan or topographic survey, especially for houses and land.",
+    "Proof of payment of the urban property tax, in some municipalities.",
+    "If another person handles the process, authorization or power of attorney from the owner.",
+    "Payment of the corresponding fee, according to the ordinance."
+   ]
+  },
+  {
+   "h2": "How to process it, step by step",
+   "steps": [
+    "Confirm which municipality the property belongs to. In large cities, the same area can fall under different municipalities.",
+    "Check on the alcaldía’s portal whether the procedure starts online or in person.",
+    "Gather the documents and pay the fee.",
+    "If applicable, receive the inspection by the cadastre official, who verifies measurements and construction.",
+    "Pick up the cadastral certificate and check that the data match the ownership document."
+   ],
+   "tip": "If you have remodeled or expanded, the actual construction may not match what is recorded in the cadastre. It is better to update it before selling than discover the discrepancy on the day of registration."
+  },
+  {
+   "h2": "What to check as a buyer",
+   "paras": [
+    "Ask the seller for the cadastral certificate and compare it with the ownership document and what you see during the visit. If the document says 80 m² and the cadastre shows 120 m² built, or vice versa, there is a difference that must be clarified before signing.",
+    "Also verify that the cadastral certificate is in the seller’s name. If another owner appears, it could be just outdated information, but it might also indicate a problem in the chain of ownership."
+   ]
+  },
+  {
+   "h2": "An example with several municipalities",
+   "paras": [
+    "In the Caracas metropolitan area, each alcaldía maintains its own cadastre: Libertador, Chacao, Baruta, Sucre and El Hatillo have different offices and systems. That is why searches for \"cadastral certificate\" usually include the municipality name. The same applies to Valencia, Maracay, Maracaibo or Barcelona."
+   ]
+  },
+  {
+   "h2": "When to update the cadastral certificate",
+   "paras": [
+    "The cadastral certificate is not a paper you obtain once and forget about. There are situations where it makes sense or is necessary to update it, because if the cadastral data do not match reality, subsequent procedures get stuck."
+   ],
+   "bullets": [
+    "When ownership changes by purchase, inheritance or donation: the new holder must be registered.",
+    "When the building is expanded or modified: more built meters change the cadastral value.",
+    "When a land parcel is divided or two lots are merged.",
+    "When the property changes use, for example from residential to commercial.",
+    "When the certificate has a limited validity according to the municipality’s ordinance and is needed for a procedure."
+   ],
+   "tip": "If you are going to sell, request the cadastral certificate early. In some municipalities the process can take weeks, and the buyer or the bank will ask for it before signing."
+  },
+  {
+   "h2": "When viewing properties",
+   "paras": [
+    "When a property on Casa-Libre interests you, ask the seller via WhatsApp if they have an updated cadastral certificate. It’s a quick sign that the paperwork is in order. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Where do you obtain the cadastral certificate?",
+   "a": "At the cadastral office or department of the municipality where the property is located."
+  },
+  {
+   "q": "Is the cadastral certificate the same as the ownership document?",
+   "a": "No. The ownership document proves who the owner is and is in the Real Estate Registry. The cadastral certificate identifies the property in the municipal cadastral system."
+  },
+  {
+   "q": "How much does the cadastral certificate cost?",
+   "a": "It depends on the ordinance of each municipality. Check the current fee at your municipality."
+  },
+  {
+   "q": "Is it needed for selling?",
+   "a": "Yes, it is usually required to register the sale and to obtain municipal solvency."
+  },
+  {
+   "q": "What if the cadastral measurements do not match the ownership document?",
+   "a": "You must clarify this before selling or buying. Usually an inspection or a survey is requested and the cadastral record is updated, or the appropriate correction is made with the help of a lawyer."
+  },
+  {
+   "q": "Can someone else process it for me?",
+   "a": "Yes, generally with an authorization or power of attorney from the owner, plus copies of their ID and the ownership document. Confirm with your municipality which format they accept."
+  }
+ ],
+ "related": [
+  "Properties in Caracas",
+  "Houses for Sale",
+  "Frontage Right: What It Is"
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "_src": "9573b7a69cf7",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar um apartamento na planta no Paraguai: riscos e pontos chave",
+  "h1": "Comprar um apartamento na planta: o que é, quais riscos tem e o que verificar",
+  "description": "O que significa comprar na planta, por que pode sair mais barato, quais riscos você assume e o que verificar da incorporadora e do contrato antes de assinar no Paraguai.",
+  "answer": "Comprar \"na planta\" é adquirir um apartamento antes que o edifício seja construído, pagando um anticipo e parcelas durante a obra. Geralmente permite um preço menor e pagamentos em prazos, mas você assume o risco de atrasos, mudanças no projeto ou, no pior caso, de a obra não ser concluída. Antes de assinar, verifique a trajetória da incorporadora, se o terreno está em seu nome, a aprovação municipal do projeto e um contrato que fixe prazo de entrega, especificações e o que acontece se não for cumprido."
+ },
+ "sections": [
+  {
+   "h2": "O que significa comprar na planta",
+   "paras": [
+    "O nome vem do poço que se cava para as fundações: você compra quando o edifício é apenas um projeto ou está nas primeiras etapas. A incorporadora vende unidades antecipadamente para financiar parte da obra, e em troca oferece um preço de lançamento e um plano de pagamentos que se estende durante a construção.",
+    "A escritura (escritura pública) em seu nome normalmente não é assinada no início, mas quando o edifício está concluído e se constitui o regime de propriedade horizontal. Enquanto isso, o que você tem é um contrato (às vezes chamado de boleto ou compromisso de compra e venda) que lhe dá direito a receber a unidade."
+   ]
+  },
+  {
+   "h2": "Vantagens e riscos, sem rodeios",
+   "paras": [
+    "A principal vantagem é financeira: preço de lançamento, possibilidade de escolher andar e orientação, e parcelas que são pagas enquanto a obra avança sem precisar de crédito bancário desde o primeiro dia. O risco é que você está pagando algo que ainda não existe."
+   ],
+   "table": {
+    "head": [
+     "A favor",
+     "Contra"
+    ],
+    "rows": [
+     [
+      "Preço de lançamento, geralmente menor que o do apartamento pronto",
+      "Atrasos na entrega, às vezes de meses"
+     ],
+     [
+      "Pagamentos em parcelas durante a obra",
+      "Mudanças de materiais ou de design em relação ao prometido"
+     ],
+     [
+      "Você escolhe unidade, andar e orientação",
+      "Se a incorporadora tem problemas, recuperar o que foi pago pode ser demorado"
+     ],
+     [
+      "Unidade nova, sem reparos imediatos",
+      "Não é possível ver ou testar o que compra antes de pagar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como investigar a incorporadora",
+   "paras": [
+    "O que mais pesa em uma compra na planta é quem constrói. Antes de olhar renders e amenidades, investigue a empresa:"
+   ],
+   "bullets": [
+    "Peça a lista de edifícios que já entregou e vá ver algum. Converse com quem mora lá sobre prazos e acabamentos.",
+    "Peça a razão social e o RUC da empresa que assina o contrato (não apenas a marca comercial).",
+    "Consulte com seu escribano (tabelião) um relatório de condição de domínio do terreno: se está em nome da incorporadora ou de um fideicomisso, e se tem hipotecas.",
+    "Pergunte se o projeto tem os projetos aprovados pela prefeitura e a licença de construção vigente.",
+    "Pergunte como a obra é financiada: com capital próprio, crédito bancário ou um fideicomisso, e quem administra o dinheiro dos compradores."
+   ],
+   "tip": "Que o dinheiro dos compradores entre em um fideicomisso administrado por entidade autorizada não elimina o risco, mas adiciona um controle externo sobre como é usado. Pergunte sempre."
+  },
+  {
+   "h2": "As cláusulas do contrato que você precisa entender",
+   "paras": [
+    "O contrato é sua única proteção enquanto o edifício não existe. Faça-o revisar por um escribano ou advogado de sua confiança antes de assinar, não pelo da incorporadora. Preste atenção especialmente em:"
+   ],
+   "bullets": [
+    "Prazo de entrega com data concreta e quanto de tolerância a empresa tem.",
+    "Penalidades se houver atraso: pagam algo por mês de demora? Você pode rescindir e recuperar o que pagou?",
+    "Especificações: área da unidade (própria e comum), materiais, aberturas, artefatos e se inclui garagem ou depósito.",
+    "Preço e ajustes: se o saldo está fixo ou ajustado por algum índice, e em que moeda.",
+    "O que acontece se você deixar de pagar: multas, perda do que foi pago ou possibilidade de ceder o contrato.",
+    "Cessão: se pode vender seu contrato a outra pessoa antes da entrega e com que custo.",
+    "Quando e como se assina a escritura, e quem paga as despesas."
+   ]
+  },
+  {
+   "h2": "O plano de pagamentos e a moeda",
+   "paras": [
+    "Um esquema habitual combina um anticipo ao assinar, parcelas mensais durante a obra e um saldo no momento da entrega. Esse saldo final costuma ser a parte maior, e muitos compradores o cobrem com um crédito hipotecário. Antes de assinar, consulte um banco se você poderia se qualificar para esse crédito quando chegar a hora, porque se não conseguir, precisará ter o dinheiro.",
+    "No Paraguai muitos projetos são vendidos em dólares. Se você recebe em guaranis, cada parcela depende da taxa de câmbio do mês: faça suas contas com um dólar mais caro que o de hoje para ver se continua confortável. Se o contrato prevê um ajuste do saldo, peça que a fórmula esteja escrita com clareza."
+   ]
+  },
+  {
+   "h2": "Durante a obra: acompanhamento",
+   "paras": [
+    "Guarde todos os recibos e comunicações por escrito. Visite a obra de tempos em tempos ou peça relatórios de progresso com fotos. Se notar que a obra para por semanas, pergunte imediatamente e por escrito: quanto antes detectar um problema, mais opções você tem.",
+    "Se quiser fazer mudanças na sua unidade (paredes, acabamentos), concorde por escrito com preço e seu efeito sobre o prazo."
+   ]
+  },
+  {
+   "h2": "O que você recebe na entrega",
+   "paras": [
+    "Ao terminar, a incorporadora convoca você para receber a unidade. Antes de assinar a ata de entrega, percorra-a com calma: teste torneiras, ralos, interruptores, aberturas, e anote cada detalhe pendente na ata. O que não ficar escrito depois é difícil de reclamar."
+   ],
+   "bullets": [
+    "Ata de entrega com lista de observações.",
+    "Chaves, controles e manuais de equipamentos.",
+    "Regulamento de copropiedade e dados da administração do edifício (expensas).",
+    "Data prevista para a escritura e a inscrição em seu nome."
+   ]
+  },
+  {
+   "h2": "Compare com apartamentos prontos",
+   "paras": [
+    "Antes de decidir, compare o preço na planta com apartamentos novos ou usados na mesma região: às vezes a diferença não compensa o risco e a espera. No Casa-Libre você pode ver apartamentos à venda no mapa e escrever direto ao vendedor por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que significa apartamento na planta?",
+   "a": "É um apartamento que se compra antes que o edifício seja construído. Você paga um anticipo e parcelas durante a obra, e recebe a unidade quando termina."
+  },
+  {
+   "q": "É seguro comprar na planta?",
+   "a": "Tem riscos próprios: atrasos, mudanças no projeto ou problemas financeiros da incorporadora. Eles são reduzidos investigando a empresa, verificando o terreno e as licenças, e assinando um contrato revisado pelo seu próprio escribano (tabelião) ou advogado."
+  },
+  {
+   "q": "Quando se assina a escritura (escritura pública) de um apartamento na planta?",
+   "a": "Normalmente ao terminar o edifício, quando se constitui a propriedade horizontal. Até esse momento seu direito está no contrato de compra e venda."
+  },
+  {
+   "q": "Posso usar um crédito hipotecário para comprar na planta?",
+   "a": "Muitos compradores financiam o saldo final com um crédito no momento da entrega. Consulte antes uma instituição financeira se você poderia se qualificar e em quais condições."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Propriedades em Assunção",
+  "Guia: como comprar sua primeira casa"
+ ]
+}

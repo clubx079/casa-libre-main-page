@@ -1,0 +1,122 @@
+{
+ "_src": "ab27ff0e12f3",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Security deposit at the BHU: how it works and how to get it back",
+  "h1": "Rental security deposit at the BHU: how much it is, where to place it and how you recover it",
+  "description": "How the rental security deposit works in Uruguay: ceiling of five months, deposit at the Banco Hipotecario, what the landlord can deduct and how you get it back when you leave.",
+  "answer": "In Uruguay you can guarantee a lease with a cash deposit instead of a CGN, ANDA or insurance guarantee. For housing, Decree-Law 14.219 sets a maximum of five months of rent and orders that the deposit be made at the Banco Hipotecario del Uruguay (BHU) within fifteen days of signing the contract. At the end of the lease, if you return the house without debts or damages, the deposit is released. To recover it without disputes, the most important thing is an inventory with photos at move-in and move-out, and having the rent and utility receipts up to date."
+ },
+ "sections": [
+  {
+   "h2": "What the law says about the deposit",
+   "paras": [
+    "Article 38 of Decree-Law 14.219 regulates guarantees for urban leases. It establishes that the owner, his representatives or the administration cannot demand a guarantee sum greater than five months' rent if the property is for housing (ten months for other uses).",
+    "It also provides that the deposit must be made at the Banco Hipotecario del Uruguay within fifteen days of signing the contract, and that the BHU centralizes guarantee deposits for leases. The law foresees fines for non-compliance. In other words: the deposit should not end up in the owner’s or the agency’s pocket."
+   ],
+   "tip": "If they ask for the deposit in cash or by transfer to a personal account, ask how and when it will be deposited in the BHU and request the receipt."
+  },
+  {
+   "h2": "When the deposit makes sense and when it doesn’t",
+   "paras": [
+    "The deposit has no monthly cost like a state guarantee commission or an insurance premium, and it does not depend on where you work. Therefore it suits someone who has savings and cannot access other guarantees, for example a freelancer or a recent arrival to the country.",
+    "The downside is that it ties up a lot of money at the start, which you won’t be able to use until the contract ends. If that savings is your emergency cushion, a monthly-cost guarantee or a contract under the no-guarantee regime of the LUC might be more convenient."
+   ],
+   "table": {
+    "head": [
+     "Option",
+     "Money upfront",
+     "Monthly cost"
+    ],
+    "rows": [
+     [
+      "Deposit in the BHU",
+      "High (up to five months' rent)",
+      "None"
+     ],
+     [
+      "State guarantee (CGN/MVOT)",
+      "Low",
+      "3% of the rent"
+     ],
+     [
+      "Surety insurance",
+      "According to the insurer",
+      "Premium according to the insurer"
+     ],
+     [
+      "No-guarantee regime (LUC)",
+      "Up to one month in advance",
+      "None"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "When you move in: how to protect yourself from day one",
+   "paras": [
+    "Almost all deposit disputes are decided on the day you move in, not on the day you leave. Before moving:"
+   ],
+   "steps": [
+    "Make a written inventory of the condition of each room: walls, floors, openings, bathroom, kitchen, appliances and keys delivered.",
+    "Take dated photos and videos of everything, including details such as moisture stains, scratches or glass marks.",
+    "Ask both parties to sign the inventory and attach it to the contract.",
+    "Keep the BHU deposit receipt and a copy of the contract."
+   ]
+  },
+  {
+   "h2": "During the contract",
+   "paras": [
+    "Pay the rent, common expenses and utilities on time and keep the receipts. If something breaks due to normal use or wear over time (a water leak, a faulty water heater), notify the owner in writing, for example via WhatsApp or email, so there is a record. Major and structural repairs usually belong to the owner; minor daily-use fixes belong to the tenant, but the contract defines it.",
+    "If you want to make an improvement (paint a different colour, hang heavy shelves), request written authorization. Anything you do without permission can be claimed back from you when you leave."
+   ]
+  },
+  {
+   "h2": "When you leave: how to get the deposit back",
+   "steps": [
+    "Notify the owner in writing within the notice period required by the contract.",
+    "Request the latest bills from UTE, OSE, internet and common expenses, and pay everything up to the hand-over day. If applicable, cancel or transfer the service titles.",
+    "Leave the property clean and in the same condition as the inventory, except for normal wear.",
+    "Conduct the hand-over with the owner or the agency, walking through the entry inventory. Take new photos.",
+    "Both parties sign a key-hand-over document stating whether there are observations or not. This document is used to process the release of the deposit."
+   ]
+  },
+  {
+   "h2": "What the owner can deduct and what they cannot",
+   "paras": [
+    "The deposit covers debts and damages: unpaid rent, overdue utilities or common expenses and breakages that go beyond normal use. It should not cover natural wear, such as paint faded over the years, an aging carpet or appliances that broke due to age.",
+    "If the owner claims a damage, ask for a written detail and a cost estimate. Compare with the entry-inventory photos: if the damage was already present, you have proof."
+   ]
+  },
+  {
+   "h2": "Looking for a rental accepting a deposit",
+   "paras": [
+    "If you are willing to offer a deposit, state it in your first message: some owners prefer it over other guarantees. On Casa-Libre you can see rentals across Uruguay on the map and write directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much is the maximum deposit for renting a dwelling in Uruguay?",
+   "a": "Five months of rent, according to article 38 of Decree-Law 14.219. For other uses the ceiling is ten months."
+  },
+  {
+   "q": "Where is the security deposit made?",
+   "a": "The law provides that it be made at the Banco Hipotecario del Uruguay within fifteen days of signing the contract."
+  },
+  {
+   "q": "Can I use the deposit to pay the last month?",
+   "a": "That is not usual and could create a problem: the deposit guarantees debts and damages at the end. If you want to do it, agree it in writing with the landlord."
+  },
+  {
+   "q": "If I rent under the LUC do I have to leave a deposit?",
+   "a": "No. The LUC regime requires that there be no guarantees of any kind; only up to one month in advance can be requested."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Apartments for rent",
+  "Compare rental guarantees"
+ ]
+}

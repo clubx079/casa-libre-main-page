@@ -1,0 +1,113 @@
+{
+ "_src": "24126e1c84b2",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dollars or Guaraníes? Which Currency to Buy or Rent In",
+  "h1": "Dollars or Guaraníes: Which Currency Is Best for Buying or Renting a Property",
+  "description": "Why so many properties in Paraguay are listed in dollars, what risk you face if you receive payments in guaraníes, and how to choose the contract and loan currency.",
+  "answer": "In Paraguay many properties for sale are listed in dollars and many rentals are in guaraníes, but there is no fixed rule: the parties agree on the currency. The important thing is that the currency you pay with matches the currency you receive. If you earn in guaraníes and commit to paying installments or rent in dollars, when the dollar rises your payment rises even though the contract number does not change. For cash purchases it matters less; for payments over years it matters a lot."
+ },
+ "sections": [
+  {
+   "h2": "Why so many properties are listed in dollars",
+   "paras": [
+    "In the Paraguayan real-estate market it is common to see sale prices in dollars, especially for apartments, higher-value houses and land in sought-after areas. It is a market habit: sellers view the value of their property as a long-term asset and prefer a currency they perceive as a stable reference, and many developments and construction materials are priced in dollars.",
+    "Housing rentals, on the other hand, are often posted in guaraníes because they are paid with monthly incomes that most people receive in the local currency. But you will find everything: rentals in dollars (common for furnished apartments or corporate zones) and sales in guaraníes."
+   ]
+  },
+  {
+   "h2": "Exchange rate risk explained with an example",
+   "paras": [
+    "Suppose, with hypothetical numbers, that you receive payments in guaraníes and you commit to paying a rent of 500 dollars per month. If the exchange rate rises 10% during the contract, your rent in guaraníes goes up 10%, even though your salary has not changed. If it falls, you pay less. The problem is you don’t know which of the two will happen.",
+    "In a one- or two-year lease that risk is limited. In a mortgage or installments over ten, twenty or thirty years, it can completely change how much your house costs."
+   ],
+   "table": {
+    "head": [
+     "Situation",
+     "Exchange rate risk",
+     "What to look at"
+    ],
+    "rows": [
+     [
+      "Cash purchase in dollars",
+      "Low: you pay once",
+      "The day's exchange rate and the costs of converting"
+     ],
+     [
+      "Dollar rent with income in guaraníes",
+      "Medium: the contract lasts",
+      "Term, adjustments and whether you can pay in guaraníes"
+     ],
+     [
+      "Mortgage or installments in dollars with income in guaraníes",
+      "High: lasts years",
+      "Compare with the same operation in guaraníes"
+     ],
+     [
+      "Income in dollars and payments in dollars",
+      "Low",
+      "That your income remains in dollars for the entire term"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The currency in the contract",
+   "paras": [
+    "The currency is agreed upon by buyer and seller, or owner and tenant. The important thing is that the contract is clear: which currency the price is set in, which currency the payment is made in and, if payment in another currency is allowed, at what exchange rate (for example, the rate of a specific entity on the day of payment)."
+   ],
+   "bullets": [
+    "If the price is in dollars but you will pay in guaraníes, specify in the contract which quotation is used and the source of that quotation.",
+    "In rentals, check how the price is adjusted and whether the adjustment is added to the effect of the exchange rate.",
+    "In purchases with a deposit, define in which currency the deposit is and what happens if the transaction falls through.",
+    "Keep a record of each payment with the applied quotation."
+   ]
+  },
+  {
+   "h2": "Credits: dollars or guaraníes",
+   "paras": [
+    "Paraguayan financial institutions offer loans in guaraníes and, in some cases, in dollars. A dollar loan sometimes shows a lower rate, but if your income is in guaraníes, the actual payment in guaraníes depends on the exchange rate throughout the term. Public-funded housing programs, such as Che Róga Porã, publish their amounts in guaraníes.",
+    "The safest practical rule is to borrow in the same currency you receive. If you still consider a dollar loan, ask the institution for a simulation in both currencies and ask yourself if you could pay the dollar installment if the exchange rate rose significantly."
+   ],
+   "tip": "Compare loans by total cost and how much the payment could increase in the worst reasonable scenario, not by the lowest brochure rate."
+  },
+  {
+   "h2": "How to compare prices in different currencies",
+   "paras": [
+    "When one listing is in dollars and another in guaraníes, eyeballing a comparison is difficult. On Casa-Libre each property shows its price in the currency used by the advertiser and, as a reference, an approximate conversion at the day's exchange rate, so you can compare options in a single currency. That conversion is indicative: the price that matters is the one you agree on with the owner or the real-estate agency.",
+    "For actual transactions, check your bank’s or exchange house’s rate on the day of payment. The Central Bank of Paraguay publishes reference rates."
+   ]
+  },
+  {
+   "h2": "The currency is also negotiable",
+   "paras": [
+    "If the listing is in dollars and you earn in guaraníes, you can propose fixing the price in guaraníes at the day's exchange rate. Some sellers accept this, especially in cash deals or when the buyer obtains a loan in guaraníes. In rentals, requesting the contract in guaraníes is a common negotiation.",
+    "Look for options in both currencies, filter by your budget, and write directly to the advertiser via WhatsApp from Casa-Libre or from the iPhone and Android app to ask if they accept another currency."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why are houses in Paraguay sold in dollars?",
+   "a": "It is a market custom: many sellers view the property as a long-term asset and prefer the dollar as a reference. It is not mandatory; the price can also be set in guaraníes."
+  },
+  {
+   "q": "Should I rent in dollars?",
+   "a": "If you receive payments in guaraníes, a rental in dollars exposes you to higher payments if the dollar rises. If you can, negotiate the contract in guaraníes or set a reference exchange rate."
+  },
+  {
+   "q": "Is a mortgage loan in dollars advisable?",
+   "a": "Only if your income is in dollars or you can absorb a strong exchange-rate increase. For income in guaraníes, the safest option is to borrow in guaraníes."
+  },
+  {
+   "q": "Is the conversion shown by Casa-Libre exact?",
+   "a": "No, it is an approximate reference to the day's exchange rate. The valid price is the one published and agreed by the advertiser, and payment uses the rate of your bank or exchange house."
+  }
+ ],
+ "related": [
+  "Properties for Sale",
+  "Properties for Rent",
+  "Guide: How Much a Property Is Worth"
+ ]
+}

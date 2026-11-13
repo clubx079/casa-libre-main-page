@@ -1,0 +1,160 @@
+{
+ "_src": "af6af1511add",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Monthly costs of a house or apartment: expenses and more",
+  "h1": "How much it costs per month to live in a house or an apartment: expenses, services and more",
+  "description": "The fixed expenses of a home in Paraguay: ordinary and extraordinary expenses, ANDE, water, internet, property tax, maintenance and insurance.",
+  "answer": "Besides rent or the mortgage payment, a home has fixed costs: electricity (ANDE), water, internet, garbage collection, expenses if it is an apartment or a gated community, the annual property tax if you own it, maintenance and, if you wish, insurance. Expenses can be ordinary (common costs every month) or extraordinary (specific projects). Before deciding, ask for the actual bills from the last months: it is the only way to know how much you will really spend."
+ },
+ "sections": [
+  {
+   "h2": "Why Look Beyond the Price",
+   "paras": [
+    "Two apartments with the same rent can cost very different per month: one with high expensas, elevator, pool and 24-hour security, another with no expensas but an old air-conditioning unit that spikes the ANDE bill. The same applies when buying: the monthly installment is only part of what you will pay each month for years.",
+    "This article does not give amounts, because they vary widely by area, size and consumption. It gives you the complete list so you can build your own budget with real numbers."
+   ]
+  },
+  {
+   "h2": "The List of Expenses, Who Pays Them and How Often",
+   "paras": [
+    "Who pays what in a rental is defined by the contract. The table shows the most common practice, but always read that section before signing."
+   ],
+   "table": {
+    "head": [
+     "Expense",
+     "Frequency",
+     "If You Rent",
+     "If You Own"
+    ],
+    "rows": [
+     [
+      "Luz (ANDE)",
+      "Monthly",
+      "Tenant, generally",
+      "Owner"
+     ],
+     [
+      "Agua (ESSAP, junta de saneamiento o aguatería)",
+      "Monthly",
+      "Tenant, generally",
+      "Owner"
+     ],
+     [
+      "Internet y TV",
+      "Monthly",
+      "Tenant",
+      "Owner"
+     ],
+     [
+      "Recolección de basura",
+      "Monthly or included in municipal fees",
+      "According to contract",
+      "Owner"
+     ],
+     [
+      "Expensas ordinarias",
+      "Monthly",
+      "According to contract (often the tenant)",
+      "Owner"
+     ],
+     [
+      "Expensas extraordinarias",
+      "Occasional",
+      "Usually the owner",
+      "Owner"
+     ],
+     [
+      "Impuesto inmobiliario",
+      "Annual",
+      "Usually the owner",
+      "Owner"
+     ],
+     [
+      "Mantenimiento y arreglos",
+      "Variable",
+      "Minor repairs the tenant; structural ones the owner, according to contract",
+      "Owner"
+     ],
+     [
+      "Seguro del hogar",
+      "Annual or monthly",
+      "Optional (contents)",
+      "Optional, unless required by the loan"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Expensas: What They Are and What They Cover",
+   "paras": [
+    "Expensas are the portion each owner contributes for the common expenses of a building or condominium. They are set according to the co-ownership regulations, normally in proportion to the area of each unit, and are managed by an administrator or the owners’ committee.",
+    "Ordinary expensas cover the monthly items: cleaning of common areas, concierge or security, electricity and water for common spaces, maintenance of elevators, pool, gardens and staff salaries. Extraordinary expensas are approved for a specific purpose: painting the façade, replacing an elevator, waterproofing the roof. They can be significant amounts."
+   ],
+   "bullets": [
+    "Ask how much the expensas are and exactly what they include.",
+    "Request the last three expensas statements, not an \"approximate\" figure.",
+    "Ask if any extraordinary expensas have been approved or are under discussion.",
+    "If you rent, verify whether the price includes expensas or they are paid separately."
+   ]
+  },
+  {
+   "h2": "Luz: The Most Variable Expense",
+   "paras": [
+    "In Paraguay the heat makes air conditioning the biggest driver of the ANDE bill. An apartment with good orientation, shaded windows and efficient (inverter-type) units can cost far less than another of the same size with old units or a lot of afternoon sun.",
+    "When you visit, look at the number and age of the air-conditioning units, whether the kitchen and water heater are electric, and the direction the rooms face. Also request the summer months’ bills, not just the winter ones."
+   ]
+  },
+  {
+   "h2": "Agua: Who Provides Service in That Area",
+   "paras": [
+    "Depending on the area, water is supplied by ESSAP, a sanitation board or a private water company. Service, pressure and cost differ. In some zones there are houses with their own well and pump, which add electric consumption and maintenance.",
+    "Ask if there is a tank, whether the pressure reaches the second floor, and if there were frequent cuts last summer."
+   ]
+  },
+  {
+   "h2": "Impuesto inmobiliario: An Annual Expense Worth Monthly Spreading",
+   "paras": [
+    "If you own, the property tax is paid once a year and equals 1% of the property's fiscal value, which is usually lower than market value and is adjusted annually. It is collected by the municipality. To budget, divide the annual amount by twelve and add it to your monthly expenses."
+   ]
+  },
+  {
+   "h2": "Maintenance and Insurance",
+   "paras": [
+    "A house needs constant maintenance: painting, cleaning gutters, inspecting the roof before the rainy season, the dry well or septic tank where there is no sewer, the garden. A practical way to avoid surprises is to set aside a fixed amount each month for maintenance, higher if the house is old.",
+    "Home insurance is optional, unless required by a mortgage loan. It covers fire and other damages according to the policy; if you rent, there is a contents insurance for your belongings."
+   ],
+   "tip": "Build your budget with the actual bills from the property’s last year, plus a fixed amount for maintenance. If the total number makes you uncomfortable, it’s better to know it before signing."
+  },
+  {
+   "h2": "Compare Options with the Total Cost",
+   "paras": [
+    "When you compare listings, add price plus fixed expenses. On Casa-Libre you can see houses and apartments on the map and ask via WhatsApp, directly to the owner or the agency, how much the expensas and services are. Also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What are the expenses in an apartment?",
+   "a": "They are each owner's contribution to the building's common costs: cleaning, security, elevators, electricity and water for common areas, and maintenance. They are set according to the co-ownership regulations."
+  },
+  {
+   "q": "Who pays the expenses in a rental?",
+   "a": "It is defined by the contract. It is common for the tenant to pay the ordinary expenses and the owner the extraordinary ones, but check whether the price includes them or they are separate."
+  },
+  {
+   "q": "What are extraordinary expenses?",
+   "a": "Specific costs approved by the owners for major works or repairs, such as painting the façade or replacing an elevator. Usually the owner pays them."
+  },
+  {
+   "q": "How do I calculate how much I will spend per month?",
+   "a": "Ask for the actual electricity, water and expense bills from the last months (including summer), add internet, the annual property tax divided by twelve, and a fixed amount for maintenance."
+  }
+ ],
+ "related": [
+  "Apartments for rent",
+  "Houses for sale",
+  "Guide: how to rent your property"
+ ]
+}

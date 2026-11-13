@@ -1,0 +1,135 @@
+{
+ "_src": "8fadf99e3551",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Condominium in Venezuela: what it covers and how it is calculated",
+  "h1": "The condominium in Venezuela: what it covers, how it is calculated and what to check before buying or renting",
+  "description": "How the condominium works in a building in Venezuela: common expenses, aliquot, special fees, reserve fund and why you should request the solvency before buying.",
+  "answer": "The condominium is what each owner of a building pays to cover common expenses: security, cleaning, elevator maintenance, water pumps, generator, common areas and administration. It is allocated according to the aliquot of each apartment, which appears in the condominium document. When buying, request the condominium solvency: according to the Horizontal Property Law, debts for common expenses attach to the property and the new owner may end up being responsible for them."
+ },
+ "sections": [
+  {
+   "h2": "What the condo covers",
+   "paras": [
+    "Each building is different, but common expenses usually include these items. The more services the building has, the higher the condo fee:"
+   ],
+   "bullets": [
+    "Staff: concierge, security and cleaning.",
+    "Electricity for common areas, elevators and water pumps.",
+    "Maintenance of elevators, pumps, gates and generator (including fuel).",
+    "Purchase of water for cisterns when pipe supply is insufficient.",
+    "Building insurance, if any.",
+    "Administrator fees.",
+    "Contribution to the reserve fund."
+   ]
+  },
+  {
+   "h2": "The coefficient: why not everyone pays the same",
+   "paras": [
+    "In a building governed by the Horizontal Property Law, each apartment has a percentage of the common elements, called the coefficient or participation fee. That percentage is set in the condominium document that was recorded in the Real Estate Registry when the building was established.",
+    "Common expenses are divided according to that coefficient. That is why a penthouse or a large apartment pays more than a small one in the same building, even though both use the elevator equally."
+   ]
+  },
+  {
+   "h2": "Special fees and reserve fund",
+   "paras": [
+    "In addition to the regular monthly fee, the owners' assembly can approve special fees for major works: replacing the elevator, waterproofing the roof, buying or repairing the generator, painting the façade. These can be significant amounts and last several months.",
+    "The reserve fund is the building’s savings for unforeseen events. A healthy fund is a good sign; a building without a fund and with old equipment will probably ask you for special fees soon."
+   ],
+   "tip": "Before buying or renting, request the minutes of the latest assemblies. There you will see which works were approved, how much they will cost, and whether there are conflicts among neighbors."
+  },
+  {
+   "h2": "Condo debts follow the apartment",
+   "paras": [
+    "This is the most important point when buying. According to the Horizontal Property Law, the obligation to pay common expenses attaches to the property, and the courts have applied it to collect from the new owner any debts left by the previous one. In addition, the settlement statements issued by the administrator have executive force, which makes judicial collection easier.",
+    "Therefore, before signing the purchase agreement, request the condo solvency statement from the building’s administrator, with a recent date, and include in the contract that the seller is responsible for any debt incurred before delivery."
+   ]
+  },
+  {
+   "h2": "If you rent: who pays the condo",
+   "paras": [
+    "In a rental, who pays the condo depends on the contract. Sometimes it is included in the rent and other times it is paid separately. Also clarify who assumes special fees: it is reasonable for the owner to pay works that increase the building’s value, but it must be written down."
+   ]
+  },
+  {
+   "h2": "What to ask about the condo before deciding",
+   "table": {
+    "head": [
+     "Question",
+     "Why it matters"
+    ],
+    "rows": [
+     [
+      "How much was the condo fee in recent months?",
+      "Gives you the actual monthly cost"
+     ],
+     [
+      "Are there special fees approved or under discussion?",
+      "They can add up quickly in the short term"
+     ],
+     [
+      "How much is in the reserve fund?",
+      "Shows whether the building is prepared for unforeseen events"
+     ],
+     [
+      "Is the apartment solvent?",
+      "Debts can pass to the buyer"
+     ],
+     [
+      "Do the elevator, pumps and generator work?",
+      "If not, a special fee will come"
+     ],
+     [
+      "Is there high delinquency among neighbors?",
+      "If many don’t pay, those who do cover the shortfall or the building deteriorates"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "As an owner: participate in the assembly",
+   "paras": [
+    "The decisions that affect your wallet the most are made at the owners' assembly: the budget, special fees, the election of the condo board and the administrator. Attending assemblies, reading the minutes and reviewing the accounts is the best way to ensure the condo is used properly.",
+    "Ask the administrator for the detail of each statement: what was paid, to whom and why. A transparent condo publishes the accounts and answers owners’ questions."
+   ]
+  },
+  {
+   "h2": "Compare buildings, not just apartments",
+   "paras": [
+    "When looking at options on Casa-Libre, ask via WhatsApp the condo amount and whether there are special fees before visiting. It saves you trips to buildings that don’t fit your budget. On the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the aliquot of an apartment?",
+   "a": "It is the percentage of that apartment's participation in the building's common elements, set in the condominium document. Common expenses are divided according to that percentage."
+  },
+  {
+   "q": "If I buy an apartment with condominium debt, do I have to pay it?",
+   "a": "It can happen: according to the Horizontal Property Law the debt attaches to the property. Request the condominium solvency before signing and have it written that the seller is responsible for prior debts."
+  },
+  {
+   "q": "What is a special fee?",
+   "a": "An extra payment approved by the assembly for a specific work or expense, such as repairing the elevator or the generator."
+  },
+  {
+   "q": "Do the homes of the Misión Vivienda have a condominium?",
+   "a": "They have a special condominium regime different from that of the Horizontal Property Law. The rules are found in the specific regulations of those developments."
+  },
+  {
+   "q": "What is condominium solvency?",
+   "a": "A certificate from the building administrator stating that the apartment has no common expense debts as of a certain date. Get a recent one before buying."
+  },
+  {
+   "q": "Who decides special fees?",
+   "a": "The owners' assembly, according to the rules of the condominium document. That is why it is advisable to attend and read the minutes."
+  }
+ ],
+ "related": [
+  "Apartments for sale",
+  "Apartments for rent",
+  "How much it costs to rent in Caracas"
+ ]
+}

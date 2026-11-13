@@ -1,0 +1,133 @@
+{
+ "_src": "7fc37ff5622d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Depósito de garantia em um aluguel na Venezuela: como recuperá-lo",
+  "h1": "Depósito de garantia ao alugar na Venezuela: como entregá-lo, protegê-lo e recuperá-lo",
+  "description": "O que é o depósito de garantia em um aluguel de imóvel na Venezuela, o que deve constar no contrato, como documentar o estado do imóvel e o que fazer se não o devolverem.",
+  "answer": "O depósito de garantia é o dinheiro que você entrega ao locador para cobrir possíveis danos ou aluguéis não pagos; se você entregar o imóvel em bom estado e em dia, ele deve ser devolvido. Para recuperá-lo sem briga: que o contrato indique o valor, a moeda e o prazo de devolução; que exista um inventário com fotos ao entrar; e que ao sair você faça uma revisão conjunta e assinada. A lei de arrendamentos de moradia regula essa garantia e, se houver conflito, você pode recorrer à SUNAVI."
+ },
+ "sections": [
+  {
+   "h2": "O que é e para que serve o depósito",
+   "paras": [
+    "O depósito não é um pagamento ao locador: é uma garantia. Continua sendo seu dinheiro enquanto não houver dano ou dívida que o justifique. Por isso não deve ser usado para pagar os últimos meses de aluguel, salvo se ambas as partes concordarem por escrito, nem para cobrir o desgaste normal de viver em um lugar.",
+    "A lei de arrendamentos de moradia vigente desde 2011 regula quanto pode ser exigido como garantia e como ela é administrada. Se pedirem um valor que pareça desproporcional, pergunte em que se baseia e consulte antes de pagar."
+   ]
+  },
+  {
+   "h2": "Ao entrar: o que define se devolvem",
+   "paras": [
+    "A maioria das discussões sobre o depósito são ganhas ou perdidas no dia em que você recebe as chaves. Se não estiver documentado como estava o apartamento ao entrar, é sua palavra contra a do locador."
+   ],
+   "steps": [
+    "Peça um inventário escrito: móveis, eletrodomésticos, lâmpadas, chaves e controles.",
+    "Tire fotos e vídeos com data de cada ambiente, incluindo manchas, fissuras, infiltrações e estado dos pisos e banheiros.",
+    "Teste torneiras, aquecedor, tomadas elétricas, ar-condicionado e geladeira, e anote o que não funciona.",
+    "Envie as fotos ao locador por e-mail ou WhatsApp no mesmo dia. Assim fica constância da data.",
+    "Anexe o inventário assinado como anexo ao contrato."
+   ]
+  },
+  {
+   "h2": "O que o contrato deve dizer sobre o depósito",
+   "bullets": [
+    "Valor exato entregue e em que moeda.",
+    "Como foi entregue (transferência, dinheiro com recibo) e a quem.",
+    "Para que pode ser usado: danos além do desgaste normal e dívidas pendentes.",
+    "Em que prazo é devolvido após a entrega do imóvel.",
+    "Qual taxa de câmbio é usada se o depósito foi pactuado com referência em moedas estrangeiras e devolvido em bolívares."
+   ]
+  },
+  {
+   "h2": "Durante o contrato: evite dívidas que sejam descontadas",
+   "paras": [
+    "Guarde cada comprovante de pagamento do aluguel, do condomínio se for seu caso e dos serviços. No final, o locador pode descontar do depósito as faturas não pagas de energia elétrica, água ou gás, e se você não tiver os recibos, será difícil provar que estava em dia.",
+    "Se algo se danificar por uso normal ou por um problema do prédio (uma infiltração do apartamento acima, um cano embutido), avise por escrito imediatamente. Reparos maiores geralmente são de responsabilidade do locador, e se não avisar, depois podem atribuir a você."
+   ]
+  },
+  {
+   "h2": "Ao sair: a entrega ordenada",
+   "steps": [
+    "Avise a data de saída com a antecedência que o contrato determina.",
+    "Deixe o apartamento limpo e repare o que você tenha danificado.",
+    "Pague e guarde os últimos recibos de serviços e, se for seu caso, do condomínio.",
+    "Faça uma inspeção conjunta com o locador, comparando com o inventário e as fotos de entrada.",
+    "Assine uma ata de entrega com a data, as chaves entregues e o estado do imóvel.",
+    "Deixe por escrito o prazo e a conta para a devolução do depósito."
+   ]
+  },
+  {
+   "h2": "Se não devolvem o depósito",
+   "paras": [
+    "Primeiro, peça por escrito o detalhamento do que foi descontado, com notas fiscais ou orçamentos. Muitas vezes a diferença se resolve com uma conversa ordenada e suas fotos de entrada.",
+    "Se não houver acordo, você pode recorrer à Superintendência Nacional de Arrendamento de Moradia (SUNAVI), que intervém nos conflitos entre locadores e locatários de moradia. Leve o contrato, o inventário, as fotos e os comprovantes. Para valores importantes, convém consultar um advogado."
+   ],
+   "tip": "Guarde tudo em uma pasta na nuvem: contrato, inventário, fotos de entrada e saída, recibos e conversas. Isso será útil mesmo que troque de telefone."
+  },
+  {
+   "h2": "Desgaste normal ou dano: a diferença",
+   "table": {
+    "head": [
+     "Desgaste normal (não se desconta)",
+     "Dano (pode ser descontado)"
+    ],
+    "rows": [
+     [
+      "Pintura opaca ou com marcas leves após anos",
+      "Paredes riscadas, perfuradas ou pintadas sem permissão"
+     ],
+     [
+      "Pisos com brilho gasto",
+      "Pisos quebrados, queimados ou manchados"
+     ],
+     [
+      "Torneiras com desgaste de uso",
+      "Torneiras ou sanitários quebrados"
+     ],
+     [
+      "Cortinas desbotadas pelo sol",
+      "Móveis ou eletrodomésticos do inventário danificados"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Seu próximo aluguel",
+   "paras": [
+    "Se você está procurando onde morar, na Casa-Libre pode ver aluguéis no mapa e perguntar por WhatsApp que garantia pedem antes de visitar. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Podem ficar com o depósito por desgaste normal?",
+   "a": "Não deveria. O depósito cobre danos além do uso normal e dívidas. A pintura desgastada ou o desgaste lógico de pisos após anos de uso não são danos."
+  },
+  {
+   "q": "Posso usar o depósito para pagar o último mês?",
+   "a": "Só se o locador aceitar por escrito. Caso contrário, você deve pagar o aluguel e aguardar a devolução do depósito."
+  },
+  {
+   "q": "Em que moeda me devolvem?",
+   "a": "Na que constar no contrato. Se foi pactuado com referência em moedas estrangeiras, o contrato deve dizer como se calcula se for devolvido em bolívares."
+  },
+  {
+   "q": "Onde reclamo se não me devolvem?",
+   "a": "Na SUNAVI, que atende conflitos de arrendamento de moradia, e com assessoria jurídica se o valor justificar."
+  },
+  {
+   "q": "O que acontece se não fiz inventário ao entrar?",
+   "a": "Será mais difícil provar como estava o imóvel. Reúna o que tiver (fotos, mensagens com o locador) e, da próxima vez, faça inventário com fotos no primeiro dia."
+  },
+  {
+   "q": "Podem descontar contas de serviços?",
+   "a": "Sim, se houver contas a seu cargo em aberto. Por isso é conveniente pagar as últimas faturas antes de entregar e guardar os comprovantes."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Contrato de arrendamento: o que revisar",
+  "Requisitos para alugar"
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "_src": "07d95ec9e854",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver em La Paz ou El Alto: como escolher a zona",
+  "h1": "Viver em La Paz ou El Alto: como escolher a zona segundo altitude, terreno, transporte e orçamento",
+  "description": "Critérios para escolher onde viver em La Paz ou El Alto: altitude e clima, encostas e risco, sol e orientação, trajetos e teleférico, serviços e orçamento. Perguntas úteis antes de alugar ou comprar.",
+  "answer": "Em La Paz e El Alto a geografia decide muito: a altitude altera o clima (as áreas mais baixas são mais temperadas), a inclinação altera o risco e o acesso, e o sol altera quanto frio você sente dentro de casa. Primeiro escolha pelo seu trajeto diário (incluindo o teleférico), depois verifique o terreno e a orientação da moradia, e só então compare os preços. El Alto costuma oferecer mais espaço pelo mesmo dinheiro; La Paz, mais variedade de áreas e serviços."
+ },
+ "sections": [
+  {
+   "h2": "Duas cidades unidas, com geografias muito distintas",
+   "paras": [
+    "La Paz se estende em um vale profundo e suas encostas, com grandes diferenças de altitude entre as áreas. Em geral, à medida que você desce para o sul, o clima fica mais ameno. El Alto, por sua vez, está sobre o altiplano, mais alto, com terreno muito mais plano e clima mais frio e ventoso.",
+    "Para quem vem de outra região, a altitude não é um detalhe: os primeiros dias podem ser difíceis (o famoso soroche), e convém pensar em aquecimento, isolamento e agasalho como parte do orçamento da moradia."
+   ]
+  },
+  {
+   "h2": "Trajetos: o teleférico mudou o mapa",
+   "paras": [
+    "A rede do Mi Teleférico conecta diferentes áreas de La Paz com El Alto, e para muita gente reduziu o tempo de deslocamento diário. Ao escolher a região, veja se você tem uma estação perto de casa e do trabalho: um imóvel a poucas quadras de uma estação pode valer mais que outro maior sem boa conexão."
+   ],
+   "bullets": [
+    "Faça o trajeto de teste em horário de pico, incluindo minibús, trufi ou teleférico.",
+    "Conte as subidas: em La Paz, cinco quadras em inclinação não são cinco quadras em plano.",
+    "Pergunte como a região se movimenta em dias de bloqueios ou marchas, frequentes no centro."
+   ]
+  },
+  {
+   "h2": "Encostas e risco: o que você deve observar",
+   "paras": [
+    "Parte da cidade está construída sobre encostas e perto de rios e ravinas. Na temporada de chuvas podem ocorrer deslizamentos e alagamentos em áreas de risco. Antes de comprar, e também antes de um anticrético (hipoteca) longo, pergunte na alcaldia se o imóvel está em zona com restrições por risco e verifique o estado da construção."
+   ],
+   "bullets": [
+    "Rachaduras nas paredes, pisos desnivelados ou portas que não fecham podem indicar movimento do terreno.",
+    "Muros de contenção e drenagens: existem e estão em bom estado?",
+    "Proximidade a ravinas, rios alagados ou aterros.",
+    "Histórico: pergunte aos vizinhos se houve problemas nas chuvas anteriores."
+   ],
+   "tip": "Se a casa está em encosta, peça a um engenheiro ou arquiteto que a avalie antes de comprar. É um gasto pequeno frente ao risco de uma reparação estrutural."
+  },
+  {
+   "h2": "Sol e orientação: aquecimento gratuito",
+   "paras": [
+    "Em altitude, um imóvel que recebe sol durante o dia é muito mais quente à noite. Ao visitar, observe para onde dão as janelas principais, se há edifícios que bloqueiam o sol e se o imóvel tem umidade. Um apartamento luminoso pode economizar meses de frio e gastos com aquecedores."
+   ]
+  },
+  {
+   "h2": "Serviços e despesas da moradia em altitude",
+   "paras": [
+    "Em uma cidade fria, o gasto com aquecimento e água quente pesa no orçamento. Pergunte se o imóvel tem gás domiciliar ou depende de botijões, como a água é aquecida e se há aquecimento. Em edifícios, consulte o que as expensas cobrem e se há tanque de água para os cortes. São detalhes que não aparecem nas fotos e que alteram quanto você paga a cada mês."
+   ]
+  },
+  {
+   "h2": "El Alto: mais espaço, outra dinâmica",
+   "paras": [
+    "El Alto é uma cidade própria, com sua alcaldia, seu comércio e uma atividade econômica muito forte. costuma oferecer lotes e casas mais amplos pelo mesmo dinheiro que em La Paz, e conexão direta com o aeroporto e as rodovias ao altiplano. Para quem trabalha em El Alto ou se desloca ao altiplano, pode ser a melhor opção.",
+    "Se você compra um lote em El Alto, aplique tudo que vale para qualquer lote: folio real em nome do vendedor, urbanização aprovada, serviços e acessos. Em áreas de crescimento recente, verifique especialmente água, esgoto e gás domiciliar."
+   ]
+  },
+  {
+   "h2": "Lista rápida para comparar regiões",
+   "steps": [
+    "Marque no mapa seu trabalho, a escola e as estações de teleférico.",
+    "Escolha duas ou três regiões por tempo real de deslocamento.",
+    "Verifique risco do terreno e estado da construção.",
+    "Visite de dia e de noite, e observe a orientação ao sol.",
+    "Compare preços de aluguel, anticrético ou venda nessas regiões."
+   ]
+  },
+  {
+   "h2": "Compare no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver propriedades em La Paz e em El Alto no mapa, compará-las por região e preço, e escrever direto por WhatsApp ao dono ou à imobiliária. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Onde faz menos frio em La Paz?",
+   "a": "Em geral, nas áreas mais baixas do vale, ao sul. Mas dentro de cada área, a orientação da moradia ao sol faz grande diferença."
+  },
+  {
+   "q": "Compensa viver em El Alto ou em La Paz?",
+   "a": "Depende de onde você trabalha e do seu orçamento. El Alto costuma oferecer mais espaço pelo mesmo dinheiro; La Paz, mais variedade de áreas. O teleférico encurtou os trajetos entre as duas."
+  },
+  {
+   "q": "Como sei se uma casa está em zona de risco?",
+   "a": "Consulte na alcaldía se o imóvel tem restrições por risco, pergunte aos vizinhos e peça a um profissional que verifique a estrutura se está em encosta."
+  },
+  {
+   "q": "É difícil adaptar-se à altitude?",
+   "a": "Os primeiros dias podem ser difíceis. Vá com calma e consulte um médico se você tem problemas de saúde prévios."
+  }
+ ],
+ "related": [
+  "Propriedades em La Paz",
+  "Propriedades em El Alto",
+  "Apartamentos para aluguel",
+  "Anticrético: o que é e como funciona"
+ ]
+}

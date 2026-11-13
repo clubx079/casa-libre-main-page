@@ -1,0 +1,142 @@
+{
+ "_src": "92e9e6464db9",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "House or Apartment? What’s Best to Buy in Paraguay",
+  "h1": "House or Apartment: What’s Best to Buy Based on Your Lifestyle",
+  "description": "Honest comparison of buying a house versus an apartment in Paraguay: monthly costs, fees, security, space, location, and ease of renting or reselling.",
+  "answer": "An apartment is usually the better choice if you prioritize location, security and low maintenance, and you are willing to pay fees and have less space. A house works if you need a yard, more square meters or freedom to expand, and you are ready to handle the maintenance and security yourself. For the same budget, generally an apartment puts you closer to the city center while a house gives you more area farther out. The decision depends on your routine, your family and how long you plan to stay."
+ },
+ "sections": [
+  {
+   "h2": "The right question isn’t which is better",
+   "paras": [
+    "There is no universal answer. What matters is asking yourself how you live today and how you will live in the next five to ten years: whether you will have children or pets, whether you work from home, how much time you spend commuting, whether you like or dislike taking care of repairs.",
+    "With those answers, the comparison below becomes concrete."
+   ]
+  },
+  {
+   "h2": "Quick comparison",
+   "table": {
+    "head": [
+     "Aspect",
+     "Apartment",
+     "House"
+    ],
+    "rows": [
+     [
+      "Monthly fixed cost",
+      "Common area fees, security and building maintenance",
+      "No fees (except in a condominium), but maintenance is your responsibility"
+     ],
+     [
+      "Maintenance",
+      "Usually handled by the administration",
+      "Roof, yard, painting, pumps and well are your responsibility"
+     ],
+     [
+      "Security",
+      "Doorman, controlled access in many buildings",
+      "Depends on the neighborhood; usually requires gates, alarm or cameras"
+     ],
+     [
+      "Space",
+      "Less square meters, generally no private yard",
+      "More square meters, yard, space to expand"
+     ],
+     [
+      "Location",
+      "More supply in central areas",
+      "More supply in residential neighborhoods and cities of the metropolitan area"
+     ],
+     [
+      "Freedom of use",
+      "Subject to building rules",
+      "Greater, within municipal regulations"
+     ],
+     [
+      "Rent or resale",
+      "Rental demand in central and university areas",
+      "Family demand; depends heavily on the neighborhood"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Costs: fees versus maintenance",
+   "paras": [
+    "Many buyers compare only the price and forget the monthly expense. In an apartment, the fees cover cleaning, doorman, elevators, pool, security and the reserve fund for building repairs. They vary greatly depending on services: a building with full amenities charges much more than a simple one. Always ask for the latest fee statements before deciding.",
+    "In a house there are no fees, but maintenance still exists, it just comes in a lump sum: waterproofing a roof, replacing a pump, emptying the dry well, painting the façade, caring for the garden. A practical way to compare is to set aside a monthly amount for maintenance and see if, added to the security you’ll need, it resembles the apartment’s fees.",
+    "Both pay property tax to the municipality and utilities for electricity, water and internet. Air conditioning adds to the ANDE bill in both cases; a large house with many rooms usually consumes more."
+   ]
+  },
+  {
+   "h2": "Security and peace of mind",
+   "paras": [
+    "For many people who live alone or travel frequently, security is what defines the choice. A building with a doorman and access control lets you lock the door and be away for a few days with less worry. In a house, security depends on the neighborhood and what you invest in yourself.",
+    "A middle-ground option is a house inside a gated condominium: you have a yard and space, with shared security, but you pay fees and have rules. We explain it in detail in the article about condominiums."
+   ]
+  },
+  {
+   "h2": "Space, family and pets",
+   "paras": [
+    "If you have small children or large dogs, a yard changes daily life and a house usually wins. Check that the building’s rules allow pets before falling in love with an apartment: some restrict them.",
+    "Also think about the future: a house with land lets you add a bedroom or a barbecue area; in an apartment you are limited to the space you bought."
+   ]
+  },
+  {
+   "h2": "Location and commute time",
+   "paras": [
+    "Traffic in the Asunción metropolitan area makes location weigh as much as square meters. With the same budget, the real choice is often between a smaller apartment close to work or a larger house in Luque, San Lorenzo, Lambaré or another neighboring city, with a longer commute.",
+    "Do the test: travel the route during rush hour before deciding. An extra hour of daily commute, multiplied over years, is a real cost even if it doesn’t appear in the price."
+   ]
+  },
+  {
+   "h2": "If you plan to rent it out or sell later",
+   "paras": [
+    "If you buy also thinking about rental income, small well-located apartments (near universities, offices or malls) usually have tenant demand and are easy to manage. Houses attract more families looking to stay several years, which gives longer contracts but a smaller market and more dependence on the neighborhood.",
+    "In both cases, the biggest value protectors are location and condition. Before buying, see how many similar properties are listed in the area and at what price: it’s the best reference for what you’ll face if you ever want to sell."
+   ]
+  },
+  {
+   "h2": "A simple way to decide",
+   "steps": [
+    "Write down your three non-negotiable priorities (for example: less than 30 minutes to work, yard, security).",
+    "Calculate the total monthly expense of each option: mortgage or savings, fees or maintenance, utilities, security.",
+    "Visit at least three properties of each type in the neighborhoods you’re interested in.",
+    "Travel the daily route from each during rush hour.",
+    "Choose the option that meets your three priorities with a monthly cost you can sustain."
+   ]
+  },
+  {
+   "h2": "View both options on the map",
+   "paras": [
+    "On Casa-Libre you can filter houses and apartments for sale in the same area and compare them side by side on the map, with direct contact via WhatsApp with the owner or the agency. It also works from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which is cheaper to maintain, a house or an apartment?",
+   "a": "It depends. The apartment has fixed fees every month; the house does not, but repairs (roof, paint, pumps, well) and security are your responsibility. Compare the total monthly expense, not just the price."
+  },
+  {
+   "q": "Is it easier to rent an apartment or a house?",
+   "a": "Small, well-located apartments usually have higher demand and turnover; houses attract families that stay longer. Location matters more than the type."
+  },
+  {
+   "q": "Do houses in a condominium pay fees?",
+   "a": "Yes. A gated condominium charges fees for security and common areas, and it has an internal regulation that you must follow."
+  },
+  {
+   "q": "Can I have pets in an apartment?",
+   "a": "It depends on the building’s rules. Some allow them without issue and others restrict them; ask for the regulation before buying or renting."
+  }
+ ],
+ "related": [
+  "Houses for Sale",
+  "Apartments for Sale",
+  "Guide: Costs When Buying a House"
+ ]
+}

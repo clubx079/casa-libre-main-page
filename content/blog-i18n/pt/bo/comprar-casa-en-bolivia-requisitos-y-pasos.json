@@ -1,0 +1,123 @@
+{
+ "_src": "296f72b2b37d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar casa na Bolívia: requisitos e passos (comprador)",
+  "h1": "Como comprar uma casa na Bolívia: requisitos, documentos e passos",
+  "description": "O que você precisa para comprar uma casa na Bolívia: folio real, impostos em dia, minuta, escritura (escritura pública) perante notário, pagamento do IMT e inscrição em Direitos Reais. Passo a passo.",
+  "answer": "Para comprar uma casa na Bolívia você precisa da sua cédula de identidade, verificar em Direitos Reais que quem vende é o proprietário e que a casa não tem gravames (folio real e certificado alodial), conferir se os impostos municipais estão pagos, assinar uma minuta que o notário converte em escritura (escritura pública), pagar o imposto municipal sobre a transferência e inscrever a compra em Direitos Reais. Enquanto não inscrever, a compra não é oponível a terceiros."
+ },
+ "sections": [
+  {
+   "h2": "Antes de buscar: quanto você pode pagar e como",
+   "paras": [
+    "O primeiro passo não é visitar casas, é saber com que dinheiro você vai comprar. Se for pagar à vista, some também os custos de fechamento: honorários do notário, imposto sobre a transferência (se você assumir por acordo com o vendedor), taxas de Direitos Reais e a mudança de nome no cadastro. Se for usar um crédito, peça primeiro uma pré-qualificação no seu banco: ele indicará um valor aproximado e você evitará se apaixonar por uma casa que não poderá financiar.",
+    "Se sua renda e o valor da casa estiverem dentro dos limites de habitação de interesse social, você pode acessar taxas máximas reguladas. Explicamos na guia sobre crédito de habitação social."
+   ]
+  },
+  {
+   "h2": "Verifique a propriedade antes de dar um só boliviano",
+   "paras": [
+    "Na Bolívia o registro público da propriedade é Direitos Reales (DD.RR.), que depende do Órgão Judicial. Cada imóvel inscrito tem uma matrícula e um folio real, onde constam o dono, a superfície e os gravames (hipotecas, anticréticos, penhoras ou anotações preventivas). Peça ao vendedor o número da matrícula e solicite um folio real atualizado e, se puder, um certificado alodial, que comprova se o imóvel está livre de encargos."
+   ],
+   "bullets": [
+    "Que o nome no folio real coincida com o documento de identidade de quem vende. Se houver vários donos (por exemplo, um casal casado ou herdeiros), todos assinam.",
+    "Que não haja hipotecas, anticréticos nem penhoras vigentes, ou que sejam canceladas antes ou no ato da venda.",
+    "Que a superfície do folio coincida com a do plano e com o que você vê no terreno.",
+    "Que o imposto sobre a propriedade esteja pago na alcaldia: você pode consultá-lo no sistema municipal da sua cidade ou na plataforma RUAT, se seu município estiver vinculado.",
+    "Que exista plano aprovado pela alcaldia e que a construção coincida com o aprovado."
+   ],
+   "tip": "Se o vendedor oferece vender \"ações e direitos\" em vez da casa inteira, significa que vende uma parte de uma copropiedade. É uma figura legal, mas tem mais riscos: consulte um advogado antes de prosseguir."
+  },
+  {
+   "h2": "A reserva ou o adiantamento: como não perder dinheiro",
+   "paras": [
+    "É comum que o vendedor peça um adiantamento para \"reservar\" a casa. Antes de pagá-lo, já tenha o folio real em mãos. Faça a transferência bancária para o nome do proprietário registrado, não de um terceiro, e assine um documento privado que indique o preço total, o valor do adiantamento, o prazo para assinar a minuta e o que acontece com o dinheiro se a venda não se concretizar por culpa de qualquer das partes."
+   ]
+  },
+  {
+   "h2": "Os passos da compra, em ordem",
+   "steps": [
+    "Combine o preço, a moeda e a forma de pagamento com o vendedor.",
+    "Revise o folio real, certificado alodial, impostos municipais e plano aprovado.",
+    "Assine um documento de reserva ou adiantamento, se houver, com condições claras.",
+    "Um advogado redige a minuta de compra e venda com os dados da matrícula, a superfície, o preço e a forma de pagamento.",
+    "O notário de fé pública protocoliza a minuta e a converte em escritura pública (escritura pública), com a assinatura do comprador e do vendedor (e do cônjuge, se for o caso).",
+    "Paga-se o Imposto Municipal sobre as Transferências (IMT) no município onde está o imóvel.",
+    "Apresenta-se a escritura em Direitos Reais para inscrever a transferência em seu nome e obter seu folio real.",
+    "Faz-se a mudança de nome no cadastro municipal e nos serviços (energia, água, gás)."
+   ]
+  },
+  {
+   "h2": "Quais custos aparecem além do preço",
+   "paras": [
+    "Os valores mudam conforme a cidade e o valor do imóvel, por isso aqui vão apenas os conceitos. Peça um orçamento por escrito ao notário e ao advogado antes de assinar."
+   ],
+   "table": {
+    "head": [
+     "Custo",
+     "Quem costuma pagar",
+     "Observação"
+    ],
+    "rows": [
+     [
+      "Imposto Municipal sobre as Transferências (IMT)",
+      "A lei coloca a cargo do vendedor (titular registrado)",
+      "Alíquota geral de 3% segundo o regulamento; na prática é negociado"
+     ],
+     [
+      "Notário de fé pública",
+      "Conforme acordo",
+      "Taxa por protocolizar a escritura"
+     ],
+     [
+      "Advogado (minuta e revisão)",
+      "Normalmente o comprador",
+      "Honorário livre, solicite por escrito"
+     ],
+     [
+      "Direitos Reais",
+      "O comprador",
+      "Taxas de inscrição e certificados"
+     ],
+     [
+      "Cadastro municipal",
+      "O comprador",
+      "Mudança de nome e certificados"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como buscar com critério",
+   "paras": [
+    "Defina primeiro a zona e o orçamento, e depois filtre. No Casa-Libre você pode ver casas à venda no mapa e escrever direto por WhatsApp ao dono ou à imobiliária. Antes de visitar, pergunte se a casa tem folio real em nome do vendedor e se os impostos estão em dia: isso economiza visitas a propriedades com problemas de documentação. Você também pode salvar as que gosta no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quais documentos eu preciso para comprar uma casa na Bolívia?",
+   "a": "Como comprador, sua cédula de identidade (ou passaporte, se for estrangeiro) e, se for usar crédito, os documentos que o banco solicitar. Do lado do vendedor você deve revisar folio real, certificado alodial, impostos pagos, planta aprovada e sua cédula."
+  },
+  {
+   "q": "Uma compra e venda sem inscrição em Direitos Reais vale?",
+   "a": "Entre comprador e vendedor o contrato existe, mas perante terceiros (outro comprador, um credor do vendedor) a proteção só vem com a inscrição. Por isso convém inscrever assim que tiver a escritura."
+  },
+  {
+   "q": "Quem paga o imposto sobre a transferência?",
+   "a": "O regulamento do IMT indica como obrigado a pessoa em cujo nome o bem está registrado, ou seja, o vendedor. Na prática muitas vezes se negocia; deixe isso escrito na minuta."
+  },
+  {
+   "q": "Preciso de advogado e notário?",
+   "a": "Sim. O notário de fé pública dá forma de escritura à venda, que é o que se inscreve. Um advogado redige a minuta e revisa os documentos; é o melhor investimento para evitar problemas."
+  }
+ ],
+ "related": [
+  "Casas à venda no mapa",
+  "Guia: como comprar sua primeira casa",
+  "Guia: despesas ao comprar uma casa",
+  "Folio real: o que é e como obtê-lo"
+ ]
+}

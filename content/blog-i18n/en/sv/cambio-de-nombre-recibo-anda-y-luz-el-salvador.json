@@ -1,0 +1,122 @@
+{
+ "_src": "8b3fd889ac14",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Changing the Name on the ANDA and Electricity Bills",
+  "h1": "How to Put the Water (ANDA) and Electricity Bills in Your Name When Moving in El Salvador",
+  "description": "How to change the holder of the ANDA water bill and the electric bill when buying, inheriting or renting in El Salvador: documents, cases without escritura and previous debts.",
+  "answer": "To put the ANDA water bill in your name, the process is done at an ANDA office with your DUI, the change-of-holder form and a document that proves your relationship to the home (escritura, rental contract, owner’s authorization letter or proof of tenancy). For electricity, you go to the distributor in your area with the name-change request, your DUI, the last paid bill and the document that proves tenancy; if you are a tenant, they usually require the owner’s authorization. In both cases it is advisable that there are no outstanding debts."
+ },
+ "sections": [
+  {
+   "h2": "Why it’s worth making the change",
+   "paras": [
+    "If you buy a house and the bills remain in the name of the previous owner, any claim, reconnection or procedure will cost you more. If you are a tenant, having the service in your name gives you control over your consumption and your payments. And if you inherited a home, the change puts the house’s situation in order."
+   ]
+  },
+  {
+   "h2": "Before any procedure: check the debts",
+   "paras": [
+    "Ask the seller or the owner for the latest water and electricity bills paid before signing or moving in. If there is debt, agree in writing that they pay it before you receive the house. In the case of electricity, the press indicates that the distributor requires the last invoice to be paid.",
+    "If there is already debt and you want to pay it to be able to make the change, ANDA allows payment as an interested third party by presenting your DUI, the corresponding form and a private authenticated document expressing your intention to pay. Afterwards you can request the name change in your favor."
+   ]
+  },
+  {
+   "h2": "Water: change of holder in ANDA",
+   "paras": [
+    "According to information published in the press, ANDA allows the change of holder in several cases: when you pay a bill that is in another person’s name, when the holder has died, when the home was inherited, when you moved into a bought or inherited house, and in rentals with the owner’s authorization or documents supporting the tenancy. The procedure is in person at ANDA agencies."
+   ],
+   "tip": "If your house uses a septic tank and is not connected to the sewer system, according to the press ANDA should not charge you for sewerage. You can request a technical inspection.",
+   "table": {
+    "head": [
+     "Your case",
+     "Documents usually requested"
+    ],
+    "rows": [
+     [
+      "You bought the house",
+      "DUI, escritura (deed) (or document that proves the purchase) and change of holder form"
+     ],
+     [
+      "Holder deceased",
+      "Death certificate, DUI of the applicant, document that proves the link to the home and form"
+     ],
+     [
+      "Home without escritura",
+      "Authorization letter from the owner or proof of tenancy from ADESCO or the community, DUI and form"
+     ],
+     [
+      "Tenant",
+      "Owner’s authorization or document supporting the tenancy (contract), DUI and form"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Electricity: name change with the distributor",
+   "paras": [
+    "Electric power is distributed by the company that serves your area, and the name change is done at its customer service offices. According to the press, you submit the name change request with your contract number (NIC), your DUI, a document that proves your relationship with the property and the last paid invoice."
+   ],
+   "bullets": [
+    "New owner: escritura registered in the CNR.",
+    "Tenant: rental contract and, if not the current holder, notarized authorization from the owner.",
+    "No escritura: authorization letter from the corresponding entity (for example, the alcaldía or the community board).",
+    "If you are not the owner, the distributor may ask you to complete a \"Know Your Customer\" form."
+   ]
+  },
+  {
+   "h2": "Security deposit for electricity",
+   "paras": [
+    "According to the press, the electricity distributor may require a security deposit when making the name change, the amount being determined at the time of the request based on the service history and consumption. Ask for the amount before you go so you can bring the money."
+   ]
+  },
+  {
+   "h2": "If you are a tenant: whose name should it be in?",
+   "paras": [
+    "Many owners prefer the services to remain in their name and the tenant to pay the bills. Others ask the tenant to put them in their own name. The important thing is that the contract states this clearly, and that when you leave you hand over the bills paid up to the last day.",
+    "Remember that, according to the Ley de Inquilinato, the landlord cannot suspend water or electricity to pressure the tenant."
+   ]
+  },
+  {
+   "h2": "Step-by-step when moving",
+   "steps": [
+    "Ask the previous owner for the latest water and electricity bills paid.",
+    "Write down the ANDA account number and the electricity NIC.",
+    "Gather your DUI and the document that proves your relationship with the house.",
+    "Go to an ANDA agency with the change of holder form.",
+    "Go to the electricity distributor’s office with the name change request.",
+    "Keep the receipts from both procedures."
+   ]
+  },
+  {
+   "h2": "Ask about services before moving",
+   "paras": [
+    "At Casa-Libre you can ask the owner via WhatsApp, before visiting, if the services are up to date and if you will be able to put them in your name. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I change the name on the ANDA water bill?",
+   "a": "At an ANDA office, with your DUI, the change-of-holder form and a document that proves your relationship to the home: escritura, contract, authorization letter or proof of tenancy."
+  },
+  {
+   "q": "Can I put the water in my name if I don’t have an escritura?",
+   "a": "According to the press, yes: ANDA accepts an owner’s authorization letter or a proof of tenancy from ADESCO or the community, together with your DUI and the form."
+  },
+  {
+   "q": "What do I need to change the name on the electricity bill?",
+   "a": "The name-change request with your NIC, your DUI, a document that proves your relationship to the property and the last paid invoice. A security deposit may be required."
+  },
+  {
+   "q": "Can a tenant put the electricity in their name?",
+   "a": "Yes, with the rental contract. If you are not the current holder, the distributor may ask for a notarized authorization from the owner."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Houses for sale",
+  "Properties in San Miguel"
+ ]
+}

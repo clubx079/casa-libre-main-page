@@ -1,0 +1,122 @@
+{
+ "_src": "8f8bc577133f",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mortgage loan in Venezuela: how it works and what to ask for",
+  "h1": "Mortgage loan in Venezuela: how it works, who lends, and how to compare",
+  "description": "How a mortgage loan works in Venezuela today: banks, FAOV funds and BANAVIH, how much they finance, documents, appraisal, currency and how to compare offers before signing.",
+  "answer": "A mortgage loan is a long-term loan to buy, build or improve a home, with the property pledged to the bank until you pay it off. In Venezuela mortgage loans were very limited for years because of inflation and banking credit restrictions; today some banks have started offering products again, with conditions that change frequently. There are also loans with resources from the FAOV, which is managed by BANAVIH. Before looking for a house, ask your bank what it offers today, in which currency and how much down payment is required."
+ },
+ "sections": [
+  {
+   "h2": "How a mortgage loan works, in simple terms",
+   "paras": [
+    "The bank lends you part of the price and you repay it in installments over several years. As collateral, a mortgage is placed on the property, which is recorded in the Real Estate Registry of the jurisdiction where the property is located, usually at the same time as the sale. When you finish paying, the mortgage is released, also with the registry.",
+    "If you stop paying, the bank can enforce the mortgage. For a primary residence there is also a special protection regime for the mortgage debtor, so if you ever have trouble paying, seek advice before the debt grows."
+   ]
+  },
+  {
+   "h2": "What to expect today from a mortgage loan in Venezuela",
+   "paras": [
+    "For many years it was very difficult to obtain a bank mortgage loan in Venezuela: high inflation and credit restrictions meant that most purchases were paid in cash, often in foreign currency. Recently several banks, both public and private, have announced new mortgage products again, but the amounts, terms and requirements vary a lot and change quickly.",
+    "That is why this guide does not give specific rates or terms. What is useful is to know what to ask and how to compare, and then request each bank’s current written offer."
+   ]
+  },
+  {
+   "h2": "Who lends: banks and FAOV resources",
+   "paras": [
+    "FAOV is funded by mandatory contributions from workers and employers. Having your contributions up to date in your FAOV account is usually a requirement to access loans with those resources."
+   ],
+   "table": {
+    "head": [
+     "Source",
+     "What it is",
+     "What to ask"
+    ],
+    "rows": [
+     [
+      "Bank loan with own resources",
+      "Product of each bank, with its own conditions",
+      "Maximum amount, currency, term, rate and down payment required"
+     ],
+     [
+      "Loan with FAOV resources",
+      "Mandatory Savings Fund for Housing, administered by BANAVIH and channeled through operating banks",
+      "If you are up to date with your contributions and which bank processes the line"
+     ],
+     [
+      "Public housing programs",
+      "Allocation of housing by the State, such as the Gran Misión Vivienda Venezuela",
+      "Registration requirements and priorities"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The down payment: how much you must put in",
+   "paras": [
+    "No bank finances 100%. They lend a percentage of the lower value between the price and the appraisal, and the rest is your down payment. In addition, you need money for transaction costs: appraisal, lawyer fees to draft the document, registration fees, payments to SENIAT and the mayor’s office, and insurance. Those costs almost never are included in the loan."
+   ]
+  },
+  {
+   "h2": "Appraisal, document review and insurance",
+   "paras": [
+    "Before approving, the bank orders an appraisal of the property by an appraiser. If the appraisal is lower than the price, the bank lends based on the appraisal value and you cover the difference or renegotiate with the seller.",
+    "It also reviews the legal history: that the seller is the owner according to the Real Estate Registry, that there are no mortgages or prohibitions on transfer, and that the property is in good standing with the mayor’s office. And it will require insurance, usually life insurance and property insurance."
+   ]
+  },
+  {
+   "h2": "Documents they usually request",
+   "bullets": [
+    "Identity card and RIF of the applicant and, if applicable, of the spouse.",
+    "Work certificate and pay slips, or income certification from a public accountant if you are self-employed.",
+    "Recent bank statements.",
+    "FAOV account statement, if you will use those resources.",
+    "Of the property: copy of the title document, cadastral certificate and municipal solvency certificates.",
+    "Purchase option or promise of sale signed with the seller."
+   ]
+  },
+  {
+   "h2": "How to compare two offers",
+   "bullets": [
+    "Loan currency: if you are paid in bolívares and the loan is indexed or in foreign currency, you assume exchange-rate risk.",
+    "Rate: whether it is fixed or variable, and how it is adjusted.",
+    "Term and installment: more years lower the installment but increase the total paid.",
+    "Total cost: interest, insurance, fees and granting expenses.",
+    "Early payment: whether you can prepay installments or cancel without penalty.",
+    "Approval times: the seller does not always wait weeks."
+   ],
+   "tip": "Request the full amortization table in writing. It shows you the total you will pay and how much of each installment is interest."
+  },
+  {
+   "h2": "Search with a clear budget",
+   "paras": [
+    "With an idea of how much you can borrow and how much you have for the down payment, filter by price on Casa-Libre and save the options that fit. You can message the seller on WhatsApp to ask if they accept payment with a loan, because not all expect the bank’s timelines. On the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are there mortgage loans in Venezuela in 2026?",
+   "a": "Some banks have started offering them again, but with conditions that change often. Ask your bank directly for the current offer and request it in writing."
+  },
+  {
+   "q": "What is the FAOV?",
+   "a": "The Fondo de Ahorro Obligatorio para la Vivienda, to which workers and employers contribute. It is managed by BANAVIH and its resources finance housing loans through banks."
+  },
+  {
+   "q": "How much down payment do I need?",
+   "a": "It depends on the bank and the product. No bank finances the full amount, and you also need money for appraisal, registration and other expenses."
+  },
+  {
+   "q": "Can they take my house away if I don’t pay?",
+   "a": "The bank can enforce the mortgage, although for a primary residence there are special debtor-protection rules. If you have problems, seek advice and talk to the bank before missing payments."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "FAOV and BANAVIH: what they are"
+ ]
+}

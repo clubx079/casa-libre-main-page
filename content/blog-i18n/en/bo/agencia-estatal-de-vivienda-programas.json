@@ -1,0 +1,125 @@
+{
+ "_src": "6bfd4c875222",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "State Housing Agency: programs and how to access them",
+  "h1": "State Housing Agency (AEVIVIENDA): what programs it offers and how to get information",
+  "description": "What the State Housing Agency of Bolivia does, its five programs (new housing, improvement, emergency, urban communities and extraordinary assistance) and how to check if you qualify.",
+  "answer": "The State Housing Agency (AEVIVIENDA) is the public entity that implements the social housing programs of the Bolivian State. According to its official website, it works with five programs: Urban Communities, Qualitative Housing (improvement and expansion), New Housing (for families without their own home), Emergency Housing and Extraordinary Assistance. It is not a bank: projects are carried out through agreements, often with municipalities, and access information is requested through its free line 800-10-2373."
+ },
+ "sections": [
+  {
+   "h2": "What is AEVIVIENDA and how it differs from a loan",
+   "paras": [
+    "When you hear \"housing plan\" in Bolivia, two different things are mixed together. On one hand there is the social interest housing loan, which you apply for at a bank or financial institution and pay with regulated interest. On the other hand there are the State’s social housing programs, which are carried out by the Agencia Estatal de Vivienda: construction of new homes, improvement of existing homes, or assistance to families affected by disasters.",
+    "The practical difference is important: you access the loan directly from a financial institution; you access AEVIVIENDA programs through specific projects, in specific areas, and with prioritization criteria defined by the program."
+   ]
+  },
+  {
+   "h2": "The five programs",
+   "paras": [
+    "This is the description published by the agency itself on its website. The details of each project (location, number of homes, specific requirements) change according to the agreement."
+   ],
+   "table": {
+    "head": [
+     "Program",
+     "What it is for"
+    ],
+    "rows": [
+     [
+      "Urban Communities",
+      "Comprehensive housing projects in urban areas"
+     ],
+     [
+      "Qualitative Housing",
+      "Improvement, expansion or renovation of existing homes"
+     ],
+     [
+      "New Housing",
+      "Construction of homes for families without their own dwelling"
+     ],
+     [
+      "Emergency Housing",
+      "Families whose home was affected by a disaster"
+     ],
+     [
+      "Extraordinary Assistance",
+      "Highly vulnerable families"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to access it, in practice",
+   "paras": [
+    "AEVIVIENDA often works through agreements with municipal governments. For example, in 2026 the agency reported agreements with municipalities in the department of La Paz to build social housing, giving preference to people in poverty or vulnerability. That means the first place to ask is usually your alcaldía: if there is a project in your municipality, they will know how families are registered.",
+    "The \"calls\" that appear on the agency’s site are usually contracts for construction companies and supervisors, not family registrations. Do not confuse one thing with the other."
+   ],
+   "steps": [
+    "Call AEVIVIENDA’s toll-free line (800-10-2373) and ask if there are projects in your municipality and what the requirements are.",
+    "Check with your municipal government whether an agreement is in force and how families are registered.",
+    "Gather the documents they request: usually identity of household members and documents proving your housing situation.",
+    "If you have already been a beneficiary of a program, you can review it on the benefit verification page of the official site."
+   ]
+  },
+  {
+   "h2": "Watch out for intermediaries",
+   "paras": [
+    "Around the social housing programs there are people who offer to \"secure a spot\" for you in exchange for money. Public programs are not bought: if someone asks for a payment to include you on a list, be wary and consult directly with the agency or your alcaldía."
+   ],
+   "tip": "Always ask to see the agreement or the official project publication. If no one can show you an official document, do not hand over money or original documents."
+  },
+  {
+   "h2": "What to have ready in case a project opens in your area",
+   "paras": [
+    "When a project opens, the registration deadlines can be short. Having the basic papers organized gives you an advantage. The exact list is defined by each project, but it usually revolves around these points:"
+   ],
+   "bullets": [
+    "Current identity cards of household members and birth certificates of children.",
+    "Documents showing your current housing situation: rental contract or anticrético (rent-to-own), or a certificate that you live with relatives.",
+    "If you own a lot or a home you want to improve, the property papers: folio real, taxes and plan.",
+    "Updated contact information so they can notify you."
+   ]
+  },
+  {
+   "h2": "In the meantime: other options",
+   "paras": [
+    "State programs have limited slots and long timelines. If you have stable income, also check whether you qualify for a social interest housing loan, with regulated maximum rates and, in some cases, a guarantee fund that helps with the down payment. Another widely used option in Bolivia is the anticrético (rent-to-own), which lets you live without paying monthly rent while you save, with the precautions explained in its article.",
+    "If you are evaluating options, look at real prices in your area: on Casa-Libre you can see houses and apartments for sale and for rent on the map and message the advertiser via WhatsApp. You can also use the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the State Housing Agency?",
+   "a": "The public entity that implements social housing programs in Bolivia: new housing, improvement, emergency, urban communities and extraordinary assistance."
+  },
+  {
+   "q": "Does AEVIVIENDA provide loans?",
+   "a": "Its official website presents construction and improvement programs, not bank loans. Social housing loans are requested from banks and regulated financial entities."
+  },
+  {
+   "q": "How do I register for a housing program?",
+   "a": "It depends on each project. Call the free line 800-10-2373 and check with your alcaldía if there is an active agreement in your municipality."
+  },
+  {
+   "q": "How do I know if I am already listed as a beneficiary of a program?",
+   "a": "The official AEVIVIENDA website has a benefit verification page. If you have doubts about the result, inquire through the free line 800-10-2373."
+  },
+  {
+   "q": "Can I apply for a program and request a social housing loan at the same time?",
+   "a": "Those are separate paths. Ask the program whether having received a loan or owning a home in your name excludes you, because several programs are intended for families without their own home."
+  },
+  {
+   "q": "Are AEVIVIENDA calls for families?",
+   "a": "Many of the published calls are contracts for companies. To learn how to access as a family, contact the free line or your municipality."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Rentals on the map",
+  "Guide: how to buy your first home",
+  "Social housing loan"
+ ]
+}

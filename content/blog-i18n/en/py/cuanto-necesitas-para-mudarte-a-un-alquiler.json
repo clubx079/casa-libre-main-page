@@ -1,0 +1,149 @@
+{
+ "_src": "84ec1c2b163d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How much money you need to move into a rental",
+  "h1": "How much money you need to move into a rental in Paraguay",
+  "description": "The real budget to start a rental: one month in advance, deposit, fees, expenses, moving, connections and furniture. Checklist and calculation example.",
+  "answer": "To start a rental in Paraguay you should have available, at minimum, the equivalent of two or three monthly rents: the first month in advance, the security deposit and, if a real-estate agency is involved, its fee. Add to that the moving costs, the connection or change of service holder and whatever you need to furnish the house. The exact amount depends on what each owner asks, so ask for the \"move-in amount\" before you visit."
+ },
+ "sections": [
+  {
+   "h2": "The payments they ask for at signing",
+   "paras": [
+    "The price you see in the listing is what you will pay each month, but it is not what you need on the signing day. When you move in several payments are combined, and each owner or agency creates its own mix. These are the most common:"
+   ],
+   "bullets": [
+    "First month in advance: rent in Paraguay is usually paid one month ahead, so the first month is paid at signing.",
+    "Security deposit: an amount that stays in the owner's hands for the duration of the contract and is returned at the end if there are no debts or damages. The most common is one month, but it can be more if you have no guarantor.",
+    "Agency fee: if you rent through an agency, it may charge a fee. Ask how much it is and whether the tenant, the owner, or both pay it.",
+    "Expensas: in buildings and condominiums there is a monthly common expense that may be included in the price or separate. If separate, the first month is also paid at moving in.",
+    "Rental insurance or guarantee: if you use it instead of a guarantor, the premium is usually paid before signing."
+   ]
+  },
+  {
+   "h2": "The costs nobody tells you about: moving, utilities and equipment",
+   "paras": [
+    "Once signed, you still have to move in and get the house running. These are smaller expenses, but they add up:"
+   ],
+   "bullets": [
+    "Moving truck and helpers if you have large furniture. Get at least two quotes and ask if they charge by hour or per trip.",
+    "Utilities: electricity (ANDE) and water may be in the owner's name or you may have to transfer them to yours. Depending on the case, there may be a processing fee or a consumption guarantee.",
+    "Internet and TV: installation and, sometimes, the first month in advance.",
+    "Gas: cylinder and, if the stove is not included, the stove itself.",
+    "White goods: many properties are rented without a refrigerator, stove, washing machine or air conditioner. Verify what is included before signing.",
+    "Small repairs and first-week items: curtains, light bulbs, new locks, cleaning products."
+   ]
+  },
+  {
+   "h2": "A sample calculation (hypothetical numbers)",
+   "paras": [
+    "To show you how it adds up, let’s take an invented case with round numbers. These are not market prices: replace them with the figures for the property you are looking at.",
+    "Suppose an apartment costs Gs. 3,000,000 per month, with expensas separate at Gs. 400,000, rented through an agency with a one-month deposit."
+   ],
+   "table": {
+    "head": [
+     "Item",
+     "Sample amount"
+    ],
+    "rows": [
+     [
+      "First month in advance",
+      "Gs. 3.000.000"
+     ],
+     [
+      "Security deposit (1 month)",
+      "Gs. 3.000.000"
+     ],
+     [
+      "Agency fee (assumed: half a month)",
+      "Gs. 1.500.000"
+     ],
+     [
+      "First month of expensas",
+      "Gs. 400.000"
+     ],
+     [
+      "Moving truck (assumed)",
+      "Gs. 600.000"
+     ],
+     [
+      "Internet: installation and first month (assumed)",
+      "Gs. 300.000"
+     ],
+     [
+      "First-week unforeseen expenses (assumed)",
+      "Gs. 500.000"
+     ],
+     [
+      "Total example",
+      "Gs. 9.300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to read that example",
+   "paras": [
+    "In the example, moving in costs a little more than three months’ rent. If you have no agency, the number drops; if they ask for two months of deposit because you have no guarantor, it rises. If you also have to buy a refrigerator or stove, add that separately.",
+    "A practical budgeting method: multiply the rent by three to have a first floor, then adjust with what the advertiser confirms. And keep a cushion: the first month in a new house always brings some surprise costs.",
+    "Don’t forget that the deposit is money that returns at the end if you hand over the property in good condition. It is not a lost expense, but it is cash you won’t be able to use while you live there."
+   ]
+  },
+  {
+   "h2": "Guaraníes or dollars: watch the currency",
+   "paras": [
+    "Some rentals are listed in guaraníes and others in dollars, especially apartments in new buildings and large houses. If your salary is in guaraníes and the rent is in dollars, the monthly cost changes with the exchange rate. When calculating the move-in amount, use the day’s rate and allow a margin.",
+    "At Casa-Libre the prices are shown with a reference conversion to the day’s exchange rate, so you can compare listings in different currencies."
+   ]
+  },
+  {
+   "h2": "Checklist of questions to ask before visiting",
+   "paras": [
+    "Send these questions by WhatsApp before you go. They save you visits to properties that don’t fit your budget:"
+   ],
+   "steps": [
+    "How much do I need to pay in total at signing, and in which currency?",
+    "How many months is the deposit? How and when is it returned?",
+    "Is there an agency fee? Who pays it?",
+    "Are expensas included? How much are they?",
+    "Which appliances and furniture remain in the property?",
+    "Are the utilities up to date and whose name are they in?"
+   ]
+  },
+  {
+   "h2": "How to lower the move-in cost",
+   "bullets": [
+    "Also look for properties owned directly by owners: there may be no agency fee.",
+    "Negotiate: sometimes the owner agrees to split the deposit into two or three payments.",
+    "Move in mid-month only if you agree to pay the first month proportionally; otherwise, take advantage of the full month.",
+    "Ask the owner to leave the appliances they don’t use, or negotiate a price for them.",
+    "Compare on the map: at Casa-Libre you see rentals from owners and agencies together, and you can message each one by WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many months do I have to pay to start a rental?",
+   "a": "Usually the first month in advance plus one month’s deposit. If a real-estate agency is involved there may be a fee, and if you don’t have a guarantor they may ask for a larger deposit."
+  },
+  {
+   "q": "Is the security deposit returned?",
+   "a": "Yes, at the end of the contract, if there are no unpaid rents, expenses or utilities and the property is handed over in good condition, except for normal wear and tear."
+  },
+  {
+   "q": "Who pays the real-estate agency fee in a rental?",
+   "a": "It depends on each agency and the agreement with the owner. Ask before you visit so you don’t get surprises when signing."
+  },
+  {
+   "q": "Is it better to rent furnished to spend less at move-in?",
+   "a": "It can be advantageous if you have no furniture or appliances, because you avoid that purchase. Compare the monthly rent, which is usually higher, with what it would cost you to furnish the place."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Houses for rent",
+  "How to rent without a guarantor"
+ ]
+}

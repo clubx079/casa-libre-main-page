@@ -1,0 +1,126 @@
+{
+ "_src": "e1892d267776",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "O que é a conta corrente catastral e como encontrá-la",
+  "h1": "O que é a conta corrente catastral e por que você vai precisar dela",
+  "description": "A conta corrente catastral identifica um imóvel urbano no Paraguai. O que é, em que se diferencia do padrão e da finca, e onde encontrá-la.",
+  "answer": "A conta corrente catastral é o número com o qual o Catastro identifica um imóvel urbano no Paraguai: com esse número se calcula e se cobra o imposto imobiliário e se solicitam certificados. Em áreas rurais o equivalente é o número de padrão. Não é o mesmo que a finca ou matrícula, que é o número com o qual o imóvel consta na Dirección General de los Registros Públicos. Você a encontra na boleta do imposto imobiliário, no título de propriedade e nos certificados cadastrais."
+ },
+ "sections": [
+  {
+   "h2": "Três números diferentes para o mesmo imóvel",
+   "paras": [
+    "Quando você começa a olhar papéis de uma propriedade aparecem vários números e é fácil confundi-los. Cada um pertence a um órgão diferente e serve para algo distinto. Entender qual é qual te poupa idas e voltas com o escribano, a prefeitura e o banco.",
+    "Pense assim: o Catastro descreve o imóvel fisicamente (onde está, quanto mede, o que tem construído e qual é seu valor fiscal), enquanto o Registro diz quem é o dono e se há hipotecas, penhoras ou outras anotações. A prefeitura usa os dados cadastrais para cobrar o imposto imobiliário."
+   ],
+   "table": {
+    "head": [
+     "Número",
+     "Quem o administra",
+     "Para que serve"
+    ],
+    "rows": [
+     [
+      "Conta corrente cadastral (urbano)",
+      "Serviço Nacional de Catastro",
+      "Identificar o lote urbano, sua superfície e seu valor fiscal; liquidar o imposto imobiliário"
+     ],
+     [
+      "Padrão (rural)",
+      "Serviço Nacional de Catastro",
+      "O mesmo, para imóveis rurais"
+     ],
+     [
+      "Finca ou matrícula",
+      "Direção Geral dos Registros Públicos",
+      "Identificar o imóvel no Registro: dono, hipotecas, penhoras, inibições"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Onde encontrar a conta corrente cadastral",
+   "paras": [
+    "Se você é o dono, ou se o dono lhe passa seus papéis, o número costuma estar à vista em mais de um lugar. O habitual é encontrá-lo em:"
+   ],
+   "bullets": [
+    "O boleto ou comprovante de pagamento do imposto imobiliário que emite a prefeitura.",
+    "O título de propriedade (a escritura), onde o escribano (tabelião) transcreve os dados cadastrais do imóvel.",
+    "Um certificado cadastral ou relatório de avaliação emitido pelo Serviço Nacional de Catastro.",
+    "Planos de mensura ou planos aprovados pela prefeitura, em muitos casos."
+   ],
+   "tip": "Quando consultar por um imóvel à venda, peça ao anunciante a conta corrente cadastral e o número de finca ou matrícula. Um dono que tem os papéis em ordem os passa sem problema; se houver demoras ou evasivas, tome isso como um sinal para revisar com mais cuidado."
+  },
+  {
+   "h2": "Para que você precisa se for comprar",
+   "paras": [
+    "Com a conta corrente cadastral pode-se verificar na prefeitura se o imóvel tem dívidas do imposto imobiliário. As dívidas desse imposto ficam associadas ao imóvel, por isso o escribano pede um certificado de não dívida antes de assinar a escritura. Se o número do aviso não coincidir com o do boleto ou do título, é preciso esclarecer antes de pagar um sinal.",
+    "Também serve para comparar o que diz o aviso com o que diz o Catastro: superfície do terreno, metros construídos e localização. Não é raro que uma casa tenha ampliações que nunca foram declaradas. Isso não impede a compra, mas convém saber, pois pode gerar custos de regularização e afeta a avaliação fiscal.",
+    "Por fim, o banco ou a financeira vão solicitar se você for obter um crédito hipotecário, junto com os dados do Registro, para avaliar e para inscrever a hipoteca."
+   ]
+  },
+  {
+   "h2": "E se você só for alugar?",
+   "paras": [
+    "Como inquilino você não é obrigado a conhecê-la, mas pedí-la faz sentido em um caso concreto: quando quer confirmar que quem lhe aluga é realmente o dono ou tem autorização. Com o número de finca pode-se pedir, através de um escribano ou advogado, informações do Registro; com a conta corrente cadastral pode-se cruzar o endereço com os dados do Catastro. Para aluguéis de longo prazo ou locais comerciais, essa verificação vale a pena."
+   ]
+  },
+  {
+   "h2": "Valor fiscal não é valor de mercado",
+   "paras": [
+    "O Catastro atribui a cada imóvel um valor fiscal, que é a base sobre a qual se calcula o imposto imobiliário (geralmente, 1% desse valor, mais adicionais conforme o caso). Esse valor é atualizado anualmente por decreto do Poder Executivo e costuma ser bem menor que o preço pelo qual o imóvel é vendido no mercado.",
+    "Por isso não serve olhar o valor fiscal para saber se um preço está caro ou barato. Para isso é preciso comparar com imóveis semelhantes na mesma zona. O que o valor fiscal indica é, aproximadamente, quanto você pagará de imposto imobiliário por ano."
+   ]
+  },
+  {
+   "h2": "Novidade: o sistema unificado registral e cadastral",
+   "paras": [
+    "A Lei N° 7424/2025 criou o Sistema Nacional Unificado Registral e Cadastral e o Registro Unificado Nacional (RUN), com a ideia de que as informações do Registro e do Catastro deixem de viver em órgãos separados. Na prática, isso aponta para que os números do imóvel e seus dados de domínio possam ser consultados de forma integrada.",
+    "O Poder Judiciário informou a apresentação de um Certificado Catastral Registral Imobiliário em formato digital, que reúne em um único documento dados que antes eram solicitados separadamente. A implementação é gradual: nem todos os trâmites nem todos os imóveis passam ao novo sistema ao mesmo tempo, e quem o solicita costuma ser escribanos e advogados. Antes de iniciar um trâmite, pergunte ao seu escribano qual certificado corresponde ao seu caso."
+   ]
+  },
+  {
+   "h2": "O que fazer se os números não coincidirem",
+   "paras": [
+    "Às vezes o aviso indica uma superfície, o título outra e o Catastro uma terceira. Ou a conta corrente cadastral corresponde a um lote maior que depois foi subdividido. São situações comuns em áreas que cresceram rápido e nem sempre escondem um problema, mas exigem que um escribano ou um agrimensor revise antes de assinar."
+   ],
+   "steps": [
+    "Peça ao vendedor cópia do título, o último boleto do imposto imobiliário e, se houver, o plano de mensura.",
+    "Compare superfície, localização e número de lote entre os três documentos.",
+    "Se algo não fechar, peça ao seu escribano um certificado cadastral e um relatório do Registro atualizados.",
+    "Não pague sinal até que a diferença esteja explicada por escrito."
+   ]
+  },
+  {
+   "h2": "Antes de chegar aos papéis",
+   "paras": [
+    "Na Casa-Libre você pode comparar imóveis no mapa por zona e preço e escrever direto por WhatsApp ao dono ou à imobiliária para pedir esses dados antes de visitar. Também funciona pelo app da Casa-Libre para iPhone e Android, onde você pode salvar os imóveis que quer revisar com seu escribano."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "A conta corrente catastral é o mesmo que o número de finca?",
+   "a": "Não. A conta corrente catastral é atribuída pelo Catastro para identificar o imóvel urbano e seu valor fiscal; a finca ou matrícula é o número do imóvel na Dirección General de los Registros Públicos, onde consta quem é o proprietário e se há gravames."
+  },
+  {
+   "q": "O que é o padrão de um imóvel?",
+   "a": "É o equivalente rural da conta corrente catastral: o número com o qual o Catastro identifica um imóvel rural e sobre o qual se liquida o imposto imobiliário."
+  },
+  {
+   "q": "Onde vejo a conta corrente catastral da minha casa?",
+   "a": "Na boleta do imposto imobiliário, no título de propriedade e em qualquer certificado cadastral do imóvel."
+  },
+  {
+   "q": "Com a conta corrente catastral posso saber quem é o proprietário?",
+   "a": "Não diretamente. A titularidade consta nos Registros Públicos, com o número de finca ou matrícula. O mais seguro é solicitar um informe através de um escribano (tabelião)."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Terrenos em venda",
+  "Guia: gastos e impostos ao comprar"
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "_src": "3ab177ac1b1a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How much does it cost to rent an apartment in Caracas: how to calculate it",
+  "h1": "How much does it cost to rent an apartment in Caracas: the complete budget",
+  "description": "What determines the price of a rental in Caracas, what expenses are added to the rent (condominium, utilities, security deposit, moving) and how to compare options without surprises.",
+  "answer": "There is no single price: the rent of an apartment in Caracas depends mainly on the neighborhood, size, building condition, whether it is furnished, and services such as parking, generator or water tank. Add condominium fees (if applicable), electricity, water, gas, internet and the initial security deposit to the rent. The most reliable way to know how much it costs today is to compare actual listings in the same area and property type, not general averages."
+ },
+ "sections": [
+  {
+   "h2": "What defines the rental price in Caracas",
+   "paras": [
+    "Two apartments of the same size can have very different rents. These are the factors that weigh most in Caracas and that you should look at in each listing:"
+   ],
+   "bullets": [
+    "Zone and municipality: Chacao, Baruta, El Hatillo, Sucre and Libertador have very different realities, and even within each there are large differences between developments.",
+    "Building services: generator, water tank and pumps, working elevator, security.",
+    "Parking: one or two covered spaces change the price a lot.",
+    "Furnished or empty: a furnished apartment with white goods usually costs more, but it saves you from buying furniture.",
+    "Overall condition: renovated, with new kitchen and bathrooms, or ready \"to paint\".",
+    "Proximity to the Metro, main roads and your workplace."
+   ]
+  },
+  {
+   "h2": "What is added to the rent each month",
+   "paras": [
+    "Condominium fees are the expense that surprises most. In buildings with a generator, 24-hour security or frequent water purchases, they can be a significant part of the monthly cost."
+   ],
+   "table": {
+    "head": [
+     "Expense",
+     "What to consider"
+    ],
+    "rows": [
+     [
+      "Condominium",
+      "May be included or not. Ask for the amount of the last months and whether there are special fees currently in effect"
+     ],
+     [
+      "Electricity",
+      "Depends on air-conditioning use and the type of stove and heater"
+     ],
+     [
+      "Water",
+      "Ask how often water is delivered by pipe and if the building buys cisterns, because that is often charged to the condominium"
+     ],
+     [
+      "Gas",
+      "Direct or by cylinder, depending on the building"
+     ],
+     [
+      "Internet",
+      "Ask which providers serve the building before signing"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Up-front cost: what you pay before moving in",
+   "paras": [
+    "In addition to the first month, a guarantee or deposit is usually required when you sign. The housing lease law limits what can be demanded as a guarantee and as an advance payment, so if they ask for many months at once, ask what they are basing it on.",
+    "Also add the moving cost (truck and helpers), the authentication of the contract at the notary if it is done, and what you will buy to equip the apartment: curtains, bulbs, any appliance."
+   ],
+   "steps": [
+    "First month of rent.",
+    "Agreed guarantee or deposit.",
+    "Notary fees for the contract, if authenticated.",
+    "Moving.",
+    "Basic equipment and small repairs.",
+    "A cushion of at least one month’s expenses in case something is delayed."
+   ]
+  },
+  {
+   "h2": "Currencies, bolívares and exchange rate",
+   "paras": [
+    "Many listings in Caracas publish the rent as a reference in foreign currency. If you will pay in bolívares, ask which exchange rate is used (the usual one is the official rate published by the Central Bank of Venezuela on the payment day) and put that rule in writing in the contract. That way you avoid disputes each month.",
+    "Remember that the housing lease law has its own rules about the rent. If something doesn’t add up, consult before signing."
+   ]
+  },
+  {
+   "h2": "How to truly compare two apartments",
+   "paras": [
+    "Compare total monthly cost, not just rent. An apartment with lower rent but no generator, irregular water and far from your work can end up costing more in practice than one with higher rent and better services."
+   ],
+   "bullets": [
+    "Rent + condominium + estimated services = real monthly cost.",
+    "Time and cost of daily commute to your work or schools.",
+    "Hours of water and electricity in that area, asking neighbors.",
+    "If the building has a working elevator, especially on high floors."
+   ],
+   "tip": "Visit the area at night and on a weekday during rush hour. Traffic and the feel of the neighborhood change a lot depending on the time."
+  },
+  {
+   "h2": "How to negotiate the rent",
+   "paras": [
+    "The advertised rent is not always final. You have more leeway if the apartment has been listed for a while, if you offer a longer contract, if you pay on time with solid proof of income, or if you commit to handling small repairs. Make your offer with concrete arguments, comparing with similar listings in the same area.",
+    "Also negotiate what surrounds the rent: that the condominium be included, that the landlord repair something before you move in, or that they leave the white goods."
+   ]
+  },
+  {
+   "h2": "See real prices on the map",
+   "paras": [
+    "The best price reference is current listings. On Casa-Libre you can see apartments for rent in Caracas on the map, compare neighborhoods and write directly to the advertiser to ask about condominium fees and services before visiting. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the average rental price in Caracas?",
+   "a": "It varies so much by neighborhood, size and services that a general average is of little use. Compare current listings in the same development and the same type of apartment."
+  },
+  {
+   "q": "Does the tenant or the owner pay the condominium fee?",
+   "a": "It depends on what the contract says. Always ask if it is included in the rent and who assumes the special fees."
+  },
+  {
+   "q": "Is it better to rent furnished?",
+   "a": "If you are moving for a short time or have no furniture, yes. If you plan to stay several years, an unfurnished apartment usually ends up cheaper in the long run."
+  },
+  {
+   "q": "Which exchange rate is used if I pay in bolívares?",
+   "a": "The usual practice is the official BCV exchange rate on the day of payment, but the important thing is that the contract states it explicitly."
+  }
+ ],
+ "related": [
+  "Properties in Caracas",
+  "Apartments for rent",
+  "Condominium: what it covers and how it is calculated"
+ ]
+}

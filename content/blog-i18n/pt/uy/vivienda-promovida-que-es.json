@@ -1,0 +1,112 @@
+{
+ "_src": "d6710b81ce37",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Vivienda promovida em Uruguai: o que é e o que significa para você",
+  "h1": "Vivienda promovida: o que é a Lei 18.795 e o que muda se você comprar ou alugar",
+  "description": "O que é a vivienda promovida no Uruguai (Lei 18.795): benefícios para o investidor, isenção de ITP na primeira venda, o que perguntar como comprador ou inquilino e onde verificar na ANV.",
+  "answer": "Vivienda promovida é a que se constrói ou recicla sob a Lei 18.795, que dá benefícios tributários aos investidores que fazem vivienda de interesse social, seja para vender ou para alugar. Os projetos são declarados promovidos pelo Poder Executivo com a Agência Nacional de Vivienda (ANV). Para você, como comprador ou inquilino, pode significar um preço mais competitivo, a possível isenção do ITP na primeira compra e, nos aluguéis, um teto mais alto no Fundo de Garantia de Aluguel. Antes de comprar, confirme com a ANV e com seu escribano (tabelião) quais benefícios e condições tem esse projeto."
+ },
+ "sections": [
+  {
+   "h2": "O que é, em simples",
+   "paras": [
+    "A Lei 18.795, de 2011, declarou de interesse nacional melhorar o acesso à habitação de interesse social. Para isso permite conceder benefícios tributários a projetos de construção, reforma, ampliação ou reciclagem de moradias, tanto para venda quanto para aluguel. Segundo a ANV, a lei \"concede benefícios tributários aos investidores\".",
+    "Por isso, quando você vê um edifício novo em Montevidéu anunciado como \"habitação promovida\", significa que o desenvolvedor aderiu a esse regime. Não é um plano habitacional do Estado nem uma cooperativa: é um investimento privado com incentivos fiscais."
+   ]
+  },
+  {
+   "h2": "Que benefícios prevê a lei",
+   "paras": [
+    "O artigo 4 da lei faculta ao Poder Executivo conceder, entre outros, esses benefícios aos projetos promovidos:"
+   ],
+   "bullets": [
+    "Isenção de impostos de renda originada na atividade promovida.",
+    "Isenção do Imposto ao Patrimônio desses imóveis.",
+    "Isenção do IVA na venda, construção, reforma, ampliação e reciclagem das habitações.",
+    "Isenção do ITP ao vendedor, ao comprador ou a ambos, na primeira transmissão da habitação."
+   ],
+   "tip": "Um projeto ser promovido não garante que todos esses benefícios alcancem você como comprador. Pergunte por escrito qual se aplica à sua compra, especialmente o do ITP."
+  },
+  {
+   "h2": "Se você compra uma habitação promovida",
+   "paras": [
+    "O que mais pode impactar você é o ITP: em uma compra-venda comum, segundo a DGI, o comprador paga 2% sobre o valor real do Cadastro. Se a primeira venda de uma habitação promovida está isenta para o comprador, você economiza esse custo. Mas isso vale apenas na primeira transmissão: se depois você vender, o próximo comprador paga o ITP normal.",
+    "Além disso, muitos projetos promovidos são vendidos na planta. Por isso aplicam os mesmos cuidados de qualquer compra em construção: promessa de compra-venda inscrita, investigar o desenvolvedor e entender o ajuste das parcelas."
+   ]
+  },
+  {
+   "h2": "Se você compra para alugar",
+   "paras": [
+    "Uma parte importante das habitações promovidas é comprada para aluguel. O regime pode incluir benefícios para quem aluga uma habitação promovida, mas dependem das condições do projeto e da normativa vigente no momento da declaração. Não assuma benefícios sem confirmá-los com um contador e com a ANV."
+   ]
+  },
+  {
+   "h2": "Se você aluga uma habitação promovida",
+   "paras": [
+    "Para o inquilino, a diferença mais concreta está nas garantias: segundo a ANV, o Fundo de Garantia de Aluguel aceita um valor máximo de aluguel um pouco mais alto quando se trata de uma habitação promovida. Se você tem essa garantia, pergunte no anúncio se o apartamento é promovido.",
+    "No restante, o contrato e os direitos do inquilino são os mesmos de qualquer aluguel."
+   ]
+  },
+  {
+   "h2": "Como verificar se um projeto é promovido",
+   "steps": [
+    "Peça ao desenvolvedor o número ou a resolução da declaração do projeto.",
+    "Consulte o site de habitações promovidas da ANV, que publica informações de projetos e preços.",
+    "Peça ao seu escribano (tabelião) que confirme quais isenções se aplicam à sua compra.",
+    "Se for alugar, consulte um contador sobre os impostos de renda."
+   ]
+  },
+  {
+   "h2": "Onde há habitação promovida",
+   "paras": [
+    "O regime foi muito usado em bairros intermediários e centrais de Montevidéu, e também há projetos em outros departamentos como Canelones e Maldonado. As condições mudaram ao longo dos anos conforme as áreas que o Estado quis promover. Por isso não basta que \"seja promovido\": importa em que período e sob quais regras foi declarado."
+   ]
+  },
+  {
+   "h2": "Perguntas para fazer ao desenvolvedor",
+   "bullets": [
+    "O projeto está declarado promovido? Qual é a resolução?",
+    "Qual benefício me cabe como comprador? O ITP está isento na minha compra?",
+    "Existe alguma condição de uso ou de revenda para a unidade?",
+    "Qual a data estimada de entrega e de escritura?",
+    "Quanto se estima de despesas comuns com o edifício concluído?",
+    "O preço está em dólares ou em UI, e como são ajustadas as parcelas?"
+   ]
+  },
+  {
+   "h2": "Comparar antes de decidir",
+   "paras": [
+    "Compare o preço de uma unidade promovida com apartamentos usados da mesma zona, somando despesas comuns e a economia de impostos que realmente lhe cabe. No Casa-Libre você pode ver apartamentos à venda e para aluguel em Montevidéu no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso alugar uma vivienda promovida com a garantia do MVOT?",
+   "a": "Sim, se você cumprir os requisitos do Fundo de Garantia de Aluguel. Segundo a ANV, o valor máximo de aluguel garantido é um pouco maior quando a vivienda é promovida."
+  },
+  {
+   "q": "O que é uma vivienda promovida?",
+   "a": "Uma vivienda construída ou reciclada sob a Lei 18.795, que dá benefícios tributários a investidores que fazem vivienda de interesse social para vender ou alugar."
+  },
+  {
+   "q": "Paga-se ITP ao comprar uma vivienda promovida?",
+   "a": "A lei permite isentar o ITP na primeira transmissão, ao vendedor, ao comprador ou a ambos. Confirme com seu escribano se aplica à sua compra."
+  },
+  {
+   "q": "A vivienda promovida é mais barata?",
+   "a": "Pode ter preços competitivos pelos benefícios fiscais do desenvolvedor, mas não sempre. Compare com usados da mesma região."
+  },
+  {
+   "q": "Onde consulto se um projeto é promovido?",
+   "a": "Na Agência Nacional de Vivienda (ANV), que gerencia o regime e publica informações dos projetos."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Propriedades em Montevidéu",
+  "Comprar na planta em Montevidéu"
+ ]
+}

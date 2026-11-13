@@ -1,0 +1,138 @@
+{
+ "_src": "3200a23658ea",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Deed costs and ITP in Uruguay: how much buying adds up to",
+  "h1": "Deed costs in Uruguay: ITP, escribano (notary), real estate agency and other buyer expenses",
+  "description": "What the buyer pays when deeding in Uruguay: ITP (2% of the real cadastral value), fees of the escribano, contributions and stamps, real estate commission, loan and certificates. How to budget it.",
+  "answer": "When you buy a property in Uruguay, besides the price you will pay: the Impuesto a las Transmisiones Patrimoniales (ITP), which according to the DGI is 2% for the buyer on the real value set by the Cadastre (not on the price); the fees of your escribano, which are usually calculated as a percentage of the price plus VAT; the contributions to the Caja Notarial and stamps; the real estate agency commission if one is involved, and, if you request a loan, the appraisal, the insurances and the mortgage expenses. Request written quotes from the escribano and the agency before signing the reservation boleto."
+ },
+ "sections": [
+  {
+   "h2": "Buyer’s expenses, at a glance",
+   "table": {
+    "head": [
+     "Concept",
+     "What it is calculated on",
+     "Who charges it"
+    ],
+    "rows": [
+     [
+      "ITP of the buyer",
+      "2% of the real Cadastre value (DGI)",
+      "It is retained by the escribano (notary) and paid to the DGI"
+     ],
+     [
+      "Notary fees",
+      "Percentage of the price according to the fee schedule, plus VAT",
+      "Your escribano"
+     ],
+     [
+      "Notarial contributions and stamps",
+      "According to the act and the amount",
+      "Notarial Fund and State, via the escribano"
+     ],
+     [
+      "Registration and certificates",
+      "Document fees",
+      "Registry and agencies, via the escribano"
+     ],
+     [
+      "Real estate commission",
+      "Percentage of the price, plus VAT",
+      "The real estate agency, if it intervened"
+     ],
+     [
+      "Credit costs",
+      "Appraisal, insurance, mortgage deed",
+      "The bank and its escribano"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The ITP: the transfer tax",
+   "paras": [
+    "The Impuesto a las Transmisiones Patrimoniales taxes the sale of real estate, promises of sale and other transfers. According to the DGI, in onerous transactions the rate is 2% for the seller and 2% for the buyer.",
+    "The base is not the price you pay, but the real value set by the Dirección Nacional de Catastro, updated by CPI. In many cases that value is lower than the market price, so the ITP can be less than 2% of the price. Your escribano calculates it with the cadastral certificate.",
+    "The escribano acts as a withholding agent: he charges you the tax in the deed, files the sworn statement (form 1700 for urban properties) and pays it within the deadline."
+   ],
+   "tip": "If the purchase is the first sale of a promoted dwelling, the ITP could be exempt. Ask the developer and your escribano."
+  },
+  {
+   "h2": "Notary fees",
+   "paras": [
+    "In Uruguay the escribano is the professional who studies the titles, requests certificates, drafts the escritura, withholds taxes and registers the purchase. His fees are usually set as a percentage of the price, using the fee schedule of the Asociación de Escribanos del Uruguay as a reference, plus VAT. To that are added contributions to the Notarial Fund and professional stamps.",
+    "It is common for each party to have his own escribano, or for one to act for both. Request a detailed quote that lists fees, VAT, contributions, stamps, certificates and registration, so you don’t get surprises on signing day."
+   ]
+  },
+  {
+   "h2": "Real estate agency commission",
+   "paras": [
+    "If a real estate agency intermediates the transaction, it normally charges a commission to each party, expressed as a percentage of the price plus VAT. It is not a amount fixed by law: ask about it upfront and have it listed in the reservation boleto. If you buy directly from the owner, there is no commission."
+   ]
+  },
+  {
+   "h2": "If you buy with credit",
+   "paras": [
+    "Credit adds its own costs: the property appraisal, the mortgage deed (with the bank’s escribano fees), life and fire insurance and, sometimes, granting fees. Ask the bank for the full breakdown together with the simulation."
+   ]
+  },
+  {
+   "h2": "Debts you should not inherit",
+   "paras": [
+    "The escribano ensures that the property tax, the Primary tax and common expenses are up to date at signing. Usually those debts are cleared by the seller before or at signing, sometimes deducted from the price. If a debt appears, have it resolved in writing before paying the balance."
+   ]
+  },
+  {
+   "h2": "How to build your budget",
+   "steps": [
+    "Ask the seller for the cadastral roll number and the escribano for the real Cadastre value to calculate the ITP.",
+    "Request a written quote of fees, VAT, contributions, stamps and registration.",
+    "Ask about the real estate agency commission, if any.",
+    "If you use credit, add appraisal, insurance and mortgage deed costs.",
+    "Add moving, utility connections (UTE, OSE, internet) and initial repairs."
+   ]
+  },
+  {
+   "h2": "And the seller, what does he pay?",
+   "paras": [
+    "The seller pays his 2% ITP, his escribano if he has one, the real estate commission that applies to him and, if there is a gain, the IRPF on capital gains in the cases where it applies. If you are going to sell, check the tax and expense guide for selling."
+   ]
+  },
+  {
+   "h2": "Compare with all-included",
+   "paras": [
+    "Two properties at the same price can cost differently if one includes a commission and the other does not, or if one is promoted. On Casa-Libre you can see houses and apartments for sale on the map and talk directly with the owner or the agency via WhatsApp, also from the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do deed costs go into the mortgage loan?",
+   "a": "Generally no: the bank finances part of the price and you cover the transaction costs with your own savings. Ask each bank."
+  },
+  {
+   "q": "What is the ITP in Uruguay?",
+   "a": "According to the DGI, in a sale it is 2% for the seller and 2% for the buyer, based on the real value set by the Cadastre, not on the price."
+  },
+  {
+   "q": "Who pays the escritura in Uruguay?",
+   "a": "Each party pays its own escribano. The buyer also pays his ITP, contributions and stamps, and the real estate commission if applicable."
+  },
+  {
+   "q": "Is the ITP calculated on the sale price?",
+   "a": "No. It is calculated on the current real Cadastre value, updated by the CPI."
+  },
+  {
+   "q": "How much does an escribano charge for a sale?",
+   "a": "It usually charges a percentage of the price using the fee schedule of the Asociación de Escribanos as a reference, plus VAT and contributions. Request a written quote."
+  }
+ ],
+ "related": [
+  "Guide: costs and taxes when buying",
+  "Guide: taxes and costs when selling",
+  "Properties for sale"
+ ]
+}

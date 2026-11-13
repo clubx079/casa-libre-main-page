@@ -1,0 +1,121 @@
+{
+ "_src": "3496cbd87813",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Changing the ANDE and Water Account When You Move: What to Do",
+  "h1": "Electricity, Water and Internet When You Move: Changing Account Holder and Meter Readings",
+  "description": "What to do with ANDE, water and internet when you buy or rent: changing the account holder, final meter reading and whose name is best for the service.",
+  "answer": "When you move, the first thing is to note (and photograph) the meter readings for electricity and water on the day you receive the keys and confirm there are no overdue bills. If you bought the property, you need to transfer the services to your name: ANDE has a procedure for changing the contract holder, and water is handled with ESSAP or the sanitation board or water supplier in your area. If you rent, often the service remains in the owner’s name and you pay the bills; the important thing is to put it in writing in the contract."
+ },
+ "sections": [
+  {
+   "h2": "The day you receive the keys",
+   "paras": [
+    "Almost all disputes about utilities start because no one knows who used what. The solution takes five minutes: on the delivery day, with the owner or the previous tenant present, take photos of each meter with the number visible and the phone’s date."
+   ],
+   "steps": [
+    "Photograph the ANDE meter showing the reading and the meter number.",
+    "Do the same with the water meter, if there is one.",
+    "Request the last paid bill for each service (or the payment receipt).",
+    "Record the readings and who pays from that date in the handover protocol or in the contract.",
+    "Save everything in a phone folder and send it by WhatsApp to the owner, so it is documented."
+   ]
+  },
+  {
+   "h2": "ANDE: changing the name on the supply contract",
+   "paras": [
+    "Electric power is provided by the Administración Nacional de Electricidad (ANDE). Each supply has a contract in a person’s name. According to ANDE’s published customer-service procedure, a name change is the request to transfer a supply contract that is in someone else’s name to the applicant’s name.",
+    "For procedures related to ownership, ANDE requires documents that prove the link to the property; its published procedures mention, for example, an authenticated copy of the title deed or certificates from the municipality or the real-estate agency. The exact requirements and the channel (commercial office or online service) may change, so confirm them with ANDE before you go."
+   ],
+   "bullets": [
+    "Bring your cédula and the document that links you to the property (title or escritura, or contract if applicable).",
+    "Have the contract number or NIS number that appears on the bill handy.",
+    "Ask if there is any outstanding debt: it is advisable for the previous holder to clear it before the change.",
+    "If the house has been vacant for a long time or the service was cut, ask about reconnection."
+   ]
+  },
+  {
+   "h2": "Water: ESSAP, sanitation board or private water supplier",
+   "paras": [
+    "Water does not have a single provider nationwide. In Asunción and part of the metropolitan area the service is provided by ESSAP; in many other cities and neighborhoods it is provided by sanitation boards or private water suppliers, each with its own office and requirements. Before you move, ask the owner who supplies the water and how it is paid.",
+    "The name-change procedure, when applicable, is done with that provider. In general they will ask for your cédula and some document that proves you are the owner or that you are authorized. If it is a private water supplier, also ask about water quality and pressure during peak hours: it is a question few ask but it greatly affects daily life."
+   ],
+   "tip": "If the house has its own well or an elevated tank, ask to be shown the pump and the tank’s condition. Cleaning a tank is cheap; discovering a problem in the middle of summer is not."
+  },
+  {
+   "h2": "Whose name should the service be in?",
+   "paras": [
+    "It depends on whether you bought or rented. In a purchase, it is logical for all services to be transferred to your name as soon as possible: you are the new owner and it is not convenient for bills and debts to remain in someone else’s name.",
+    "In a rental there are two common ways, and neither is inherently better: the service stays in the owner’s name and the tenant pays the bills, or the tenant puts it in his/her name during the lease. What matters is that the contract clearly states who pays, how payment is proven (for example, by sending the receipt each month) and what happens with the final bill when you leave."
+   ],
+   "table": {
+    "head": [
+     "Situation",
+     "Common practice",
+     "What to put in writing"
+    ],
+    "rows": [
+     [
+      "You bought the property",
+      "Transfer electricity and water to your name",
+      "Meter readings on the day of the escritura and debts cleared by the seller"
+     ],
+     [
+      "You rent, service in the owner’s name",
+      "You pay, the owner controls",
+      "That you send the receipts and how the final bill is paid"
+     ],
+     [
+      "You rent, service in your name",
+      "You pay and you are the holder",
+      "That when you leave you return the service to the owner without debt"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Watch out for the previous occupant’s debts",
+   "paras": [
+    "An unpaid bill can lead to service disconnection even if the debt is not yours. Therefore, before you pay the deposit for a purchase or the first month of a rental, ask to see the last paid bills. In a sale, the escribano (notary) usually requests certificates that there are no debts; for electricity and water, it is advisable that you also verify it yourself."
+   ]
+  },
+  {
+   "h2": "Internet and TV: the service most often forgotten",
+   "paras": [
+    "Internet is usually not part of the rental contract, but it is part of your routine. Before signing, ask which companies have coverage on that block (not all reach every neighborhood) and how long installation takes. If the previous tenant had fiber, sometimes the cabling is already in place and installation is faster.",
+    "If you leave a house, remember to cancel your own internet service and return the equipment. Many companies charge for the equipment if it is not returned."
+   ]
+  },
+  {
+   "h2": "When you are the one moving out",
+   "paras": [
+    "Repeat the same ritual in reverse: photos of the meters on the day you hand over the keys, last paid bill or a written agreement on how payment is handled, and cancellation or return of the services that were in your name. It is the simplest way to have the security deposit returned without surprise deductions.",
+    "If you are looking for a place to move, on Casa-Libre you can see houses and apartments on the map and you can ask the owner via WhatsApp who supplies the water or if the house has fiber before you visit. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do you change the ANDE account holder?",
+   "a": "You apply at ANDE presenting your ID and documents that prove your link to the property, such as the title deed. Check the current requirements at ANDE before going."
+  },
+  {
+   "q": "If I rent, do I have to put the electricity in my name?",
+   "a": "Not necessarily. Often it stays in the owner’s name and the tenant pays the bills. The important thing is that the contract states who pays and how payment is documented."
+  },
+  {
+   "q": "Who pays an overdue bill from the previous tenant?",
+   "a": "The one who consumed it. That’s why it’s advisable to photograph the meters and request the last paid bill on the day of handover, and put it in writing in the minutes or the contract."
+  },
+  {
+   "q": "Who provides water in my neighborhood?",
+   "a": "It depends on the area: ESSAP in Asunción and part of the metropolitan area, and sanitation boards or water suppliers in many other cities. Ask the owner before you move."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Houses for sale",
+  "Guide: how to rent your property"
+ ]
+}

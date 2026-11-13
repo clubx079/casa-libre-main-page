@@ -1,0 +1,96 @@
+{
+ "_src": "5454057b66ad",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying Land in El Salvador: Requirements and What to Check",
+  "h1": "Buying a Land Plot in El Salvador: Requirements and What to Check Before Paying",
+  "description": "What to check before buying a land plot or lot in a subdivision in El Salvador: registration in the CNR, services, permits, land risks and rules for foreigners.",
+  "answer": "To buy land in El Salvador you need, at minimum, your DUI (or passport if you are a foreigner), a certification from the CNR confirming that the seller is the owner and that the lot has no mortgages or liens, and an escritura (deed) of sale before a notario (notary) registered in the Registro de la Propiedad Raíz e Hipotecas. Before paying, also verify that the lot has access, water and electricity feasibility, and that construction is allowed. If it is a \"credit\" subdivision, confirm that the developer can escriturar."
+ },
+ "sections": [
+  {
+   "h2": "Urban land, lot in a subdivision or rural land",
+   "paras": [
+    "It is not the same to buy a lot inside an established neighborhood with streets and services, a lot in a subdivision that is still being developed, or a rural land in the countryside. Each has different risks.",
+    "In an already urbanized neighborhood or residential area, the main thing is to verify the paperwork and any debts. In a subdivision, you also have to confirm that the project is authorized and that each lot has or will have its own registration. In a rural land, you should check boundaries, access via a public road, and water availability."
+   ]
+  },
+  {
+   "h2": "First step: registration at the CNR",
+   "paras": [
+    "Ask the seller for the property’s registration number and obtain an extract certification from the Centro Nacional de Registros. It will tell you who the owner is, the ownership percentage, the legal status of the property, and whether there are any pending documents. If the land is part of a larger property that has not yet been divided, there is no individual registration for the lot: that is a warning to proceed with extra caution.",
+    "Also compare the dimensions and boundaries in the escritura (deed) with what you see on the ground. If they do not match, a professional can perform a re-measurement before you sign."
+   ],
+   "bullets": [
+    "Is the seller listed in the register the same person who is selling to you?",
+    "Are there mortgages, liens, or preventive annotations?",
+    "Does the lot have its own registration or will it be segregated from a larger property?",
+    "Do the dimensions in the escritura match the actual land?"
+   ]
+  },
+  {
+   "h2": "Subdivisions and “credit” lots: watch out for the promise of sale",
+   "paras": [
+    "Many lots are sold in direct installments with the developer. In that scheme it is common to first sign a promise of sale and receive the final escritura when the payment is completed. The risk is paying for years and discovering at the end that the developer cannot deed the property because the project lacked permits or the overall development had problems.",
+    "The country has specific laws to regularize residential subdivisions, precisely because many lots were sold without meeting requirements. Before signing, ask for the project permits, request to see the overall development in the CNR, and read the promise of sale with a notario (notary): price, term, late-payment interest, and what happens to the money you have paid if you stop paying."
+   ],
+   "tip": "Talk to people who have already bought in that subdivision. Ask them if they have received their escritura and how long it took. It is one of the clearest signals of whether the developer complies."
+  },
+  {
+   "h2": "Water, electricity, access and building permits",
+   "paras": [
+    "A cheap lot can become expensive if it lacks water. Ask whether the lot already has water service from ANDA or a local system, and whether the electricity distributor has a nearby grid. If there is no service, find out how much it would cost to bring it in.",
+    "Building requires permits. In the Metropolitan Area of San Salvador, the Oficina de Planificación del Área Metropolitana (OPAMSS) participates in site qualification and permits; in other municipalities, the alcaldía (city hall) and the corresponding institutions. Before buying, check what can be built on that lot."
+   ]
+  },
+  {
+   "h2": "Land risks: slopes, ravines and rain",
+   "paras": [
+    "El Salvador has areas with steep slopes, ravines and soils that move during the rainy season. Visit the lot after a downpour if you can. Look for unprotected cut slopes, signs of landslides, gullies or standing water. Ask neighbors what happened in the last storms.",
+    "If you plan to build on a hillside or near a ravine, consult an engineer before buying. The cost of retaining walls, drainage and special foundations can completely change the budget."
+   ]
+  },
+  {
+   "h2": "If you are a foreigner",
+   "paras": [
+    "A foreigner can purchase property in El Salvador. The Constitution places a condition on rural lands: foreigners whose country of origin does not grant equal rights to Salvadorans cannot acquire them, except when the land is for industrial establishments. For urban lots that limitation does not apply in the same way. If you are a foreigner and are interested in rural land, ask the notario to confirm the reciprocity issue with your country."
+   ]
+  },
+  {
+   "h2": "Purchase costs",
+   "paras": [
+    "As with any property, the buyer pays the Impuesto sobre Transferencia de Bienes Raíces if the value exceeds US$28,571.43 (3% on the excess). Add notarial fees, registration at the CNR, and, if needed, a re-measurement of the land."
+   ]
+  },
+  {
+   "h2": "Finding land on Casa-Libre",
+   "paras": [
+    "On Casa-Libre you can filter land for sale, view it on the map, and write via WhatsApp to the owner or agent to request the registration number before visiting. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What do I need to buy land in El Salvador?",
+   "a": "DUI or passport, a certification from the CNR confirming ownership and legal status, and an escritura (deed) of sale before a notario registered in the Registro de la Propiedad Raíz e Hipotecas. If financing is involved, also the documents requested by the bank."
+  },
+  {
+   "q": "Can a foreigner buy land in El Salvador?",
+   "a": "Yes. The Constitution limits the purchase of rural land by foreigners from countries that do not grant equal rights to Salvadorans, except for industrial establishments. That rule does not apply in the same way to urban lots. Confirm with a notario."
+  },
+  {
+   "q": "Is it safe to buy a lot in installments from the developer?",
+   "a": "It can be safe if the project has permits and the developer can escriturar. Verify the property in the CNR, read the sales promise with a notario and talk to previous buyers."
+  },
+  {
+   "q": "How do I know if the lot has water?",
+   "a": "Ask if it already has service and request a receipt from the seller. If it does not, check with ANDA or the local water system to see if connection is feasible and how much it would cost."
+  }
+ ],
+ "related": [
+  "Land for Sale",
+  "Properties in La Libertad",
+  "Guide: Costs When Buying"
+ ]
+}

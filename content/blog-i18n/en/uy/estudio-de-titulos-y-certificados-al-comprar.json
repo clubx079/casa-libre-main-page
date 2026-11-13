@@ -1,0 +1,144 @@
+{
+ "_src": "f8e4db6b7524",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Title and Certificate Study When Buying in Uruguay",
+  "h1": "Title and Certificate Study: What the escribano (notary) Checks Before You Buy",
+  "description": "What the escribano reviews before a sale in Uruguay: title chain, Property Registry information, liens, mortgages, contribution, Primary tax, common expenses, sanitation and certificates.",
+  "answer": "Before the deed, your escribano conducts a title study: it reviews the chain of purchases, inheritances and other transfers of the property to confirm that the seller is the owner and can sell. It also requests information from the Property Registry about liens, mortgages, interdictions and other encumbrances, and checks that the property contribution, the Primary tax and the common expenses are up to date. Depending on the case, it also requests sanitation certificates, tax certificates from the seller and the cadastral account. If something is wrong, it is corrected before payment or the purchase does not go ahead."
+ },
+ "sections": [
+  {
+   "h2": "Why the title study protects you",
+   "paras": [
+    "In Uruguay the escribano (notary) plays a central role in the purchase: not only does he draft the escritura, but he also checks that what you are buying is in condition to be sold. The title study is that control. That is why it is advisable for you to have your own escribano, who reviews everything thinking about your interests.",
+    "The study is done during the reservation period, before the escritura. If a problem appears, your escribano tells you whether it can be remedied and how long it might take."
+   ]
+  },
+  {
+   "h2": "The chain of titles",
+   "paras": [
+    "The escribano reviews the previous escrituras of the property, going back in time, to verify that each transfer was valid: that the seller was the owner, that inheritances were processed, that signatures and powers were correct. Typical problems:"
+   ],
+   "bullets": [
+    "A succession that was not completed: the seller inherited but the inheritance is not registered.",
+    "A married or divorced seller whose marital property situation is unclear.",
+    "An expired or insufficient power of attorney.",
+    "Differences between the measurements in the title and the survey plan.",
+    "Undeclared or unregularized constructions."
+   ]
+  },
+  {
+   "h2": "Information from the Property Registry",
+   "paras": [
+    "The escribano requests information from the Dirección General de Registros about the property and the sellers. This way he detects mortgages, liens, promises registered in favor of another party, interdictions (for example, limitations on a person’s capacity to sell) and other encumbrances.",
+    "If there is a mortgage, for example because the seller still owes the bank, the usual practice is to cancel it in the same purchase act with part of the price, coordinating with the bank."
+   ]
+  },
+  {
+   "h2": "Debt checks and certificates",
+   "table": {
+    "head": [
+     "What is checked",
+     "Why it matters"
+    ],
+    "rows": [
+     [
+      "Real estate contribution",
+      "The debt runs with the property"
+     ],
+     [
+      "Primary tax",
+      "Must be up to date on urban properties"
+     ],
+     [
+      "Common expenses",
+      "Certificate of no debt from the building administration"
+     ],
+     [
+      "Saneamiento (Law 18.840)",
+      "If there is a sewer line in front of the property, it must be connected or in order; certificates are requested"
+     ],
+     [
+      "Cadastral certificate",
+      "Real value for the ITP"
+     ],
+     [
+      "Seller’s tax situation",
+      "Depending on the case, DGI or BPS certificates, for example if the seller is a company"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Checks on people and money",
+   "paras": [
+    "Law 19.574 includes escribanos among the subjects obliged to prevent money laundering when they intervene in purchases. That is why they will ask you for personal data and documentation about the source of funds, especially for significant amounts. Have those papers ready so you do not delay the signing."
+   ]
+  },
+  {
+   "h2": "How long it takes",
+   "paras": [
+    "It depends on the property and what shows up. A property with clean titles and debts up to date is resolved faster; an unfinished inheritance or an unregularized construction can take much longer. That is why the reservation boleto must give a reasonable deadline and anticipate what happens if the titles are not in order."
+   ],
+   "tip": "Ask that the boleto state that if the title study has observations that cannot be remedied within the deadline, they return your deposit."
+  },
+  {
+   "h2": "What you can request from the start",
+   "steps": [
+    "Padron number and copy of the seller’s title.",
+    "Latest real estate contribution receipt and Primary tax receipt.",
+    "Certificate of common expenses up to date, if it is an apartment.",
+    "Survey plan or horizontal property plan.",
+    "Data of the seller’s escribano, so the escribanos can coordinate."
+   ]
+  },
+  {
+   "h2": "Red flags before you meet the escribano",
+   "paras": [
+    "There are situations that do not always prevent the purchase, but it is useful to know them from the first contact so you do not waste time or money on a reservation:"
+   ],
+   "bullets": [
+    "The seller is not the title holder and \"is processing\" the inheritance.",
+    "They ask for the deposit before giving you the padron number.",
+    "The price is far below that of similar properties in the area.",
+    "There are obvious extensions that are not shown on the plans.",
+    "They sell \"with boleto\" or \"with rights\" instead of with title."
+   ]
+  },
+  {
+   "h2": "Before reserving",
+   "paras": [
+    "When you inquire about a listing, ask if the property has titles in order and if it is free of debts. On Casa-Libre you can see houses, apartments and land for sale on the map and write directly via WhatsApp, also from the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What happens if the title study finds a problem?",
+   "a": "Your escribano tells you whether it can be remedied and how long it will take. If it cannot, and the reservation contract provides for it, the reservation is voided and your deposit is returned."
+  },
+  {
+   "q": "What is a title study?",
+   "a": "The review the escribano makes of the previous deeds of a property to confirm that the seller is the owner and that there are no issues preventing the sale."
+  },
+  {
+   "q": "What certificates does the escribano request for a sale?",
+   "a": "Information from the Property Registry about liens and interdictions, and certificates of contribution, Primary tax, common expenses and sanitation up to date; depending on the case, DGI or BPS certificates from the seller."
+  },
+  {
+   "q": "Can you buy a house with a mortgage?",
+   "a": "Yes, if the mortgage is cancelled at the same time as the purchase with part of the price, coordinating with the seller's bank."
+  },
+  {
+   "q": "Who pays for the title study?",
+   "a": "It is normally included in the fees of the buyer's escribano. Ask for a detailed budget."
+  }
+ ],
+ "related": [
+  "Properties for Sale",
+  "Guide: Property Documents",
+  "Reservation Ticket and Promise"
+ ]
+}

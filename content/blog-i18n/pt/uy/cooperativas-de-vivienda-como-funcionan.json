@@ -1,0 +1,122 @@
+{
+ "_src": "2f5c297574c5",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Cooperativas de habitação no Uruguai: como funcionam e como entrar",
+  "h1": "Cooperativas de habitação no Uruguai: ajuda mútua, poupança prévia, usuários e proprietários",
+  "description": "Como funcionam as cooperativas de habitação no Uruguai: ajuda mútua ou poupança prévia, cooperativas de usuários ou de proprietários, empréstimo do MVOT, sorteio, prazos e como se juntar a um grupo.",
+  "answer": "Uma cooperativa de habitação é um grupo de famílias que se organiza para construir suas casas com financiamento do Estado. No Uruguai são regidas pela Lei 13.728 e outras normas, e há duas grandes modalidades: ajuda mútua, na qual os sócios aportam horas de trabalho na obra, e poupança prévia, na qual aportam dinheiro. Além disso, podem ser de usuários (a propriedade é da cooperativa e você tem direito de uso e gozo) ou de proprietários. O empréstimo é concedido pelo MVOT, geralmente por sorteio entre as cooperativas que cumprem os requisitos. É um caminho longo, mas permite acessar uma habitação com parcelas de acordo com a renda."
+ },
+ "sections": [
+  {
+   "h2": "O que é uma cooperativa de habitação",
+   "paras": [
+    "O sistema cooperativo de habitação é uma das formas mais conhecidas de acesso à moradia no Uruguai. Baseia-se na Lei Nacional de Habitação (Lei 13.728, de 1968), que já previa cooperativas de usuários e que os organismos públicos deem atenção preferencial aos programas de ajuda mútua.",
+    "Um grupo de famílias forma a cooperativa, adquire um terreno, contrata um Instituto de Assistência Técnica (IAT) que elabora o projeto e acompanha a obra, e solicita o empréstimo ao Estado. Quando a obra termina, cada família recebe sua casa e a cooperativa continua funcionando: administra o conjunto e cobra as quotas para devolver o empréstimo."
+   ]
+  },
+  {
+   "h2": "Ajuda mútua ou poupança prévia",
+   "paras": [
+    "Nas cooperativas de ajuda mútua, as horas de trabalho dos sócios substituem parte da poupança e exige-se uma quantidade mínima de horas por família. É um compromisso grande, que dura toda a obra. Nas de poupança prévia, a contribuição é em dinheiro."
+   ],
+   "table": {
+    "head": [
+     "Modalidade",
+     "O que você aporta",
+     "Para quem costuma servir"
+    ],
+    "rows": [
+     [
+      "Ajuda mútua",
+      "Horas de trabalho na obra, organizadas pela cooperativa",
+      "Famílias com pouca poupança e tempo disponível para a obra"
+     ],
+     [
+      "Poupança prévia",
+      "Uma poupança em dinheiro antes e durante a obra",
+      "Famílias com capacidade de poupar e menos tempo"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cooperativa de usuários ou de proprietários",
+   "paras": [
+    "Em uma cooperativa de usuários, as casas são propriedade da cooperativa e cada sócio tem um direito de uso e gozo sobre a sua, que pode ser herdado. Se você sair, a cooperativa devolve suas partes sociais e a casa é adjudicada a outro sócio. Em uma cooperativa de proprietários, ao terminar de pagar, cada sócio torna-se dono da sua casa.",
+    "A de usuários é a forma mais difundida e tem alguns benefícios; por exemplo, a Intendência de Montevidéu tem um trâmite de isenção de contribuição imobiliária para cooperativas de casas de usuários."
+   ]
+  },
+  {
+   "h2": "As etapas, da fundação à chave",
+   "paras": [
+    "A ANV descreve o processo por etapas. Simplificado, o caminho é assim:"
+   ],
+   "steps": [
+    "O grupo se forma e elabora a ata de fundação da cooperativa.",
+    "Escolhe-se um Instituto de Assistência Técnica e obtém-se a personificação jurídica e o certificado de regularidade.",
+    "Adquire-se um terreno, próprio ou de uma carteira pública.",
+    "Apresenta-se o projeto e inscreve-se a cooperativa para o empréstimo.",
+    "O MVOT adjudica os empréstimos, geralmente por sorteio entre as cooperativas habilitadas.",
+    "Constrói-se a obra, com horas de trabalho ou poupança conforme a modalidade.",
+    "Adjudicam-se as casas e começa o pagamento das quotas."
+   ]
+  },
+  {
+   "h2": "Quanto tempo leva",
+   "paras": [
+    "Do momento em que um grupo se forma até as famílias se mudarem costumam passar vários anos: depende de conseguir terreno, de ser sorteado e do ritmo da obra. Não é uma solução para quem precisa se mudar logo. Muitas famílias alugam enquanto isso, e por isso convém combinar a cooperativa com um bom plano de aluguel."
+   ]
+  },
+  {
+   "h2": "Requisitos para se juntar",
+   "bullets": [
+    "Renda do núcleo familiar dentro das faixas que fixa a regulamentação, expressas em UR.",
+    "Em geral, não ser proprietário de outra casa.",
+    "Compromisso de participar das assembleias e, na ajuda mútua, na obra.",
+    "Documentação do núcleo familiar: cédulas, comprovantes de renda e, em alguns casos, histórico laboral."
+   ],
+   "tip": "Existem cooperativas já formadas que buscam sócios para completar o grupo, sobretudo quando alguma família sai. Pergunte nas federações de cooperativas e no seu bairro."
+  },
+  {
+   "h2": "Se você mora no interior rural",
+   "paras": [
+    "Em pequenas localidades e zonas rurais, o MEVIR constrói casas com um sistema de ajuda mútua similar, em chamadas que abre por localidade. Se você mora no interior, consulte também essa opção."
+   ]
+  },
+  {
+   "h2": "Enquanto isso",
+   "paras": [
+    "Se você está em uma cooperativa ou aguardando um sorteio, provavelmente alugará durante a espera. No Casa-Libre você pode ver aluguéis de todo o Uruguai no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso vender minha habitação de uma cooperativa?",
+   "a": "Em uma cooperativa de usuários não, porque a habitação é da cooperativa: se você sair, devolvem suas partes sociais conforme o estatuto. Em uma de proprietários, uma vez que você seja dono, aplicam as regras da cooperativa e do empréstimo."
+  },
+  {
+   "q": "O que é uma cooperativa de ajuda mútua?",
+   "a": "Uma cooperativa na qual os sócios aportam horas de trabalho na obra em vez de uma parte da poupança em dinheiro."
+  },
+  {
+   "q": "Em uma cooperativa de usuários sou dono da minha casa?",
+   "a": "Não. A habitação é da cooperativa e você tem um direito de uso e gozo, que pode ser herdado. Se você sair, devolvem suas partes sociais."
+  },
+  {
+   "q": "Como se consegue o empréstimo de uma cooperativa?",
+   "a": "É concedido pelo MVOT; segundo a ANV, a adjudicação de empréstimos é feita por sorteio entre as cooperativas que cumprem os requisitos."
+  },
+  {
+   "q": "Quanto tempo leva para ter a habitação?",
+   "a": "Vários anos em geral, entre formar o grupo, conseguir terreno, ser sorteado e construir."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Terrenos à venda",
+  "Crédito hipotecário no Uruguai"
+ ]
+}

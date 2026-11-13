@@ -1,0 +1,103 @@
+{
+ "_src": "3501cd156192",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Choose a Neighborhood in Asunción: 6 Criteria That Matter",
+  "h1": "Where to Live in Asunción: How to Pick the Neighborhood That Suits You",
+  "description": "There is no \"best neighborhood\" in Asunción: there is one that fits your routine. Commuting, floods, noise, services, safety and budget are the factors to decide wisely.",
+  "answer": "To choose a neighborhood in Asunción it helps to decide first based on your routine and then on the reputation of the area: how long it will take you to get to work or school during rush hour, whether the street floods with runoff, how much noise there is at night, what you have within walking distance and how much it costs. Areas like Villa Morra, Recoleta or Carmelitas concentrate shops and offices; more residential and traditional neighborhoods offer a different pace and often more space for the same price."
+ },
+ "sections": [
+  {
+   "h2": "Start with your week, not the ranking",
+   "paras": [
+    "\"Best neighborhoods\" lists are of little use because each family lives differently. For a couple who works in the office zone of the España and Mariscal López avenue corridor, a nearby neighborhood is worth gold even if it’s more expensive. For someone who works from home, silence, a yard, or price may matter more.",
+    "Before opening the map, write on a piece of paper the three or four places you go to every week (work, school, university, your parents’ house, the supermarket) and at what time. That paper will decide more than any recommendation."
+   ]
+  },
+  {
+   "h2": "Criterion 1: rush-hour commute",
+   "paras": [
+    "Asunción and its metropolitan area have heavy traffic during inbound and outbound hours, and short distances on the map can be long in reality. Accesses to the city from Luque, San Lorenzo or Lambaré get congested, and within the capital the main avenues do as well.",
+    "Do the real route, at the real time, at least once before signing. If you use public transport, check which lines pass nearby and how often. If you walk or bike, look at the condition of the sidewalks: they vary a lot from block to block."
+   ]
+  },
+  {
+   "h2": "Criterion 2: water when it rains heavily",
+   "paras": [
+    "With intense rain, some streets in Asunción turn into torrents: water currents that flow down slopes and can be dangerous. This is added to low-lying areas near the Paraguay River, which are affected by floods.",
+    "You don’t have to discard an entire neighborhood, but you should look at the block: whether the house is on a slope, if water enters the garage, if the corner gets cut off. The best test is to go after a storm and ask the neighbors."
+   ]
+  },
+  {
+   "h2": "Criterion 3: noise and nightlife",
+   "paras": [
+    "Areas with more bars, restaurants and venues, like parts of Villa Morra or the surroundings of the commercial avenues, are convenient for going out and having everything close, but they can be noisy on weekends. An apartment that faces the avenue doesn’t feel the same as one on the opposite side.",
+    "Visit the place on a Friday or Saturday night, not just on a Tuesday morning. Ask if there are night venues, churches or schools on the block: each has its own activity schedule."
+   ]
+  },
+  {
+   "h2": "Criterion 4: what you have on foot",
+   "paras": [
+    "Supermarket, pharmacy, a bus stop, a plaza, the school. The more things you can solve by walking, the less you depend on a car and traffic. Areas with more commerce, like Villa Morra, Carmelitas or Las Mercedes, usually offer more of this; the more residential neighborhoods have less commerce but quieter streets.",
+    "Also check the home services: water pressure, fiber-optic coverage and whether there are frequent power cuts in the area. Ask the owner and the neighbors directly."
+   ]
+  },
+  {
+   "h2": "Criterion 5: security, with information not prejudice",
+   "paras": [
+    "Security changes from block to block, and a neighborhood’s reputation doesn’t always reflect what’s happening today. Instead of relying on general comments, observe: street lighting at night, people’s movement, whether houses have high fences or guards, and talk to neighbors and merchants.",
+    "In buildings, ask if there is a concierge or access control and at what hours. In houses, look at fences, gates and whether there are cameras on the block."
+   ]
+  },
+  {
+   "h2": "Criterion 6: the full budget",
+   "paras": [
+    "The rent or purchase price is only part of it. Add expensas (in buildings), parking if it’s not included, transportation and the time you’ll spend traveling. Sometimes a slightly more expensive but nearby neighborhood ends up cheaper at the end of the month.",
+    "To get an idea of prices, compare similar properties in the same area: same type, size and number of bedrooms. That way you’ll quickly see which neighborhoods fit your budget."
+   ]
+  },
+  {
+   "h2": "Some neighborhoods, in a few words",
+   "paras": [
+    "Without trying to rank them, these are general descriptions that serve as a starting point. Always confirm by walking the area:"
+   ],
+   "bullets": [
+    "Villa Morra, Recoleta and Carmelitas: office zone, shopping centers, restaurants and many new buildings; practical and with a lot of apartment supply, generally higher prices.",
+    "Las Mercedes and San Vicente: traditional neighborhoods, relatively close to downtown and commercial areas, with a mix of old houses and buildings.",
+    "Sajonia and Barrio Jara: historic neighborhoods, with older houses and a neighborhood feel; worth checking the condition of each building.",
+    "Mburucuyá and Trinidad: more residential areas, with houses and quiet streets, connected to the accesses toward Luque and the north."
+   ]
+  },
+  {
+   "h2": "How to explore neighborhoods on the map",
+   "paras": [
+    "On Casa-Libre you can see properties for sale and rent in Asunción on the map, compare prices between neighboring districts and write by WhatsApp to the owner or the agency to ask what matters: noise, water, commutes. From the Casa-Libre app for iPhone and Android you can save the options and visit them in person later."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the best neighborhood to live in Asunción?",
+   "a": "It depends on your routine and budget. Commercial areas like Villa Morra or Carmelitas have everything nearby; more residential neighborhoods offer tranquility and sometimes more space for the same price."
+  },
+  {
+   "q": "Which neighborhoods in Asunción flood?",
+   "a": "Low-lying areas near the Paraguay River are affected by river rises, and many streets develop runoff during heavy rains. It is advisable to evaluate block by block, visiting after a storm."
+  },
+  {
+   "q": "How do I calculate how long it will take to get to work?",
+   "a": "By making the actual trip during rush hour at least once, using the mode of transportation you plan to use."
+  },
+  {
+   "q": "Is it better to rent first before buying in a neighborhood?",
+   "a": "If you don’t know the area, renting for a while lets you get to know it without committing. It is not mandatory, but it reduces the risk of making a mistake."
+  }
+ ],
+ "related": [
+  "Properties in Asunción",
+  "Apartments for rent",
+  "Houses for sale"
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "_src": "296f72b2b37d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buy a house in Bolivia: requirements and steps (buyer)",
+  "h1": "How to buy a house in Bolivia: requirements, paperwork and steps",
+  "description": "What you need to buy a house in Bolivia: folio real, taxes up to date, minuta, escritura (public deed) before notary, IMT payment and registration in Derechos Reales. Step by step.",
+  "answer": "To buy a house in Bolivia you need your identity card, verify in Derechos Reales that the seller is the owner and that the house has no liens (folio real and alodial certificate), check that municipal taxes are paid, sign a minuta that the notario turns into escritura, pay the municipal transfer tax and register the purchase in Derechos Reales. Until you register, the purchase is not enforceable against third parties."
+ },
+ "sections": [
+  {
+   "h2": "Before you start looking: how much you can afford and how",
+   "paras": [
+    "The first step isn’t touring houses, it’s knowing how much money you have to buy with. If you’re paying cash, also add the closing costs: notario (notary) fees, transfer tax (if you assume it by agreement with the seller), Derechos Reales fees and the name change in the cadastre. If you’re using a loan, get a pre-qualification from your bank first: it will give you an approximate amount and you’ll avoid falling in love with a house you can’t finance.",
+    "If your income and the house price fall within the social housing limits, you can access the regulated maximum rates. We explain this in the guide on social housing credit."
+   ]
+  },
+  {
+   "h2": "Verify the property before you spend a single boliviano",
+   "paras": [
+    "In Bolivia the public property register is Derechos Reales (DD.RR.), which depends on the Judicial Branch. Every registered property has a matrícula and a folio real (real title), where the owner, area and encumbrances (mortgages, anticrético (mortgage lien), seizures or preventive annotations) are listed. Ask the seller for the matrícula number and request an updated folio real and, if possible, an alodial certificate, which proves whether the property is free of charges."
+   ],
+   "bullets": [
+    "Make sure the name on the folio real matches the ID of the seller. If there are multiple owners (for example, a married couple or heirs), they all sign.",
+    "Ensure there are no mortgages, anticréticos or active seizures, or that they are cancelled before or at the moment of sale.",
+    "Check that the area on the folio matches the plan and what you see on the ground.",
+    "Confirm the property tax is paid to the alcaldía: you can check it in your city’s municipal system or on the RUAT platform, if your municipality is linked.",
+    "Make sure there is a plan approved by the alcaldía and that the construction matches the approved plan."
+   ],
+   "tip": "If the seller offers to sell \"acciones y derechos\" instead of the whole house, it means they are selling a share of a co-ownership. It’s a legal figure, but it carries more risk: consult a lawyer before proceeding."
+  },
+  {
+   "h2": "The reservation or deposit: how not to lose money",
+   "paras": [
+    "It’s common for the seller to ask for a deposit to \"reserve\" the house. Before paying it, have the folio real in hand. Make the payment by bank transfer to the name of the registered owner, not a third party, and sign a private document that states the total price, the deposit amount, the deadline to sign the minuta and what happens to the money if the sale falls through due to either party."
+   ]
+  },
+  {
+   "h2": "The purchase steps, in order",
+   "steps": [
+    "Agree on the price, currency and payment method with the seller.",
+    "Review the folio real, alodial certificate, municipal taxes and approved plan.",
+    "Sign a reservation or deposit document, if any, with clear conditions.",
+    "A lawyer drafts the minuta (sale contract) with the matrícula data, area, price and payment method.",
+    "The notario of public faith protocolizes the minuta and turns it into an escritura pública (public deed), with the buyer’s and seller’s signatures (and the spouse’s, if applicable).",
+    "Pay the Municipal Transfer Tax (IMT) in the municipality where the property is located.",
+    "Submit the escritura to Derechos Reales to register the transfer in your name and obtain your folio real.",
+    "Change the name in the municipal cadastre and with the utilities (electricity, water, gas)."
+   ]
+  },
+  {
+   "h2": "What costs appear besides the price",
+   "paras": [
+    "Amounts vary by city and property value, so here are only the concepts. Request a written estimate from the notario and the lawyer before signing."
+   ],
+   "table": {
+    "head": [
+     "Cost",
+     "Usually paid by",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Municipal Transfer Tax (IMT)",
+      "The law places it on the seller (registered holder)",
+      "General rate of 3% according to the regulation; in practice it is negotiated"
+     ],
+     [
+      "Notario of public faith",
+      "By agreement",
+      "Fee for protocolizing the escritura"
+     ],
+     [
+      "Lawyer (drafting and review)",
+      "Usually the buyer",
+      "Fee is free-market; ask for it in writing"
+     ],
+     [
+      "Derechos Reales",
+      "The buyer",
+      "Registration fees and certificates"
+     ],
+     [
+      "Municipal cadastre",
+      "The buyer",
+      "Name change and certificates"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to search wisely",
+   "paras": [
+    "First define the area and budget, then filter. On Casa-Libre you can see houses for sale on the map and message the owner or agency directly via WhatsApp. Before visiting, ask if the house has a folio real in the seller’s name and if the taxes are up to date: it saves you trips to properties with paperwork problems. You can also save the ones you like from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What documents do I need to buy a house in Bolivia?",
+   "a": "As a buyer, your identity card (or passport if you are a foreigner) and, if you are using credit, the papers the bank requires. From the seller you must review folio real, alodial certificate, paid taxes, approved plan and his identity card."
+  },
+  {
+   "q": "Does a sale without registration in Derechos Reales count?",
+   "a": "Between buyer and seller the contract exists, but against third parties (another buyer, a seller’s creditor) protection comes with registration. That’s why you should register as soon as you have the escritura."
+  },
+  {
+   "q": "Who pays the transfer tax?",
+   "a": "The IMT regulation states that the obligated person is the one in whose name the property is registered, that is, the seller. In practice it is often negotiated; put it in writing in the minuta."
+  },
+  {
+   "q": "Do I need a lawyer and notary?",
+   "a": "Yes. The notario of public faith gives form of escritura to the sale, which is what gets registered. A lawyer drafts the minuta and reviews the papers; it is the best investment to avoid problems."
+  }
+ ],
+ "related": [
+  "Houses for sale on the map",
+  "Guide: how to buy your first house",
+  "Guide: costs when buying a house",
+  "Folio real: what it is and how to get it"
+ ]
+}

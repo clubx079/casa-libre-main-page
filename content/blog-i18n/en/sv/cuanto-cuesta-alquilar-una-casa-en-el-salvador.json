@@ -1,0 +1,138 @@
+{
+ "_src": "d74e3d980aca",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How much does it cost to rent a house in El Salvador",
+  "h1": "How much does it cost to rent a house or an apartment in El Salvador: how to calculate it",
+  "description": "How to calculate what it really costs to rent in El Salvador: what drives the price, how much money you need to move in, and what monthly expenses are added to the rent.",
+  "answer": "The cost of renting in El Salvador depends mainly on the area, the type of property, and whether it is furnished; therefore there is no single price and the best approach is to compare current listings in the area you are interested in. To calculate your real budget, add three things: what you pay to move in (usually the first month in advance plus a deposit), the monthly rent, and the expenses that are not always included (water, electricity, internet, maintenance fee, and security). Everything is paid in dollars."
+ },
+ "sections": [
+  {
+   "h2": "What makes a rental cost more or less",
+   "paras": [
+    "Two houses of the same size can have very different rents. The factors that weigh the most are:"
+   ],
+   "bullets": [
+    "Location: proximity to workplaces, schools and shops, and travel time during rush hour.",
+    "Type of property: house in an open subdivision, house in a gated community or apartment in a building with amenities.",
+    "Security and access: gate, guard service, private parking.",
+    "Furnished or not: a furnished property usually costs more, but saves you the purchase of furniture.",
+    "Condition and age: kitchen, bathrooms, electrical installations and roofs.",
+    "Included services: whether the maintenance fee, water or internet are included in the price."
+   ]
+  },
+  {
+   "h2": "How to know if a price is reasonable",
+   "paras": [
+    "The most reliable way is to compare. Look in the same area for similar properties in size, number of rooms and finish level, and note the price and what each includes. With five or six comparisons you can already detect whether a listing is far above or, conversely, suspiciously cheap.",
+    "A price far below the rest can be an opportunity, but also a sign of a scam: never pay a deposit before seeing the property and confirming that the person renting it is the owner or is authorized."
+   ],
+   "tip": "Always ask \"What does the price include?\". A slightly higher rent with maintenance and water included can end up cheaper than another that appears lower."
+  },
+  {
+   "h2": "The money you need to move in",
+   "paras": [
+    "Usually you pay the first month in advance and leave a deposit when you sign. Some owners ask for more months in advance when there is no guarantor or when the tenant has no rental history. On top of that you have moving costs and, sometimes, utility connections."
+   ],
+   "table": {
+    "head": [
+     "Concept",
+     "When it is paid",
+     "How to estimate it"
+    ],
+    "rows": [
+     [
+      "First month in advance",
+      "When signing",
+      "One monthly rent"
+     ],
+     [
+      "Deposit",
+      "When signing",
+      "As agreed; ask before you visit"
+     ],
+     [
+      "Additional months in advance",
+      "When signing, if requested",
+      "Replace the guarantor in some cases"
+     ],
+     [
+      "Moving",
+      "When moving in",
+      "Get quotes from two or three movers"
+     ],
+     [
+      "Furniture and appliances",
+      "When moving in",
+      "If the property is not furnished"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Monthly expenses besides rent",
+   "paras": [
+    "Ask who pays each service and how much has been paid in recent months. Request to see some water and electricity bills for the property: they give you a realistic idea of consumption."
+   ],
+   "bullets": [
+    "Electricity: depends heavily on air-conditioner use.",
+    "Water: from ANDA or the local system of the area.",
+    "Internet and television.",
+    "Maintenance or security fee for the subdivision, gated community or building, if not included.",
+    "Propane gas for cooking.",
+    "Transportation: a cheaper rent farther from work can cost you more in time and fuel."
+   ]
+  },
+  {
+   "h2": "How much of your income to allocate to rent",
+   "paras": [
+    "A common rule of thumb is that rent should not exceed about one third of household income. If you add utilities to the rent, the actual proportion is higher. Do the calculation with a normal month, without counting overtime or bonuses.",
+    "Hypothetical example: if your household brings in US$1,200 per month, a rent around US$400 leaves room for utilities, food and transportation. If rent rises to US$600, half of the income goes to housing and little margin remains for emergencies."
+   ]
+  },
+  {
+   "h2": "What can be negotiated",
+   "paras": [
+    "The price is not always fixed. You can negotiate a longer lease in exchange for keeping the rent, have the owner make certain repairs before you move in, or have the maintenance fee included. Whatever you agree on, put it in writing in the contract."
+   ]
+  },
+  {
+   "h2": "Furnished or unfurnished?",
+   "paras": [
+    "A furnished rental costs more per month, but saves you from buying beds, dining set, refrigerator and kitchen. If you will stay only a short time, for example while looking for a house to buy or on a temporary work contract, it often makes sense. If you plan to stay for years, buying your own furniture can be cheaper.",
+    "Ask for a detailed inventory with photos of what is included. Anything not on the list can become a dispute when returning the deposit."
+   ]
+  },
+  {
+   "h2": "Compare rentals on the map",
+   "paras": [
+    "On Casa-Libre you can view rentals on the map by area and price, compare several in minutes and message the owner or agent on WhatsApp to ask what the rent includes. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much does it cost to rent a house in El Salvador?",
+   "a": "It depends on the area, the type of property, and whether it is furnished. Compare current listings in the area you are interested in and add the expenses that are not included in the rent."
+  },
+  {
+   "q": "How much money do I need to move into a rental?",
+   "a": "Usually the first month in advance plus a deposit. If you do not have a guarantor, they may ask for additional months. Add moving costs and furniture if you need them."
+  },
+  {
+   "q": "In what currency is rent paid?",
+   "a": "In United States dollars, which is the currency used in El Salvador since the Monetary Integration Law."
+  },
+  {
+   "q": "What expenses are usually not included in the rent?",
+   "a": "Often electricity, water, internet, gas, and sometimes the maintenance or security fee. Ask before you visit."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Houses for rent",
+  "Properties in Santa Tecla"
+ ]
+}

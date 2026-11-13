@@ -1,0 +1,112 @@
+{
+ "_src": "35b0eb99b135",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como saber se um terreno tem dono ou é fiscal no Paraguai",
+  "h1": "Como saber se um terreno tem dono ou é fiscal antes de comprá-lo",
+  "description": "Catastro, Registros Públicos, INDERT e escribano (tabelião): como verificar quem é o dono de um terreno no Paraguai, se é fiscal ou se tem hipotecas antes de pagar.",
+  "answer": "Para saber se um terreno tem dono no Paraguai cruzam-se dois registros: o catastro (Serviço Nacional de Catastro), que identifica o imóvel pela conta corrente cadastral ou cadastro, e a Direção Geral dos Registros Públicos, onde está inscrito o título com o nome do titular. O informe de condição de domínio, que normalmente pede um escribano, mostra quem é o dono e se há hipotecas ou penhoras. Se o terreno não aparece inscrito em nome de pessoa, pode ser fiscal ou municipal, ou estar em um assentamento do INDERT."
+ },
+ "sections": [
+  {
+   "h2": "Por que não basta o que diz o vendedor",
+   "paras": [
+    "Um terreno baldio não tem uma casa que comprove quem mora ali. Por isso é o tipo de imóvel onde mais surgem problemas: lotes que na realidade são do Estado ou da municipalidade, títulos sobrepostos (duas pessoas com papéis sobre a mesma terra), sucessões sem terminar ou \"direitos\" sobre uma ocupação que não podem ser escriturados.",
+    "A única forma seria saber quem é o dono é verificar nos registros oficiais, e deixar que um escribano (tabelião) e, se for preciso, um agrimensor confirmem que o terreno que você vê no local é o mesmo que consta nos papéis."
+   ]
+  },
+  {
+   "h2": "Passo 1: identificar o imóvel no cadastro",
+   "paras": [
+    "Todo imóvel registrado tem um identificador cadastral: nas áreas urbanas, a conta corrente cadastral; nas áreas rurais, o padrão. Esse número aparece na boleta do imposto imobiliário e no título. Peça ao vendedor desde a primeira conversa: se ele não tem ou não quer fornecer, é um sinal de alerta.",
+    "O Serviço Nacional de Cadastro registra os dados físicos do imóvel (localização, superfície, medidas) e sua valoração fiscal, que é a base do imposto imobiliário. O fato de o terreno constar no cadastro não prova por si só quem é o dono, mas permite localizar com precisão o imóvel de que se fala e detectar diferenças entre o que é oferecido e o que está registrado."
+   ]
+  },
+  {
+   "h2": "Passo 2: o título e o informe de condição de domínio",
+   "paras": [
+    "A titularidade é inscrita na Direção Geral dos Registros Públicos, que depende do Poder Judiciário. O documento chave é o informe (ou certificado) de condição de domínio: indica em nome de quem o imóvel está inscrito, por qual finca ou matrícula é identificado e se há hipotecas, penhoras, inibições ou outras medidas sobre ele.",
+    "Na prática, esse informe é solicitado pelo escribano. Os escribanos e advogados podem solicitá-lo online através do Sistema de Gestão Registral (SIGRE) do Poder Judiciário, além do trâmite presencial. Paga-se uma taxa judicial e a resposta indica a situação do imóvel naquela data."
+   ],
+   "bullets": [
+    "O nome do titular coincide com o documento de identidade de quem vende.",
+    "Não há hipotecas nem penhoras, ou são canceladas antes ou no próprio ato da escritura.",
+    "A superfície e as medidas coincidem com o que lhe mostram e com o cadastro.",
+    "Se o titular faleceu, a sucessão está concluída e o imóvel foi adjudicado a quem vende."
+   ]
+  },
+  {
+   "h2": "O novo sistema unificado de registro e cadastro",
+   "paras": [
+    "A Lei N° 7424/2025 criou o Sistema Nacional Unificado Registral e Cadastral e o Registro Unificado Nacional (RUN), com o objetivo de integrar as informações do registro da propriedade e do cadastro. O Poder Judiciário já apresentou um certificado cadastral-registral imobiliário digital que reúne ambas as informações em um único trâmite.",
+    "Como o sistema está em implementação, pergunte ao seu escribano quais certificados são válidos hoje para o seu caso. O importante para você não muda: as informações cadastrais e registrais precisam coincidir."
+   ]
+  },
+  {
+   "h2": "Quando um terreno pode ser fiscal ou municipal",
+   "paras": [
+    "Se o terreno não aparece inscrito em nome de pessoa, ou o vendedor só tem um papel de \"direitos\", uma constância de ocupação ou um recibo de compra anterior, o imóvel pode ser de domínio do Estado ou da municipalidade. Também existem terras que fazem parte de assentamentos administrados pelo Instituto Nacional de Desenvolvimento Rural e da Terra (INDERT), que têm suas próprias regras de adjudicação e transferência.",
+    "Comprar \"direitos\" sobre um terreno assim não o torna dono. No melhor caso, deixa-o na posição do ocupante anterior para iniciar uma regularização longa e sem garantia de resultado. Se o preço está muito baixo e não há título, esse quase sempre é o motivo."
+   ],
+   "tip": "Desconfie de frases como \"o título sai em alguns meses\" ou \"tem todos os direitos, só falta escriturar\". Antes de pagar, peça que seu escribano confirme se há um título inscrito em nome do vendedor."
+  },
+  {
+   "h2": "Passo 3: verificar no terreno",
+   "paras": [
+    "Os papéis podem estar em ordem e ainda assim não coincidir com o que lhe mostram no local. Antes de comprar, sobretudo em lotes grandes, rurais ou sem cercar, convém que um agrimensor localize o terreno com as medidas do título e verifique os marcos. Converse também com os vizinhos: costumam saber se há conflitos de limites ou se alguém mais reivindica o lote."
+   ],
+   "bullets": [
+    "Alguém está ocupando o terreno ou usando-o como passagem?",
+    "As medidas no local coincidem com as do título?",
+    "Tem acesso a rua pública?",
+    "Há serviços (ANDE, água) ou será necessário instalá-los?"
+   ]
+  },
+  {
+   "h2": "Se você é estrangeiro: a zona de segurança fronteiriça",
+   "paras": [
+    "A Lei N° 2532/2005 estabelece uma zona de segurança fronteiriça de 50 quilômetros ao longo das fronteiras terrestres e fluviais do país. Dentro dessa faixa, cidadãos de países limítrofes, e sociedades compostas majoritariamente por eles, não podem ser proprietários, condôminos nem usufrutuários de imóveis rurais, salvo autorização por decreto do Poder Executivo. Se esse for seu caso e o terreno for rural, consulte um escribano antes de qualquer pagamento."
+   ]
+  },
+  {
+   "h2": "Lista curta antes de pagar um sinal por um terreno",
+   "steps": [
+    "Peça a conta corrente cadastral ou o padrão e uma cópia do título.",
+    "Peça a última boleta do imposto imobiliário.",
+    "Faça seu escribano solicitar o informe de condição de domínio.",
+    "Se o lote for grande ou não estiver cercado, contrate um agrimensor.",
+    "Só depois de tudo estar em ordem, assine o sinal com um recibo ou boleto que indique as condições."
+   ]
+  },
+  {
+   "h2": "Busque terrenos com informação clara",
+   "paras": [
+    "No Casa-Libre você pode ver terrenos à venda no mapa e perguntar ao vendedor por WhatsApp, já na primeira mensagem, se o lote tem título e conta corrente cadastral. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se um terreno tem dono no Paraguai?",
+   "a": "Com o informe de condição de domínio da Direção Geral dos Registros Públicos, que normalmente pede um escribano. Indica o titular inscrito e se há hipotecas ou penhoras. Complementa-se com os dados do Serviço Nacional de Catastro."
+  },
+  {
+   "q": "Como sei se um terreno é fiscal?",
+   "a": "Se não há um título inscrito em nome de pessoa e só existem \"direitos\" ou constâncias de ocupação, pode ser fiscal, municipal ou parte de um assentamento do INDERT. Um escribano pode confirmá-lo com os registros."
+  },
+  {
+   "q": "O que é a conta corrente cadastral?",
+   "a": "É o número com que se identifica um imóvel urbano no catastro e na guia do imposto imobiliário. Em áreas rurais usa-se o cadastro."
+  },
+  {
+   "q": "Um estrangeiro pode comprar um terreno no Paraguai?",
+   "a": "Em geral sim. A exceção principal é a Lei 2532/2005: cidadãos de países limítrofes não podem ser proprietários de imóveis rurais na faixa de 50 km da fronteira, salvo autorização por decreto."
+  }
+ ],
+ "related": [
+  "Terrenos à venda",
+  "Guia: documentos de um imóvel",
+  "Guia: gastos ao comprar"
+ ]
+}

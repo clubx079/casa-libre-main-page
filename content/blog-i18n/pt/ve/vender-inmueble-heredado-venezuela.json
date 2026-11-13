@@ -1,0 +1,133 @@
+{
+ "_src": "980515b63498",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Vender um imóvel herdado na Venezuela: passos e documentos",
+  "h1": "Como vender um imóvel herdado na Venezuela: declaração sucessória, herdeiros e documentos",
+  "description": "Passos para vender uma casa ou apartamento herdado na Venezuela: declaração sucessória perante o SENIAT, certificado de solvência, assinatura de todos os herdeiros, poderes do exterior e como publicá-lo.",
+  "answer": "Para vender um imóvel herdado na Venezuela, primeiro é preciso fazer a declaração sucessória perante o SENIAT e obter o certificado de solvência de sucessões, que permite aos herdeiros dispor dos bens. Depois devem assinar a venda todos os herdeiros (ou seus procuradores, se algum viver no exterior), ou fazer antes uma partilha para que o imóvel fique em nome de um só. Com isso, mais a cédula cadastral e as solvências municipal e de condomínio, a venda é protocolada no Registro Imobiliário."
+ },
+ "sections": [
+  {
+   "h2": "Por que não se pode vender diretamente",
+   "paras": [
+    "Quando uma pessoa falece, seus bens passam para os herdeiros, mas o documento de propriedade continua em nome do falecido. Para que o Registro Imobiliário aceite uma venda, é preciso demonstrar quem são os herdeiros e que o imposto sobre sucessões foi pago. Sem isso, nenhum comprador informado nem nenhum banco avançará."
+   ]
+  },
+  {
+   "h2": "Os passos, em ordem",
+   "steps": [
+    "Reunir os documentos: certidão de óbito, documentos que comprovem o parentesco (certidões de nascimento e casamento) e, se houver, o testamento.",
+    "Se não houver testamento, tramitar a declaração de únicos e universais herdeiros perante um tribunal, quando for necessária para comprovar quem herda.",
+    "Inventariar os bens do falecido, incluindo o imóvel com seu documento de propriedade e a cédula cadastral.",
+    "Apresentar a declaração sucessória ao SENIAT pelo seu sistema online, dentro do prazo legal.",
+    "Pagar o imposto, se for o caso, e obter o certificado de solvência de sucessões.",
+    "Decidir se vendem tudo juntos ou se primeiro fazem uma partilha para adjudicar o imóvel a um deles.",
+    "Reunir solvências municipal e de condomínio, e assinar a venda no Registro Imobiliário."
+   ]
+  },
+  {
+   "h2": "A declaração sucessória e a solvência",
+   "paras": [
+    "A declaração sucessória é o documento com o qual os herdeiros informam ao SENIAT os bens e dívidas do falecido. Há um prazo legal para apresentá-la contado a partir do falecimento, e apresentá-la atrasada gera multas e juros. Por isso convém não deixá-la passar embora ainda não pretendam vender.",
+    "A lei prevê exclusões e desonerações, entre elas uma vinculada à residência principal do falecido, sujeita a condições. Um contador ou advogado tributarista pode dizer se se aplicam ao seu caso.",
+    "Uma vez apresentada e paga (ou liquidada sem imposto), o SENIAT emite o certificado de solvência de sucessões. Esse documento é o que o registro vai solicitar."
+   ]
+  },
+  {
+   "h2": "Quando há vários herdeiros",
+   "tip": "Se os herdeiros estão dispersos por vários países, coordenem as procurações ao mesmo tempo e com o mesmo advogado. Uma procuração com erro obriga a repetir o trâmite e atrasa a venda meses.",
+   "table": {
+    "head": [
+     "Situação",
+     "Como se resolve"
+    ],
+    "rows": [
+     [
+      "Todos concordam e estão no país",
+      "Assinam juntos a venda no registro"
+     ],
+     [
+      "Alguns vivem no exterior",
+      "Concedem uma procuração especial perante o consulado ou perante notário com apostila"
+     ],
+     [
+      "Um quer ficar com o imóvel",
+      "Partilha: os demais cedem seus direitos ou são compensados em dinheiro"
+     ],
+     [
+      "Não há acordo",
+      "Mediação ou, em último caso, partilha judicial"
+     ],
+     [
+      "Há um herdeiro menor de idade",
+      "É necessária autorização judicial para vender sua parte"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Se você é comprador de um imóvel herdado",
+   "bullets": [
+    "Peça o certificado de solvência de sucessões e a declaração sucessória.",
+    "Verifique se assinam todos os herdeiros que aparecem na declaração, ou seus procuradores com procurações verificáveis.",
+    "Confira se não há herdeiros menores sem autorização judicial.",
+    "Peça certificação de gravames e solvências municipal e de condomínio.",
+    "Pague na assinatura no registro, nunca a um único herdeiro adiantado."
+   ]
+  },
+  {
+   "h2": "Tempos e custos a prever",
+   "paras": [
+    "Uma sucessão ordenada pode ser resolvida em semanas ou meses; uma com herdeiros dispersos, documentos faltantes ou desacordos pode demorar muito mais. Planejar desde o início evita que o comprador se canse de esperar."
+   ],
+   "bullets": [
+    "Honorários do advogado ou contador que prepara a declaração sucessória.",
+    "Imposto sobre sucessões, se for o caso, e eventuais multas por apresentação tardia.",
+    "Certidões e cópias certificadas do registro civil.",
+    "Procurações e apostilas para os herdeiros que vivem no exterior.",
+    "Atualização da cédula cadastral e pagamento de dívidas municipais ou de condomínio pendentes.",
+    "Despesas próprias da venda: registro e pagamentos tributários do vendedor."
+   ]
+  },
+  {
+   "h2": "Publicar enquanto termina a documentação",
+   "paras": [
+    "Você pode começar a mostrar o imóvel enquanto a sucessão avança, desde que seja transparente com os compradores sobre em que etapa estão os documentos. Muitos compradores aceitam assinar uma opção de compra com prazo para que os herdeiros concluam os trâmites.",
+    "No Casa-Libre você pode publicar o imóvel com fotos e localização no mapa e atender as consultas por WhatsApp, também se viver fora do país. Pela web ou pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É possível vender uma casa herdada sem fazer a sucessão?",
+   "a": "Na prática não: o registro vai exigir a solvência de sucessões e a assinatura dos herdeiros. Primeiro é preciso fazer a declaração sucessória perante o SENIAT."
+  },
+  {
+   "q": "O que é a solvência sucessória?",
+   "a": "O certificado que emite o SENIAT quando a declaração sucessória foi apresentada e o imposto devido foi pago. Permite aos herdeiros dispor dos bens."
+  },
+  {
+   "q": "Todos os herdeiros precisam assinar?",
+   "a": "Sim, todos que têm direitos sobre o imóvel, pessoalmente ou por meio de procuradores, salvo se antes fizerem uma partilha."
+  },
+  {
+   "q": "E se um herdeiro mora no exterior?",
+   "a": "Pode conceder um poder especial perante o consulado venezuelano ou perante um notário local com apostila para que alguém assine por ele."
+  },
+  {
+   "q": "Existe prazo para apresentar a declaração sucessória?",
+   "a": "Sim, a lei fixa um prazo contado a partir do falecimento, e apresentá-la tarde gera multas e juros. Consulte o prazo exato com um contador ou advogado."
+  },
+  {
+   "q": "Posso publicar o imóvel antes de terminar a sucessão?",
+   "a": "Você pode mostrá-lo, desde que indique claramente em que fase estão os documentos. A assinatura da venda terá que aguardar a solvência de sucessões."
+  }
+ ],
+ "related": [
+  "Publicar seu imóvel",
+  "Propriedades à venda",
+  "Poder notarial para vender"
+ ]
+}

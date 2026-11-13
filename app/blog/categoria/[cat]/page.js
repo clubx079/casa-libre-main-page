@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import BlogShell, { Arrow } from '@/components/blog/BlogShell';
 import PostCard, { CategoryPills } from '@/components/blog/PostCard';
+import { T } from '@/components/blog/BlogLang';
+import { CatText } from '@/components/blog/BlogCards';
 import { categoryBySlug, postsInCategory, activeCategories, BLOG_URL, HUB, breadcrumbLd } from '@/lib/blog';
 
 export const dynamicParams = false;
@@ -54,17 +56,17 @@ export default function Page({ params }) {
         <nav aria-label="Ruta" className="text-[13px] text-ink/50 mb-4">
           <Link href="/blog" className="underline decoration-ink/25 hover:decoration-ink">Blog</Link>
           <span className="mx-2">·</span>
-          <span>{c.name}</span>
+          <span><CatText slug={c.slug} /></span>
         </nav>
-        <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-3">Tema · {posts.length} artículos</div>
-        <h1 className="text-[clamp(32px,5vw,56px)] leading-[1] tracking-display font-bold mb-4">{c.title}</h1>
-        <p className="text-[16px] md:text-[18px] leading-relaxed text-ink/65 max-w-[680px] mb-8">{c.intro}</p>
+        <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-3"><T k="topicEyebrow" v={{ n: posts.length }} /></div>
+        <h1 className="text-[clamp(32px,5vw,56px)] leading-[1] tracking-display font-bold mb-4"><CatText slug={c.slug} field="title" /></h1>
+        <p className="text-[16px] md:text-[18px] leading-relaxed text-ink/65 max-w-[680px] mb-8"><CatText slug={c.slug} field="intro" /></p>
         <div className="mb-10"><CategoryPills categories={activeCategories()} current={c.slug} /></div>
         <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
           {posts.map((p) => <PostCard key={p.slug} post={p} />)}
         </div>
         <div className="mt-12">
-          <Link href="/blog" className="btn btn-ghost">Todos los artículos <Arrow /></Link>
+          <Link href="/blog" className="btn btn-ghost"><T k="allArticles" /> <Arrow /></Link>
         </div>
       </div>
     </BlogShell>

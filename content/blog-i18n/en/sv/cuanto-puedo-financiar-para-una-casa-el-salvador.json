@@ -1,0 +1,145 @@
+{
+ "_src": "24003b1a7c57",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How much can they lend me for a house in El Salvador",
+  "h1": "How much they can lend you for a house in El Salvador and how much you should save beforehand",
+  "description": "How to estimate how much the FSV or a bank would lend you to buy a house in El Salvador, what expenses you should save for besides the down payment, and how to prepare your credit history before applying.",
+  "answer": "What they lend you depends on your payment capacity: the institution calculates how much of your verifiable income can go to the installment after deducting your other debts, and with that, the rate and term define the amount. Also, they almost never finance 100% of the price: you will have to save a down payment and, additionally, the purchase costs (notario, registration, appraisal and the transfer tax if the house exceeds US$28,571.43). The FSV simulator and the banks' simulations give you an indicative figure before looking for a house."
+ },
+ "sections": [
+  {
+   "h2": "How they calculate your payment capacity",
+   "paras": [
+    "The institution takes your verifiable monthly income, subtracts the installments of other loans (personal, credit cards, other mortgage credit) and applies a limit: only a portion of what remains can go to the house payment. Each institution sets its own limit, so two simulations can give you different amounts.",
+    "With that maximum payment, the interest rate and the term, the amount they can lend you is calculated. The longer the term, the larger the amount, but also more total interest."
+   ],
+   "tip": "Paying off a credit card or personal loan before applying can increase your approved amount more than a salary raise, because it frees up payment capacity."
+  },
+  {
+   "h2": "Use a simulator before you start looking",
+   "paras": [
+    "The FSV has a simulator on its website that asks for the number of applicants, your sector (employee, pensioner, Salvadoran abroad, basic sector or micro-entrepreneur), the credit line, the type of property, your income and debts, and the price of the home. Banks offer similar simulations on their sites or at branches.",
+    "The result is indicative. Use it to know the price range to search in and avoid falling in love with a house you cannot finance."
+   ]
+  },
+  {
+   "h2": "What you should save besides the down payment",
+   "paras": [
+    "Many families save only for the down payment and then encounter additional costs at signing. Make a complete list:"
+   ],
+   "table": {
+    "head": [
+     "Expense",
+     "When it appears",
+     "How to estimate"
+    ],
+    "rows": [
+     [
+      "Down payment",
+      "At signing",
+      "Price minus financed amount"
+     ],
+     [
+      "Transfer tax",
+      "Before registration",
+      "3% on the amount that exceeds US$28,571.43"
+     ],
+     [
+      "Notary fees",
+      "At signing",
+      "Request a written quote"
+     ],
+     [
+      "Registration with the CNR",
+      "After signing",
+      "According to the registration tariff"
+     ],
+     [
+      "Appraisal and insurance",
+      "During processing and each month",
+      "Ask the institution"
+     ],
+     [
+      "Moving, repairs and furniture",
+      "When you move in",
+      "Your own list"
+     ],
+     [
+      "Emergency fund",
+      "Always",
+      "Several months of payment"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "An example to organize the numbers",
+   "paras": [
+    "Hypothetical example, for illustration only: a house priced at US$60,000. The transfer tax would be 3% on US$31,428.57 (60,000 − 28,571.43), i.e., about US$943. If the institution finances part of the price, the difference is your down payment. Add notary, registration, appraisal and moving costs to that. The total cash you need is far more than just the down payment.",
+    "Actual rates, terms and financed percentages depend on the institution and your profile; do not use these figures as a credit promise."
+   ]
+  },
+  {
+   "h2": "Prepare your credit history",
+   "paras": [
+    "A good credit history weighs as much as income. Before applying, make sure you have no delinquencies and pay all your installments on time for several months. If you are self-employed, organize your receipts and declare your income: what is not documented does not count for credit."
+   ],
+   "bullets": [
+    "Pay credit cards and loans on time; avoid opening new credit lines before applying.",
+    "Gather salary statements or income receipts from the last months.",
+    "If you receive remittances, keep the transfer history.",
+    "Be in good standing with Hacienda, because the FSV requires it."
+   ]
+  },
+  {
+   "h2": "Apply with a co-borrower",
+   "paras": [
+    "Adding the income of another person (partner, family member) increases payment capacity. But the co-borrower is also obligated to pay if you do not, and your own credit capacity is reduced. At the FSV, when one applicant is from the informal sector or is a pensioner, the credit conditions may follow those of that sector."
+   ]
+  },
+  {
+   "h2": "The payment you can afford is not always the one they approve",
+   "paras": [
+    "Being approved for an amount does not mean you should use it all. Make your budget: the payment plus insurance, municipal taxes, utilities and maintenance must fit within a normal month, without overtime or bonuses."
+   ]
+  },
+  {
+   "h2": "If you don’t have enough for the down payment",
+   "paras": [
+    "Some FSV lines are designed for people with less savings, and the down payment varies by line and your situation. Another option is to buy a lower-priced home as a first step, or save a few more months while renting.",
+    "What you should avoid is covering the down payment with an expensive personal loan: it increases your debts just when the institution measures your payment capacity, and can reduce the amount they approve for you."
+   ]
+  },
+  {
+   "h2": "Search within your range",
+   "paras": [
+    "With your estimated amount, filter houses and apartments by price on Casa-Libre, view them on the map and ask via WhatsApp if the seller accepts FSV or bank credit. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much does the FSV lend me?",
+   "a": "It depends on your verifiable income, your debts, the line and the term. The FSV simulator gives you an indicative figure; the final amount is provided by the FSV when evaluating your application."
+  },
+  {
+   "q": "How much should I save to buy a house?",
+   "a": "The down payment plus the purchase costs: transfer tax if applicable, notario, registration, appraisal and moving. And it is advisable to have an emergency fund separately."
+  },
+  {
+   "q": "How is the transfer tax calculated?",
+   "a": "It is 3% on the portion of the value that exceeds US$28,571.43. On a house of US$60,000 it would be about US$943."
+  },
+  {
+   "q": "Is it better to apply with a co-borrower?",
+   "a": "It increases the amount they can lend you, but the co-borrower also is responsible for the debt. Do it only if both understand that commitment."
+  }
+ ],
+ "related": [
+  "Casas en venta",
+  "Apartamentos en venta",
+  "Guía: comprar su primera casa"
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "_src": "ad31c84319d8",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "FAOV e BANAVIH: o que são e como servem para sua casa",
+  "h1": "FAOV e BANAVIH: o que são, como verificar suas contribuições e como são usados para comprar imóvel",
+  "description": "O que é o FAOV, o que faz o BANAVIH, como verificar seu extrato no FAOV online e para que servem suas contribuições quando você quer comprar ou construir imóvel na Venezuela.",
+  "answer": "O FAOV (Fondo de Ahorro Obligatorio para la Vivienda) é um fundo ao qual contribuem, todo mês, os trabalhadores e seus empregadores, com base no salário. O administra o BANAVIH, o Banco Nacional de Vivienda e Hábitat. Essas contribuições formam uma poupança em seu nome que é usada para financiar créditos habitacionais, e estar em dia costuma ser requisito para acessá-los. Você pode consultar seu extrato no sistema FAOV online do BANAVIH."
+ },
+ "sections": [
+  {
+   "h2": "O que é o FAOV",
+   "paras": [
+    "O FAOV faz parte do regime de prestação de moradia e habitat. Funciona como uma poupança obrigatória: uma parte é contribuída pelo trabalhador (descontada do salário) e outra pelo empregador. Essas contribuições são registradas em uma conta individual em seu nome.",
+    "Além dos trabalhadores em relação de dependência, existe um esquema de contribuição voluntária para quem trabalha por conta própria, conhecido como FAOV voluntário. Se você é autônomo e deseja acessar, em algum momento, um crédito com esses recursos, pergunte no BANAVIH como se afiliar."
+   ]
+  },
+  {
+   "h2": "O que é o BANAVIH",
+   "paras": [
+    "O BANAVIH é o Banco Nacional de Vivienda e Hábitat, o órgão público que administra os recursos do FAOV e de outros fundos de moradia. O BANAVIH normalmente não atende você como um banco de balcão para conceder o crédito diretamente: os créditos com recursos do FAOV são processados por bancos operadores, que recebem a solicitação, analisam seu caso e formalizam a hipoteca.",
+    "Em seu portal há sistemas online para trabalhadores e empregadores: consulta de extrato, registro de empregadores, carga de folhas de pagamento e pagamentos."
+   ]
+  },
+  {
+   "h2": "Como revisar seu extrato FAOV",
+   "steps": [
+    "Acesse o portal do BANAVIH e procure o sistema FAOV online.",
+    "Registre-se como trabalhador com sua cédula e um e-mail, se ainda não o fez.",
+    "Entre e consulte seu extrato: você verá as contribuições registradas por cada empregador e os meses cobertos.",
+    "Verifique se seus empregadores atuais e anteriores contribuíram todos os meses trabalhados.",
+    "Se faltar algum período, peça ao seu empregador que regularize. Para créditos costuma ser exigida uma quantidade mínima de contribuições e estar em dia."
+   ],
+   "tip": "Baixe e guarde seu extrato em PDF periodicamente. Se mudar de emprego ou um empregador fechar, isso servirá para reclamar contribuições faltantes."
+  },
+  {
+   "h2": "Para que servem suas contribuições",
+   "paras": [
+    "Os valores, prazos e condições desses créditos mudam com o tempo e com a situação econômica. Por isso não fornecemos números aqui: solicite as condições vigentes ao banco operador e ao BANAVIH antes de planejar."
+   ],
+   "table": {
+    "head": [
+     "Uso",
+     "Em que consiste",
+     "O que revisar"
+    ],
+    "rows": [
+     [
+      "Crédito para aquisição",
+      "Comprar um imóvel com financiamento dos recursos do fundo",
+      "Estar em dia e qual banco tramita a linha"
+     ],
+     [
+      "Crédito para construção",
+      "Construir em um terreno próprio",
+      "Licenças, projeto e orçamento da obra"
+     ],
+     [
+      "Crédito para melhorias ou ampliação",
+      "Reparar ou ampliar sua moradia",
+      "Valores e requisitos vigentes"
+     ],
+     [
+      "Retirada da poupança",
+      "Em certos supostos previstos pela normativa",
+      "Condições exatas no BANAVIH"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Requisitos que costumam solicitar para um crédito FAOV",
+   "bullets": [
+    "Ser venezuelano ou estrangeiro residente, maior de idade.",
+    "Estar registrado no sistema FAOV com contribuições em dia e um mínimo de contribuições acumuladas.",
+    "Comprovante de trabalho e recibos de pagamento.",
+    "Não possuir outro imóvel em seu nome, em algumas linhas.",
+    "Documentos do imóvel: título de propriedade, cédula cadastral e solvências.",
+    "Avaliação do imóvel feita por um perito aceito pelo banco."
+   ]
+  },
+  {
+   "h2": "Expectativas realistas",
+   "paras": [
+    "Com os anos, a inflação reduziu muito o valor real das poupanças acumuladas em bolívares, e os créditos com esses recursos têm valores limitados frente aos preços dos imóveis. Isso não elimina que valha a pena manter sua conta em ordem: se houver uma linha vigente, estar tudo em dia economiza semanas.",
+    "Combine a informação do BANAVIH com o que seu banco oferece em crédito hipotecário próprio, e monte seu orçamento com a entrada que realmente possui."
+   ]
+  },
+  {
+   "h2": "Se seu empregador não contribui",
+   "paras": [
+    "Se ao revisar seu extrato você encontrar meses sem contribuições de um empregador com quem trabalhou, primeiro converse com o departamento de recursos humanos ou folha de pagamento: às vezes é um erro de lançamento. Peça que corrijam e mostrem o comprovante.",
+    "Se não resolverem, o BANAVIH tem mecanismos para que os trabalhadores relatem a falta de contribuições. Guarde seus recibos de pagamento com os descontos do FAOV: são a prova de que o aporte foi retido embora não apareça em sua conta."
+   ]
+  },
+  {
+   "h2": "Com seu orçamento, a buscar",
+   "paras": [
+    "Quando souber quanto pode financiar, filtre imóveis por preço e zona no Casa-Libre e pergunte ao vendedor se aceita pagamento com crédito. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto se contribui para o FAOV?",
+   "a": "Um percentual do salário a cargo do trabalhador e outro, maior, a cargo do empregador. Confirme os percentuais vigentes no BANAVIH ou com seu departamento de folha de pagamento."
+  },
+  {
+   "q": "Como sei se meu empregador está pagando o FAOV?",
+   "a": "Consultando seu extrato no sistema FAOV online do BANAVIH. Lá aparecem as contribuições registradas por cada empregador."
+  },
+  {
+   "q": "Posso usar o FAOV se trabalho por conta própria?",
+   "a": "Existe um esquema de contribuição voluntária para autônomos. Pergunte ao BANAVIH como se afiliar e quais requisitos se aplicam."
+  },
+  {
+   "q": "O BANAVIH me dá o crédito diretamente?",
+   "a": "Normalmente não: os créditos com recursos do FAOV são tramitados em bancos operadores, que analisam sua solicitação e formalizam a hipoteca."
+  },
+  {
+   "q": "O que faço se meu empregador não pagou o FAOV?",
+   "a": "Peça primeiro ao setor de folha que corrija e lhe mostre o comprovante. Se não resolverem, consulte o BANAVIH como relatar, com seus recibos de pagamento como prova."
+  },
+  {
+   "q": "As contribuições do FAOV se perdem se eu mudar de emprego?",
+   "a": "Não: ficam na sua conta individual. O novo empregador continua contribuindo para a mesma conta."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Casas à venda",
+  "Crédito hipotecário na Venezuela"
+ ]
+}

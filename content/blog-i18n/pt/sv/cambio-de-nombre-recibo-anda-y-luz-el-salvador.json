@@ -1,0 +1,122 @@
+{
+ "_src": "8b3fd889ac14",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mudança de nome da conta da ANDA e da energia elétrica",
+  "h1": "Como colocar no seu nome a conta de água (ANDA) e de luz ao mudar para El Salvador",
+  "description": "Como fazer a mudança de titular da conta de água da ANDA e da energia elétrica ao comprar, herdar ou alugar em El Salvador: documentos, casos sem escritura e dívidas anteriores.",
+  "answer": "Para colocar no seu nome a conta de água da ANDA, o procedimento é feito em uma agência da ANDA com seu DUI, o formulário de mudança de titular e um documento que comprove sua relação com a moradia (escritura, contrato de aluguel, carta de autorização do dono ou constância de posse). Para a luz, o processo é feito na distribuidora da sua zona com a solicitação de mudança de nome, seu DUI, a última conta paga e o documento que comprove a posse; se for inquilino, normalmente pedem autorização do proprietário. Em ambos os casos convém que não haja dívidas pendentes."
+ },
+ "sections": [
+  {
+   "h2": "Por que vale a pena fazer a troca",
+   "paras": [
+    "Se comprar uma casa e os recibos continuarem em nome do dono anterior, qualquer reclamação, reconexão ou trâmite custará mais. Se for inquilino, ter o serviço em seu nome lhe dá controle sobre seu consumo e seus pagamentos. E se herdou um imóvel, a troca ordena a situação da casa."
+   ]
+  },
+  {
+   "h2": "Antes de qualquer trâmite: revise as dívidas",
+   "paras": [
+    "Peça ao vendedor ou ao dono os últimos recibos pagos de água e luz antes de assinar ou de entrar. Se houver dívida, concorde por escrito que ele a pague antes de entregar a casa. No caso da luz, a imprensa indica que a distribuidora pede levar a última fatura quitada.",
+    "Se já houver dívida e você quiser pagá-la para poder fazer a troca, a ANDA permite pagar como terceiro interessado apresentando seu DUI, o formulário correspondente e um documento privado autenticado que expresse sua intenção de pagamento. Depois pode solicitar a troca de nome a seu favor."
+   ]
+  },
+  {
+   "h2": "Água: troca de titular na ANDA",
+   "paras": [
+    "Segundo a informação publicada na imprensa, a ANDA permite a troca de titular em vários casos: quando paga um recibo que está em nome de outra pessoa, quando o titular faleceu, quando o imóvel foi herdado, quando se mudou para uma casa comprada ou herdada, e em aluguéis com autorização do proprietário ou documentos que respaldem a posse. O trâmite é presencial nas agências da ANDA."
+   ],
+   "tip": "Se sua casa usa fossa séptica e não está conectada ao esgoto, segundo a imprensa a ANDA não deveria cobrar esgoto. Você pode solicitar uma inspeção técnica.",
+   "table": {
+    "head": [
+     "Seu caso",
+     "Documentos que costumam pedir"
+    ],
+    "rows": [
+     [
+      "Comprou a casa",
+      "DUI, escritura (ou documento que comprove a compra) e formulário de troca de titular"
+     ],
+     [
+      "Titular falecido",
+      "Partida de óbito, DUI do solicitante, documento que comprove o vínculo com o imóvel e formulário"
+     ],
+     [
+      "Imóvel sem escritura",
+      "Carta de autorização do proprietário ou constância de posse da ADESCO ou da comunidade, DUI e formulário"
+     ],
+     [
+      "Inquilino",
+      "Autorização do proprietário ou documento que respalde a posse (contrato), DUI e formulário"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Luz: troca de nome na distribuidora",
+   "paras": [
+    "A energia elétrica é distribuída pela empresa que atende sua zona, e a troca de nome é feita em seus escritórios de atendimento ao cliente. Segundo a imprensa, apresenta-se a solicitação de troca de nome com seu número de contrato (NIC), seu DUI, um documento que comprove sua relação com o imóvel e a última fatura paga."
+   ],
+   "bullets": [
+    "Novo dono: escritura inscrita no CNR.",
+    "Inquilino: contrato de aluguel e, se não for o titular atual, autorização notariada do proprietário.",
+    "Sem escritura: carta de autorização da entidade que corresponda (por exemplo, a alcaldía ou a diretiva da comunidade).",
+    "Se não for o dono, a distribuidora pode pedir que complete um formulário de \"Conheça seu Cliente\"."
+   ]
+  },
+  {
+   "h2": "Depósito de garantia na luz",
+   "paras": [
+    "Segundo a imprensa, a distribuidora de energia pode exigir um depósito de garantia ao fazer a troca de nome, cujo valor é determinado no momento da solicitação conforme o histórico e o consumo do serviço. Pergunte o valor antes de ir para levar o dinheiro."
+   ]
+  },
+  {
+   "h2": "Se for inquilino: em nome de quem devem estar?",
+   "paras": [
+    "Muitos proprietários preferem que os serviços continuem em seu nome e que o inquilino pague os recibos. Outros pedem que o inquilino os coloque em seu nome. O importante é que o contrato deixe isso claro, e que ao sair você entregue os recibos pagos até o último dia.",
+    "Lembre-se que, segundo a Lei de Inquilinato, o locador não pode suspender água ou luz para pressionar o inquilino."
+   ]
+  },
+  {
+   "h2": "Passo a passo ao mudar",
+   "steps": [
+    "Peça ao dono anterior os últimos recibos pagos de água e luz.",
+    "Anote o número da conta da ANDA e o NIC da energia.",
+    "Reúna seu DUI e o documento que comprove sua relação com a casa.",
+    "Vá a uma agência da ANDA com o formulário de troca de titular.",
+    "Vá ao escritório da distribuidora de luz com a solicitação de troca de nome.",
+    "Guarde os comprovantes de ambos os trâmites."
+   ]
+  },
+  {
+   "h2": "Perguntar pelos serviços antes de mudar",
+   "paras": [
+    "Na Casa-Libre você pode perguntar por WhatsApp ao dono, antes de visitar, se os serviços estão em dia e se poderá colocá-los em seu nome. Também pelo app da Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como faço a mudança de nome da conta de água da ANDA?",
+   "a": "Em uma agência da ANDA, com seu DUI, o formulário de mudança de titular e um documento que comprove sua relação com a moradia: escritura, contrato, carta de autorização ou constância de posse."
+  },
+  {
+   "q": "Posso colocar a água no meu nome se não tenho escritura?",
+   "a": "Segundo a imprensa, sim: a ANDA aceita uma carta de autorização do proprietário ou uma constância de posse da ADESCO ou da comunidade, junto com seu DUI e o formulário."
+  },
+  {
+   "q": "O que preciso para mudar o nome da conta de luz?",
+   "a": "A solicitação de mudança de nome com seu NIC, seu DUI, um documento que comprove sua relação com o imóvel e a última fatura paga. Pode haver um depósito de garantia."
+  },
+  {
+   "q": "Um inquilino pode colocar a luz no seu nome?",
+   "a": "Sim, com o contrato de aluguel. Se não for o titular atual, a distribuidora pode exigir uma autorização notariada do proprietário."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Casas à venda",
+  "Propriedades em San Miguel"
+ ]
+}

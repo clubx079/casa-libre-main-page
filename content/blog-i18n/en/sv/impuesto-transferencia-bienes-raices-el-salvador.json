@@ -1,0 +1,135 @@
+{
+ "_src": "563a249b8291",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Real Estate Transfer Tax in El Salvador",
+  "h1": "Real Estate Transfer Tax in El Salvador: how much it is and how it is calculated",
+  "description": "How much tax you pay when buying a house or land in El Salvador: 3% on the amount exceeding US$28,571.43, who pays it, how to calculate it, deadlines and why the deed cannot be registered without it.",
+  "answer": "The Real Estate Transfer Tax levies the purchase of property in El Salvador. It is paid by the buyer. If the property's value is up to US$28,571.43 (the equivalent of 250,000 colones), no tax is due; if it is higher, 3% is paid only on the portion that exceeds that amount. It is declared and paid to the Ministry of Finance within 60 days after the escritura (deed), and the Registry will not register the sale without the payment receipt."
+ },
+ "sections": [
+  {
+   "h2": "What it taxes and who pays it",
+   "paras": [
+    "The Real Estate Transfer Tax Law taxes the transfer of real property between living persons, that is, sales, exchanges and other forms of transfer that are not inheritances. The law says that the person obligated to pay is the natural or legal person who acquires the property: the buyer.",
+    "This can be negotiated in the contract (for example, the seller assumes a portion), but for the tax authority the responsible party is the buyer."
+   ]
+  },
+  {
+   "h2": "How it is calculated, with examples",
+   "paras": [
+    "The law sets an exempt threshold of 250,000 colones. Since El Salvador uses the dollar at a fixed exchange rate of 8.75 colones per dollar under the Monetary Integration Law, that threshold equals US$28,571.43. Anything above that amount is taxed at 3%.",
+    "Formula: (property value − 28,571.43) × 3%. If the result is negative, there is no tax."
+   ],
+   "tip": "The values in the table are examples to show the calculation, not market prices.",
+   "table": {
+    "head": [
+     "Property value (example)",
+     "Amount exceeding US$28,571.43",
+     "Tax (3%)"
+    ],
+    "rows": [
+     [
+      "US$25,000",
+      "US$0",
+      "US$0 (exempt)"
+     ],
+     [
+      "US$45,000",
+      "US$16,428.57",
+      "US$492.86"
+     ],
+     [
+      "US$80,000",
+      "US$51,428.57",
+      "US$1,542.86"
+     ],
+     [
+      "US$150,000",
+      "US$121,428.57",
+      "US$3,642.86"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "On what value it is calculated",
+   "paras": [
+    "In principle, on the price in the escritura. But the law establishes that the declared value cannot be lower than certain minimums, and the tax authority can review values that appear too low. Declaring a price lower than the real one to pay less tax is risky: besides possible fines, if you later sell, your recorded purchase cost will be lower and you could pay more tax on the gain."
+   ]
+  },
+  {
+   "h2": "When and how to pay",
+   "paras": [
+    "According to the law, the declaration must be filed and the tax paid within 60 days of the date of the escritura (deed). In practice, the notario (notary) usually tells you how to file the declaration with the Ministry of Finance and make the payment.",
+    "That payment is not optional: the law orders the Registro de la Propiedad to require the receipt, and without it the escritura is not registered. An unregistered sale leaves you exposed, because to third parties the owner remains the seller."
+   ],
+   "steps": [
+    "Sign the escritura (deed) of sale before notario.",
+    "Submit the tax declaration to the Ministry of Finance.",
+    "Pay the tax if the value exceeds US$28,571.43.",
+    "Provide the receipt together with the escritura to register it in the CNR."
+   ]
+  },
+  {
+   "h2": "Cases where you do not pay",
+   "paras": [
+    "In addition to properties up to US$28,571.43, the law provides some exemptions, for example when the State or municipalities acquire a property and other cases provided for in special laws. Inheritances do not pay this tax because they are not transfers between living persons. If you think your case may be exempt, confirm it with the notario or with Hacienda before signing."
+   ]
+  },
+  {
+   "h2": "It’s not the only cost of the purchase",
+   "bullets": [
+    "Notary fees for the escritura.",
+    "Registration fees at the CNR.",
+    "Registry certifications and solvency certificates.",
+    "If there is financing: mortgage escritura, appraisal and insurance."
+   ]
+  },
+  {
+   "h2": "Common mistakes with this tax",
+   "paras": [
+    "The first mistake is not including it in the budget. Many buyers calculate the premium and the notary expenses, but forget the tax, and for a mid-range house the amount is already considerable. Calculate it as soon as you see the notice.",
+    "The second is calculating 3% on the full price. The tax applies only to the portion that exceeds US$28,571.43, not to the entire value. For a US$45,000 house, the difference between the two calculations is several hundred dollars.",
+    "The third is missing the deadline. If the escritura is signed and the tax is not declared or paid on time, the registration is delayed and surcharges may apply. While the escritura is not registered, the property remains in the seller’s name.",
+    "The fourth is thinking that \"the notary pays it\". The notary usually guides or processes the paperwork, but the buyer provides the money. Ask for the receipt and keep it with your escritura: it will be useful if you ever sell."
+   ]
+  },
+  {
+   "h2": "Does the seller pay anything?",
+   "paras": [
+    "The transfer tax is not the seller’s responsibility. However, if the seller makes a profit on the sale, they may have to pay income tax on that capital gain. Those are two separate taxes, each borne by a different party."
+   ]
+  },
+  {
+   "h2": "Calculate before you bid",
+   "paras": [
+    "Add the tax to the price from the start. On Casa-Libre you can see houses, apartments and land for sale with their price, calculate the tax using the formula above and message the seller on WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much is the tax for buying a house in El Salvador?",
+   "a": "3% on the portion of the value that exceeds US$28,571.43. If the house is priced below that amount, no tax is due."
+  },
+  {
+   "q": "Who pays the transfer tax, the buyer or the seller?",
+   "a": "According to the law, the buyer (the one acquiring the property). The parties may agree on a different allocation, but the buyer is responsible before Hacienda."
+  },
+  {
+   "q": "Within what time must it be paid?",
+   "a": "The law gives 60 days from the date of the escritura (deed) to declare and pay. Without the receipt, the CNR will not register the sale."
+  },
+  {
+   "q": "Do inheritances pay this tax?",
+   "a": "No, because the tax applies to transfers between living persons. Inheritances have their own procedure."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Land for sale",
+  "Guide: costs when buying a house"
+ ]
+}

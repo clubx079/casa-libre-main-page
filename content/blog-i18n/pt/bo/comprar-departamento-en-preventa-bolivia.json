@@ -1,0 +1,98 @@
+{
+ "_src": "33db2316206b",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar um apartamento na pré-venda na Bolívia: riscos e pontos chave",
+  "h1": "Comprar um apartamento na pré-venda na Bolívia: o que verificar antes de assinar",
+  "description": "Como comprar um apartamento na pré-venda ou na planta na Bolívia sem surpresas: terreno do projeto, licença de construção, contrato, pagamentos, prazos de entrega e folio real próprio.",
+  "answer": "Comprar na pré-venda pode sair mais barato que comprar um apartamento pronto, mas o risco é que a obra atrase ou não seja concluída. Antes de assinar, verifique se o terreno está inscrito em Direitos Reais em nome da incorporadora e sem hipotecas que não estejam explicadas, se o projeto tem plantas aprovadas pela alcaldía e se o contrato fixa preço, moeda, prazos de entrega, penalidades e quando você receberá seu apartamento com folio real próprio."
+ },
+ "sections": [
+  {
+   "h2": "O que é comprar na pré-venda",
+   "paras": [
+    "Na pré-venda, ou \"na planta\", você compra um apartamento que ainda não existe: o edifício está em projeto ou em construção. Você paga uma entrada e depois parcelas durante a obra, e o saldo costuma ser pago ao receber o apartamento, às vezes com um crédito hipotecário.",
+    "A vantagem é o preço e a possibilidade de pagar em partes. A desvantagem é que você paga por algo que depende de que a incorporadora termine a obra no tempo e forma. Toda a revisão que segue busca reduzir esse risco."
+   ]
+  },
+  {
+   "h2": "Investigue a incorporadora e suas obras anteriores",
+   "bullets": [
+    "Peça a lista de edifícios que já entregou e visite ao menos um: converse com proprietários sobre prazos, acabamentos e resposta a reclamações.",
+    "Verifique a razão social e se a empresa existe legalmente; o contrato deve ser assinado pela empresa, não por uma pessoa \"em representação\" sem poder.",
+    "Desconfie de descontos muito grandes por pagar tudo adiantado: é dinheiro que financia a obra e que você arrisca."
+   ]
+  },
+  {
+   "h2": "O terreno e as licenças do projeto",
+   "paras": [
+    "O edifício é construído sobre um terreno que deve estar inscrito em Derechos Reales (Direitos Reais). Peça o folio real (registro real) desse terreno: se houver uma hipoteca a favor de um banco, pode ser normal (financiamento da obra), mas pergunte como sua unidade será liberada quando a comprar. O regulamento de Derechos Reales permite cancelar o gravame por unidade para que cada apartamento fique livre.",
+    "Peça também os planos de construção aprovados pela alcaldía. Se o projeto ainda não tem aprovação, você está comprando um projeto que pode mudar ou não ser autorizado."
+   ]
+  },
+  {
+   "h2": "Seu apartamento deve terminar com folio real próprio",
+   "paras": [
+    "Quando o edifício é concluído, ele é inscrito sob o regime de propriedade horizontal: cada apartamento, vaga de garagem ou baú recebe sua própria matrícula e seu folio real. Isso é o que o torna proprietário frente a todos, permitindo vender, hipotecar ou herdar sem problemas.",
+    "O contrato deve dizer em que prazo a incorporadora fará esse trâmite e assinará a escritura (escritura pública) de transferência a seu favor. Muitos conflitos em edifícios novos não são pela construção, mas porque anos depois os proprietários ainda não têm seu folio real."
+   ],
+   "tip": "Pergunte se a vaga de garagem e o baú são vendidos como unidades separadas com sua própria matrícula ou como parte do apartamento. Isso altera o preço, os impostos e o que você pode vender depois."
+  },
+  {
+   "h2": "O que deve constar no contrato de pré-venda",
+   "bullets": [
+    "Identificação exata da unidade: andar, número, área, vaga de garagem e baú.",
+    "Preço total, moeda (bolivianos ou dólares) e cronograma de pagamentos.",
+    "Prazo de entrega e que penalidade a incorporadora paga se atrasar.",
+    "O que acontece com seu dinheiro se o projeto não for realizado ou se você desistir.",
+    "Especificações de acabamentos (pisos, janelas, cozinha, banheiros), idealmente com um anexo.",
+    "Prazo para a escritura e a inscrição em Derechos Reales em seu nome.",
+    "Despesas iniciais e regulamento interno do edifício."
+   ]
+  },
+  {
+   "h2": "Como pagar com menos risco",
+   "paras": [
+    "Pague sempre na conta bancária da empresa, com recibo ou nota fiscal por cada pagamento. Se o saldo final será pago com um crédito hipotecário, peça uma pré-qualificação antes de assinar a pré-venda: o banco avaliará o apartamento concluído e dirá quanto pode lhe emprestar, e se o valor não for suficiente, você saberá com antecedência.",
+    "Com um tipo de câmbio que varia, a moeda também é um risco: se sua renda é em bolivianos e o contrato está em dólares, cada parcela pode custar diferente. Analise isso antes de se comprometer a vários anos de pagamentos."
+   ]
+  },
+  {
+   "h2": "O dia da entrega",
+   "paras": [
+    "Revise o apartamento com calma antes de assinar a ata de recebimento: acabamentos, umidade, instalações elétricas e sanitárias, portas e janelas. Anote por escrito tudo que está pendente e o prazo para corrigir. Uma vez assinada a recepção sem observações, reclamar se torna mais difícil."
+   ]
+  },
+  {
+   "h2": "Compare pré-venda com apartamentos concluídos",
+   "paras": [
+    "Antes de decidir, veja quanto custam apartamentos concluídos na mesma região: se a diferença com a pré-venda for pequena, talvez não compense o risco e a espera. No Casa-Libre você pode ver apartamentos à venda no mapa, compará-los e escrever por WhatsApp a cada anunciante. Também pode fazer isso pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É seguro comprar um apartamento na pré-venda?",
+   "a": "Pode ser, se a incorporadora tem obras entregues, o terreno está inscrito, o projeto tem plantas aprovadas e o contrato fixa prazos, penalidades e a entrega do folio real. Sem isso, o risco é alto."
+  },
+  {
+   "q": "Quando recebo o folio real do meu apartamento?",
+   "a": "Depois que o edifício for inscrito em propriedade horizontal e for assinada a escritura a seu favor. Exija que o contrato fixe um prazo para esse trâmite."
+  },
+  {
+   "q": "Posso pagar o saldo com um crédito hipotecário?",
+   "a": "Sim, é comum. Solicite uma pré-qualificação antes de assinar a pré-venda para saber quanto lhe concederiam pelo apartamento concluído."
+  },
+  {
+   "q": "O que acontece se a obra atrasar?",
+   "a": "Depende do contrato. Por isso é fundamental que inclua um prazo de entrega e uma penalidade por atraso, além de definir o que ocorre com seu dinheiro se o projeto for cancelado."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Propriedades em Santa Cruz de la Sierra",
+  "Guia: como comprar sua primeira casa",
+  "Crédito hipotecário na Bolívia"
+ ]
+}

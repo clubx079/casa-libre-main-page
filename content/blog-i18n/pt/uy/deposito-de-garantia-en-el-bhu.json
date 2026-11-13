@@ -1,0 +1,122 @@
+{
+ "_src": "ab27ff0e12f3",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Depósito de garantia no BHU: como funciona e como recuperá-lo",
+  "h1": "Depósito de garantia de aluguel no BHU: quanto é, onde se faz e como você o recupera",
+  "description": "Como funciona o depósito de garantia de um aluguel no Uruguai: limite de cinco meses, depósito no Banco Hipotecário, o que o proprietário pode descontar e como recuperá-lo ao sair.",
+  "answer": "No Uruguai você pode garantir um aluguel com um depósito em dinheiro em vez de uma garantia da CGN, ANDA ou um seguro. Para moradia, o Decreto-Lei 14.219 fixa um máximo de cinco meses de aluguel e determina que o depósito seja feito no Banco Hipotecário do Uruguai (BHU) dentro de quinze dias da assinatura do contrato. Ao terminar o aluguel, se você entregar a casa sem dívidas nem danos, o depósito é liberado. Para recuperá-lo sem discussões, o mais importante é um inventário com fotos na entrada e na saída, e ter os recibos de aluguel e serviços em dia."
+ },
+ "sections": [
+  {
+   "h2": "O que diz a lei sobre o depósito",
+   "paras": [
+    "O artigo 38 do Decreto-Lei 14.219 regula as garantias dos arrendamentos urbanos. Estabelece que o dono, seus representantes ou a administração não podem exigir em garantia uma soma maior que cinco meses de aluguel se o imóvel for para moradia (dez meses para outros destinos).",
+    "Também dispõe que o depósito seja feito no Banco Hipotecário do Uruguai, dentro de quinze dias do contrato celebrado, e que o BHU centralize os depósitos em garantia de arrendamentos. A lei prevê multas para quem não cumprir. Ou seja: o depósito não deve ficar no bolso do dono nem da imobiliária."
+   ],
+   "tip": "Se pedirem o depósito em dinheiro ou por transferência para uma conta pessoal, pergunte como e quando será depositado no BHU e peça o comprovante."
+  },
+  {
+   "h2": "Quando convém o depósito e quando não",
+   "paras": [
+    "O depósito não tem custo mensal como a comissão de uma garantia estatal ou o prêmio de um seguro, e não depende de onde você trabalha. Por isso serve a quem tem poupança e não tem acesso a outras garantias, por exemplo um trabalhador independente ou alguém recém-chegado ao país.",
+    "A contrapartida é que imobiliza muito dinheiro no início, que você não poderá usar até o término do contrato. Se essa poupança é sua reserva para emergências, talvez lhe convenha mais uma garantia com custo mensal ou um contrato pelo regime sem garantia da LUC."
+   ],
+   "table": {
+    "head": [
+     "Opção",
+     "Dinheiro no início",
+     "Custo mensal"
+    ],
+    "rows": [
+     [
+      "Depósito no BHU",
+      "Alto (até cinco meses de aluguel)",
+      "Não tem"
+     ],
+     [
+      "Garantia estatal (CGN/MVOT)",
+      "Baixo",
+      "3% do aluguel"
+     ],
+     [
+      "Seguro de fiança",
+      "Segundo a seguradora",
+      "Prêmio segundo a seguradora"
+     ],
+     [
+      "Regime sem garantia (LUC)",
+      "Até um mês adiantado",
+      "Não tem"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Ao entrar: como se proteger desde o primeiro dia",
+   "paras": [
+    "Quase todas as discussões sobre o depósito são decididas no dia em que você entra, não no dia em que sai. Antes de se mudar:"
+   ],
+   "steps": [
+    "Faça um inventário escrito com o estado de cada ambiente: paredes, pisos, aberturas, banheiro, cozinha, artefatos e chaves entregues.",
+    "Tire fotos e vídeos datados de tudo, inclusive detalhes como manchas de umidade, riscos ou vidros com marcas.",
+    "Peça que o inventário seja assinado por ambas as partes e anexe-o ao contrato.",
+    "Guarde o comprovante do depósito no BHU e uma cópia do contrato."
+   ]
+  },
+  {
+   "h2": "Durante o contrato",
+   "paras": [
+    "Pague o aluguel, as despesas comuns e os serviços na data e guarde os recibos. Se algo quebrar por uso normal ou pelo tempo (uma perda de água, um aquecedor que falha), avise o dono por escrito, por exemplo por WhatsApp ou e-mail, para que fique registrado. Os reparos importantes e estruturais costumam ser de responsabilidade do proprietário; os pequenos de uso diário, do inquilino, mas isso está definido no contrato.",
+    "Se quiser fazer uma melhoria (pintar outra cor, instalar prateleiras pesadas), peça autorização por escrito. O que fizer sem permissão pode ser cobrado ao sair."
+   ]
+  },
+  {
+   "h2": "Ao sair: como recuperar o depósito",
+   "steps": [
+    "Avise com a antecedência que o contrato exige e por escrito.",
+    "Peça os últimos recibos da UTE, OSE, internet e despesas comuns, e pague tudo até o dia da entrega. Se for o caso, faça a baixa ou a troca de titular dos serviços.",
+    "Deixe o imóvel limpo e no mesmo estado do inventário, salvo o desgaste normal pelo uso.",
+    "Faça a entrega com o dono ou a imobiliária, percorrendo o inventário de entrada. Tire fotos novamente.",
+    "Assinem um documento de entrega de chaves que indique se há ou não observações. Com esse documento gerencia-se a liberação do depósito."
+   ]
+  },
+  {
+   "h2": "O que o dono pode descontar e o que não pode",
+   "paras": [
+    "O depósito cobre dívidas e danos: aluguéis não pagos, serviços ou despesas comuns devidos e quebras que vão além do uso normal. Não deve cobrir o desgaste natural, como pintura desgastada pelos anos, o envelhecimento de um tapete ou artefatos que se romperam por antiguidade.",
+    "Se o dono reclamar um dano, peça que detalhe por escrito e com orçamento. Compare com as fotos do inventário de entrada: se o dano já existia, você tem como comprovar."
+   ]
+  },
+  {
+   "h2": "Buscar aluguel aceitando depósito",
+   "paras": [
+    "Se for oferecer depósito, diga isso na sua primeira mensagem: alguns donos preferem a essa garantia. No Casa-Libre você vê aluguéis de todo o Uruguai no mapa e escreve direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto é o depósito máximo para alugar uma moradia no Uruguai?",
+   "a": "Cinco meses de aluguel, segundo o artigo 38 do Decreto-Lei 14.219. Para outros destinos o limite é de dez meses."
+  },
+  {
+   "q": "Onde se faz o depósito de garantia?",
+   "a": "A lei determina que seja feito no Banco Hipotecário do Uruguai dentro de quinze dias da assinatura do contrato."
+  },
+  {
+   "q": "Posso usar o depósito para pagar o último mês?",
+   "a": "Não é o usual e pode gerar um problema: o depósito garante dívidas e danos ao final. Se quiser fazer isso, concorde por escrito com o proprietário."
+  },
+  {
+   "q": "Se eu alugar pela LUC preciso deixar depósito?",
+   "a": "Não. O regime da LUC exige que não haja garantias de nenhum tipo; só se pode pedir até um mês adiantado."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Comparar garantias de aluguel"
+ ]
+}

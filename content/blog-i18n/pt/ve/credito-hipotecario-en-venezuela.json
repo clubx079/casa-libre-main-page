@@ -1,0 +1,122 @@
+{
+ "_src": "8f8bc577133f",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito hipotecário na Venezuela: como funciona e o que pedir",
+  "h1": "Crédito hipotecário na Venezuela: como funciona, quem empresta e como comparar",
+  "description": "Como funciona um crédito hipotecário na Venezuela hoje: bancos, fundos do FAOV e BANAVIH, quanto financiam, documentos, avaliação, moeda e como comparar ofertas antes de assinar.",
+  "answer": "Um crédito hipotecário é um empréstimo de longo prazo para comprar, construir ou melhorar uma moradia, em que o imóvel fica hipotecado a favor do banco até que você pague. Na Venezuela o crédito hipotecário esteve muito limitado durante anos por causa da inflação e das restrições ao crédito bancário; hoje alguns bancos voltaram a oferecer produtos, com condições que mudam com frequência. Também existem créditos com recursos do FAOV, que administra o BANAVIH. Antes de buscar casa, pergunte ao seu banco o que oferece hoje, em que moeda e com quanto de entrada."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona um crédito hipotecário, de forma simples",
+   "paras": [
+    "O banco lhe empresta parte do preço e você devolve em parcelas ao longo de vários anos. Como garantia, constitui-se uma hipoteca sobre o imóvel, que é protocolada no Registro Imobiliário da jurisdição onde está a propriedade, normalmente no mesmo ato da compra e venda. Quando você termina de pagar, a hipoteca é liberada, também junto ao registro.",
+    "Se você deixar de pagar, o banco pode executar a hipoteca. Para moradia principal existe ainda um regime especial de proteção ao devedor hipotecário, então se em algum momento você tiver problemas para pagar, procure assessoria antes que a dívida aumente."
+   ]
+  },
+  {
+   "h2": "O que esperar hoje do crédito hipotecário na Venezuela",
+   "paras": [
+    "Durante vários anos foi muito difícil obter um crédito hipotecário bancário na Venezuela: a alta inflação e as restrições ao crédito fizeram com que a maioria das compras fosse paga à vista, muitas vezes em moedas estrangeiras. Nos últimos tempos vários bancos, públicos e privados, anunciaram novamente produtos hipotecários, mas os valores, prazos e requisitos variam muito e mudam rápido.",
+    "Por isso este guia não fornece taxas nem prazos concretos. O útil é saber o que perguntar e como comparar, e então solicitar a cada banco sua oferta vigente por escrito."
+   ]
+  },
+  {
+   "h2": "Quem empresta: bancos e recursos do FAOV",
+   "paras": [
+    "O FAOV se alimenta de contribuições obrigatórias de trabalhadores e empregadores. Ter contribuições em dia na sua conta FAOV costuma ser um requisito para acessar créditos com esses recursos."
+   ],
+   "table": {
+    "head": [
+     "Fonte",
+     "O que é",
+     "O que perguntar"
+    ],
+    "rows": [
+     [
+      "Crédito bancário com recursos próprios",
+      "Produto de cada banco, com suas próprias condições",
+      "Valor máximo, moeda, prazo, taxa e entrada exigida"
+     ],
+     [
+      "Crédito com recursos do FAOV",
+      "Fondo de Ahorro Obligatorio para la Vivienda, administrado por BANAVIH e canalizado através de bancos operadores",
+      "Se você está em dia com suas contribuições e qual banco tramita a linha"
+     ],
+     [
+      "Programas públicos de vivienda",
+      "Adjudicação de moradias pelo Estado, como a Gran Misión Vivienda Venezuela",
+      "Requisitos de registro e prioridades"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A entrada: quanto você tem que colocar",
+   "paras": [
+    "Nenhum banco financia 100%. Emprestam um percentual do menor valor entre o preço e a avaliação, e o resto é sua entrada. Além disso, você precisa de dinheiro para os gastos da operação: avaliação, honorários de advogado para redigir o documento, direitos de registro, pagamentos ao SENIAT e à prefeitura, e seguros. Esses gastos quase nunca entram no empréstimo."
+   ]
+  },
+  {
+   "h2": "Avaliação, revisão de documentos e seguros",
+   "paras": [
+    "Antes de aprovar, o banco manda fazer uma avaliação do imóvel com um perito. Se a avaliação for menor que o preço, o banco empresta sobre o valor da avaliação e a diferença você cobre ou renegocia com o vendedor.",
+    "Também verifica a tradição legal: que o vendedor seja o proprietário segundo o Registro Imobiliário, que não haja hipotecas nem proibições de alienação e que o imóvel esteja regularizado com a prefeitura. E pedirá seguros, normalmente de vida e sobre o imóvel."
+   ]
+  },
+  {
+   "h2": "Documentos que costumam solicitar",
+   "bullets": [
+    "Cédula de identidade e RIF do solicitante e, se for o caso, do cônjuge.",
+    "Comprovante de trabalho e recibos de pagamento, ou certificação de rendimentos de contador público se for autônomo.",
+    "Extratos bancários recentes.",
+    "Extrato da conta do FAOV, se for usar esses recursos.",
+    "Do imóvel: cópia do documento de propriedade, cédula catastral e regularizações municipais.",
+    "Opção de compra ou promessa de venda assinada com o vendedor."
+   ]
+  },
+  {
+   "h2": "Como comparar duas ofertas",
+   "bullets": [
+    "Moeda do crédito: se você recebe em bolívares e o crédito está indexado ou em moedas estrangeiras, assume risco cambial.",
+    "Taxa: se é fixa ou variável, e como se ajusta.",
+    "Prazo e parcela: mais anos reduzem a parcela mas aumentam o total pago.",
+    "Custo total: juros, seguros, comissões e despesas de concessão.",
+    "Pagamento antecipado: se pode adiantar parcelas ou cancelar sem penalidade.",
+    "Tempo de aprovação: o vendedor nem sempre espera semanas."
+   ],
+   "tip": "Peça a tabela de amortização completa por escrito. Ela mostra quanto você paga no total e quanto de cada parcela é juros."
+  },
+  {
+   "h2": "Busque com o orçamento claro",
+   "paras": [
+    "Com uma ideia de quanto lhe emprestam e quanto você tem de entrada, filtre por preço no Casa-Libre e guarde as opções que se encaixam. Você pode escrever ao vendedor por WhatsApp para perguntar se aceita pagamento com crédito, porque nem todos esperam os prazos do banco. Na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Existem créditos hipotecários na Venezuela em 2026?",
+   "a": "Alguns bancos voltaram a oferecê-los, mas com condições que mudam frequentemente. Pergunte diretamente ao seu banco sobre a oferta vigente e solicite-a por escrito."
+  },
+  {
+   "q": "O que é o FAOV?",
+   "a": "O Fundo de Ahorro Obrigatório para a Moradia, ao qual contribuem trabalhadores e empregadores. É administrado pelo BANAVIH e seus recursos financiam créditos habitacionais através de bancos."
+  },
+  {
+   "q": "Quanto preciso ter de entrada?",
+   "a": "Depende do banco e do produto. Nenhum banco financia o total, e ainda você precisa de dinheiro para avaliação, registro e outras despesas."
+  },
+  {
+   "q": "Podem tirar a casa de mim se eu não pagar?",
+   "a": "O banco pode executar a hipoteca, embora para moradia principal existam normas especiais de proteção ao devedor. Se tiver problemas, procure assessoria e converse com o banco antes de acumular parcelas."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "FAOV e BANAVIH: o que são"
+ ]
+}

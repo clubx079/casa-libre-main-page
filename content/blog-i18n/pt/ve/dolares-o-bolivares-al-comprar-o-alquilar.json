@@ -1,0 +1,119 @@
+{
+ "_src": "3d9793489fcd",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dólares ou bolívares ao comprar ou alugar na Venezuela",
+  "h1": "Dólares ou bolívares ao comprar ou alugar na Venezuela: como pactuar o preço e pagar sem surpresas",
+  "description": "Por que os imóveis na Venezuela são publicados em moedas estrangeiras, como se usa a taxa de câmbio oficial do BCV, o que deve constar no contrato e como pagar de forma segura e documentada.",
+  "answer": "Na Venezuela a maioria dos imóveis é publicada com preço de referência em moedas estrangeiras, sobretudo em dólares, enquanto o bolívar é a moeda de curso legal e a que aparece em muitos trâmites. Se você pagar em bolívares, o contrato deve indicar qual taxa de câmbio será usada (o habitual é a oficial do Banco Central de Venezuela do dia do pagamento). Em aluguéis residenciais a lei tem regras próprias sobre o valor do aluguel. Seja qual for a moeda, pague por meios rastreáveis e guarde cada comprovante."
+ },
+ "sections": [
+  {
+   "h2": "Por que os preços são publicados em moedas estrangeiras",
+   "paras": [
+    "Depois de anos de alta inflação e reconversões monetárias, a maioria das pessoas fixa o valor de bens grandes, como um apartamento, em uma moeda mais estável. Por isso você verá quase todas as propriedades à venda com preço em dólares e muitos aluguéis com canon de referência em moedas estrangeiras.",
+    "Isso não muda o fato de que o bolívar continua sendo a moeda de curso legal. Nos documentos que são protocolizados no registro e nos pagamentos de tributos costuma aparecer o valor em bolívares, embora a negociação tenha sido feita em moedas estrangeiras."
+   ]
+  },
+  {
+   "h2": "A taxa de câmbio oficial do BCV",
+   "paras": [
+    "O Banco Central da Venezuela publica todos os dias úteis a taxa de câmbio oficial. É a referência mais usada quando um preço em moedas estrangeiras é pago em bolívares, e também a que serve para muitos cálculos tributários.",
+    "O problema surge quando o contrato não especifica qual taxa nem de que dia. Se o preço for pactuado em dólares e o pagamento for feito semanas depois, a diferença pode ser significativa. Sempre escreva: \"à taxa de câmbio oficial publicada pelo BCV para o dia do pagamento\"."
+   ]
+  },
+  {
+   "h2": "Em uma compra e venda",
+   "bullets": [
+    "Deixe escrito o preço, a moeda de pagamento e, se houver pagamento em bolívares, a taxa de câmbio aplicável.",
+    "Se houver arras ou um pagamento inicial ao assinar a opção de compra, especifique a moeda e o que acontece com esse valor se a venda não se concretizar.",
+    "Prefira transferências bancárias para contas em nome do vendedor ao invés de entrega de dinheiro em espécie.",
+    "Se pagar do exterior, guarde os comprovantes da transferência internacional: eles servirão para justificar a origem dos fundos.",
+    "O preço que constar no documento registrado deve coincidir com o realmente pago. Declarar um preço menor para pagar menos impostos é um risco legal para ambas as partes."
+   ]
+  },
+  {
+   "h2": "Em um aluguel de imóvel",
+   "paras": [
+    "Nos aluguéis é muito comum que o canon seja anunciado em moedas estrangeiras. A Lei para a Regularização e Controle dos Arrendamentos de Moradia tem regras sobre a fixação do canon que nem sempre coincidem com essa prática. Antes de assinar, peça assessoria sobre como a cláusula do canon deve ser redigida para que o contrato lhe proteja.",
+    "Na prática, concorde por escrito: o valor, a moeda de referência, a moeda em que você paga, a taxa de câmbio e a data de pagamento. Assim você evita discussões a cada mês."
+   ]
+  },
+  {
+   "h2": "Meios de pagamento: rastreabilidade acima de tudo",
+   "tip": "Nunca pague na conta de um terceiro \"porque o dono está de viagem\". Se o titular não puder receber, que haja uma procuração notarial que autorize quem recebe.",
+   "table": {
+    "head": [
+     "Meio",
+     "Vantagem",
+     "Cuidado"
+    ],
+    "rows": [
+     [
+      "Transferência em bolívares",
+      "Fica registro bancário em nome das partes",
+      "Confirme que a conta seja do vendedor ou locador"
+     ],
+     [
+      "Pagamento móvel",
+      "Rápido para valores menores, como o canon mensal",
+      "Limites diários; guarde a captura de tela e a referência"
+     ],
+     [
+      "Transferência em moedas estrangeiras (conta nacional ou exterior)",
+      "Mantém o valor",
+      "Verifique as comissões e se a conta é do titular"
+     ],
+     [
+      "Dinheiro em moedas estrangeiras",
+      "Imediato",
+      "Risco de segurança e sem registro; exija recibo assinado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Pagamentos em moedas estrangeiras e tributos",
+   "paras": [
+    "Alguns pagamentos em moedas estrangeiras ou criptoativos podem estar sujeitos ao imposto sobre grandes transações financeiras (IGTF), dependendo de quem paga e quem recebe. As regras mudam, então consulte seu banco ou um contador se sua operação está sujeita antes de escolher o meio de pagamento."
+   ]
+  },
+  {
+   "h2": "Um exemplo de cláusula clara (hipotético)",
+   "paras": [
+    "Para um aluguel, uma redação que evita discussões poderia ser parecida com esta, sempre revisada por um advogado para o seu caso: \"O canon mensal é o equivalente em bolívares de [valor] dólares dos Estados Unidos, calculado à taxa de câmbio oficial publicada pelo Banco Central da Venezuela para o dia do pagamento, pagável nos primeiros cinco dias de cada mês mediante transferência para a conta [dados] em nome do locador.\"",
+    "O importante é que estejam presentes as cinco peças: valor, moeda de referência, moeda de pagamento, taxa de câmbio e data."
+   ]
+  },
+  {
+   "h2": "Compare preços na mesma moeda",
+   "paras": [
+    "No Casa-Libre os anúncios mostram o preço na moeda escolhida pelo anunciante, para que você compare opções no mapa sem fazer contas o tempo todo. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É legal vender um imóvel em dólares na Venezuela?",
+   "a": "Pactuar o preço em moedas estrangeiras é uma prática muito difundida nas compras e vendas. O importante é que o documento reflita o preço real e que um advogado redija bem a cláusula de pagamento."
+  },
+  {
+   "q": "Qual taxa de câmbio é usada para pagar em bolívares?",
+   "a": "O habitual é a taxa de câmbio oficial publicada pelo BCV para o dia do pagamento. Deixe isso escrito no contrato."
+  },
+  {
+   "q": "Podem cobrar o aluguel em dólares?",
+   "a": "É frequente na prática, mas a lei de arrendamento residencial tem regras sobre o valor do aluguel. Consulte antes de assinar como deve ficar a cláusula."
+  },
+  {
+   "q": "Pagar em dinheiro é seguro?",
+   "a": "Tem riscos de segurança e não deixa registro. Se não houver outra opção, exija recibo assinado com data, valor, moeda e conceito."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Aluguéis no mapa",
+  "Comprar do exterior"
+ ]
+}

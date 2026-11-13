@@ -1,0 +1,122 @@
+{
+ "_src": "2f5c297574c5",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Housing Cooperatives in Uruguay: How They Work and How to Join",
+  "h1": "Housing Cooperatives in Uruguay: mutual aid, prior savings, users and owners",
+  "description": "How housing cooperatives work in Uruguay: mutual aid or prior savings, user or owner cooperatives, MVOT loan, lottery, timelines and how to join a group.",
+  "answer": "A housing cooperative is a group of families that organizes to build their homes with state financing. In Uruguay they are governed by Law 13.728 and other regulations, and there are two main models: mutual aid, where members contribute work hours on the construction, and prior savings, where they contribute money. They can also be user cooperatives (the property belongs to the cooperative and you have a right of use and enjoyment) or owner cooperatives. The loan is granted by the MVOT, generally through a lottery among cooperatives that meet the requirements. It is a long road, but it allows you to access a home with payments based on your income."
+ },
+ "sections": [
+  {
+   "h2": "What a housing cooperative is",
+   "paras": [
+    "The cooperative housing system is one of the best-known ways to access housing in Uruguay. It is based on the National Housing Law (Law 13.728 of 1968), which already provided for user cooperatives and for public bodies to give preferential attention to mutual-aid programs.",
+    "A group of families forms the cooperative, acquires land, hires an Instituto de Asistencia Técnica (IAT) that designs the project and oversees construction, and applies for a loan from the State. When construction is finished, each family receives its home and the cooperative continues to operate: it manages the complex and collects fees to repay the loan."
+   ]
+  },
+  {
+   "h2": "Mutual aid or prior savings",
+   "paras": [
+    "In mutual-aid cooperatives, members’ work hours replace part of the savings and a minimum number of hours per family is required. It is a large commitment that lasts for the entire construction. In prior-savings cooperatives, the contribution is monetary."
+   ],
+   "table": {
+    "head": [
+     "Modality",
+     "What you contribute",
+     "Who it usually serves"
+    ],
+    "rows": [
+     [
+      "Mutual aid",
+      "Work hours on the construction, organized by the cooperative",
+      "Families with little savings and time available for the construction"
+     ],
+     [
+      "Prior savings",
+      "A cash savings before and during construction",
+      "Families with saving capacity and less time"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "User cooperative or owner cooperative",
+   "paras": [
+    "In a user cooperative, the homes are owned by the cooperative and each member has a right of use and enjoyment over theirs, which can be inherited. If you leave, the cooperative returns your share and the home is assigned to another member. In an owner cooperative, once the payments are finished, each member becomes the owner of their home.",
+    "The user model is the most widespread and has some benefits; for example, the Montevideo Intendencia offers a property-tax exemption procedure for user housing cooperatives."
+   ]
+  },
+  {
+   "h2": "The stages, from foundation to key handover",
+   "paras": [
+    "The ANV describes the process in stages. Simplified, the path looks like this:"
+   ],
+   "steps": [
+    "The group forms and drafts the cooperative’s founding act.",
+    "A Instituto de Asistencia Técnica is chosen and legal personality and a regularity certificate are obtained.",
+    "Land is acquired, either private or from a public portfolio.",
+    "The project is submitted and the cooperative registers for the loan.",
+    "The MVOT awards the loans, generally by lottery among eligible cooperatives.",
+    "The construction is carried out, with work hours or savings depending on the modality.",
+    "The homes are allocated and fee payments begin."
+   ]
+  },
+  {
+   "h2": "How long it takes",
+   "paras": [
+    "From the moment a group is formed until families move in, several years usually pass: it depends on acquiring land, being selected in the lottery and the construction pace. It is not a solution for someone who needs to move quickly. Many families rent in the meantime, so it makes sense to combine the cooperative with a solid rental plan."
+   ]
+  },
+  {
+   "h2": "Requirements to join",
+   "bullets": [
+    "Household income within the ranges set by the regulations, expressed in UR.",
+    "Generally, not owning another home.",
+    "Commitment to attend assemblies and, in mutual-aid cooperatives, to work on the construction.",
+    "Household documentation: IDs, income proofs and, in some cases, employment history."
+   ],
+   "tip": "There are already-formed cooperatives looking for members to complete the group, especially when a family drops out. Ask the cooperative federations and in your neighborhood."
+  },
+  {
+   "h2": "If you live in the rural interior",
+   "paras": [
+    "In small towns and rural areas, MEVIR builds homes with a similar mutual-aid system, in calls it opens for each locality. If you live in the interior, also check that option."
+   ]
+  },
+  {
+   "h2": "In the meantime",
+   "paras": [
+    "If you are in a cooperative or waiting for a lottery, you will probably rent while you wait. On Casa-Libre you can view rentals across Uruguay on the map and contact owners directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I sell my cooperative housing?",
+   "a": "In a user cooperative no, because the housing belongs to the cooperative: if you leave, they return your social shares according to the statutes. In an owner cooperative, once you are the owner, the cooperative’s and loan rules apply."
+  },
+  {
+   "q": "What is a mutual aid cooperative?",
+   "a": "A cooperative where members contribute work hours on the construction instead of a monetary savings portion."
+  },
+  {
+   "q": "In a user cooperative am I the owner of my house?",
+   "a": "No. The housing belongs to the cooperative and you have a right of use and enjoyment, which can be inherited. If you leave, they return your social shares."
+  },
+  {
+   "q": "How do you obtain a cooperative loan?",
+   "a": "It is granted by the MVOT; according to the ANV, loan allocations are done by lottery among cooperatives that meet the requirements."
+  },
+  {
+   "q": "How long does it take to have the housing?",
+   "a": "Several years in general, between forming the group, acquiring land, being selected in the lottery and building."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Land for sale",
+  "Mortgage credit in Uruguay"
+ ]
+}

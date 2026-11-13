@@ -1,0 +1,129 @@
+{
+ "_src": "3539c4f5e217",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Direito de frente na Venezuela: o que é e como pagá-lo",
+  "h1": "Direito de frente e imposto imobiliário na Venezuela: o que é, quem cobra e por que a solvência importa",
+  "description": "O que é o direito de frente (imposto sobre imóveis urbanos), quem o cobra, como consultar e pagar na sua alcaldía (prefeitura) e por que a solvência municipal é fundamental para comprar ou vender.",
+  "answer": "\"Direito de frente\" é o nome popular do imposto sobre imóveis urbanos, um tributo municipal que paga o proprietário de uma casa, apartamento, local ou terreno urbano. O cobra a alcaldía (prefeitura) do município onde está o imóvel, segundo sua própria ordenança, e por isso as tarifas, descontos e datas mudam entre Libertador, Chacao, Baruta, Sucre ou outro município. Estar em dia lhe dá a solvência municipal, um documento exigido para registrar uma compra e venda."
+ },
+ "sections": [
+  {
+   "h2": "O que é o direito de frente",
+   "paras": [
+    "O nome vem de quando o imposto era calculado segundo os metros de frente do imóvel na rua. Hoje o termo continua em uso, mas o que se paga é o imposto sobre imóveis urbanos que a Constituição e a lei de regime municipal atribuem aos municípios.",
+    "Cada prefeitura (alcaldía) o regula com uma ordenança: define como se calcula o valor do imóvel (normalmente a partir dos dados do cadastro), qual alíquota se aplica, quando se paga e quais descontos há por pagamento antecipado ou isenções."
+   ]
+  },
+  {
+   "h2": "Quem paga",
+   "paras": [
+    "Paga o proprietário. Se você aluga, normalmente não lhe cabe, salvo se o contrato disser o contrário. Se compra, a partir do momento em que se torna dono passa a ser sua obrigação, e as dívidas atrasadas do imóvel podem complicar o registro da operação."
+   ]
+  },
+  {
+   "h2": "Por que muda conforme o município",
+   "paras": [
+    "Em Caracas, por exemplo, a área metropolitana se divide entre vários municípios (Libertador no Distrito Capital, e Chacao, Baruta, Sucre e El Hatillo em Miranda), e cada um tem sua própria prefeitura, seu próprio cadastro e sua própria ordenança. O mesmo ocorre em Valencia, Maracaibo, Barquisimeto ou qualquer cidade grande que abranja mais de um município.",
+    "Por isso, antes de comprar, confirme a que município o imóvel realmente pertence. Nem sempre coincide com o que dizem os moradores do bairro."
+   ]
+  },
+  {
+   "h2": "Como consultar e pagar",
+   "steps": [
+    "Identifique o município e procure o portal ou o escritório de finanças ou administração tributária da prefeitura.",
+    "Tenha em mãos a cédula cadastral (cédula catastral) ou o número da conta corrente cadastral (cuenta corriente catastral) do imóvel, e a cédula ou RIF do proprietário.",
+    "Consulte o extrato de conta: períodos pagos e dívida pendente.",
+    "Pague online ou nas bilheterias indicadas pela prefeitura.",
+    "Baixe e guarde o comprovante de pagamento.",
+    "Se for vender ou comprar, solicite a solvência municipal do imóvel."
+   ],
+   "tip": "Muitas prefeituras oferecem descontos por pagar o ano inteiro no início. Pergunte antes de pagar mês a mês."
+  },
+  {
+   "h2": "A solvência municipal: o documento que mais importa ao comprar",
+   "paras": [
+    "Para protocolizar uma compra e venda no Registro Imobiliário costuma-se exigir a solvência de imóveis urbanos vigente, que demonstra que o imóvel não tem dívida do imposto com a prefeitura. Se o vendedor não a tem, primeiro ele precisa regularizar a situação.",
+    "Como comprador, verifique se a solvência corresponde ao imóvel exato que você está adquirindo (mesmo número cadastral) e se está vigente na data da assinatura."
+   ]
+  },
+  {
+   "h2": "Outros pagamentos municipais relacionados",
+   "table": {
+    "head": [
+     "Pagamento",
+     "Quando aparece"
+    ],
+    "rows": [
+     [
+      "Imposto sobre imóveis urbanos (direito de frente)",
+      "Todo ano, enquanto for proprietário"
+     ],
+     [
+      "Taxa de limpeza urbana",
+      "Mensal ou periódica, conforme o município e a empresa prestadora"
+     ],
+     [
+      "Trâmites de cadastro (cédula cadastral, atualização)",
+      "Ao comprar, vender ou modificar o imóvel"
+     ],
+     [
+      "Imposto municipal sobre transações imobiliárias",
+      "Em alguns municípios, ao registrar a compra e venda"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O que fazer com o direito de frente ao comprar",
+   "paras": [
+    "Ao negociar a compra, combine com o vendedor que entregue a solvência de imóveis urbanos vigente antes da assinatura, e que qualquer dívida anterior fique a cargo dele. Se o vendedor tem anos sem pagar, o valor acumulado com juros pode ser significativo: é conveniente saber disso desde o início, pois pode atrasar a operação.",
+    "Depois de registrar a compra, atualize na prefeitura o nome do contribuinte para que o imóvel fique em seu nome no cadastro e na finança municipal. Se não fizer isso, as notificações e os extratos de conta continuarão chegando ao antigo dono e você pode acumular dívida sem perceber."
+   ],
+   "bullets": [
+    "Antes de assinar: peça a solvência vigente e o extrato de conta do imóvel.",
+    "No documento: deixe registrado que as dívidas anteriores são do vendedor.",
+    "Depois de registrar: atualize o contribuinte no cadastro e na finança municipal.",
+    "Todo ano: verifique se há desconto por pagamento antecipado e guarde os comprovantes."
+   ]
+  },
+  {
+   "h2": "Antes de se apaixonar por um imóvel",
+   "paras": [
+    "Quando encontrar uma propriedade na Casa-Libre que lhe interesse, pergunte ao vendedor pelo WhatsApp se ele tem a solvência municipal e a cédula cadastral em dia. Se houver dúvidas, já sabe que há trâmites pendentes. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é o direito de frente?",
+   "a": "É o nome popular do imposto municipal sobre imóveis urbanos. O paga o proprietário à alcaldía (prefeitura) do município onde está o imóvel."
+  },
+  {
+   "q": "Quanto se paga de direito de frente?",
+   "a": "Depende da ordenança de cada município e do valor cadastral do imóvel. Consulte o extrato na sua alcaldía (prefeitura)."
+  },
+  {
+   "q": "O inquilino paga o direito de frente?",
+   "a": "Normalmente não, salvo se o contrato disser expressamente. É uma obrigação do proprietário."
+  },
+  {
+   "q": "É necessária a solvência municipal para vender?",
+   "a": "Sim, o Registro Imobiliário costuma exigir a solvência de imóveis urbanos vigente para protocolizar a compra e venda."
+  },
+  {
+   "q": "O que acontece se eu não pagar o direito de frente?",
+   "a": "A dívida acumula juros e encargos conforme a ordenança, e sem solvência municipal você não poderá registrar uma venda nem fazer vários trâmites na alcaldía (prefeitura)."
+  },
+  {
+   "q": "Como altero o contribuinte após a compra?",
+   "a": "Dirija-se ao escritório de cadastro ou finanças da alcaldía (prefeitura) com o documento de compra registrado e sua cédula, para que o imóvel fique em seu nome."
+  }
+ ],
+ "related": [
+  "Propriedades em Caracas",
+  "Casas à venda",
+  "Cédula cadastral: o que é"
+ ]
+}

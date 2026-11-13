@@ -1,0 +1,135 @@
+{
+ "_src": "563a249b8291",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Imposto de transferência de bens imóveis em El Salvador",
+  "h1": "Imposto sobre Transferência de Bens Imóveis em El Salvador: quanto é e como se calcula",
+  "description": "Quanto se paga de imposto ao comprar uma casa ou um terreno em El Salvador: 3% sobre o excesso de US$28.571,43, quem paga, como calcular, prazos e por que sem ele a escritura (escritura pública) não é registrada",
+  "answer": "O Imposto sobre Transferência de Bens Imóveis grava a compra de imóveis em El Salvador. O paga o comprador. Se o valor do imóvel for de até US$28.571,43 (equivalente a 250.000 colones), não se paga; se for maior, paga-se 3% apenas sobre a parte que excede esse valor. Declara-se e paga-se ao Ministério de Hacienda dentro de 60 dias após a escritura, e o Registro não inscreve a compra e venda sem o comprovante de pagamento."
+ },
+ "sections": [
+  {
+   "h2": "O que grava e quem paga",
+   "paras": [
+    "A Lei do Imposto sobre Transferência de Bens Imóveis grava a transferência de imóveis entre vivos, ou seja, compras e vendas, permutas e outras formas de transferência que não sejam heranças. A lei diz que o obrigado a pagar é a pessoa, natural ou jurídica, que adquire o imóvel: o comprador.",
+    "Isso pode ser negociado no contrato (por exemplo, que o vendedor assuma uma parte), mas perante a Fazenda o responsável é quem compra."
+   ]
+  },
+  {
+   "h2": "Como se calcula, com exemplos",
+   "paras": [
+    "A lei fixa um intervalo isento de 250.000 colones. Como El Salvador usa o dólar a uma taxa de câmbio fixa de 8,75 colones por dólar desde a Lei de Integração Monetária, esse intervalo equivale a US$28.571,43. Sobre o que exceder esse valor paga-se 3%.",
+    "Fórmula: (valor do imóvel − 28.571,43) × 3%. Se o resultado for negativo, não há imposto."
+   ],
+   "tip": "Os valores da tabela são exemplos para mostrar o cálculo, não preços de mercado.",
+   "table": {
+    "head": [
+     "Valor do imóvel (exemplo)",
+     "Parte que excede US$28.571,43",
+     "Imposto (3%)"
+    ],
+    "rows": [
+     [
+      "US$25,000",
+      "US$0",
+      "US$0 (isento)"
+     ],
+     [
+      "US$45,000",
+      "US$16.428,57",
+      "US$492,86"
+     ],
+     [
+      "US$80,000",
+      "US$51.428,57",
+      "US$1.542,86"
+     ],
+     [
+      "US$150,000",
+      "US$121.428,57",
+      "US$3.642,86"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Sobre que valor se calcula",
+   "paras": [
+    "Em princípio, sobre o preço da escritura (escritura pública). Mas a lei estabelece que o valor declarado não pode ser menor que certos mínimos, e a Hacienda pode revisar valores que pareçam muito baixos. Declarar um preço menor que o real para pagar menos imposto é um risco: além de possíveis multas, se depois vender, o custo de compra registrado será mais baixo e você poderá pagar mais imposto sobre o ganho."
+   ]
+  },
+  {
+   "h2": "Quando e como pagar",
+   "paras": [
+    "De acordo com a lei, a declaração deve ser apresentada e o imposto pago dentro de 60 dias a partir da data da escritura. Na prática, o notario (tabelião) costuma indicar como fazer a declaração perante o Ministério de Hacienda e o pagamento.",
+    "Esse pagamento não é opcional: a lei ordena ao Registro de la Propiedad exigir o comprovante, e sem ele a escritura não é inscrita. Uma compra e venda não inscrita deixa você exposto, porque perante terceiros o dono continua sendo o vendedor."
+   ],
+   "steps": [
+    "Assine a escritura de compra e venda perante notario.",
+    "Apresente a declaração do imposto perante o Ministério de Hacienda.",
+    "Pague o imposto se o valor superar US$28,571.43.",
+    "Entregue o comprovante junto com a escritura para inscrevê-la no CNR."
+   ]
+  },
+  {
+   "h2": "Casos em que não se paga",
+   "paras": [
+    "Além dos imóveis de até US$28,571.43, a lei contempla algumas isenções, por exemplo quando o Estado ou as municipalidades adquirem um imóvel e outros casos previstos em leis especiais. As heranças não pagam esse imposto porque não são transferências entre vivos. Se você acha que seu caso tem isenção, confirme com o notario ou com Hacienda antes de assinar."
+   ]
+  },
+  {
+   "h2": "Não é o único custo da compra",
+   "bullets": [
+    "Honorários do notario (notário) por la escritura (escritura pública).",
+    "Direitos de inscrição no CNR.",
+    "Certificações registrais e solvências.",
+    "Se houver crédito: escritura de hipoteca, avaliação e seguros."
+   ]
+  },
+  {
+   "h2": "Erros comuns com este imposto",
+   "paras": [
+    "O primeiro erro é não incluí-lo no orçamento. Muitos compradores calculam a taxa e os gastos do notario, mas se esquecem do imposto, e em uma casa de preço médio o valor já é considerável. Calcule-o desde que veja o aviso.",
+    "O segundo é calcular os 3% sobre o preço total. O imposto aplica-se apenas sobre a parte que excede US$28,571.43, não sobre todo o valor. Em uma casa de US$45,000, a diferença entre um cálculo e outro é de vários centenas de dólares.",
+    "O terceiro é deixar passar o prazo. Se a escritura for assinada e o imposto não for declarado nem pago a tempo, a inscrição atrasa e podem ser aplicados juros. Enquanto a escritura não for inscrita, o imóvel continua registrado em nome do vendedor.",
+    "O quarto é pensar que \"o paga o notario\". O notario costuma orientar ou fazer o trâmite, mas o dinheiro o paga o comprador. Peça que lhe entreguem o comprovante e guarde-o com sua escritura: será útil se algum dia vender."
+   ]
+  },
+  {
+   "h2": "E o vendedor paga algo?",
+   "paras": [
+    "O imposto de transferência não é do vendedor. Mas se o vendedor obtiver lucro na venda, pode ter que pagar imposto de renda sobre esse ganho de capital. São dois impostos distintos, cada um a cargo de uma parte."
+   ]
+  },
+  {
+   "h2": "Calcule antes de ofertar",
+   "paras": [
+    "Some o imposto ao preço desde o início. No Casa-Libre você pode ver casas, apartamentos e terrenos à venda com seu preço, calcular o imposto com a fórmula acima e escrever por WhatsApp ao vendedor. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto é o imposto por comprar uma casa em El Salvador?",
+   "a": "3% sobre a parte do valor que exceda US$28.571,43. Se a casa valer menos que esse valor, não se paga."
+  },
+  {
+   "q": "Quem paga o imposto de transferência, o comprador ou o vendedor?",
+   "a": "Segundo a lei, o comprador (quem adquire o imóvel). As partes podem acordar outra distribuição, mas perante a Hacienda responde o comprador."
+  },
+  {
+   "q": "Em quanto tempo deve ser pago?",
+   "a": "A lei concede 60 dias a partir da data da escritura para declarar e pagar. Sem o comprovante, o CNR não inscreve a compra e venda."
+  },
+  {
+   "q": "As heranças pagam esse imposto?",
+   "a": "Não, porque o imposto grava transferências entre vivos. As heranças têm seu próprio trâmite."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Terrenos em venda",
+  "Guia: gastos ao comprar uma casa"
+ ]
+}

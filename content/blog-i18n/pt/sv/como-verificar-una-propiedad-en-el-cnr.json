@@ -1,0 +1,116 @@
+{
+ "_src": "0adc34c9162d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como verificar um imóvel no CNR de El Salvador",
+  "h1": "Como saber quem é o dono de uma casa e se tem hipotecas: consulta no CNR",
+  "description": "Como consultar no Centro Nacional de Registros (CNR) quem é o dono de um imóvel em El Salvador, se tem hipotecas ou embargos: matrícula, certificação extraída e avisos registrais.",
+  "answer": "Para saber quem é o dono de uma casa ou de um terreno em El Salvador e se tem hipotecas ou embargos, consulte o Registro da Propriedade Raiz e Hipotecas do Centro Nacional de Registros (CNR). Com o número da matrícula do imóvel você pode solicitar uma certificação extraída, online ou em uma agência do CNR, que resume o nome do dono, sua porcentagem, a situação jurídica do imóvel e os documentos em tramitação. Faça isso sempre antes de entregar qualquer anticipo."
+ },
+ "sections": [
+  {
+   "h2": "Por que a consulta é o primeiro passo",
+   "paras": [
+    "Em uma compra e venda, quem lhe mostra a casa nem sempre é quem pode vendê-la. Pode ser um familiar sem poder, um inquilino ou, no pior caso, alguém que tenta um golpe. E mesmo que seja o dono, a casa pode ter uma hipoteca ou um embargo que você herdaria.",
+    "O registro público é a fonte que manda. O que disser o CNR sobre o imóvel pesa mais que qualquer fotocópia ou explicação."
+   ]
+  },
+  {
+   "h2": "A matrícula: o número que identifica o imóvel",
+   "paras": [
+    "Cada imóvel inscrito no sistema registral tem um número de matrícula. Aparece na escritura do dono e em seus documentos registrais. Peça ao vendedor junto com uma cópia de sua escritura: se ele se recusar a entregá-la, é um sinal de alerta.",
+    "Alguns imóveis antigos ainda estão inscritos no sistema de livros anterior e não têm todos os seus dados no sistema digital. Nesses casos, o CNR atende a consulta como um estudo registral especial."
+   ]
+  },
+  {
+   "h2": "A certificação extraída: o que diz e como solicitá-la",
+   "paras": [
+    "A certificação extraída é um documento oficial que resume a informação registral de um imóvel. Segundo o CNR, citado pela imprensa em 2026, inclui o nome do proprietário, a porcentagem de propriedade, a situação legal do imóvel e os documentos em tramitação. Pode ser solicitada online, através do site do CNR, e chega por e-mail, ou pessoalmente em seus escritórios. A imprensa reportou um preço de US$8.86."
+   ],
+   "bullets": [
+    "O nome do dono coincide com o DUI de quem lhe vende?",
+    "É dono de 100% ou há coproprietários que também precisam assinar?",
+    "Existem hipotecas inscritas? A favor de quem?",
+    "Há embargos, anotações preventivas ou outros gravames?",
+    "Existem documentos em tramitação (outra venda, outra hipoteca) apresentados e ainda não inscritos?"
+   ],
+   "tip": "Um documento \"em tramitação\" na certificação é importante: pode ser outra venda ou hipoteca que o vendedor já assinou. Não pague nada até saber o que é."
+  },
+  {
+   "h2": "Consultar em um escritório do CNR",
+   "paras": [
+    "Se não tem a matrícula ou quer confirmar dados, pode ir a um escritório do CNR e usar as máquinas de consulta, onde o pessoal lhe ajuda na busca. Lá pode encontrar a matrícula, o número da escritura e outros dados registrais."
+   ]
+  },
+  {
+   "h2": "Avisos registrais: proteção após a compra",
+   "paras": [
+    "Uma vez que a casa esteja em seu nome, ative os avisos registrais do CNR. Segundo a imprensa, a assinatura é gratuita por um ano e lhe envia um e-mail cada vez que um trâmite sobre seu imóvel é apresentado. É uma proteção útil contra tentativas de fraude, sobretudo se você mora fora do país.",
+    "O CNR também tem um Escritório de Segurança Registral que atende consultas sobre casos suspeitos."
+   ]
+  },
+  {
+   "h2": "Registro e cadastro: duas coisas distintas",
+   "paras": [
+    "O registro diz quem é o dono e quais gravames existem. O cadastro descreve o imóvel fisicamente: localização, medidas e forma no mapa. Ambos são administrados pelo CNR. Se as medidas da escritura não coincidirem com o terreno real, o cadastro e uma medição profissional ajudam a esclarecer antes da compra."
+   ]
+  },
+  {
+   "h2": "O que o registro não lhe diz",
+   "paras": [
+    "A certificação não informa se há taxas municipais atrasadas, dívidas de água ou luz, parcelas de manutenção pendentes ou se a casa tem rachaduras. Para isso peça a solvência municipal, os recibos de serviços e a constância da administração, e visite a casa com calma."
+   ]
+  },
+  {
+   "h2": "Passo a passo",
+   "steps": [
+    "Peça ao vendedor a matrícula e cópia de sua escritura.",
+    "Solicite uma certificação extraída ao CNR, online ou no escritório.",
+    "Compare o nome do dono com seu DUI e verifique coproprietários.",
+    "Revise hipotecas, embargos e documentos em tramitação.",
+    "Peça a solvência municipal e os recibos de serviços.",
+    "Leve tudo ao seu notário antes de assinar ou pagar.",
+    "Depois de comprar, ative os avisos registrais."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta",
+   "bullets": [
+    "O vendedor não quer dar a matrícula nem cópia da escritura.",
+    "Pedem um anticipo urgente \"porque há outro interessado\".",
+    "Quem vende diz agir pelo dono, mas não mostra uma procuração.",
+    "O preço está muito abaixo de casas semelhantes da região."
+   ]
+  },
+  {
+   "h2": "Perguntar desde o aviso",
+   "paras": [
+    "No Casa-Libre pode escrever por WhatsApp ao vendedor e pedir a matrícula antes de visitar. Assim faz a consulta no CNR desde o início. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se uma casa está em nome do vendedor?",
+   "a": "Solicite uma certificação extraída ao CNR com a matrícula do imóvel e compare o nome do proprietário com o DUI do vendedor."
+  },
+  {
+   "q": "Como sei se uma casa tem hipoteca ou embargo?",
+   "a": "A certificação extraída do CNR mostra a situação jurídica do imóvel, incluindo hipotecas, embargos e documentos em tramitação."
+  },
+  {
+   "q": "Quanto custa uma certificação extraída?",
+   "a": "A imprensa reportou em 2026 um preço de US$8.86. Confirme a tarifa vigente ao solicitá-la."
+  },
+  {
+   "q": "O que são os avisos registrais?",
+   "a": "Um serviço do CNR que lhe envia um e-mail quando é apresentado um trâmite sobre seu imóvel. Segundo a imprensa, é gratuito por um ano."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Terrenos em venda",
+  "Guia: documentos para vender um imóvel"
+ ]
+}

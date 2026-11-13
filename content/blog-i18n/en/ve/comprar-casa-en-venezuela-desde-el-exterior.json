@@ -1,0 +1,129 @@
+{
+ "_src": "f7d1f20e7b63",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a House in Venezuela from Abroad: Practical Guide",
+  "h1": "Buying a House in Venezuela from Abroad: Steps, Documents, and How to Protect Yourself",
+  "description": "How to buy a house or apartment in Venezuela if you live in Spain, Chile, Colombia or another country: searching remotely, verifying documents, paying in foreign currency, signing with a power of attorney, and avoiding scams.",
+  "answer": "Yes, you can purchase a property in Venezuela while living abroad. The usual approach is to search remotely, rely on a trusted person for visits, hire a lawyer in Venezuela to verify the ownership document and solvency, and sign with a special power of attorney granted before the consulate or before a notario (notary) local with an apostille. Payment is almost always agreed in foreign currency and it is advisable to transfer it to the seller’s account, against the signature in the Registro Inmobiliario, never before."
+ },
+ "sections": [
+  {
+   "h2": "Who can buy",
+   "paras": [
+    "Venezuelans living abroad can buy just like any other Venezuelan. Foreigners can also acquire urban properties; for some types of property, such as rural land or land in border or security zones, there are special rules that you should review with a lawyer.",
+    "You will need your Venezuelan identity card (or passport if you are a foreigner) and, for tax procedures, a RIF. If you do not have a RIF or it is expired, you can apply for or update it with the SENIAT."
+   ]
+  },
+  {
+   "h2": "Search remotely without wasting time",
+   "paras": [
+    "Start by defining city, area, budget and type of property. Then filter listings by map and ask the seller for video calls and full videos, not just photos. Ask about water, electricity, the building’s generator, condominium and the status of the paperwork.",
+    "For the physical visit, ask a family member or someone you trust to go. Give them a concrete checklist of what to inspect and photograph."
+   ],
+   "bullets": [
+    "Water pressure and arrival time, tank and pumps.",
+    "Leaks in roofs, walls and around windows.",
+    "Condition of the electrical installation and the breaker panel.",
+    "Elevator and common areas, if it is an apartment.",
+    "Noise, security and neighbors, speaking with the concierge and a resident."
+   ]
+  },
+  {
+   "h2": "Verify the papers before paying",
+   "paras": [
+    "Hire a lawyer in Venezuela who is not dependent on the seller. Their job is to review the legal history of the property and ensure there are no obstacles to registering the sale."
+   ],
+   "table": {
+    "head": [
+     "Document",
+     "What it confirms"
+    ],
+    "rows": [
+     [
+      "Registered property document",
+      "That the seller is the owner"
+     ],
+     [
+      "Certificate of encumbrances",
+      "That there are no mortgages, liens or prohibitions on transfer"
+     ],
+     [
+      "Cadastral certificate and municipal solvency",
+      "That the property is identified and up to date with the alcaldía"
+     ],
+     [
+      "Condominium solvency",
+      "That there are no debts that will pass to you"
+     ],
+     [
+      "Power of attorney or succession declaration",
+      "If the seller is not the direct title holder"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Signing without traveling: the special power of attorney",
+   "paras": [
+    "If you cannot be present on the signing day, grant a special power of attorney to purchase that specific property to a trusted person. You can do it before the Venezuelan consulate in your country or before a notario (notary) locally with an apostille. Ask your lawyer to draft or review the text before you sign it, so the registry will accept it.",
+    "The power must allow signing the purchase agreement, paying the price and expenses, and handling everything needed before the registry, the alcaldía and the SENIAT."
+   ]
+  },
+  {
+   "h2": "How to pay safely",
+   "steps": [
+    "Agree on the price and currency in writing, usually in a signed and authenticated purchase option.",
+    "If there is an initial payment (deposit), keep it moderate and with clear refund rules if the sale does not close due to the seller’s fault.",
+    "Pay the balance by transfer to an account in the seller’s name, coordinated with the signing at the registry.",
+    "Keep the international transfer receipts to justify the source of funds.",
+    "Confirm that the price shown in the document matches what was paid."
+   ],
+   "tip": "Beware of any seller who asks you to transfer everything \"to set it aside\" before your lawyer reviews the papers. That is the most common scam with buyers abroad."
+  },
+  {
+   "h2": "Costs to consider",
+   "paras": [
+    "In addition to the price, add the lawyer’s fees, registration duties, authentication of the purchase option, the power of attorney and its apostille, shipping the original by courier, and later the condominium fees and utilities while you do not live there. If you plan to rent it, consider who will manage it."
+   ]
+  },
+  {
+   "h2": "After buying: the property from a distance",
+   "paras": [
+    "Once the purchase is registered, retrieve or request that the protocolled document be sent to you and keep digital copies. Update the owner in the cadastral records and the municipal treasury, and get current with the condominium.",
+    "If the property will remain vacant, decide who will inspect it periodically, who will pay the condominium and utilities, and how you will receive notices from the condominium board. If you plan to rent it, decide whether you will manage it remotely or with an administrator, and sign contracts in writing."
+   ]
+  },
+  {
+   "h2": "Start with the map",
+   "paras": [
+    "On Casa-Libre you can see houses and apartments for sale in the main cities of Venezuela, with location on the map, and message the seller via WhatsApp from wherever you are to request videos and registration data. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I buy an apartment in Venezuela from Spain or Chile?",
+   "a": "Yes. You search remotely, verify the documents with a lawyer in Venezuela, and sign using a special power of attorney granted before the consulate or a notario local with an apostille."
+  },
+  {
+   "q": "Can a foreigner buy in Venezuela?",
+   "a": "Yes, you can purchase urban properties. For rural land or special zones there are additional rules that you should review with a lawyer."
+  },
+  {
+   "q": "Do I need a RIF to buy?",
+   "a": "Usually yes, because the transaction involves procedures before the SENIAT and the registry. If you don’t have a RIF or it is outdated, obtain it beforehand."
+  },
+  {
+   "q": "When do I pay the price?",
+   "a": "The safest option is to pay the agreed balance at the signing in the Registro Inmobiliario, never the full amount upfront."
+  }
+ ],
+ "related": [
+  "Apartments for Sale",
+  "Houses for Sale",
+  "Properties in Isla de Margarita",
+  "Poder notariado para comprar o vender"
+ ]
+}

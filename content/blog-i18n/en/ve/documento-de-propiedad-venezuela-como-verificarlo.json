@@ -1,0 +1,136 @@
+{
+ "_src": "a9f41e962331",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Property Document in Venezuela: How to Verify It",
+  "h1": "Property Document for a Real Estate in Venezuela: What It Is and How to Verify It Before Buying",
+  "description": "What the registered property document is, how to read its data, what legal tradition is, and how to verify in the Real Estate Registry that the seller is the owner and there are no liens.",
+  "answer": "The property document is the escritura de compraventa (or another title, such as an inheritance or adjudication) recorded in the Real Estate Registry of the jurisdiction where the property is located. To verify it, request a copy from the seller and confirm in that registry, which depends on the SAREN, that the document exists, that the seller is the last holder, and that there are no mortgages, seizures or prohibitions on transfer. This review, called a study of the tradición legal, should be done with a lawyer before paying anything."
+ },
+ "sections": [
+  {
+   "h2": "What is the property document",
+   "paras": [
+    "In Venezuela, ownership of a property is proven with a protocolized title in the Registro Inmobiliario (formerly called Oficina Subalterna de Registro). Usually it is the deed of sale with which the seller acquired it, but it can also be a succession declaration with partition, a donation or an adjudication.",
+    "A document only authenticated at a notary is not the same as one that is registered. The notary certifies the signatures; the registry makes the ownership public against third parties. To buy safely, what matters is what is recorded in the Registro Inmobiliario."
+   ]
+  },
+  {
+   "h2": "What data it contains and what to check",
+   "bullets": [
+    "Registration data: office, number, volume, protocol or folio and date (or the matrícula and entry in the current system).",
+    "Name and ID of the owner who acquired it.",
+    "Property description: location, boundaries, measurements and, in apartments, the condominium share.",
+    "Price and payment method with which it was acquired.",
+    "Previous title: from whom the seller bought it, with its own registration data.",
+    "Marginal notes or later entries: mortgages, releases, liens."
+   ]
+  },
+  {
+   "h2": "Legal tradition: the chain of owners",
+   "paras": [
+    "Checking only the latest document is not enough. The study of the legal tradition follows the chain of owners backward for several years, to confirm that each transfer was valid. An old problem, such as a poorly done inheritance or a sale by someone without authority, can affect all owners who came after.",
+    "This study is done by a lawyer. If you buy with credit, the bank does it on its own, but it is advisable to have your own advisor as well."
+   ]
+  },
+  {
+   "h2": "Lien certification",
+   "paras": [
+    "In the Registro Inmobiliario you can request a certification of liens, which indicates whether the property has mortgages, seizures, prohibitions on alienation and encumbrance or other limitations for a period of years. Request it with a recent date, close to the signing."
+   ],
+   "steps": [
+    "Ask the seller for a simple copy of the property document and the cadastral certificate.",
+    "Identify in which Registro Inmobiliario it is protocolized.",
+    "Request the lien certification at that registry, through the channels indicated by the SAREN.",
+    "Have a lawyer study the legal tradition and the certification.",
+    "Before signing, verify that nothing has changed: request an updated certification if time has passed."
+   ]
+  },
+  {
+   "h2": "Warning signs",
+   "tip": "Never deliver the full price before the protocolization act. The usual practice is to pay at the moment of signing before the registrador (registry officer) or with a mechanism that secures payment against the signing.",
+   "table": {
+    "head": [
+     "Situation",
+     "What to do"
+    ],
+    "rows": [
+     [
+      "The seller is not the one shown in the document",
+      "Ask for the notarized power of attorney or the succession declaration that authorizes him"
+     ],
+     [
+      "There is only a notarized document, not registered",
+      "Consult a lawyer: the ownership is not registered in his name"
+     ],
+     [
+      "There is an existing mortgage",
+      "It must be released before or at the same time as the sale"
+     ],
+     [
+      "The boundaries or measurements do not match reality",
+      "Request a survey and check the cadastre"
+     ],
+     [
+      "The owner is a deceased person",
+      "A succession declaration and signatures of all heirs are required"
+     ],
+     [
+      "Hurry to collect payment before registering",
+      "Stop: payment must be made against the signing at the registry"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "SAREN and online procedures",
+   "paras": [
+    "The Servicio Autónomo de Registros y Notarías (SAREN) coordinates the registries and notaries of the country. Many procedures are started through its online system, where you upload data, pay and request an appointment. Fees and requirements change, so check the portal before going."
+   ]
+  },
+  {
+   "h2": "When it’s yours: how to keep the document",
+   "paras": [
+    "After the purchase, the protocolized document is your proof of ownership. Keep the original in a safe place, make digital copies and note the registration data elsewhere. If you lose it, you can request a certified copy from the Registro Inmobiliario, but it is faster to have the data on hand."
+   ]
+  },
+  {
+   "h2": "Search with more peace of mind",
+   "paras": [
+    "At Casa-Libre you can ask the seller via WhatsApp for the registration data of the property document before visiting. A seller who shares them quickly usually has the paperwork in order. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a property is in the seller's name?",
+   "a": "Request a copy of the property document and confirm in the Real Estate Registry of the jurisdiction that the seller is the last holder, ideally with a lawyer."
+  },
+  {
+   "q": "What is a certification of liens?",
+   "a": "A document from the Real Estate Registry that indicates whether the property has mortgages, seizures or prohibitions on transfer for a period of years."
+  },
+  {
+   "q": "Does a notarized document serve as a title of ownership?",
+   "a": "The notary authenticates signatures, but ownership against third parties becomes public with the registration. To buy safely, the title must be recorded in the Real Estate Registry."
+  },
+  {
+   "q": "What is legal tradition?",
+   "a": "The chain of owners of the property backward. Its study confirms that all previous transfers were valid."
+  },
+  {
+   "q": "How do I obtain a certified copy of my property document?",
+   "a": "It is requested at the Real Estate Registry where it is recorded, usually starting the procedure through the SAREN online system with the registration data."
+  },
+  {
+   "q": "Does the property document include the parking space?",
+   "a": "It should indicate it if the spot belongs to you. Check that parking spaces and storage appear in the document and not only in the seller's word."
+  }
+ ],
+ "related": [
+  "Apartments for Sale",
+  "Houses for Sale",
+  "How to Avoid Real Estate Scams"
+ ]
+}

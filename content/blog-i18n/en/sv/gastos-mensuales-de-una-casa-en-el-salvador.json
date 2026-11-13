@@ -1,0 +1,147 @@
+{
+ "_src": "317416d3c214",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Monthly expenses of a house in El Salvador",
+  "h1": "How much it costs to maintain a house in El Salvador: municipal taxes, services and fees",
+  "description": "The expenses of owning a house or an apartment in El Salvador besides the loan payment: municipal taxes, water, electricity, maintenance fee, insurance and repairs. How to estimate them before buying.",
+  "answer": "Owning a house in El Salvador costs, in addition to the loan payment, the municipal taxes charged by the alcaldía for services such as cleaning and street lighting, water (ANDA or the local system), electricity, internet and gas, the maintenance or security fee if you live in a residential complex or building, damage insurance and a fund for repairs. To estimate it before buying, ask the seller for the latest bills for each service and the maintenance fee certificate."
+ },
+ "sections": [
+  {
+   "h2": "Municipal taxes: what the mayor's office charges",
+   "paras": [
+    "In El Salvador the mayor's offices charge taxes for the services they provide to the property, such as garbage collection, street lighting or street maintenance. The amount and the calculation method depend on each municipality and its ordinances.",
+    "Since May 2024, the country went from 262 to 44 municipalities; the former municipalities are now districts within the new ones. If you buy in an area that changed municipality, ask the current mayor's office how district taxes are charged and whether there have been changes."
+   ],
+   "tip": "Before buying, request the municipal solvency certificate for the property. If there are overdue taxes, have the seller pay them before escriturar."
+  },
+  {
+   "h2": "Water, electricity, internet and gas",
+   "paras": [
+    "Water is supplied by ANDA in most of the country, and in other areas by municipal or community systems. Electricity is distributed by the company that serves your area. Electricity consumption varies a lot depending on air-conditioner use and the number of people.",
+    "Ask the seller or the previous owner for several months of bills. They give you a realistic idea of what you will pay and also confirm that there are no outstanding service debts."
+   ]
+  },
+  {
+   "h2": "Maintenance or security fee",
+   "paras": [
+    "In gated residential complexes and apartment buildings a fee is paid for security, common areas, gardening, elevators or pool. In buildings, the Ley de Propiedad Inmobiliaria por Pisos y Apartamentos and the condominium regulations govern how common expenses are shared.",
+    "Ask how much the fee is, what it covers, whether it has increased in recent years and whether there are extraordinary fees approved (for example, to paint the building or repair a wall). Request a certificate that the seller owes no fees."
+   ]
+  },
+  {
+   "h2": "Summary of expenses and how to estimate them",
+   "table": {
+    "head": [
+     "Expense",
+     "Frequency",
+     "How to estimate before buying"
+    ],
+    "rows": [
+     [
+      "Municipal taxes",
+      "Monthly or according to the mayor's office",
+      "Solvency certificate and latest mayor's office receipt"
+     ],
+     [
+      "Water",
+      "Monthly",
+      "Recent property bills"
+     ],
+     [
+      "Electricity",
+      "Monthly",
+      "Recent bills; depends on air-conditioning"
+     ],
+     [
+      "Internet and gas",
+      "Monthly",
+      "Quote and your own consumption"
+     ],
+     [
+      "Maintenance fee",
+      "Monthly",
+      "Certificate from the administration"
+     ],
+     [
+      "Damage insurance",
+      "Monthly or annual",
+      "Quote; with credit it is usually included in the fee"
+     ],
+     [
+      "Repairs",
+      "Variable",
+      "Set aside a percentage of the value each year"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Is there an annual property tax?",
+   "paras": [
+    "Unlike other countries, El Salvador does not levy an annual national tax on the value of your home. What you regularly pay are municipal taxes for services. The main tax linked to the property appears when you buy: the Impuesto sobre Transferencia de Bienes Raíces.",
+    "If you rent the house to someone else, rental income does have income-tax implications. Consult an accountant."
+   ]
+  },
+  {
+   "h2": "Maintenance: the expense that is most often forgotten",
+   "paras": [
+    "The Salvadoran climate, with an intense rainy season, wears down roofs, gutters and paint. Inspect the roof and drainage before winter, clean the gutters and repair leaks promptly. In sloped areas, check walls and drainage systems.",
+    "A practical rule is to set aside each year a portion of the house’s value for repairs. That way a leak or a broken water heater does not disrupt your budget."
+   ],
+   "bullets": [
+    "Waterproof and inspect roofs before the rainy season.",
+    "Clean gutters and downspouts.",
+    "Inspect electrical installations, especially in older homes.",
+    "Fumigate and maintain cisterns and pumps if they exist."
+   ]
+  },
+  {
+   "h2": "Before buying, request these documents",
+   "steps": [
+    "Recent water and electricity bills for the property.",
+    "Municipal solvency certificate.",
+    "Certificate of up-to-date maintenance fees and the current amount.",
+    "Condominium or residential complex regulations, if they exist.",
+    "Quote for damage insurance."
+   ]
+  },
+  {
+   "h2": "House or apartment: who pays what",
+   "paras": [
+    "In a house you assume all maintenance: roof, walls, garden, cistern. In an apartment, a portion of those costs is shared with other owners through the condominium fee, but you also share decision-making. If you buy an apartment, read the regulations and recent minutes of the owners’ assembly: there you will see if major works have been approved that will be charged soon."
+   ]
+  },
+  {
+   "h2": "Compare the total cost, not just the price",
+   "paras": [
+    "Two houses with the same price can have very different monthly expenses. On Casa-Libre you can view properties on the map and ask the seller via WhatsApp how much the maintenance fee is and how much services cost. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is property tax paid in El Salvador?",
+   "a": "There is no national annual tax on the value of the home. What is regularly paid are municipal taxes for services such as cleaning and street lighting."
+  },
+  {
+   "q": "What is municipal solvency?",
+   "a": "It is the certificate from the alcaldía that a property has no pending taxes. It is requested when buying to avoid inheriting debts."
+  },
+  {
+   "q": "How much is the maintenance fee for a residential complex?",
+   "a": "It depends on each residential complex or building and what it covers. Ask the administration for the current amount, the history of increases and a certificate that the seller owes no fees."
+  },
+  {
+   "q": "Did anything change with the reduction of municipalities?",
+   "a": "Since May 2024 there are 44 municipalities and the former ones are districts. Check with the current alcaldía how taxes are charged in your district."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Properties in Antiguo Cuscatlán"
+ ]
+}

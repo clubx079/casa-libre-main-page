@@ -1,0 +1,144 @@
+{
+ "_src": "f8e4db6b7524",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Estudo de títulos e certificados ao comprar no Uruguai",
+  "h1": "Estudo de títulos e certificados: o que controla o escribano (tabelião) antes de você comprar",
+  "description": "O que o escribano revisa antes de uma compra e venda no Uruguai: cadeia de títulos, informações do Registro da Propriedade, penhoras, hipotecas, contribuição, Primaria, despesas comuns, saneamento e certificados.",
+  "answer": "Antes de escriturar, seu escribano faz um estudo de títulos: revisa a cadeia de compras, heranças e outras transmissões da propriedade para confirmar que o vendedor é o dono e pode vender. Além disso pede informações ao Registro da Propriedade sobre penhoras, hipotecas, interdições e outros gravames, e controla que a contribuição imobiliária, o imposto de Primaria e as despesas comuns estejam em dia. Conforme o caso, também pede constâncias de saneamento, certificados tributários do vendedor e a cédula cadastral. Se algo falhar, corrige-se antes de pagar ou a compra não é feita."
+ },
+ "sections": [
+  {
+   "h2": "Por que o estudo de títulos te protege",
+   "paras": [
+    "No Uruguai o escribano (tabelião) tem um papel central na compra e venda: não só redige a escritura, mas controla se o que você compra está em condições de ser vendido. O estudo de títulos é esse controle. Por isso convém que você tenha seu próprio escribano, que revise tudo pensando em seus interesses.",
+    "O estudo é feito no período da reserva, antes da escritura. Se aparecer um problema, seu escribano lhe diz se pode ser sanado e quanto poderia demorar."
+   ]
+  },
+  {
+   "h2": "A cadeia de títulos",
+   "paras": [
+    "O escribano revisa as escrituras anteriores da propriedade, retroativamente, para comprovar que cada transmissão foi válida: que quem vendeu era o dono, que as heranças foram tramitadas, que as assinaturas e os poderes estavam corretos. Problemas típicos:"
+   ],
+   "bullets": [
+    "Uma sucessão que não foi concluída: o vendedor herdou mas a herança não está inscrita.",
+    "Um vendedor casado ou divorciado cuja situação patrimonial não está clara.",
+    "Um poder vencido ou insuficiente.",
+    "Diferenças entre as medidas do título e o plano de mensura.",
+    "Construções não declaradas ou não regularizadas."
+   ]
+  },
+  {
+   "h2": "A informação do Registro de la Propiedad",
+   "paras": [
+    "O escribano pede informação à Dirección General de Registros sobre o imóvel e as pessoas que vendem. Assim detecta hipotecas, penhoras, promessas inscritas a favor de outro, interdições (por exemplo, limitações à capacidade de uma pessoa para vender) e outros gravames.",
+    "Se houver uma hipoteca, por exemplo porque o vendedor ainda deve ao banco, o habitual é cancelá-la no próprio ato da compra e venda com parte do preço, coordenando com o banco."
+   ]
+  },
+  {
+   "h2": "Os controles de dívidas e certificados",
+   "table": {
+    "head": [
+     "O que se controla",
+     "Por que importa"
+    ],
+    "rows": [
+     [
+      "Contribuição imobiliária",
+      "A dívida acompanha o imóvel"
+     ],
+     [
+      "Imposto Predial",
+      "Deve estar em dia em imóveis urbanos"
+     ],
+     [
+      "Despesas comuns",
+      "Declaração de dívida livre da administração do edifício"
+     ],
+     [
+      "Saneamento (Lei 18.840)",
+      "Se houver rede frente ao imóvel, deve estar conectada ou em ordem; pedem declarações"
+     ],
+     [
+      "Cédula cadastral",
+      "Valor real para o ITP"
+     ],
+     [
+      "Situação tributária do vendedor",
+      "Conforme o caso, certificados da DGI ou BPS, por exemplo se o vendedor for uma empresa"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Controles sobre as pessoas e o dinheiro",
+   "paras": [
+    "A Lei 19.574 inclui os escribanos entre os sujeitos obrigados a prevenir a lavagem de dinheiro quando intervêm em compras e vendas. Por isso vão pedir seus dados pessoais e documentação sobre a origem dos fundos, sobretudo em valores importantes. Tenha esses papéis prontos para não atrasar a assinatura."
+   ]
+  },
+  {
+   "h2": "Quanto tempo demora",
+   "paras": [
+    "Depende da propriedade e do que aparecer. Uma propriedade com títulos limpos e dívidas em dia se resolve mais rápido; uma herança incompleta ou uma construção não regularizada pode levar muito mais. Por isso o boleto de reserva deve dar um prazo razoável e prever o que acontece se os títulos não estiverem em ordem."
+   ],
+   "tip": "Peça que o boleto diga que, se o estudo de títulos tiver observações que não possam ser sanadas no prazo, devolvem a sinal."
+  },
+  {
+   "h2": "O que você pode pedir desde o início",
+   "steps": [
+    "Número de cadastro e cópia do título do vendedor.",
+    "Última conta de contribuição imobiliária e de Imposto Predial.",
+    "Declaração de despesas comuns em dia, se for um apartamento.",
+    "Plano de mensura ou de propriedade horizontal.",
+    "Dados do escribano do vendedor, para que os escribanos coordenem."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta antes de ir ao escribano",
+   "paras": [
+    "Existem situações que nem sempre impedem a compra, mas que convém conhecer desde o primeiro contato para não perder tempo nem dinheiro em uma reserva:"
+   ],
+   "bullets": [
+    "O vendedor não é o titular e \"está tramitando\" a herança.",
+    "Pedem a sinal antes de lhe dar o número de cadastro.",
+    "O preço está muito abaixo de propriedades semelhantes na região.",
+    "Há ampliações evidentes que não constam nos planos.",
+    "Vendemm \"com boleto\" ou \"com direitos\" em vez de com título."
+   ]
+  },
+  {
+   "h2": "Antes de reservar",
+   "paras": [
+    "Ao consultar um anúncio, pergunte se a propriedade tem títulos em ordem e se está livre de dívidas. No Casa-Libre você pode ver casas, apartamentos e terrenos à venda no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que acontece se o estudo de títulos encontrar um problema?",
+   "a": "Seu escribano lhe informa se pode ser sanado e em quanto tempo. Se não for possível, e o boleto o prever, a reserva é anulada e devolvem a sinal."
+  },
+  {
+   "q": "O que é o estudo de títulos?",
+   "a": "A revisão que o escribano faz das escrituras anteriores de um imóvel para confirmar que o vendedor é o dono e que não há problemas que impeçam a venda."
+  },
+  {
+   "q": "Quais certificados o escribano pede para uma compra e venda?",
+   "a": "Informações do Registro da Propriedade sobre gravames e interdições, e constâncias de contribuição, Primaria, despesas comuns e saneamento em dia; conforme o caso, certificados da DGI ou BPS do vendedor."
+  },
+  {
+   "q": "É possível comprar uma casa com hipoteca?",
+   "a": "Sim, se a hipoteca for quitada no mesmo ato da compra com parte do preço, coordenando com o banco do vendedor."
+  },
+  {
+   "q": "Quem paga o estudo de títulos?",
+   "a": "Normalmente faz parte dos honorários do escribano do comprador. Peça um orçamento que detalhe."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Guia: documentos de um imóvel",
+  "Boleto de reserva e promessa"
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "_src": "7e4f700b66ca",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para alugar uma casa no Paraguai (inquilino)",
+  "h1": "Requisitos para alugar uma casa ou um apartamento no Paraguai",
+  "description": "Quais documentos pedem para alugar no Paraguai: cédula, comprovante de renda, fiador ou garantia, informes e depósito. Lista completa e como se preparar.",
+  "answer": "Para alugar no Paraguai normalmente pedem a cédula de identidade, um comprovante de renda (holerites, declaração de emprego ou notas fiscais se for autônomo), uma garantia (fiador proprietário, fiador com renda ou um seguro/fiança de aluguel) e um pagamento inicial que costuma incluir o primeiro mês adiantado e um depósito. Não há uma lista única fixada por lei: cada dono ou imobiliária monta a sua, então convém perguntar antes de visitar."
+ },
+ "sections": [
+  {
+   "h2": "A lista básica que você vai ouvir quase sempre",
+   "paras": [
+    "O Código Civil paraguaio regula o contrato de locação (aluguel) mas não fixa quais documentos o inquilino deve apresentar. Essa lista é decidida por quem aluga: um proprietário particular pode pedir pouco e uma imobiliária costuma pedir mais, porque responde ao proprietário pela escolha do inquilino.",
+    "Mesmo assim, a maioria dos pedidos são semelhantes. Se você tiver isso pronto em uma pasta (em papel e escaneado no celular), poderá responder no mesmo dia em que gostar de um imóvel, o que nas áreas com maior demanda faz a diferença."
+   ],
+   "bullets": [
+    "Cédula de identidade paraguaia vigente (ou passaporte e carteira de residência se for estrangeiro).",
+    "Comprovante de renda: últimos recibos de salário, declaração de trabalho com tempo de serviço e salário, ou notas fiscais e declarações se trabalhar por conta própria.",
+    "Dados de contato e referências: um proprietário anterior, seu empregador ou alguém que possa atestar que você cumpre com as obrigações.",
+    "Garantia: garantidor (com propriedade ou com renda comprovada) ou uma alternativa como seguro ou fiança de aluguel, se o proprietário aceitar.",
+    "Dinheiro para a assinatura: geralmente o primeiro mês adiantado e um depósito de garantia; se houver intermediação de imobiliária, pode haver ainda uma taxa de honorário."
+   ]
+  },
+  {
+   "h2": "Como comprovar renda conforme seu tipo de trabalho",
+   "paras": [
+    "A pergunta fundamental do proprietário é única: você vai conseguir pagar todos os meses? Uma referência usada com frequência é que o aluguel não ultrapasse aproximadamente um terço da renda familiar, embora não seja uma regra legal e cada proprietário a aplique à sua maneira.",
+    "Se você está em relação de dependência, os recibos de salário e uma declaração assinada pela empresa costumam ser suficientes. Se for autônomo ou tem um comércio, o que mais pesa é a declaração de RUC e um histórico de faturamento ou de movimentações bancárias. Se acabou de chegar a uma cidade ou a um emprego, um adiantamento de vários meses ou um garantidor forte podem compensar a falta de histórico."
+   ],
+   "table": {
+    "head": [
+     "Sua situação",
+     "O que costuma servir como comprovante"
+    ],
+    "rows": [
+     [
+      "Empregado/a",
+      "Últimos recibos de salário e declaração laboral com tempo de serviço"
+     ],
+     [
+      "Independente ou profissional",
+      "Declaração de RUC, notas fiscais emitidas e extratos bancários recentes"
+     ],
+     [
+      "Comerciante",
+      "Declaração de RUC, patente municipal do negócio e movimentações bancárias"
+     ],
+     [
+      "Aposentado/a",
+      "Recibo ou declaração de benefício previdenciário"
+     ],
+     [
+      "Recém-chegado/a do exterior",
+      "Contrato de trabalho, poupança comprovada e, se possível, adiantamento de meses"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Garantidor, seguro ou depósito: as opções de garantia",
+   "paras": [
+    "A garantia protege o proprietário se o inquilino deixar de pagar ou causar danos. No Paraguai a forma tradicional é o garantidor: uma pessoa que assina o contrato e se compromete a responder se você não cumprir. Alguns proprietários exigem que o garantidor tenha um imóvel em seu nome; outros aceitam um garantidor com boa renda.",
+    "Quando você não tem a quem recorrer, há alternativas que alguns proprietários aceitam: seguros ou fianças de aluguel oferecidos por seguradoras, um depósito maior ou o pagamento adiantado de vários meses. Nem todos os proprietários aceitam, por isso convém perguntar na primeira consulta e não depois da visita."
+   ],
+   "tip": "Se o seu garantidor for um familiar, peça com antecedência uma cópia da cédula e, se for o caso, o título ou um relatório da propriedade que ele oferece como garantia. É o que mais demora no processo."
+  },
+  {
+   "h2": "O que perguntar antes de ir ver o imóvel",
+   "paras": [
+    "Muitas visitas são desperdiçadas porque o inquilino descobre no final que não cumpre um requisito. Pelo WhatsApp, antes de agendar a visita, pergunte o concreto:"
+   ],
+   "bullets": [
+    "Que tipo de garantia aceitam? Apenas garantidor proprietário ou também seguro de aluguel?",
+    "Quanto deve ser pago na assinatura? (primeiro mês, depósito, honorários, despesas se for um edifício).",
+    "O preço inclui despesas? Os serviços (ANDE, água, internet) ficarão em nome do inquilino?",
+    "Por quanto tempo é o contrato e como o preço é reajustado?",
+    "Aceitam animais de estimação? Pode ser usado como escritório ou só como residência?"
+   ]
+  },
+  {
+   "h2": "O contrato: o que você deve ler antes de assinar",
+   "paras": [
+    "É recomendável que o contrato de aluguel esteja por escrito e assinado por todas as partes, inclusive o garantidor. Leia tudo: prazo, preço e moeda, forma de reajuste, quem paga quais reparos, o que acontece se quiser sair antes e como o depósito é devolvido.",
+    "Peça que seja feito um inventário ou uma ata de entrega com fotos do estado do imóvel ao entrar. Essa é sua melhor defesa na hora de recuperar o depósito."
+   ]
+  },
+  {
+   "h2": "Se você for estrangeiro ou acabou de se mudar para o Paraguai",
+   "paras": [
+    "Um estrangeiro pode alugar no Paraguai. O usual é que peçam passaporte ou a carteira de residência emitida pela Dirección General de Migraciones, e que a falta de histórico local seja compensada com mais meses adiantados, um depósito maior ou um garantidor local. Se sua empresa o trouxe, uma carta da empresa ajuda bastante."
+   ]
+  },
+  {
+   "h2": "Como buscar aluguel sem perder tempo",
+   "paras": [
+    "Filtre primeiro por zona e orçamento, e escreva ao anunciante com seus dados básicos: quantas pessoas vão morar, se tem animais, quando deseja entrar e que garantia pode oferecer. Uma mensagem assim recebe resposta mais rápido que um \"Ainda disponível?\".",
+    "No Casa-Libre você vê os aluguéis no mapa e escreve direto por WhatsApp ao proprietário ou à imobiliária, sem pagar nada para usar o site. Também pode buscar pelo app do Casa-Libre para iPhone e Android e salvar os imóveis que lhe interessam."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É possível alugar sem fiador no Paraguai?",
+   "a": "Sim, se o dono aceitar outra garantia: um seguro ou fiança de aluguel, um depósito maior ou o pagamento adiantado de vários meses. Depende de cada proprietário, por isso convém perguntar antes de visitar."
+  },
+  {
+   "q": "Quanto dinheiro preciso para entrar em um aluguel?",
+   "a": "O usual é o primeiro mês adiantado mais um depósito de garantia; se houver intermediação de uma imobiliária, pode haver uma taxa de corretagem. Some também os custos de mudança e a conexão dos serviços."
+  },
+  {
+   "q": "O contrato de aluguel precisa estar escrito?",
+   "a": "É o recomendável. Um contrato escrito e assinado deixa claro o prazo, o preço, os reajustes, os reparos e a devolução do depósito, e evita discussões no final."
+  },
+  {
+   "q": "Um estrangeiro pode alugar no Paraguai?",
+   "a": "Sim. Normalmente pedem passaporte ou carteira de residência, e a falta de histórico local é compensada com garantias adicionais ou pagamentos adiantados."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Guia para proprietários: como alugar sua propriedade"
+ ]
+}

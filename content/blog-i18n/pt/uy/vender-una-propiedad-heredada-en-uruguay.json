@@ -1,0 +1,126 @@
+{
+ "_src": "76759d3649e2",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Vender uma propriedade herdada no Uruguai: sucessão, ITP e passos",
+  "h1": "Como vender uma casa ou apartamento herdado no Uruguai",
+  "description": "Passos para vender uma propriedade herdada no Uruguai: sucessão, certificado de resultados de autos, ITP por herança (3% ou 4%), acordo entre herdeiros, cessão de direitos e como publicar.",
+  "answer": "Para vender uma propriedade herdada no Uruguai, primeiro é preciso tramitar a sucessão: um processo judicial que declara quem são os herdeiros e termina com o certificado de resultados de autos, que é inscrito. Pela herança paga-se ITP: segundo a DGI, 3% para herdeiros em linha reta (filhos, pais) e 4% nos demais casos, sobre o valor real do Catastro. Com a sucessão inscrita, todos os herdeiros (ou seus procuradores) assinam a venda. Se não quiserem esperar, existe a cessão de direitos hereditários, que também paga ITP. O essencial é que os herdeiros cheguem a um acordo sobre preço e divisão."
+ },
+ "sections": [
+  {
+   "h2": "Passo 1: a sucessão",
+   "paras": [
+    "Quando o titular de um imóvel falece, a propriedade não passa automaticamente para o nome dos herdeiros. É preciso iniciar a sucessão perante o Poder Judicial, normalmente com um advogado, para que se declare quem são os herdeiros (por testamento ou por lei).",
+    "Ao terminar, obtém-se o certificado de resultâncias de autos, que resume o decidido no processo, e o registro é feito no Registro. Só então os herdeiros podem escriturar em nome de um comprador."
+   ],
+   "tip": "Reúna cedo a documentação: certidão de óbito, certidões de nascimento ou casamento dos herdeiros, título da propriedade e recibos de contribuição. Agiliza o advogado e o escribano (tabelião)."
+  },
+  {
+   "h2": "Passo 2: o ITP pela herança",
+   "paras": [
+    "A herança de imóveis está gravada pelo Imposto sobre as Transmissões Patrimoniais. Segundo a DGI, o contribuinte é cada herdeiro ou legatário e a alíquota é de 3% para herdeiros em linha reta ascendente ou descendente com o falecido (por exemplo, filhos ou pais) e de 4% nos demais casos. Calcula-se sobre o valor real do Cadastro.",
+    "A declaração é apresentada com o formulário 1700 (imóveis urbanos) e, entre outros documentos, anexa-se o certificado de resultâncias de autos ou a certidão de óbito. Há prazos: se pagos fora da data, incidem multas e juros. Consulte o escribano ao iniciar."
+   ],
+   "table": {
+    "head": [
+     "Situação",
+     "ITP (según DGI)"
+    ],
+    "rows": [
+     [
+      "Herança, herdeiros em linha reta",
+      "3% sobre o valor real"
+     ],
+     [
+      "Herança, outros herdeiros",
+      "4% sobre o valor real"
+     ],
+     [
+      "Venda posterior a terceiro",
+      "2% vendedor + 2% comprador"
+     ],
+     [
+      "Cessão de direitos hereditários",
+      "Gravada; base: o preço que fixarem as partes"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Passo 3: chegar a um acordo entre herdeiros",
+   "paras": [
+    "Se há vários herdeiros, todos são coproprietários e todos precisam assinar a venda. É o ponto onde mais vendas travam. Antes de publicar, acordem por escrito:"
+   ],
+   "bullets": [
+    "Preço mínimo e quem negocia com os interessados.",
+    "Quem mostra o imóvel e tem as chaves.",
+    "Como dividir o preço e as despesas (ITP, escribano, dívidas, reparos).",
+    "Se algum quiser ficar com o imóvel comprando a parte dos demais.",
+    "Se alguém mora no exterior: que conceda uma procuração a outro herdeiro ou a uma pessoa de confiança."
+   ]
+  },
+  {
+   "h2": "Alternativa: a cessão de direitos hereditários",
+   "paras": [
+    "Se a sucessão vai demorar ou os herdeiros preferirem não esperar, podem ceder seus direitos hereditários a um comprador. O comprador fica no lugar dos herdeiros e termina a sucessão. É mais arriscado para o comprador e costuma implicar um preço menor; também paga ITP, com base no preço fixado pelas partes. Analise com seu escribano antes de oferecer."
+   ]
+  },
+  {
+   "h2": "Antes de publicar",
+   "steps": [
+    "Confirme em que etapa está a sucessão e quando será inscrita.",
+    "Regularize a contribuição imobiliária, Primaria, despesas comuns e serviços.",
+    "Revise o estado do imóvel: muitas casas herdadas precisam de reparos ou limpeza profunda.",
+    "Defina o preço com referência de mercado: veja imóveis semelhantes na região.",
+    "Junte os documentos que o escribano do comprador vai solicitar."
+   ]
+  },
+  {
+   "h2": "Impostos ao vender",
+   "paras": [
+    "Na venda, cada herdeiro paga como vendedor sua parte dos 2% de ITP. Além disso, se houver lucro, pode incidir IRPF por ganho patrimonial, com regras especiais para imóveis herdados e conforme a data de aquisição. Consulte um contador ou escribano antes de fixar o preço, para saber quanto resta líquido."
+   ]
+  },
+  {
+   "h2": "Publicar a propriedade",
+   "paras": [
+    "Uma boa publicação economiza visitas inúteis. Indique claramente que se trata de venda por herdeiros e em que estado está a sucessão: compradores com crédito precisam saber se a escritura pode ser feita logo. Publique fotos com boa iluminação, a superfície, o estado e o preço.",
+    "No Casa-Libre você pode publicar grátis sua casa ou apartamento no Uruguai, receber consultas por WhatsApp e gerenciá-lo também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que acontece se um herdeiro não quiser vender?",
+   "a": "Ninguém pode obrigá-lo a assinar uma venda de comum acordo. Os demais podem oferecer comprar sua parte ou consultar um advogado sobre outras vias legais para encerrar a condomínio."
+  },
+  {
+   "q": "Posso publicar a propriedade enquanto a sucessão está em tramitação?",
+   "a": "Sim, mas deixe isso claro no anúncio e nas consultas. Muitos compradores podem reservar e esperar, mas quem compra com crédito precisa de uma data razoável para escriturar."
+  },
+  {
+   "q": "É possível vender uma casa herdada sem fazer a sucessão?",
+   "a": "Não para escriturar uma venda comum: primeiro é preciso tramitar a sucessão. A alternativa é a cessão de direitos hereditários, na qual o comprador finaliza a sucessão."
+  },
+  {
+   "q": "Quanto é o ITP por uma herança no Uruguai?",
+   "a": "Segundo a DGI, 3% para herdeiros em linha reta (filhos, pais) e 4% para os demais, sobre o valor real do Catastro."
+  },
+  {
+   "q": "Todos os herdeiros precisam assinar?",
+   "a": "Sim, todos os coproprietários assinam a venda, pessoalmente ou por meio de um procurador."
+  },
+  {
+   "q": "O que é o certificado de resultados de autos?",
+   "a": "O documento que resume o decidido no expediente sucessório (quem são os herdeiros e quais bens há) e que é inscrito no Registro."
+  }
+ ],
+ "related": [
+  "Publicá tu propiedad en Casa-Libre",
+  "Guía: documentos para vender",
+  "Guía: impuestos y gastos al vender",
+  "Guía: cuánto vale mi propiedad"
+ ]
+}

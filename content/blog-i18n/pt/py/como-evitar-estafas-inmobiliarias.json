@@ -1,0 +1,110 @@
+{
+ "_src": "48afa81fcb38",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como evitar fraudes ao comprar ou alugar um imóvel",
+  "h1": "Como evitar fraudes imobiliárias ao comprar ou alugar no Paraguai",
+  "description": "Os sinais de um anúncio falso, como verificar se quem vende ou aluga é o proprietário e por que nunca se deve pagar sinal sem ver o imóvel nem assinar nada.",
+  "answer": "A regra de ouro é simples: não pague nada (nem sinal, nem reserva, nem \"depósito para guardar o imóvel\") sem ter visto o imóvel por dentro, sem saber quem é o proprietário e sem um documento assinado. Desconfie de preços muito abaixo da região, de proprietários que dizem estar no exterior e pedem transferências, e da urgência artificial. Em uma compra, o escribano (tabelião) verifica a titularidade com um relatório de condição de domínio dos Registros Públicos antes de assinar."
+ },
+ "sections": [
+  {
+   "h2": "Como funcionam as fraudes mais comuns",
+   "paras": [
+    "A maioria das fraudes imobiliárias não precisa de um imóvel: usam fotos copiadas de outros anúncios, um preço tentador e a pressão para que você pague antes de pensar. O objetivo quase sempre é o mesmo: que você transfira uma seña, uma reserva ou um depósito para uma conta que depois desaparece.",
+    "Outra variante, mais grave, é a venda de um imóvel real por alguém que não é o dono ou que não pode vendê-lo sozinho (um herdeiro que não tem a conformidade dos demais, um imóvel hipotecado ou embargado, um terreno com títulos sobrepostos). Aí o dano pode ser muito maior, porque já há escritos e dinheiro de por meio."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta em um anúncio",
+   "bullets": [
+    "Preço muito abaixo de propriedades parecidas na mesma zona, sem uma explicação clara.",
+    "O anunciante diz estar no exterior, de viagem ou \"muito ocupado\" e não pode mostrar o imóvel, mas oferece mandar as chaves ou o contrato se você transferir primeiro.",
+    "Pedem uma seña ou reserva \"para que não leve outro\" antes de qualquer visita.",
+    "Fotos de qualidade profissional que aparecem também em outros anúncios com outro preço ou em outra cidade.",
+    "Endereço impreciso que nunca se confirma totalmente.",
+    "Pressão de tempo: \"há três interessados\", \"só hoje a esse preço\".",
+    "Pedido de pagamento para a conta de terceira pessoa que não é nem o dono nem a imobiliária."
+   ],
+   "tip": "Faça uma busca inversa das fotos do anúncio (por exemplo com Google Lens). Se aparecerem em outros portais com outros dados, pare."
+  },
+  {
+   "h2": "Como verificar que quem vende é o dono",
+   "paras": [
+    "Em uma compra e venda, a verificação formal a faz o escribano (tabelião) antes da escritura: solicita à Dirección General de los Registros Públicos o informe ou certificado de condição de domínio, que mostra em nome de quem está inscrito o imóvel e se tem hipotecas, embargos ou outras restrições. Esse trâmite também pode ser feito online através do Sistema de Gestión Registral (SIGRE), disponível para escribanos e advogados.",
+    "Você, como comprador, pode pedir desde o início uma cópia do título e da cédula do vendedor, e comparar se o nome coincide. Se quem lhe mostra o imóvel for outra pessoa, peça que explique em que caráter atua: imobiliária com autorização do dono, apoderado com poder notarial ou herdeiro. Cada caso tem seus papéis."
+   ],
+   "bullets": [
+    "O nome do título coincide com a cédula de quem vende.",
+    "Se for uma sucessão, pergunte se está terminada e quem são os herdeiros.",
+    "Se atuar um apoderado, peça ver o poder e que seu escribano o verifique.",
+    "Se for uma imobiliária, peça a autorização de venda assinada pelo dono."
+   ]
+  },
+  {
+   "h2": "A seña: quando e como pagá-la",
+   "paras": [
+    "A seña é uma prática normal, mas tem um momento: depois de ver o imóvel, ter uma ideia clara da documentação e com um recibo ou boleto assinado que diga quanto você paga, por qual imóvel, o que acontece se alguma das partes se arrepender e em que prazo será a escritura.",
+    "Pague ao titular ou à imobiliária que o representa, nunca a terceiros, e se possível por transferência bancária para uma conta em nome dessa pessoa ou empresa, para que fique registro. Muitos compradores preferem que a seña fique nas mãos do escribano até a escritura."
+   ]
+  },
+  {
+   "h2": "Fraudes em aluguéis",
+   "paras": [
+    "Nos aluguéis o esquema costuma ser menor mas mais frequente: um anúncio de um apartamento bonito e barato, um \"dono\" que não pode mostrá-lo e que pede o primeiro mês e o depósito adiantado para reservá-lo. Às vezes o imóvel existe e está alugado por outra pessoa; às vezes nem existe."
+   ],
+   "bullets": [
+    "Não pague nada antes de visitar o imóvel por dentro.",
+    "Assine o contrato antes ou ao mesmo tempo que paga, nunca depois.",
+    "Peça ver uma fatura da ANDE ou do imposto imobiliário em nome do dono, ou a autorização da imobiliária.",
+    "Desconfie de quem aceita apenas dinheiro vivo ou giros em nome de outra pessoa."
+   ]
+  },
+  {
+   "h2": "Terrenos: o caso que mais exige cuidado",
+   "paras": [
+    "Em terrenos o risco não é só o anúncio falso. Existem lotes que na prática são terras fiscais, imóveis com sobreposição de títulos ou \"direitos\" sobre uma ocupação que não podem ser escriturados. Antes de pagar por um terreno, peça a conta corrente catastral ou padrão, o título e o informe de condição de domínio, e deixe que um escribano ou agrimensor confirme que o que lhe mostram no local coincide com o que dizem os papéis. Explicamos em detalhe no artigo sobre como saber se um terreno tem dono."
+   ]
+  },
+  {
+   "h2": "Se já pagou e suspeita de uma fraude",
+   "steps": [
+    "Guarde tudo: capturas do anúncio, chats, comprovantes de transferência, números de telefone.",
+    "Avise imediatamente seu banco para tentar frear ou rastrear a transferência.",
+    "Faça a denúncia à Polícia Nacional ou ao Ministério Público.",
+    "Reporte o anúncio no site onde o viu para que não aconteça com outra pessoa."
+   ]
+  },
+  {
+   "h2": "Como buscar com mais tranquilidade no Casa-Libre",
+   "paras": [
+    "No Casa-Libre você fala direto por WhatsApp com o dono ou a imobiliária que publicou, e usar o site não tem custo: ninguém do Casa-Libre vai pedir uma seña nem pagamento para ver um imóvel. Se um anúncio lhe parecer suspeito, pode reportá-lo para que a equipe o revise. O mesmo vale no app do Casa-Libre para iPhone e Android.",
+    "Assim como em qualquer portal, a verificação final do imóvel e do dono é feita por você com seu escribano antes de pagar."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se um anúncio de aluguel é falso?",
+   "a": "Os sinais típicos são um preço muito baixo para a região, um proprietário que não pode mostrar o imóvel e a exigência de pagamento antes de visitar. Procure as fotos em outros sites e não pague nada sem ver o imóvel e sem contrato."
+  },
+  {
+   "q": "Como verifico quem é o proprietário de um imóvel?",
+   "a": "O escribano solicita o relatório de condição de domínio à Direção Geral dos Registros Públicos, que indica o titular inscrito e se há hipotecas ou penhoras. Você pode pedir antes uma cópia do título e comparar com a cédula do vendedor."
+  },
+  {
+   "q": "É normal pagar um sinal?",
+   "a": "Sim, mas depois de ver o imóvel, com um recibo ou boleto assinado que indique as condições, e pagando ao proprietário, à imobiliária que o representa ou ao escribano, nunca a terceiros."
+  },
+  {
+   "q": "O que faço se fui enganado?",
+   "a": "Guarde todas as provas, avise seu banco, faça a denúncia à Polícia Nacional ou ao Ministério Público e reporte o anúncio no site onde o encontrou."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Propriedades para aluguel",
+  "Guia: como comprar sua primeira casa"
+ ]
+}

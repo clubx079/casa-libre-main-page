@@ -1,0 +1,132 @@
+{
+ "_src": "fc38de7bf41a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Living in Ciudad de la Costa or Canelones: What to Consider",
+  "h1": "Living in Ciudad de la Costa and the Canelones Metropolitan Area: Alternatives to Montevideo",
+  "description": "What to know before moving to Ciudad de la Costa or other Canelones cities: commutes to Montevideo, sanitation, houses with land, services, costs and how to compare with the capital.",
+  "answer": "Ciudad de la Costa and other Canelones towns near Montevideo are an alternative for anyone looking for a house with land, more tranquility or proximity to the sea without paying coastal-neighbourhood prices in the capital. In return, you should carefully measure the daily commute to Montevideo during rush hour, check whether the property has connected sanitation or a well, review the condition of the streets and the closeness of services, and keep in mind that the property tax is collected by the Intendencia de Canelones, with its own rules."
+ },
+ "sections": [
+  {
+   "h2": "Why so many families look at Canelones",
+   "paras": [
+    "The Montevideo metropolitan area extends into Canelones to the east (Ciudad de la Costa and the successive beach towns) and to the north (cities like Las Piedras, La Paz or Pando), and also into San José to the west. Many people live there and work or study in the capital.",
+    "The most common reasons: a house with a yard or back area instead of an apartment, pets, a garden, a quieter pace and, on the coast, the beach just a few blocks away."
+   ]
+  },
+  {
+   "h2": "The commute: the calculation you have to make",
+   "paras": [
+    "From Ciudad de la Costa, the main connection to Montevideo is via Avenida Giannattasio and the Interbalnearia route, and there are metropolitan bus lines. During peak hours the accesses get congested. From the north, the national routes serve the same purpose.",
+    "Before deciding, make the actual trip on a weekday at the time you would. Calculate the time and the monthly cost (tickets or fuel and tolls if applicable). What you save on rent or price can be spent on commuting if you work every day in the Center."
+   ],
+   "tip": "If you work some days from home, the calculation changes a lot: with two or three commuting days per week, living farther away becomes more reasonable."
+  },
+  {
+   "h2": "Sewage: a key question",
+   "paras": [
+    "In several areas of Ciudad de la Costa and the metropolitan area, for years many homes did not have a sewage network and used a septic tank, with the cost of periodic emptying. Sewage works have progressed in different zones, but not uniformly.",
+    "Always ask whether the house is connected to the network or has a septic tank. If there is a network in front of the property, Law 18.840 requires connection, and OSE issues statements and certificates linked to that obligation. If you are buying, your escribano (notary) can request them."
+   ]
+  },
+  {
+   "h2": "Houses, land and the condition of the area",
+   "bullets": [
+    "Streets: in some zones there are gravel streets or streets in poor condition; see how they look on rainy days.",
+    "Moisture and low ground: in low-lying land or near wetlands, ask if the yard or garage floods.",
+    "Sands and dunes: on the coast, wind brings sand; openings suffer.",
+    "Lighting and security: walk the block during day and night.",
+    "Land: if you buy to build, request the survey plan and check with the Intendencia de Canelones what can be built."
+   ]
+  },
+  {
+   "h2": "Nearby services",
+   "paras": [
+    "Ciudad de la Costa has shopping centers, supermarkets, polyclinics and schools, but distances are greater than in a Montevideo neighborhood, and for many things you will need a car or bus. See what you have within walking distance: store, pharmacy, bus stop, school, your mutualist."
+   ]
+  },
+  {
+   "h2": "Costs: what changes compared to Montevideo",
+   "table": {
+    "head": [
+     "Cost",
+     "What to consider"
+    ],
+    "rows": [
+     [
+      "Rent or price",
+      "Usually offers more square meters and land, depending on the area"
+     ],
+     [
+      "Property tax",
+      "Collected by the Intendencia de Canelones, with its own calculation and due dates"
+     ],
+     [
+      "Sewage",
+      "If there is a septic tank, add the cost of emptying"
+     ],
+     [
+      "Transport",
+      "Metropolitan tickets, fuel, possibly a second car"
+     ],
+     [
+      "Maintenance",
+      "A house with land requires more upkeep (grass, roof, fences)"
+     ],
+     [
+      "Common expenses",
+      "If it is a detached house, none; in private neighborhoods or complexes, yes"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Other alternatives in the metropolitan area",
+   "paras": [
+    "In addition to the coast, the cities of the northern Canelones axis and Ciudad del Plata, in San José, offer other combinations of price, distance and services. Apply the same criteria: real commute, sewage, street condition and walkable services."
+   ]
+  },
+  {
+   "h2": "Try before you buy",
+   "paras": [
+    "If you are unsure, a good strategy is to rent in the area for a while before buying. That way you test the daily commute, how winter is, how the streets behave in rain and whether the neighborhood feels comfortable. Buying is a long-term decision; renting a few months gives you information no visit can provide."
+   ]
+  },
+  {
+   "h2": "Compare on the map",
+   "paras": [
+    "Look side by side at what your budget gives you in Montevideo and in Canelones, adding commuting costs. On Casa-Libre you can see properties in Ciudad de la Costa, Canelones and Montevideo on the map and write directly via WhatsApp, also from the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it advisable to rent before buying in Ciudad de la Costa?",
+   "a": "If you don’t know the area, yes: a few months of rent let you test the commute, the winter and the neighbourhood before making a long-term decision."
+  },
+  {
+   "q": "Is it a good idea to live in Ciudad de la Costa and work in Montevideo?",
+   "a": "It can be if the daily commute is reasonable for you. Measure the actual trip during rush hour and its cost before deciding."
+  },
+  {
+   "q": "Does Ciudad de la Costa have sanitation?",
+   "a": "It depends on the zone: there have been major works, but not all homes are connected. Always ask whether the house has sanitation or a well."
+  },
+  {
+   "q": "Who collects the property tax in Ciudad de la Costa?",
+   "a": "The Intendencia de Canelones, with its own calculation, due dates and exemptions."
+  },
+  {
+   "q": "What alternatives are there to Montevideo besides the coast?",
+   "a": "The towns along the northern axis of Canelones and Ciudad del Plata in San José, among others. Compare distance, services and total cost."
+  }
+ ],
+ "related": [
+  "Properties in Ciudad de la Costa",
+  "Properties in Canelones",
+  "Houses for Sale",
+  "How to Choose a Neighbourhood in Montevideo"
+ ]
+}

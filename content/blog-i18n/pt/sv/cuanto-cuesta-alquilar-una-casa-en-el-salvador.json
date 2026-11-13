@@ -1,0 +1,138 @@
+{
+ "_src": "d74e3d980aca",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Quanto custa alugar uma casa em El Salvador",
+  "h1": "Quanto custa alugar uma casa ou um apartamento em El Salvador: como calcular",
+  "description": "Como calcular o que realmente custa alugar em El Salvador: o que influencia o preço, quanto dinheiro você precisa para entrar e quais despesas mensais se somam ao aluguel.",
+  "answer": "O custo de alugar em El Salvador depende sobretudo da zona, do tipo de imóvel e se está mobiliado; por isso não há um preço único e o melhor é comparar anúncios atuais da zona que lhe interessa. Para calcular seu orçamento real some três coisas: o que paga ao entrar (normalmente o primeiro mês adiantado mais um depósito), o aluguel mensal e as despesas que nem sempre estão incluídas (água, luz, internet, taxa de manutenção e segurança). Tudo é pago em dólares."
+ },
+ "sections": [
+  {
+   "h2": "O que faz um aluguel custar mais ou menos",
+   "paras": [
+    "Duas casas do mesmo tamanho podem ter aluguéis muito diferentes. Os fatores que mais pesam são:"
+   ],
+   "bullets": [
+    "Zona: proximidade a centros de trabalho, escolas e comércios, e o tempo de deslocamento em horário de pico.",
+    "Tipo de imóvel: casa em condomínio aberto, casa em condomínio fechado ou apartamento em prédio com amenidades.",
+    "Segurança e acesso: portão, vigilância, estacionamento próprio.",
+    "Mobiliado ou não: um imóvel mobiliado costuma custar mais, mas economiza a compra de móveis.",
+    "Estado e antiguidade: cozinha, banheiros, instalações elétricas e tetos.",
+    "Serviços incluídos: se a taxa de manutenção, a água ou a internet estão dentro do preço."
+   ]
+  },
+  {
+   "h2": "Como saber se um preço é razoável",
+   "paras": [
+    "A forma mais confiável é comparar. Procure na mesma zona propriedades parecidas em tamanho, número de quartos e nível de acabamento, e anote o preço e o que cada uma inclui. Com cinco ou seis comparações já pode detectar se um anúncio está muito acima ou, ao contrário, suspeitosamente barato.",
+    "Um preço muito abaixo dos demais pode ser uma oportunidade, mas também um sinal de fraude: nunca pague um depósito antes de ver o imóvel e confirmar que quem o aluga é o dono ou está autorizado."
+   ],
+   "tip": "Pergunte sempre \"O que está incluído no preço?\". Um aluguel um pouco mais alto com taxa de manutenção e água incluídas pode sair mais barato que outro que parece menor."
+  },
+  {
+   "h2": "O dinheiro que você precisa para entrar",
+   "paras": [
+    "O usual é pagar o primeiro mês adiantado e deixar um depósito ao assinar. Alguns proprietários pedem mais meses adiantados quando não há fiador ou quando o inquilino não tem histórico. A isso soma-se a mudança e, às vezes, a conexão de serviços."
+   ],
+   "table": {
+    "head": [
+     "Conceito",
+     "Quando se paga",
+     "Como estimar"
+    ],
+    "rows": [
+     [
+      "Primeiro mês adiantado",
+      "Ao assinar",
+      "Um aluguel mensal"
+     ],
+     [
+      "Depósito",
+      "Ao assinar",
+      "Conforme o pactuado; pergunte antes de visitar"
+     ],
+     [
+      "Meses adicionais adiantados",
+      "Ao assinar, se solicitados",
+      "Substituem o fiador em alguns casos"
+     ],
+     [
+      "Mudança",
+      "Ao entrar",
+      "Cotação com dois ou três transportadores"
+     ],
+     [
+      "Móveis e eletrodomésticos",
+      "Ao entrar",
+      "Se o imóvel não estiver mobiliado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Os gastos mensais além do aluguel",
+   "paras": [
+    "Pergunte quem paga cada serviço e quanto foi pago nos últimos meses. Peça para ver alguns recibos de água e luz do imóvel: eles dão uma ideia real do consumo."
+   ],
+   "bullets": [
+    "Energia elétrica: depende muito do uso de ar-condicionado.",
+    "Água: da ANDA ou do sistema local da zona.",
+    "Internet e televisão.",
+    "Taxa de manutenção ou vigilância do condomínio, residencial ou prédio, se não estiver incluída.",
+    "Gás propano para cozinhar.",
+    "Transporte: um aluguel mais barato longe do trabalho pode custar mais em tempo e combustível."
+   ]
+  },
+  {
+   "h2": "Quanto da sua renda destinar ao aluguel",
+   "paras": [
+    "Uma referência comum é que o aluguel não ultrapasse cerca de um terço da renda familiar. Se ao aluguel você soma os serviços, a proporção real é maior. Faça a conta com um mês normal, sem contar horas extras ou bônus.",
+    "Exemplo hipotético: se em sua casa entram US$1.200 por mês, um aluguel próximo a US$400 deixa espaço para serviços, alimentação e transporte. Se o aluguel subir para US$600, metade da renda vai para moradia e sobra pouco espaço para imprevistos."
+   ]
+  },
+  {
+   "h2": "O que pode ser negociado",
+   "paras": [
+    "O preço nem sempre é fixo. Você pode negociar um contrato mais longo em troca de manter o aluguel, que o proprietário faça certas reparações antes de entrar, ou que a taxa de manutenção fique incluída. Tudo o que for acordado, deixe por escrito no contrato."
+   ]
+  },
+  {
+   "h2": "Mobiliado ou sem mobília?",
+   "paras": [
+    "Um aluguel mobiliado custa mais por mês, mas economiza a compra de camas, mesa de jantar, geladeira e cozinha. Se você vai ficar pouco tempo, por exemplo enquanto procura casa para comprar ou por um contrato de trabalho temporário, costuma ser vantajoso. Se pensa ficar anos, comprar seus próprios móveis pode sair mais barato.",
+    "Peça um inventário detalhado e com fotos do que está incluído. O que não estiver na lista pode se transformar em discussão no momento de devolver o depósito."
+   ]
+  },
+  {
+   "h2": "Comparar aluguéis no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver aluguéis no mapa por zona e preço, comparar vários em poucos minutos e escrever por WhatsApp ao dono ou ao agente para perguntar o que está incluído no aluguel. Também pode fazer isso pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto custa alugar uma casa em El Salvador?",
+   "a": "Depende da zona, do tipo de imóvel e se está mobiliado. Compare anúncios atuais da zona que lhe interessa e some as despesas que não estejam incluídas no aluguel."
+  },
+  {
+   "q": "Quanto dinheiro eu preciso para entrar em um aluguel?",
+   "a": "Normalmente o primeiro mês adiantado mais um depósito. Se não tiver fiador, podem pedir meses adicionais. Some mudança e móveis se precisar."
+  },
+  {
+   "q": "Em que moeda se paga o aluguel?",
+   "a": "Em dólares americanos, que é a moeda de uso em El Salvador desde a Lei de Integração Monetária."
+  },
+  {
+   "q": "Quais despesas normalmente não estão incluídas no aluguel?",
+   "a": "Frequentemente a luz, a água, a internet, o gás e, às vezes, a taxa de manutenção ou vigilância. Pergunte antes de visitar."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Casas para alugar",
+  "Propriedades em Santa Tecla"
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "_src": "028effe27fc5",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Rent in Uruguay: Complete List (Tenant)",
+  "h1": "Requirements to Rent a House or an Apartment in Uruguay",
+  "description": "What they ask you for renting in Uruguay: ID card, income, a guarantee (CGN, ANDA, insurance, deposit at the BHU or property) or a contract under the LUC without guarantee. List and entry costs.",
+  "answer": "To rent in Uruguay you normally need an identity card (or passport if you are a foreigner), formal income proof, and a guarantee that the owner accepts: the state guarantee from the Contaduría General de la Nación (CGN), a guarantee from an institution like ANDA, a surety insurance from an insurer, a deposit at the Banco Hipotecario del Uruguay (BHU) or a guarantor with property. The other option is to sign a contract under the Ley de Urgente Consideración (LUC) regime, which does not require a guarantee. You also have to have the first month’s rent and, if a real-estate agency is involved, its commission."
+ },
+ "sections": [
+  {
+   "h2": "The basic list they will ask you for",
+   "paras": [
+    "There is no single list set by law: each owner or real-estate agency decides what they require. But in practice the requests are very similar, and having everything ready in a folder (on paper and scanned on your phone) allows you to book the same day you find something you like."
+   ],
+   "bullets": [
+    "Current identity document of the signatories. If you are a foreigner, passport or Uruguayan ID if you have already started residency.",
+    "Proof of income: latest pay slips, or income certificate signed by a public accountant if you are self-employed.",
+    "A guarantee accepted by the owner, or the agreement to sign under the LUC regime without guarantee.",
+    "References: a previous landlord or your workplace.",
+    "Money for the signing: the first month, the cost of the chosen guarantee and, if applicable, the real-estate agency commission."
+   ]
+  },
+  {
+   "h2": "The guarantees used in Uruguay",
+   "paras": [
+    "The key question before visiting is which guarantee the owner accepts, because not everyone accepts all. These are the most common:"
+   ],
+   "table": {
+    "head": [
+     "Guarantee",
+     "How it works",
+     "What you need to know"
+    ],
+    "rows": [
+     [
+      "Contaduría General de la Nación (CGN)",
+      "The State guarantees the rent and deducts it from your salary",
+      "For public officials and employees of registered companies, with a minimum seniority. Each party pays a monthly commission of 3%."
+     ],
+     [
+      "Fondo de Garantía de Alquiler (MVOT/ANV)",
+      "State guarantee certificate according to your income",
+      "It has income and rent caps expressed in UR; the contract is signed through the CGN."
+     ],
+     [
+      "ANDA",
+      "Guarantee from a mutual association",
+      "Requires membership and meeting its income requirements."
+     ],
+     [
+      "Seguro de fianza",
+      "A private insurer responds to the owner",
+      "You pay a premium; each insurer evaluates your income."
+     ],
+     [
+      "Depósito en el BHU",
+      "You leave a security deposit at the Banco Hipotecario",
+      "The law sets a cap of five months' rent for housing."
+     ],
+     [
+      "Garantía de propiedad",
+      "A family member or acquaintance offers a property",
+      "Used less and less; the owner may request certificates of that property."
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Renting without guarantee: the LUC regime",
+   "paras": [
+    "Since Law 19.889 (LUC) there is a rental regime without guarantee. For it to apply, the contract must be for housing, in writing, with term and price, with no guarantee, and the parties must expressly declare that they submit to that law. Under that regime the owner cannot ask you for more than one month’s rent in advance.",
+    "In return, eviction periods are much shorter if you don’t pay. It is a good entry point if you have no guarantee, but it is worth reading carefully: we explain it in detail in the article about renting under the LUC."
+   ]
+  },
+  {
+   "h2": "How to prove income depending on how you work",
+   "paras": [
+    "What the owner or the guarantee wants to know is whether you will be able to pay every month. State and private guarantees calculate a maximum rent based on your formal net income, so before you start looking it helps to know how much they will approve you for: searching above that amount wastes time."
+   ],
+   "table": {
+    "head": [
+     "Your situation",
+     "What usually serves as proof"
+    ],
+    "rows": [
+     [
+      "Empleado/a",
+      "Latest pay slips; in some guarantees, BPS employment history"
+     ],
+     [
+      "Independiente o profesional",
+      "Income certificate signed by a public accountant"
+     ],
+     [
+      "Jubilado/a o pensionista",
+      "Receipt of the last month’s payment"
+     ],
+     [
+      "Estudiante",
+      "Own income or from a group; there is a state guarantee for youths aged 18 to 29"
+     ],
+     [
+      "Recién llegado/a",
+      "Employment contract and demonstrable savings; often the LUC regime is the simplest route"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How much money you need to get in",
+   "paras": [
+    "Add up these items before booking, so you don’t discover them at signing:"
+   ],
+   "bullets": [
+    "The first month’s rent.",
+    "The cost of the guarantee: the CGN monthly commission, the insurance premium, the BHU deposit or whatever the chosen institution charges.",
+    "The real-estate agency commission, if there is one. Ask for the exact amount and whether it includes VAT.",
+    "Common expenses if it is an apartment in a building, and the connection or title change for UTE, OSE and internet.",
+    "The move and basics for the first days."
+   ],
+   "tip": "If you will pay the rent with a written contract of one year or more and you pay IRPF on your work, you may be entitled to a tax credit for rent from the DGI. Keep the contract and receipts."
+  },
+  {
+   "h2": "What to ask before you go to see",
+   "paras": [
+    "By WhatsApp, before arranging the visit, ask the concrete details. You save trips and the owner sees that you are a serious tenant:"
+   ],
+   "bullets": [
+    "What guarantees do they accept? Do they accept a contract under the LUC?",
+    "Is the price in pesos or dollars? How is it adjusted?",
+    "What are the common expenses and what do they include?",
+    "How much must be paid at signing, in total?",
+    "Do they accept pets? From what date is it available?"
+   ]
+  },
+  {
+   "h2": "How to search for rent without wasting time",
+   "paras": [
+    "With the amount your guarantee approves, filter by area and price and write with your details: how many people will live there, whether you have pets, when you want to move in and which guarantee you have. That message gets a response faster than a “Is it still available?”.",
+    "On Casa-Libre you see rentals in Uruguay on the map and write directly by WhatsApp to the owner or agency, without paying to use the site. You can also search from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can you rent without a guarantee in Uruguay?",
+   "a": "Yes. The LUC created a rental regime without guarantee for housing, with a written contract and an express declaration by the parties. The owner cannot ask for more than one month in advance, and evictions for non-payment are faster."
+  },
+  {
+   "q": "Who can use the CGN guarantee?",
+   "a": "According to the CGN, public officials and employees of companies registered with the Servicio de Garantía de Alquileres with at least 6 months of seniority, as well as beneficiaries of agreements with the MVOT and the BPS subsidy."
+  },
+  {
+   "q": "What is the maximum deposit for renting?",
+   "a": "For housing, Decree-Law 14.219 sets a ceiling of five months' rent, and the deposit is made at the Banco Hipotecario del Uruguay."
+  },
+  {
+   "q": "Can a foreigner rent in Uruguay?",
+   "a": "Yes. With a passport or Uruguayan ID card. The lack of local history is usually resolved with a surety insurance, a deposit, or a contract under the LUC regime, if the owner accepts it."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Apartments for rent",
+  "Rental guarantees: which to choose",
+  "Rent without guarantee under the LUC"
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "_src": "3fbf767264bf",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Vender uma propriedade alugada no Paraguai: como fazer",
+  "h1": "Como vender uma propriedade que está alugada",
+  "description": "Vender com inquilino dentro: o que acontece com o contrato, como avisar e coordenar visitas, quando convém oferecê-la ao inquilino e que comprador buscar.",
+  "answer": "É possível vender uma propriedade alugada no Paraguai, mas antes de publicá-la você deve decidir entre dois caminhos: vendê-la com o inquilino dentro, para um comprador que a queira como investimento e aceite o contrato vigente, ou esperar o término do contrato para vendê-la desocupada. Em ambos os casos, o prudente é ler o contrato com seu escribano (tabelião), avisar o inquilino com antecedência, acordar as visitas por escrito e contar a situação ao comprador desde a primeira mensagem."
+ },
+ "sections": [
+  {
+   "h2": "Primeiro decidi: com inquilino ou desocupada?",
+   "paras": [
+    "Não há uma resposta única. Depende de quanto falta para o contrato vencer, de que comprador você busca e de quão urgente é vender."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Vender com inquilino",
+     "Vender desocupada"
+    ],
+    "rows": [
+     [
+      "Comprador típico",
+      "Investidor que busca renda desde o primeiro dia",
+      "Família que quer a casa para morar, ou investidor"
+     ],
+     [
+      "Vantagem",
+      "Você continua recebendo aluguel enquanto vende; o comprador vê uma renda real",
+      "Mais compradores possíveis e visitas livres"
+     ],
+     [
+      "Desvantagem",
+      "Menos compradores; visitas sujeitas ao inquilino",
+      "Meses sem aluguel enquanto se vende"
+     ],
+     [
+      "Quando convém",
+      "Contrato longo, inquilino cumpridor, propriedade pensada para renda",
+      "Contrato prestes a vencer ou propriedade familiar (casas grandes)"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O que acontece com o contrato de aluguel se você vender",
+   "paras": [
+    "Esta é a pergunta que mais o comprador vai lhe fazer. O Código Civil paraguaio (Lei 1183/1985) regula a locação a partir do artigo 803, e o próprio contrato pode ter cláusulas sobre o que acontece se a propriedade for vendida. Antes de publicar, peça ao seu escribano (tabelião) ou advogado que leia o contrato e lhe diga como se aplica ao seu caso.",
+    "Como regra prática, o prudente é partir do princípio de que o contrato vigente se respeita até seu vencimento, e que o comprador o recebe com o inquilino dentro. Apresentar isso assim evita promessas que depois você não pode cumprir, como oferecer \"entrega imediata\" de uma casa alugada.",
+    "Se você quiser vender desocupada antes do vencimento, a saída mais limpa é um acordo com o inquilino: uma rescisão antecipada por escrito, com data de entrega e, se necessário, alguma compensação pela mudança."
+   ]
+  },
+  {
+   "h2": "Como avisar ao inquilino",
+   "paras": [
+    "O inquilino vai descobrir de qualquer forma, então é melhor que ele saiba por você e antes de ver o aviso publicado. Uma conversa franca costuma evitar problemas com as visitas."
+   ],
+   "steps": [
+    "Conte que vai vender e esclareça o que acontece com o contrato segundo o que seu escribano orientou.",
+    "Pergunte se ele tem interesse em comprar (ver mais abaixo).",
+    "Combine como serão as visitas: dias, horários, com quanto aviso e quem acompanha.",
+    "Deixe tudo por escrito, ainda que seja uma mensagem de WhatsApp que o inquilino confirme.",
+    "Agradeça a colaboração: alguns proprietários oferecem um desconto no aluguel enquanto durar a venda."
+   ]
+  },
+  {
+   "h2": "Visitas com a casa habitada",
+   "paras": [
+    "A casa é do dono, mas enquanto durar o contrato é o lar do inquilino. Respeitar isso também é a melhor estratégia comercial: um inquilino irritado pode mostrar a casa bagunçada ou falar mal do bairro."
+   ],
+   "bullets": [
+    "Agrupe as visitas: melhor duas ou três na mesma faixa horária do que uma por dia.",
+    "Filtre antes por WhatsApp para que só compareçam interessados reais (orçamento, forma de pagamento, prazos).",
+    "Acompanhe você ou seu corretor cada visita; não peça ao inquilino que mostre a casa.",
+    "Use fotos tiradas em um momento acordado, ou fotos anteriores ao aluguel se ainda forem fiéis, e não mostre pertences pessoais do inquilino.",
+    "Para os primeiros interessados, um vídeo tour acordado com o inquilino evita visitas desnecessárias."
+   ]
+  },
+  {
+   "h2": "Oferecê-la ao inquilino primeiro",
+   "paras": [
+    "Muitas vezes o melhor comprador já mora dentro. Conhece a casa, o bairro e os defeitos, e não tem custo de mudança. Antes de publicar, pergunte se ele tem interesse.",
+    "Se ele se interessar mas precisar de financiamento, tenha em mente que um crédito hipotecário leva seu tempo de análise e avaliação. Podem assinar uma reserva ou um boleto com prazo razoável para que ele consiga o crédito, sempre com assessoria de um escribano."
+   ]
+  },
+  {
+   "h2": "Como apresentá-la a um comprador investidor",
+   "paras": [
+    "O investidor compra números. Se você vender com inquilino, seu aviso precisa responder às perguntas que um investidor faz, sem exagerar:"
+   ],
+   "bullets": [
+    "Aluguel mensal atual e moeda.",
+    "Data de início e de vencimento do contrato, e forma de reajuste.",
+    "Se há garantia e de que tipo, e se o depósito é transferido ao comprador.",
+    "Quem paga as despesas e o imposto predial.",
+    "Histórico de pagamento do inquilino, contado com honestidade."
+   ],
+   "tip": "Não publique dados pessoais do inquilino nem cópias do contrato dele. Esses detalhes são compartilhados com o comprador sério, na fase de negociação, e com permissão."
+  },
+  {
+   "h2": "Documentos para ter prontos",
+   "paras": [
+    "Além dos papéis de qualquer venda (título, imposto predial em dia, plantas se houver), numa venda com inquilino convém ter à mão uma cópia do contrato de aluguel vigente, os comprovantes de pagamento recentes e qualquer acordo assinado com o inquilino sobre a venda ou a entrega. O escribano lhe dirá o que incluir na escritura sobre a locação vigente e o depósito."
+   ]
+  },
+  {
+   "h2": "Publicá-la no Casa-Libre",
+   "paras": [
+    "No Casa-Libre você publica grátis, sem comissão, e os compradores lhe escrevem direto por WhatsApp. Na descrição pode esclarecer \"Se vende com inquilino, contrato até [mês/ano], investimento ideal\" para atrair o comprador correto desde a primeira mensagem. Pode publicar pelo site ou pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso vender minha casa se ela está alugada?",
+   "a": "Sim. O que você precisa resolver é o que acontece com o contrato vigente: vendê-la com o inquilino dentro para um comprador que o aceite, ou combinar com o inquilino a entrega antes da venda. Consulte seu escribano."
+  },
+  {
+   "q": "O comprador tem que respeitar o contrato de aluguel?",
+   "a": "Depende do que estabelece o Código Civil e o próprio contrato para o seu caso, por isso convém que o leia um escribano ou advogado. O prudente é publicitar a propriedade assumindo que o contrato vigente será respeitado até seu vencimento."
+  },
+  {
+   "q": "Preciso avisar o inquilino que estou vendendo?",
+   "a": "É o recomendável: as visitas dependem da colaboração dele e pode ser que o próprio inquilino queira comprar. Avise antes de publicar e deixe por escrito como serão as visitas."
+  },
+  {
+   "q": "Uma propriedade alugada vende mais barata?",
+   "a": "Não necessariamente. Para um comprador investidor, um inquilino cumpridor com contrato vigente pode ser um ponto a favor. Para uma família que quer se mudar já, é uma desvantagem."
+  }
+ ],
+ "related": [
+  "Publicá gratis en Casa-Libre",
+  "Departamentos en venta",
+  "Documentos para vender un inmueble"
+ ]
+}

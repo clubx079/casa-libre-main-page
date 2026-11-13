@@ -1,0 +1,103 @@
+{
+ "_src": "400178bb7b2a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver na Grande Asunción: Luque, San Lorenzo, Lambaré e mais",
+  "h1": "Viver em Asunción ou fora? O que você ganha e o que paga na Grande Asunción",
+  "description": "Luque, San Lorenzo, Lambaré, Fernando de la Mora, Mariano Roque Alonso, Ñemby e Capiatá: mais espaço pelo seu dinheiro em troca de deslocamentos. Como decidir.",
+  "answer": "Mudar-se para uma cidade da Grande Asunción, como Luque, San Lorenzo, Lambaré, Fernando de la Mora, Mariano Roque Alonso, Ñemby ou Capiatá, costuma lhe dar mais metros, pátio ou um terreno maior pelo mesmo dinheiro que na capital. O preço é o tempo: os acessos a Asunción ficam congestionados na hora de pico. A decisão depende de quantos dias por semana você precisa ir à capital, a que horas e se pode trabalhar ou estudar perto da sua nova casa."
+ },
+ "sections": [
+  {
+   "h2": "A troca de fundo: espaço contra tempo",
+   "paras": [
+    "Muita gente que busca casa com quintal, garagem para dois carros ou um terreno para construir acaba olhando fora de Assunção. Em geral, à medida que você se afasta da capital, o mesmo orçamento alcança mais superfície. Isso explica por que a área metropolitana cresceu tanto nas últimas décadas.",
+    "O que não aparece no anúncio é o tempo de viagem. Uma distância que no mapa parece curta pode levar muito mais nas horas de pico de entrada e saída. Se você vai a Assunção todos os dias, esse tempo se multiplica por cinco dias na semana e por todos os meses do ano."
+   ]
+  },
+  {
+   "h2": "Quatro perguntas antes de olhar cidades",
+   "paras": [
+    "Se responder \"todos os dias, em horário de pico, de ônibus\", priorize áreas bem conectadas ou próximas ao seu trabalho. Se trabalhar de casa ou seu trabalho estiver na mesma cidade, o leque se abre bastante."
+   ],
+   "bullets": [
+    "Quantos dias por semana você precisa estar em Assunção, e a que horas entra e sai?",
+    "Onde os filhos vão estudar? Há boas escolas perto ou você vai viajar também por isso?",
+    "Você tem carro, ou depende do transporte público?",
+    "O que você quer que a casa tenha que não pode pagar na capital (quintal, mais quartos, terreno)?"
+   ]
+  },
+  {
+   "h2": "As cidades, em poucas palavras",
+   "paras": [
+    "Essas descrições são gerais e servem para orientá-lo, não para decidir. Cada cidade tem bairros muito diferentes entre si."
+   ],
+   "bullets": [
+    "Luque: a leste de Assunção, perto do aeroporto internacional Silvio Pettirossi. Combina áreas muito urbanizadas com bairros de casas e novos condomínios; atrai quem busca casa com quintal sem ir muito longe.",
+    "San Lorenzo: uma cidade grande e com muito comércio próprio, onde está a sede principal da Universidad Nacional de Asunción. Tem muita oferta de aluguel para estudantes e famílias; o trânsito nas rotas que a conectam à capital é um ponto a considerar.",
+    "Lambaré: ao sul, colada a Assunção e às margens do rio Paraguai. É uma opção próxima à capital com bairros residenciais; convém observar com atenção as áreas baixas perto do rio.",
+    "Fernando de la Mora: faz fronteira com Assunção e está muito integrada à capital. Para muitos é uma forma de estar perto pagando um pouco menos, com oferta variada de casas e dúplex.",
+    "Mariano Roque Alonso: ao norte, no caminho para o Chaco pela Transchaco. Tem áreas industriais e residenciais; para quem trabalha no norte de Assunção pode ser prática.",
+    "Ñemby: ao sul, com muito crescimento residencial. costuma oferecer casas e terrenos mais acessíveis, em troca de deslocamentos mais longos ao centro da capital.",
+    "Capiatá: mais afastada, sobre a rota que vai para o interior. Atrai quem busca terreno ou casa com mais espaço e não precisa ir a Assunção todos os dias."
+   ]
+  },
+  {
+   "h2": "O teste que você deve fazer antes de mudar",
+   "paras": [
+    "Nenhuma nota substitui isso: faça o percurso completo em um dia útil, na mesma hora em que o fará sempre, no mesmo meio de transporte. Ida e volta. Se puder, repita em um dia de chuva."
+   ],
+   "steps": [
+    "Saia da porta da casa que lhe interessa na hora em que sairia para trabalhar.",
+    "Anote quanto tempo leva até seu trabalho ou escola, incluindo estacionar ou caminhar da parada.",
+    "Faça a volta no horário de saída.",
+    "Multiplique esse tempo pelos dias da semana e pergunte a si mesmo se pode mantê-lo por um ano."
+   ]
+  },
+  {
+   "h2": "Serviços que mudam fora da capital",
+   "paras": [
+    "Fora de Assunção é mais comum que a água seja fornecida por uma junta de saneamento ou uma aguatera em vez da ESSAP, e que a cobertura de fibra óptica varie de um bairro para outro. Também pode haver ruas sem pavimentar em áreas novas, o que se nota em dias de chuva.",
+    "Pergunte ao dono quem fornece a água, se há esgoto cloacal ou poço cego, quais empresas de internet chegam e se a rua está asfaltada ou empedrada. São detalhes que nem sempre aparecem no anúncio."
+   ]
+  },
+  {
+   "h2": "Comprar diretamente ou alugar primeiro?",
+   "paras": [
+    "Se você não conhece a cidade, alugar alguns meses antes de comprar permite testar o deslocamento, o bairro e os serviços sem comprometer suas economias. Se já conhece a região porque tem família ou trabalho lá, comprar direto pode fazer sentido.",
+    "Em ambos os casos, compare preços de propriedades semelhantes na mesma cidade antes de ofertar: a faixa pode ser ampla entre um bairro e outro."
+   ]
+  },
+  {
+   "h2": "Como comparar cidades no mapa",
+   "paras": [
+    "No Casa-Libre você pode mover o mapa entre Assunção e as cidades vizinhas e ver como mudam os preços de casas e apartamentos de um lado para o outro. Escreva por WhatsApp ao dono ou à imobiliária para perguntar sobre serviços e acessos antes de ir. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Compensa viver em Luque ou em San Lorenzo?",
+   "a": "Depende de para onde você tem que ir a cada dia. Luque fica perto do aeroporto e do nordeste da capital; San Lorenzo tem muito comércio próprio e a sede principal da UNA. Experimente o deslocamento na hora de pico a partir de cada uma."
+  },
+  {
+   "q": "É mais barato viver fora de Asunción?",
+   "a": "Em geral, o mesmo orçamento rende mais área à medida que você se afasta da capital, mas é preciso somar o custo e o tempo de deslocamento."
+  },
+  {
+   "q": "Qual cidade da Grande Asunción está mais perto da capital?",
+   "a": "Lambaré e Fernando de la Mora limitam diretamente com Asunción e estão muito integradas a ela. Ainda assim, o tempo real depende do ponto de partida e de chegada."
+  },
+  {
+   "q": "O que devo perguntar sobre os serviços fora de Asunción?",
+   "a": "Quem fornece a água, se há esgoto cloacal, quais empresas de internet chegam e se a rua está pavimentada."
+  }
+ ],
+ "related": [
+  "Propriedades em Luque",
+  "Propriedades em San Lorenzo",
+  "Propriedades em Lambaré",
+  "Casas à venda"
+ ]
+}

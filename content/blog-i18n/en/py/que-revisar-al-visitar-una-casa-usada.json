@@ -1,0 +1,121 @@
+{
+ "_src": "c15bd940d75d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "What to Check When Visiting a Used House Before Buying",
+  "h1": "What to Check When Visiting a Used House: Checklist for Buyers",
+  "description": "Moisture, roofs, electrical installation, drains, openings and neighborhood: the list of what you have to look at and ask during a visit to a used house in Paraguay.",
+  "answer": "During the visit to a used house, check, in this order: moisture on walls and ceilings, condition of the roof and gutters, the electrical installation (panel, wires, contracted power with ANDE), the drainage (whether it goes to the sewer network or a dry well), openings, orientation and noise. Return at another time to see the neighborhood, ask to see invoices and documents, and if anything worries you, take a technician before giving any deposit."
+ },
+ "sections": [
+  {
+   "h2": "Before you go: three questions via WhatsApp",
+   "paras": [
+    "A well-prepared visit takes less time and gives you more information. Before scheduling, ask the owner or the agency the basics: how many years old the house is, whether it had major renovations (and if they are in the approved plans) and whether the property is in the name of the seller or part of an inheritance.",
+    "Also ask for the exact address or the location on the map. That way you can walk the block on your own before the appointment, see how it is reached during rush hour and notice anything that doesn’t convince you (a noisy workshop next door, a street that floods)."
+   ],
+   "bullets": [
+    "How old is the house and what was renovated?",
+    "Is the title in the seller’s name? Are there mortgages or an inheritance proceeding?",
+    "Are taxes and services up to date?"
+   ]
+  },
+  {
+   "h2": "Moisture: the first thing you have to check",
+   "paras": [
+    "Moisture is the most common problem in used houses and one of the costliest to resolve properly. Look at the lower part of the walls (stains, paint that bubbles, plaster that flakes), the corners of the ceilings and the window frames. A stale smell in a closed environment is also a clue.",
+    "Beware of a wall freshly painted in only one area: sometimes it’s normal maintenance and sometimes it hides a stain. Ask directly why it was painted. Also check the closet and behind large furniture, which are the places where moisture hides."
+   ],
+   "tip": "If you can, do the visit after a heavy rain. It’s the best time to see leaks, infiltrations and whether the yard or sidewalk holds water."
+  },
+  {
+   "h2": "Roofs, gutters and leaks",
+   "paras": [
+    "Ask what the roof is made of (concrete slab, tiles, metal sheet) and when it was last maintained. On a slab, look for stains on the ceiling and ask if it was waterproofed. On tile roofs, request to see the attic if there is access: stained or moth-eaten wood signals pending work.",
+    "Blocked gutters and downspouts cause leaks in walls that look like foundation-moisture problems. Make sure they exist, are intact and discharge far from the walls."
+   ]
+  },
+  {
+   "h2": "Electrical installation: panel, wires and power",
+   "paras": [
+    "Open the electrical panel. A newer installation usually has a differential circuit breaker and labeled thermomagnetic switches; a panel with old fuses, loose wires or visible splices indicates that part of the wiring will probably need to be redone.",
+    "If you plan to use several air-conditioning units, ask what power is contracted with ANDE and whether the connection is single-phase or three-phase. Changing it is possible, but it’s a procedure and a cost you should know before closing the price. Ask to see the latest ANDE bill: besides confirming there is no debt, it gives you an idea of consumption."
+   ],
+   "bullets": [
+    "Test several outlets and light switches.",
+    "Look for signs of burning on plugs or loose sockets.",
+    "Ask if the air-conditioners have dedicated circuits."
+   ]
+  },
+  {
+   "h2": "Water and drainage: sewer network or septic tank",
+   "paras": [
+    "In many areas of the country there is no sewer network and houses discharge into a septic tank or a soak pit. It isn’t a problem in itself, but it changes maintenance: ask where the tank is, when it was last emptied and if it ever overflowed.",
+    "Open taps and showers to check pressure and how long it takes for hot water to appear. Ask who supplies the water in that area (ESSAP, a sanitation board or a private water vendor) and request a recent bill. Look under kitchen and bathroom sinks: stains or swollen wood indicate leaks."
+   ]
+  },
+  {
+   "h2": "Openings, orientation and noise",
+   "paras": [
+    "Open and close all doors and windows. If they rub or don’t close, it may be just an adjustment or it may indicate structural movement; diagonal cracks from the corners of doors and windows deserve a technician’s opinion.",
+    "Orientation matters a lot with Paraguayan heat: rooms that receive strong afternoon sun are hotter and use more air-conditioning. Note which side the master bedroom faces and whether there are trees or eaves that provide shade.",
+    "Listen to the noise with windows closed and open: avenues, buses, night venues, churches or nearby schools. What is silent in the morning can be different on a Friday night."
+   ]
+  },
+  {
+   "h2": "The neighborhood at different times",
+   "paras": [
+    "Return at least once at another time and another day. At night watch the street lighting and activity; at rush hour, how long it takes you to get to work; on a rainy day, if the street turns into a torrent. Talk to a neighbor: they usually tell you straight how the block is."
+   ],
+   "bullets": [
+    "Actual distance to supermarket, pharmacy, school and bus stop.",
+    "Condition of access streets (asphalt, cobblestone, dirt).",
+    "Cellular signal and internet inside the house."
+   ]
+  },
+  {
+   "h2": "What to ask the seller during the visit",
+   "paras": [
+    "You don’t need to see all the documentation on the first visit, but you should know it exists. Request a copy or photo of the title, the latest property-tax receipt and recent ANDE and water bills. If there were extensions, ask if they are in the approved municipal plans: an undeclared construction can complicate the transfer process or a future sale.",
+    "The substantive legal verification (that the seller is the owner, that there are no mortgages or liens) is done by the escribano (notary) with the domain-condition report from the Registro Público before the escritura (public deed). The visit helps detect anything odd worth asking about beforehand."
+   ]
+  },
+  {
+   "h2": "When to bring in a technician",
+   "paras": [
+    "If the house is more than twenty or thirty years old, if you see cracks, extensive moisture, a doubtful roof or an old electrical installation, it’s worth paying for a visit from a trusted architect, engineer or electrician before signing a deposit. What they tell you helps you decide, and also to negotiate: a written, budgeted repair is a concrete argument to adjust the price.",
+    "Do it before signing any seña or boleto. After that, renegotiating is much harder."
+   ]
+  },
+  {
+   "h2": "Compare before deciding",
+   "paras": [
+    "The most useful thing is to see several similar houses in the same area. On Casa-Libre you can filter houses for sale on the map, save the ones you like and message the owner or agency directly via WhatsApp to schedule visits. The Casa-Libre app for iPhone and Android lets you do the same from your phone while you walk the neighborhood."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many times should you visit a house before buying it?",
+   "a": "At least twice: one to see the house calmly and another at a different time to assess the neighborhood, noise and traffic. If you are going to place a deposit, a third visit with a technician is a good investment."
+  },
+  {
+   "q": "How do I know if a house has moisture?",
+   "a": "Look for stains on the lower part of the walls, bubbling paint, crumbling plaster and a stale odor. Check behind furniture and in closets, and if you can, visit after a rain."
+  },
+  {
+   "q": "Is it bad for a house to have a dry well?",
+   "a": "Not necessarily: in many areas without a sewer network it is common. Ask where it is, when it was last emptied and if it has had problems, because that determines the maintenance."
+  },
+  {
+   "q": "What documents should I request during the visit?",
+   "a": "A copy of the title, the latest property tax bill and recent electricity and water invoices. The complete legal verification is done by the escribano (notary) before the escritura."
+  }
+ ],
+ "related": [
+  "Casas en venta en el mapa",
+  "Guía: cómo comprar tu primera casa",
+  "Guía: gastos al comprar una casa"
+ ]
+}

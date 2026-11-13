@@ -1,0 +1,123 @@
+{
+ "_src": "f04280c512d0",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mortgage loan in Uruguay: how it works and how to compare",
+  "h1": "Mortgage loan in Uruguay: how it works, in which currency and how to compare offers",
+  "description": "How a mortgage loan works in Uruguay: BHU, BROU and private banks, loans in UI or dollars, prior savings, appraisal, insurance, ANV guarantee and how to compare simulations.",
+  "answer": "A mortgage loan is a long-term loan to buy, build or renovate a home, where the property is mortgaged in favor of the bank until you finish paying. In Uruguay they are offered by the Banco Hipotecario del Uruguay (BHU), the BROU and private banks, and many are granted in Unidades Indexadas (UI), which are adjusted for inflation, or in dollars. Almost always you must put down a portion with your own savings; the bank values the property, analyzes your income and requires insurance. To compare, request simulations with the same amount and term and look at the total cost, the currency and the rate."
+ },
+ "sections": [
+  {
+   "h2": "How it works, in simple terms",
+   "paras": [
+    "The bank lends you part of the price and you repay it in monthly installments over many years. As security, a mortgage is created on the property, by escritura ante escribano (notary), usually at the same time as the purchase, and it is registered in the Property Registry. If you stop paying, the bank can enforce that security. When you pay off the loan, the mortgage is lifted.",
+    "That is why the credit, the sale and the registration are coordinated among the bank, the escribanos, the seller and you. If you buy with credit, ask that the boleto de reserva (reservation contract) be conditioned on loan approval."
+   ]
+  },
+  {
+   "h2": "Who lends: BHU, BROU and private banks",
+   "paras": [
+    "BHU is the public housing-specialized bank and has credit lines and pre-savings programs. BROU, the public commercial bank, also offers mortgage loans, and private banks have their own. Each publishes simulators on its website: they are useful for a first idea, but the actual offer depends on your profile.",
+    "In addition, Law 18.795 created in the Agencia Nacional de Vivienda (ANV) a Mortgage Credit Guarantee Fund, which provides partial guarantees for loans intended for the purchase, construction or renovation of social-interest housing. In practice, that guarantee can allow the bank to finance a higher percentage and require less savings. Ask each bank whether it works with that fund and for which homes."
+   ]
+  },
+  {
+   "h2": "UI, dollars or pesos: the most important decision",
+   "paras": [
+    "In Uruguay it is very common for mortgage loans to be granted in Indexed Units (UI). The UI is an accounting unit that adjusts according to inflation (the CPI), and its daily value is published by the INE. That means the installment in UI is stable, but the installment in pesos rises as inflation rises."
+   ],
+   "tip": "Practical rule: borrow in the same currency you are paid, or in UI if your salary is inflation-adjusted.",
+   "table": {
+    "head": [
+     "Loan currency",
+     "Advantage",
+     "Risk"
+    ],
+    "rows": [
+     [
+      "UI",
+      "Generally lower rate; tracks inflation",
+      "The peso installment rises with CPI; if your salary rises less than inflation, it weighs more"
+     ],
+     [
+      "Dollars",
+      "Useful if you are paid in dollars",
+      "If you are paid in pesos and the dollar rises, the installment rises"
+     ],
+     [
+      "Nominal pesos",
+      "Peso installment predictable",
+      "Generally higher rates; less long-term supply"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How much savings you need",
+   "paras": [
+    "Banks almost never finance 100% of the value. They lend a percentage of the lower amount between the price and the appraisal, and that percentage depends on the bank, the type of dwelling (for example, new or used, or promoted housing) and your profile. Ask about it in the first consultation.",
+    "In addition to savings for the unfunded portion, you will need money for the ITP (2% of the buyer on the real cadastral value, according to the DGI), the escribano’s fees, the appraisal, the insurances and the move. That usually is not included in the loan."
+   ]
+  },
+  {
+   "h2": "Appraisal and insurances",
+   "paras": [
+    "The bank orders the property to be appraised. If the appraisal is lower than the price, they lend you based on the appraised value and you cover the difference or renegotiate with the seller. The bank’s escribano also studies the titles.",
+    "They will require, at minimum, a life insurance on the borrower (which cancels the debt if the borrower dies) and a fire insurance on the property. Its cost is added to the installment."
+   ]
+  },
+  {
+   "h2": "Documents they usually request",
+   "bullets": [
+    "Identity card of the owners and, if applicable, of the spouse.",
+    "Pay slips or income certificate from a public accountant if you are self-employed.",
+    "BPS employment history, in some cases.",
+    "Property data: cadastral record, reservation contract and seller’s documents.",
+    "For construction: construction permit and work budget."
+   ]
+  },
+  {
+   "h2": "How to compare two offers",
+   "bullets": [
+    "Currency: UI, dollars or pesos.",
+    "Rate: fixed or variable, and what the annual effective rate is.",
+    "Term: more years lower the installment but raise total interest.",
+    "Insurances and fees: how much they add per month and one-time.",
+    "Financed percentage and savings required.",
+    "Early repayment: whether you can prepay without penalty.",
+    "Approval times: the seller does not always wait."
+   ]
+  },
+  {
+   "h2": "Choosing the property with the loan in mind",
+   "paras": [
+    "A property with clear titles, no debts and an appraisal in line with the price is approved faster. When checking a listing, ask if the owner accepts a sale with bank credit. On Casa-Libre you can filter houses and apartments by price, view them on the map and write directly via WhatsApp, also from the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a mortgage loan in UI?",
+   "a": "A loan whose balance and installments are expressed in Unidades Indexadas, which are adjusted for inflation. The UI installment is fixed, but in pesos it rises with the CPI."
+  },
+  {
+   "q": "How much do banks finance in Uruguay?",
+   "a": "There is no single percentage: it depends on the bank, the type of housing and your profile. The guarantee from the ANV Fund can allow financing a larger share in social interest housing."
+  },
+  {
+   "q": "Can I apply for a mortgage loan as a foreigner?",
+   "a": "Some banks allow it, but they usually require demonstrable income in Uruguay, a credit history and sometimes residency. Check with each bank."
+  },
+  {
+   "q": "What insurance does a mortgage loan require?",
+   "a": "Usually a borrower life insurance and a fire insurance on the home. Their cost is added to the installment."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: expenses and taxes when buying"
+ ]
+}

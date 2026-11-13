@@ -1,0 +1,157 @@
+{
+ "_src": "82660d6e1d30",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Quanto economizar antes de comprar uma casa no Paraguai",
+  "h1": "Quanto você precisa economizar antes de comprar uma casa",
+  "description": "Como calcular a poupança necessária para comprar: a parte que o banco não financia, despesas de escritura, mudança e um fundo de emergência. Com um exemplo.",
+  "answer": "Antes de comprar com crédito você precisa de poupança para quatro coisas: a parte do preço que o banco não financia, as despesas da operação (escribanía (escritura), inscrição, avaliação, seguros iniciais), a mudança e os reparos de entrada, e um fundo de emergência para não ficar sem colchão na primeira parcela. O percentual que cada entidade financia varia, então o cálculo começa perguntando quanto lhe emprestam e sobre qual valor. Some os quatro blocos e essa é sua meta real, não apenas a \"entrada inicial\"."
+ },
+ "sections": [
+  {
+   "h2": "Os quatro blocos da poupança",
+   "paras": [
+    "O erro mais comum é economizar apenas a entrada inicial e descobrir na escribanía (cartório) que faltam vários milhões de guaranis. Pense a poupança em quatro partes, cada uma com seu próprio número."
+   ],
+   "table": {
+    "head": [
+     "Bloco",
+     "O que inclui",
+     "Do que depende"
+    ],
+    "rows": [
+     [
+      "1. Parte não financiada",
+      "A diferença entre o preço e o que a entidade empresta",
+      "Porcentagem que a entidade financia e valor de avaliação"
+     ],
+     [
+      "2. Gastos da operação",
+      "Escribanía, inscrição, avaliação, seguros e gastos do crédito",
+      "Valor do imóvel, entidade e escribano"
+     ],
+     [
+      "3. Mudança e entrada",
+      "Frete, conexão ou mudança de titular de serviços, reparos e móveis básicos",
+      "Estado da propriedade e distância"
+     ],
+     [
+      "4. Fundo de emergência",
+      "Vários meses de despesas fixas, incluída a nova parcela",
+      "Estabilidade da sua renda"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Bloco 1: a parte que o banco não financia",
+   "paras": [
+    "As entidades emprestam uma porcentagem do menor valor entre o preço e a avaliação. Se a avaliação ficar abaixo do preço, a diferença também fica por sua conta. Por isso vale perguntar a porcentagem antes de buscar e deixar uma margem caso a avaliação seja baixa.",
+    "Programas como Che Róga Porã têm ainda um valor máximo de imóvel por faixa de renda. Se sua meta é esse programa, comece pelos limites."
+   ]
+  },
+  {
+   "h2": "Bloco 2: gastos da operação",
+   "paras": [
+    "Ao comprar você paga honorários de escribanía, taxas de inscrição nos Registros Públicos, a avaliação que a entidade solicita e gastos vinculados ao crédito, como seguros e despesas de concessão. Os valores dependem do valor do imóvel e de cada profissional ou entidade. No guia de gastos ao comprar uma casa da Casa-Libre está o detalhe; o importante aqui é que você peça orçamento por escrito ao escribano e à entidade antes de assinar."
+   ]
+  },
+  {
+   "h2": "Bloco 3: mudança e reparos de entrada",
+   "paras": [
+    "Uma casa usada quase sempre exige algo ao entrar: pintura, troca de fechaduras, revisão elétrica, limpeza de tanque, algum reparo de encanamento. Se você a comprou \"para reformar\", esse bloco é grande e vale orçá-lo com um profissional antes de comprar.",
+    "Some o frete, a mudança de titular da ANDE e água (ou a nova conexão) e o mínimo para viver: geladeira, cama, cortinas. Não é preciso comprar tudo no início, mas é necessário ter dinheiro para o que não pode esperar."
+   ]
+  },
+  {
+   "h2": "Bloco 4: o fundo de emergência",
+   "paras": [
+    "Ter uma parcela de 20 ou 30 anos sem reserva é frágil: um mês sem renda ou um grande reparo e você começa atrasado. Uma regra prática muito difundida em finanças pessoais é reservar entre três e seis meses de despesas fixas, incluída a nova parcela. Se sua renda é variável (comércio, trabalho independente), mire no extremo superior."
+   ],
+   "tip": "Guarde o fundo de emergência em uma conta separada e não o use para a entrada. Se para comprar você precisar esvaziá-lo, ainda não é o momento ou o imóvel é caro demais."
+  },
+  {
+   "h2": "Um exemplo com números hipotéticos",
+   "paras": [
+    "Os números deste exemplo são inventados para mostrar o cálculo; não são preços de mercado nem condições reais de nenhuma entidade. Suponha uma casa de Gs. 600.000.000, uma entidade que financia 80% do valor, gastos de operação estimados em 5% do preço, Gs. 15.000.000 para mudança e reparos, e despesas fixas da casa de Gs. 6.000.000 por mês, incluída a parcela."
+   ],
+   "table": {
+    "head": [
+     "Conceito",
+     "Cálculo",
+     "Valor (Gs.)"
+    ],
+    "rows": [
+     [
+      "Parte não financiada",
+      "20% de 600.000.000",
+      "120.000.000"
+     ],
+     [
+      "Gastos da operação (suposto)",
+      "5% de 600.000.000",
+      "30.000.000"
+     ],
+     [
+      "Mudança e reparos",
+      "Estimativa própria",
+      "15.000.000"
+     ],
+     [
+      "Fundo de emergência",
+      "4 meses × 6.000.000",
+      "24.000.000"
+     ],
+     [
+      "Total a poupar",
+      "",
+      "189.000.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A outra metade: que a parcela caiba na sua renda",
+   "paras": [
+    "Economizar a entrada não basta se depois a parcela te sufoca. As entidades fixam um limite de parcela sobre sua renda comprovada, mas você pode ser mais prudente: calcule seu orçamento com a parcela mais segura, some as despesas mensais da casa (expensas se for um prédio, luz, água, imposto imobiliário anual dividido em meses) e verifique se sobra algo para poupar.",
+    "Um bom exercício: durante três a seis meses antes de comprar, separe a cada mês o equivalente à parcela estimada mais as novas despesas. Se conseguir fazer isso sem se endividar, a parcela é realista. E o que você separou soma à poupança."
+   ]
+  },
+  {
+   "h2": "Como chegar antes à meta",
+   "paras": [
+    "Enquanto poupa, acompanhe o mercado: na Casa-Libre você pode ver casas e apartamentos à venda no mapa e guardar os que lhe interessam, também pelo app para iPhone e Android, para entender o que seu orçamento compra em cada zona."
+   ],
+   "bullets": [
+    "Veja propriedades um pouco abaixo do seu limite: a poupança necessária diminui em todos os blocos ao mesmo tempo.",
+    "Considere zonas da Grande Assunção ou cidades próximas onde o mesmo orçamento rende mais metros.",
+    "Se for elegível, verifique programas com taxas mais baixas, como Che Róga Porã.",
+    "Negocie com o vendedor quem paga quais gastos e em quais prazos."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é a entrada inicial para comprar uma casa no Paraguai?",
+   "a": "Depende do percentual que a entidade financia, que varia conforme a linha e seu perfil. Pergunte antes de buscar e calcule sobre o menor valor entre preço e avaliação."
+  },
+  {
+   "q": "As despesas de escritura entram no crédito?",
+   "a": "Normalmente não: as despesas de escribano (tabelião), inscrição e avaliação são pagas com poupança própria. Peça orçamento por escrito ao escribano e à entidade."
+  },
+  {
+   "q": "Quantos meses de fundo de emergência convém ter?",
+   "a": "Uma referência comum em finanças pessoais é de três a seis meses de despesas fixas, incluída a nova parcela. Com rendas variáveis, mais próximo de seis."
+  },
+  {
+   "q": "Posso usar toda a minha poupança para a entrada?",
+   "a": "Não é recomendável. Se depois surgir um reparo ou um mês sem renda, você atrasará a parcela. Separe o fundo de emergência antes de calcular quanto pode colocar."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Guia: despesas e impostos ao comprar",
+  "Guia: como comprar sua primeira casa"
+ ]
+}

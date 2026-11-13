@@ -1,0 +1,91 @@
+{
+ "_src": "61e39cb14933",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar um lote na Bolívia: o que verificar antes de pagar",
+  "h1": "Comprar um lote ou terreno na Bolívia: o que você precisa verificar antes de pagar",
+  "description": "Antes de comprar um lote na Bolívia verifique o folio real (folha real), urbanização aprovada, planta, serviços, riscos e se vendem o lote inteiro ou ações e direitos. Lista prática.",
+  "answer": "Antes de pagar por um lote na Bolívia, verifique quatro coisas: que o vendedor seja o dono inscrito nos Derechos Reales (Direitos Reais) e o lote não tenha gravames (folio real (folha real) e certificado alodial); que a urbanização esteja aprovada pela alcaldía (prefeitura), com o lote individualizado na planta; que o lote seja urbano e não terra rural sem tramitação; e que tenha acesso, serviços próximos e não esteja em zona de risco. Se lhe oferecer \"ações e direitos\", não compre um lote próprio."
+ },
+ "sections": [
+  {
+   "h2": "Por que um lote precisa de mais cuidado que uma casa",
+   "paras": [
+    "Em uma casa você vê o que compra: paredes, teto, serviços. Em um lote, o que compra é quase tudo papel: um direito de propriedade, uma localização aprovada e a possibilidade de construir. Por isso os problemas mais comuns em lotes são legais e urbanísticos, não físicos: lotes vendidos duas vezes, urbanizações que a alcaldía nunca aprovou, áreas verdes ou ruas vendidas como lotes, ou terrenos rurais loteados sem mudança de uso.",
+    "Nas periferias de cidades que crescem rápido, como as que cercam Santa Cruz de la Sierra, El Alto ou Cochabamba, a oferta de lotes é grande e os preços baixos são tentadores. Justamente aí convém revisar com mais calma."
+   ]
+  },
+  {
+   "h2": "Os papéis: folio real, alodial e plano",
+   "bullets": [
+    "Folio real atualizado em Direitos Reais: confirma quem é o dono, a superfície inscrita e se há hipotecas, anticréticos ou embargos.",
+    "Certificado alodial: comprova se o imóvel está livre de gravames.",
+    "Plano do lote aprovado pelo governo municipal, com medidas e colindâncias que coincidam com o folio real.",
+    "Comprovante de pagamento do imposto municipal sobre a propriedade dos últimos anos.",
+    "Se o vendedor for uma empresa urbanizadora, sua documentação de constituição e a aprovação da urbanização."
+   ],
+   "tip": "Quando uma urbanização se inscreve em Direitos Reais, cada lote recebe sua própria matrícula. Se lhe disserem que seu lote \"ainda não tem matrícula própria\", pergunte por quê e quando a terá, e não pague o total até então."
+  },
+  {
+   "h2": "Lote próprio ou \"ações e direitos\": a diferença importa",
+   "paras": [
+    "Muitos avisos oferecem a compra de \"ações e direitos\" sobre um terreno maior. Isso significa que você compra uma parte ideal de uma copropiedade, não um lote individual com sua própria matrícula. Pode ser que mostrem no terreno \"sua parte\", mas em Direitos Reais você continua sendo um copropietário a mais, e para dividir e ter seu lote próprio será necessário um trâmite de divisão que exige acordo e planos aprovados.",
+    "Não é sempre um golpe, mas o risco é muito maior: conflitos entre copropietários, demoras de anos e dificuldade para conseguir crédito, porque os bancos costumam exigir um imóvel individualizado como garantia."
+   ]
+  },
+  {
+   "h2": "Urbano ou rural: quem manda sobre esse terreno",
+   "paras": [
+    "O solo urbano é administrado pelo governo municipal (cadastro, aprovação de planos, impostos). O solo rural depende do regime agrário e do Instituto Nacional de Reforma Agrária (INRA). Um terreno rural loteado sem que o município o tenha incorporado como urbano pode não ter aprovação para moradia, ainda que já tenha casas ao redor.",
+    "Pergunte na alcaldía se a zona está dentro da área urbana homologada e que uso do solo tem. É uma consulta que pode lhe poupar anos de trâmites."
+   ]
+  },
+  {
+   "h2": "O que você tem que ver no terreno",
+   "bullets": [
+    "Acesso: há rua aberta e transitável o ano todo, ou só uma trilha que se corta com a chuva?",
+    "Serviços: até onde chegam a rede de água, a eletricidade e o esgoto? Conectar de longe pode ser caro.",
+    "Risco: há quebradas, leitos secos, encostas instáveis ou áreas que se inundam? Pergunte aos vizinhos e procure o mapa de riscos municipal, se existir.",
+    "Marcos e colindâncias: que as medidas do plano possam ser localizadas no terreno, idealmente com um topógrafo.",
+    "Ocupantes: se houver alguém morando ou cuidando do lote, descubra com que direito essa pessoa está lá."
+   ]
+  },
+  {
+   "h2": "Comprar um lote em parcelas",
+   "paras": [
+    "As urbanizadoras costumam oferecer lotes com uma entrada e pagamentos mensais. Antes de assinar, leia o que acontece se você atrasar (perde o que pagou?), quando recebe a escritura em seu nome e se o preço está fixado em bolivianos ou em dólares. O ideal é que o contrato preveja a transferência e a inscrição em Direitos Reais ao seu nome em prazo concreto, ainda que fique uma hipoteca a favor do vendedor até terminar de pagar."
+   ]
+  },
+  {
+   "h2": "Buscar lotes com contexto",
+   "paras": [
+    "No Casa-Libre você pode ver terrenos à venda no mapa e comparar localização, acessos e preço por metro quadrado antes de visitar. Escreva ao anunciante por WhatsApp e peça de entrada o número da matrícula e o plano aprovado. Também pode salvar lotes no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se um lote tem dono legal?",
+   "a": "Solicitando um folio real (folha real) atualizado nos Derechos Reales (Direitos Reais) com o número de matrícula do lote. Lá constam o titular inscrito e os gravames. Se o vendedor não aparecer como dono, não prossiga."
+  },
+  {
+   "q": "O que significa comprar ações e direitos?",
+   "a": "Significa que você compra uma parte de uma copropiedade, não um lote individual. Para ter seu lote próprio é necessário um trâmite de divisão com plantas aprovadas e acordo dos copropietários."
+  },
+  {
+   "q": "É seguro comprar um lote em parcelas?",
+   "a": "Pode ser, se o vendedor for o dono inscrito, a urbanização estiver aprovada e o contrato definir quando você receberá a escritura em seu nome. Desconfie se não houver matrícula individual do lote."
+  },
+  {
+   "q": "Posso construir assim que compro o lote?",
+   "a": "Você precisa que sua planta de construção seja aprovada pela alcaldía (prefeitura), e para isso normalmente exigem o lote inscrito em seu nome e o imposto em dia."
+  }
+ ],
+ "related": [
+  "Terrenos e lotes à venda",
+  "Propriedades em Santa Cruz de la Sierra",
+  "Guia: custos ao comprar",
+  "Planta aprovada e cadastro municipal"
+ ]
+}

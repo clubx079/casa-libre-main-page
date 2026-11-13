@@ -1,0 +1,133 @@
+{
+ "_src": "ccbea8e385da",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Rental guarantee in Uruguay: CGN, MVOT, ANDA, insurance or deposit",
+  "h1": "Rental guarantee in Uruguay: what options exist and which one suits you",
+  "description": "Comparison of guarantees for renting in Uruguay: CGN, MVOT Rental Guarantee Fund, youth guarantee, ANDA, surety insurance, BHU deposit and property. Costs and requirements.",
+  "answer": "In Uruguay there are five main ways to guarantee a rental: the state guarantee from the Contaduría General de la Nación (if you are a public employee or work for a registered company), the MVOT Rental Guarantee Fund and the ANV (depending on your income, with a version for young people aged 18 to 29), a guarantee from an institution such as ANDA, a surety insurance from an insurer, or a deposit at the Banco Hipotecario. The best one is the one the owner accepts and that you can afford: the state guarantees charge a monthly commission of 3% to each party; the insurance charges a premium; the deposit immobilizes your money."
+ },
+ "sections": [
+  {
+   "h2": "Why the guarantee decides your search",
+   "paras": [
+    "In Uruguay the guarantee is the first thing a landlord or agency asks about. Many listings indicate which guarantees they accept, and not all are valid for everyone. If you define it before you start looking, you know how much rent they will approve for you and which listings to write to.",
+    "Also, the guarantee has its own cost that adds to the rent. Comparing it before choosing can save you a lot on a two-year contract."
+   ]
+  },
+  {
+   "h2": "Guarantee from the General Accounting Office (CGN)",
+   "paras": [
+    "The Rental Guarantee Service (SGA) of the CGN provides a state-backed guarantee for housing. According to the CGN, it can be used by public officials with 6 months of seniority, employees of private companies registered in the SGA registry with the same seniority, and beneficiaries of agreements with the MVOT and the BPS rental subsidy.",
+    "The rent is deducted directly from your salary and the CGN pays the landlord. The procedure has no initial cost, but once the deduction starts a commission of 3% of the rent is charged to each party (owner and tenant) every month. To schedule it, you normally need a liquid-available report from your employer."
+   ]
+  },
+  {
+   "h2": "Rental Guarantee Fund (MVOT and ANV)",
+   "paras": [
+    "If you are not a public employee nor work for a registered company, the Rental Guarantee Fund, from the MVOT in agreement with the ANV and the CGN, gives you a guarantee certificate based on your income. According to the ANV, the household must have a formal net income between 15 and 100 UR, must not own property in the same department, and must not have another state guarantee. The maximum guaranteed rent is expressed in UR and is slightly higher if it is a promoted dwelling.",
+    "For young people aged 18 to 29 who study or work there is a specific version: it can be requested alone or in a group of up to five people pooling income, the rent cannot exceed 40% of the income and, once approved, a single deposit equal to 12% of the guaranteed amount must be made. In both cases the contract is signed through the CGN, with the same 3% commission from each side."
+   ],
+   "tip": "For the Guarantee Fund they also ask for the invoices from the last month of your fixed expenses (card, UTE, Antel, mobile, internet) and your BPS employment history. Request the employment history early: it requires an appointment."
+  },
+  {
+   "h2": "ANDA and surety insurance",
+   "paras": [
+    "ANDA is a mutual association that offers rental guarantees to its members, with its own income and seniority requirements. Surety insurance is sold by private insurers: you pay a premium (in one payment or installments) and the insurer answers to the landlord if you don’t pay. Each evaluates your income and has its own calculator.",
+    "The advantage of these options is that they do not depend on where you work. The disadvantage is that the cost varies a lot between them, so it helps to request two or three quotes for the same rent."
+   ]
+  },
+  {
+   "h2": "Deposit at the Mortgage Bank (BHU)",
+   "paras": [
+    "Decree-Law 14.219 allows guaranteeing the rent with a deposit that cannot exceed five months’ rent for housing, and that is placed in the Banco Hipotecario del Uruguay. At the end of the contract, if there are no debts or damages, it is released. It is the option with no monthly cost, but it ties up a lot of money at the start."
+   ]
+  },
+  {
+   "h2": "Quick comparison",
+   "table": {
+    "head": [
+     "Option",
+     "For whom",
+     "Cost for the tenant"
+    ],
+    "rows": [
+     [
+      "CGN (SGA)",
+      "Public officials and employees of registered companies",
+      "Monthly commission of 3% of the rent"
+     ],
+     [
+      "Rental Guarantee Fund",
+      "Households with formal income within the UR range",
+      "Monthly commission of 3% of the rent"
+     ],
+     [
+      "Guarantee for young people",
+      "Aged 18 to 29 who study or work",
+      "3% monthly and a one-time deposit of 12% of the guaranteed amount"
+     ],
+     [
+      "ANDA",
+      "Members who meet its requirements",
+      "According to the institution"
+     ],
+     [
+      "Surety insurance",
+      "Anyone who qualifies with the insurer",
+      "Premium according to the insurer"
+     ],
+     [
+      "Deposit at the BHU",
+      "Anyone with savings",
+      "Up to five months’ rent immobilized"
+     ],
+     [
+      "No guarantee (LUC)",
+      "If the landlord accepts it",
+      "No guarantee cost; faster eviction if you don’t pay"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to choose in three steps",
+   "steps": [
+    "Check if you qualify for a state guarantee: it’s the one most owners and agencies know best.",
+    "If not, request quotes from ANDA and two insurers for the same rent amount, and compare the total contract cost.",
+    "If you have savings or the landlord accepts LUC, compare those two options as well: they can be cheaper."
+   ]
+  },
+  {
+   "h2": "Search with your guarantee in hand",
+   "paras": [
+    "When you know which guarantee you have and for how much, write to the listings indicating it from the first message. On Casa-Libre you see Uruguay rentals on the map and talk directly via WhatsApp with the advertiser, also from the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which rental guarantee is the cheapest?",
+   "a": "It depends on your case. The state guarantees charge a 3% monthly fee of the rent to each party; an insurance charges a premium; the deposit has no monthly cost but immobilizes up to five months of rent. Compare the total cost of the contract."
+  },
+  {
+   "q": "What guarantee do all owners accept?",
+   "a": "None is universal. The state guarantees are well known, but each landlord or agency decides. Ask before you visit."
+  },
+  {
+   "q": "Can I use the youth guarantee with friends?",
+   "a": "Yes. According to the MVOT, the youth guarantee can be group-based, up to five people, adding incomes together."
+  },
+  {
+   "q": "If I own another house can I request the MVOT guarantee?",
+   "a": "No if the property is in the same department where you request the guarantee, according to the requirements published by the ANV."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Houses for rent",
+  "Requirements to rent",
+  "Rent without guarantee under the LUC"
+ ]
+}

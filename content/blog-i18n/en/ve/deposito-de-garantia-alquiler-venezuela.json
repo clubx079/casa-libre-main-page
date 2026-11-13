@@ -1,0 +1,133 @@
+{
+ "_src": "7fc37ff5622d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Security deposit in a rental in Venezuela: how to recover it",
+  "h1": "Security deposit when renting in Venezuela: how to give it, protect it and recover it",
+  "description": "What the security deposit is in a residential rental in Venezuela, what the contract must say, how to document the condition of the property and what to do if it is not returned to you.",
+  "answer": "The security deposit is the money you give the landlord to cover possible damages or unpaid rent; if you return the property in good condition and up to date, they must give it back to you. To recover it without a fight: make sure the contract states the amount, the currency and the return deadline; have an inventory with photos when you move in; and when you move out conduct a joint, signed inspection. The housing lease law regulates this guarantee and, if there is a conflict, you can go to SUNAVI."
+ },
+ "sections": [
+  {
+   "h2": "What it is and what the deposit is for",
+   "paras": [
+    "The deposit is not a payment to the landlord: it is a guarantee. It remains your money as long as there is no damage or debt that justifies keeping it. Therefore it should not be used to pay the last months of rent unless both parties agree in writing, nor to cover normal wear and tear of living in a place.",
+    "The housing lease law in force since 2011 regulates how much can be demanded as a guarantee and how it is handled. If they ask for an amount that seems disproportionate, ask what it is based on and consult before paying."
+   ]
+  },
+  {
+   "h2": "When you move in: what determines if they return it",
+   "paras": [
+    "Most deposit disputes are won or lost on the day you receive the keys. If it is not documented how the apartment was when you entered, it is your word against the landlord’s."
+   ],
+   "steps": [
+    "Request a written inventory: furniture, appliances, lamps, keys and remote controls.",
+    "Take dated photos and videos of each room, including stains, cracks, leaks and the condition of floors and bathrooms.",
+    "Test faucets, water heater, electrical outlets, air conditioning and refrigerator, and note anything that does not work.",
+    "Send the photos to the landlord by email or WhatsApp the same day. This creates a record of the date.",
+    "Attach the signed inventory as an annex to the contract."
+   ]
+  },
+  {
+   "h2": "What the contract must say about the deposit",
+   "bullets": [
+    "Exact amount delivered and in which currency.",
+    "How it was delivered (transfer, cash with receipt) and to whom.",
+    "What it can be used for: damages beyond normal wear and tear and outstanding debts.",
+    "The time frame for its return after the property is handed over.",
+    "Which exchange rate is used if the deposit was agreed in foreign currency and is returned in bolívares."
+   ]
+  },
+  {
+   "h2": "During the contract: avoid debts that get deducted",
+   "paras": [
+    "Keep every payment receipt for rent, condominium fees if applicable, and utilities. At the end, the landlord can deduct unpaid electricity, water or gas bills from the deposit, and if you do not have the receipts, it will be hard to prove you were up to date.",
+    "If something is damaged by normal use or by a building issue (a leak from the floor above, an embedded pipe), notify the landlord in writing immediately. Major repairs usually correspond to the landlord, and if you do not notify, they may later attribute them to you."
+   ]
+  },
+  {
+   "h2": "When you move out: orderly handover",
+   "steps": [
+    "Notify the move-out date with the advance notice required by the contract.",
+    "Leave the apartment clean and repair anything you have damaged.",
+    "Pay and keep the final utility bills and, if applicable, condominium fees.",
+    "Conduct a joint inspection with the landlord, comparing with the inventory and the entry photos.",
+    "Sign a handover record with the date, the keys handed over and the condition of the property.",
+    "Provide in writing the deadline and the account for the deposit refund."
+   ]
+  },
+  {
+   "h2": "If they do not return the deposit",
+   "paras": [
+    "First, request in writing the detail of what was deducted, with invoices or estimates. Many times the difference is resolved with an orderly conversation and your entry photos.",
+    "If there is no agreement, you can go to the Superintendencia Nacional de Arrendamiento de Vivienda (SUNAVI), which intervenes in disputes between landlords and tenants. Bring the contract, the inventory, the photos and the receipts. For large amounts, it is advisable to consult a lawyer."
+   ],
+   "tip": "Keep everything in a cloud folder: contract, inventory, entry and exit photos, receipts and conversations. It will be useful even if you change phones."
+  },
+  {
+   "h2": "Normal wear or damage: the difference",
+   "table": {
+    "head": [
+     "Normal wear (not deducted)",
+     "Damage (can be deducted)"
+    ],
+    "rows": [
+     [
+      "Faded or lightly marked paint after years",
+      "Scratched, perforated or painted walls without permission"
+     ],
+     [
+      "Floors with worn shine",
+      "Broken, burned or stained floors"
+     ],
+     [
+      "Faucets with normal use wear",
+      "Broken faucets or sanitary fixtures"
+     ],
+     [
+      "Curtains faded by the sun",
+      "Furniture or appliances from the inventory that are damaged"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Your next rental",
+   "paras": [
+    "If you are looking for a place to move, at Casa-Libre you can view rentals on the map and ask via WhatsApp what guarantee they require before visiting. Free, on the website and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can they keep the deposit for normal wear and tear?",
+   "a": "They shouldn’t. The deposit covers damages beyond normal use and debts. Faded paint or the logical wear of floors after years of use are not damages."
+  },
+  {
+   "q": "Can I use the deposit to pay the last month?",
+   "a": "Only if the landlord accepts it in writing. If not, you must pay the rent and wait for the deposit’s return."
+  },
+  {
+   "q": "In what currency will they return it?",
+   "a": "In the one stated in the contract. If it was agreed with a reference to foreign currency, the contract must say how it is calculated if returned in bolívares."
+  },
+  {
+   "q": "Where do I claim if they don’t return it?",
+   "a": "Before SUNAVI, which handles residential lease disputes, and with legal advice if the amount justifies it."
+  },
+  {
+   "q": "What happens if I didn’t do an inventory when I moved in?",
+   "a": "It will be harder to prove the condition of the property. Gather what you have (photos, messages with the landlord) and, for next time, do an inventory with photos on the first day."
+  },
+  {
+   "q": "Can they deduct utility bills?",
+   "a": "Yes, if there are unpaid bills that are your responsibility. That’s why it’s advisable to pay the last receipts before handing over the place and keep the receipts."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Rental contract: what to check",
+  "Requirements to rent"
+ ]
+}

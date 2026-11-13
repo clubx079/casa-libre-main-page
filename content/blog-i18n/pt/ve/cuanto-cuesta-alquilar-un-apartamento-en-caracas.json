@@ -1,0 +1,132 @@
+{
+ "_src": "3ab177ac1b1a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Quanto custa alugar um apartamento em Caracas: como calcular",
+  "h1": "Quanto custa alugar um apartamento em Caracas: o orçamento completo",
+  "description": "O que determina o preço de um aluguel em Caracas, quais despesas se somam ao canon (condomínio, serviços, garantia, mudança) e como comparar opções sem surpresas.",
+  "answer": "Não há um preço único: o canon de um apartamento em Caracas depende sobretudo da zona, do tamanho, do estado do prédio, se está mobiliado e de serviços como estacionamento, gerador ou tanque de água. Ao canon some condomínio (se for seu caso), eletricidade, água, gás, internet e a garantia inicial. A forma mais confiável de saber quanto custa hoje é comparar anúncios reais da mesma zona e tipo de imóvel, não médias gerais."
+ },
+ "sections": [
+  {
+   "h2": "O que define o preço de um aluguel em Caracas",
+   "paras": [
+    "Dois apartamentos do mesmo tamanho podem ter aluguéis muito diferentes. Estes são os fatores que mais pesam em Caracas e que vale a pena observar em cada anúncio:"
+   ],
+   "bullets": [
+    "Zona e município: Chacao, Baruta, El Hatillo, Sucre e Libertador têm realidades muito distintas, e ainda dentro de cada um há grandes diferenças entre urbanizações.",
+    "Serviços do prédio: planta elétrica, tanque e bombas de água, elevador funcionando, vigilância.",
+    "Estacionamento: uma ou duas vagas cobertas mudam bastante o preço.",
+    "Mobiliado ou vazio: um apartamento mobiliado e com linha branca costuma custar mais, mas economiza a compra de móveis.",
+    "Estado geral: reformado, com cozinha e banheiros novos, ou para \"entrar a pintar\".",
+    "Proximidade ao metrô, às vias principais e ao seu trabalho."
+   ]
+  },
+  {
+   "h2": "O que se soma ao aluguel a cada mês",
+   "paras": [
+    "O condomínio é a despesa que mais surpreende. Em prédios com planta elétrica, vigilância 24 horas ou compra frequente de água, pode ser uma parte importante do custo mensal."
+   ],
+   "table": {
+    "head": [
+     "Despesa",
+     "O que observar"
+    ],
+    "rows": [
+     [
+      "Condomínio",
+      "Pode estar incluído ou não. Pergunte o valor dos últimos meses e se há taxas especiais em curso"
+     ],
+     [
+      "Eletricidade",
+      "Depende do uso de ar-condicionado e do tipo de cozinha e aquecedor"
+     ],
+     [
+      "Água",
+      "Pergunte a cada quanto a água chega por tubulação e se o prédio compra cisternas, porque isso costuma ser cobrado no condomínio"
+     ],
+     [
+      "Gás",
+      "Direto ou em botijão, conforme o prédio"
+     ],
+     [
+      "Internet",
+      "Pergunte quais provedores atendem o prédio antes de assinar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Custo de entrada: o que você paga antes de se mudar",
+   "paras": [
+    "Além do primeiro mês, ao assinar costuma ser exigida uma garantia ou depósito. A lei de arrendamentos de moradia limita o que pode ser cobrado como garantia e como pagamento antecipado, então se pedirem muitos meses de uma vez, pergunte em que se baseiam.",
+    "Some também a mudança (caminhão e ajudantes), a autenticação do contrato em cartório se for feita, e o que você for comprar para equipar o apartamento: cortinas, lâmpadas, algum eletrodoméstico."
+   ],
+   "steps": [
+    "Primeiro mês de aluguel.",
+    "Garantia ou depósito acordado.",
+    "Despesas de cartório do contrato, se autenticado.",
+    "Mudança.",
+    "Equipamento básico e pequenos reparos.",
+    "Um colchão de pelo menos um mês de despesas caso algo se atrase."
+   ]
+  },
+  {
+   "h2": "Divisas, bolívares e taxa de câmbio",
+   "paras": [
+    "Muitos anúncios em Caracas publicam o aluguel como referência em divisas. Se for pagar em bolívares, pergunte qual taxa de câmbio é usada (o habitual é a oficial publicada pelo Banco Central da Venezuela no dia do pagamento) e deixe essa regra por escrito no contrato. Assim você evita discussões a cada mês.",
+    "Lembre-se de que a lei de arrendamentos de moradia tem suas próprias regras sobre o aluguel. Se algo não parecer correto, consulte antes de assinar."
+   ]
+  },
+  {
+   "h2": "Como comparar dois apartamentos de verdade",
+   "paras": [
+    "Compare o custo total mensal, não apenas o aluguel. Um apartamento com aluguel mais baixo, mas sem planta elétrica, com água irregular e longe do seu trabalho pode sair mais caro na prática que outro com aluguel mais alto e melhores serviços."
+   ],
+   "bullets": [
+    "Aluguel + condomínio + serviços estimados = custo mensal real.",
+    "Tempo e custo de transporte diário ao trabalho ou às escolas.",
+    "Horas de água e de eletricidade naquele setor, perguntando aos vizinhos.",
+    "Se o prédio tem elevador funcionando, sobretudo em andares altos."
+   ],
+   "tip": "Visite a zona à noite e em um dia de semana na hora de pico. O trânsito e a sensação do bairro mudam muito conforme a hora."
+  },
+  {
+   "h2": "Como negociar o aluguel",
+   "paras": [
+    "O aluguel publicado nem sempre é o final. Você tem mais margem se o apartamento está anunciado há tempo, se oferece um contrato mais longo, se paga pontualmente com bons comprovantes de renda ou se se compromete a cuidar de pequenos reparos. Faça sua oferta com argumentos concretos, comparando com anúncios semelhantes da mesma zona.",
+    "Negocie também o que está ao redor do aluguel: que o condomínio esteja incluído, que o locador repare algo antes da sua entrada ou que deixe a linha branca."
+   ]
+  },
+  {
+   "h2": "Ver preços reais no mapa",
+   "paras": [
+    "A melhor referência de preços são os anúncios atuais. No Casa-Libre você pode ver apartamentos para aluguel em Caracas no mapa, comparar zonas e escrever direto ao anunciante para perguntar condomínio e serviços antes de visitar. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é o preço médio de aluguel em Caracas?",
+   "a": "Varia tanto conforme a zona, o tamanho e os serviços que uma média geral serve pouco. Compare anúncios atuais da mesma urbanização e do mesmo tipo de apartamento."
+  },
+  {
+   "q": "O condomínio paga o inquilino ou o proprietário?",
+   "a": "Depende do que está no contrato. Pergunte sempre se está incluído no canon e quem assume as taxas especiais."
+  },
+  {
+   "q": "Compensa alugar mobiliado?",
+   "a": "Se você se mudar por pouco tempo ou não tem móveis, sim. Se pretende ficar vários anos, um apartamento vazio costuma sair mais barato a longo prazo."
+  },
+  {
+   "q": "Qual taxa de câmbio usar se pagar em bolívares?",
+   "a": "O habitual é a taxa de câmbio oficial do BCV do dia do pagamento, mas o importante é que o contrato o mencione expressamente."
+  }
+ ],
+ "related": [
+  "Propriedades em Caracas",
+  "Apartamentos para alugar",
+  "Condomínio: o que cobre e como se calcula"
+ ]
+}

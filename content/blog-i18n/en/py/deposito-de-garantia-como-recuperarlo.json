@@ -1,0 +1,127 @@
+{
+ "_src": "7dd1ec8c43c0",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Security deposit for rent: how to get it back",
+  "h1": "How to recover the security deposit when you leave a rental",
+  "description": "How to make sure you get the rent deposit back: inventory with photos, normal wear vs. damage, notice period, final bills and what to do if they don’t return it.",
+  "answer": "To recover the security deposit you must be able to prove two things: that you have no outstanding debts (rent, expensas, electricity, water) and that the property is returned in the same condition you received it, except for normal wear from use. The best tool is an inventory with photos taken at move-in and another at move-out, signed by both parties. If they still don’t return it, claim in writing and, if there is no agreement, you can resort to mediation or the judicial route."
+ },
+ "sections": [
+  {
+   "h2": "You get the deposit back on the day you move in, not the day you leave",
+   "paras": [
+    "Most deposit disputes are resolved with one question: how was the property when you received it? If there’s no way to prove it, it’s your word against the owner’s.",
+    "Therefore, on the first day, before moving the furniture, walk through each room and document everything. That record is worth more than any argument later."
+   ],
+   "steps": [
+    "Take photos and video of each room, dated: walls, floors, ceilings, openings, bathrooms, kitchen and patio.",
+    "Focus on what is already wrong: moisture stains, broken tiles, scratches, leaking taps, loose sockets.",
+    "Test everything that can be tested: lights, sockets, taps, toilets, air conditioning, water heater, gate.",
+    "Note the readings of the electricity and water meters.",
+    "Put everything into a report or inventory and ask the owner or the real-estate agency to sign it. If they refuse to sign, send the photos by WhatsApp or email that same day: it creates a record of the date."
+   ]
+  },
+  {
+   "h2": "Normal wear or damage: where is the difference",
+   "paras": [
+    "Living in a house wears it out, and that’s not the tenant’s fault. The deposit is meant to cover damages and debts, not to return the property to brand-new condition. The line isn’t always clear, but these examples help:"
+   ],
+   "table": {
+    "head": [
+     "Usually considered normal wear",
+     "Usually considered damage"
+    ],
+    "rows": [
+     [
+      "Paint a bit dull or dirty after a year or more",
+      "Walls scratched, written on, or painted a different colour without permission"
+     ],
+     [
+      "Small nail holes for pictures",
+      "Large holes, ripped-off shelves"
+     ],
+     [
+      "Floor with worn shine in high-traffic areas",
+      "Floors burnt, stained or with broken pieces"
+     ],
+     [
+      "Worn faucet washers or seals",
+      "Broken sanitary fixtures or glass"
+     ],
+     [
+      "Appliance that fails due to age",
+      "Appliance broken due to misuse"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Before you leave: notice and zero balances",
+   "paras": [
+    "Check the contract: how much notice you must give to not renew or to leave early, and how it must be given. Do it in writing and keep the proof.",
+    "Then, settle all accounts. The owner can retain the deposit until the last invoices are seen, because utilities are billed after consumption. To speed up the return:"
+   ],
+   "bullets": [
+    "Pay the last rent and the expenses for the final month, and keep the receipts.",
+    "Take the final reading of the electricity (ANDE) and water meters on the hand-over day, with a photo.",
+    "If the services were in your name, request the cancellation or transfer of ownership so you stop receiving bills.",
+    "Propose to deduct from the deposit the estimated consumption between the last invoice and the hand-over, to avoid waiting another month.",
+    "Cancel internet and any other services you contracted."
+   ]
+  },
+  {
+   "h2": "The hand-over day",
+   "paras": [
+    "Deliver the property clean, with all keys and controls, and do the same walk-through you did on the first day, in the presence of the owner or the agency. Compare with the move-in photos.",
+    "Ideally sign a hand-over report that says one of two things: that the property was received as agreed, or what observations exist. If there are observations, ask that the amount the owner intends to deduct and the reason be written down. Anything not written that day will grow later."
+   ],
+   "tip": "Bring your move-in photos on your phone. When the owner points out a stain or a scratch, check if it was already there. It’s the fastest way to close the dispute."
+  },
+  {
+   "h2": "How to negotiate a discount you consider unfair",
+   "paras": [
+    "If the owner wants to deduct something, ask for the detail in writing: what repair, how much it costs and with what estimate. You have the right to understand each deduction.",
+    "If the damage is yours, sometimes it’s cheaper to fix it yourself before hand-over (with a professional and an invoice) than to let them deduct it. If it’s not yours, show the move-in photo. And if it’s normal wear, explain calmly: the paint in an apartment where you lived two years is not a damage."
+   ]
+  },
+  {
+   "h2": "If they don’t return the deposit",
+   "paras": [
+    "First, a written claim (WhatsApp and email serve as proof) with the amount, the hand-over date, the report and the photos, and a reasonable deadline for the return.",
+    "If there’s no response, there are two general routes. One is mediation: a mediator helps the parties reach an agreement, and it’s faster and cheaper than a lawsuit. The other is the judicial route: the money claim is filed with the appropriate court according to the amount. For small amounts the peace court usually handles it. In both cases, it’s advisable to consult a lawyer, who will tell you what applies to your case.",
+    "Most cases are resolved earlier, when the tenant shows they have evidence. That’s why everything comes back to the first point: document at entry."
+   ]
+  },
+  {
+   "h2": "For your next rental",
+   "paras": [
+    "When you look for your next house, ask before signing how the deposit will be returned and in what timeframe, and make sure it’s written down. On Casa-Libre you can search rentals on the map and ask the owner or the agency this question via WhatsApp, from the website or the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long do they have to return the deposit?",
+   "a": "It depends on what the contract says. It is common for the landlord to wait for the final utility bills; therefore it is advisable that the contract set a specific deadline and that they agree on an estimated deduction for the last consumption."
+  },
+  {
+   "q": "Can they deduct the cost of painting from the deposit?",
+   "a": "If the paint only shows normal wear from use, generally no deduction is allowed. If there are walls damaged, written on or painted without permission, a deduction may be justified."
+  },
+  {
+   "q": "Can I use the deposit to pay the last month?",
+   "a": "Only if the landlord accepts it in writing. The deposit guarantees damages and debts; if you use it for the last month and a damage later appears, there will be nothing left to cover it."
+  },
+  {
+   "q": "Are WhatsApp photos admissible as evidence?",
+   "a": "They help a lot, especially if you sent them to the landlord on the day you moved in: the date is recorded. Ideally you also have an inventory signed by both parties."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Rental contract clauses",
+  "Renting with Casa-Libre"
+ ]
+}

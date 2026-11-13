@@ -1,0 +1,119 @@
+{
+ "_src": "6585bc078dbe",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Imposto sobre a propriedade de imóveis na Bolívia: guia prático",
+  "h1": "Imposto sobre a propriedade de bens imóveis na Bolívia: o que é, quem paga e como verificá-lo",
+  "description": "O que é o imposto municipal sobre a propriedade de bens imóveis (IPBI) na Bolívia, quem o paga, de que depende o valor, como consultar dívidas no RUAT ou na alcaldía e por que verificá-lo antes de comprar.",
+  "answer": "O imposto sobre a propriedade de bens imóveis (IPBI) é um imposto anual cobrado pelo governo municipal onde o imóvel está localizado. Ele é pago pelo proprietário, e seu valor depende da avaliação do imóvel segundo os critérios do município (zona, superfície, tipo e antiguidade da construção, entre outros). Antes de comprar, alugar ou entrar em anticrético (contrato de anticrese), verifique se o imposto está em dia: você pode consultá-lo na alcaldía ou no RUAT, se seu município estiver vinculado."
+ },
+ "sections": [
+  {
+   "h2": "O que é e quem cobra",
+   "paras": [
+    "No Bolivia, a propriedade de imóveis urbanos e rurais é um fato tributável de domínio municipal: a Lei 154 de 2011 estabelece que os governos municipais podem criar impostos sobre a propriedade de bens imóveis, com as exclusões que fixa a Constituição para a pequena propriedade agrária e a propriedade comunitária. Por isso cada município tem seu próprio calendário, seus descontos e seus sistemas de consulta.",
+    "Muitos municípios administram o imposto através do Registro Único para a Administração Tributária Municipal (RUAT), uma plataforma compartilhada. Outros, como algumas cidades grandes, têm sistemas próprios. Se não encontrar seu município no RUAT, consulte diretamente na alcaldía (prefeitura)."
+   ]
+  },
+  {
+   "h2": "De que depende o quanto você paga",
+   "paras": [
+    "O imposto é calculado sobre uma base tributável que surge de tabelas de valoração que aprova a cada ano o município, não do preço que você pagou. Os fatores típicos são a zona tributária, a superfície do terreno, a superfície construída, o tipo de construção e sua antiguidade. Por isso duas casas parecidas em bairros diferentes podem pagar valores muito diferentes.",
+    "Se você acha que os dados técnicos registrados (superfície, tipo de construção) não coincidem com a realidade, pode solicitar sua revisão na alcaldía (prefeitura). Vale a pena fazer isso sobretudo depois de ampliar ou demolir parte da construção."
+   ]
+  },
+  {
+   "h2": "Quem paga: dono, inquilino ou anticrético (contrato de anticrético)",
+   "tip": "Se você entrar em anticrético, leia bem a cláusula de impostos: o Código Civil coloca por padrão os impostos e encargos anuais a cargo de quem entrega o dinheiro. Se acordarem que o paga o dono, que fique escrito.",
+   "table": {
+    "head": [
+     "Situação",
+     "Quem paga normalmente"
+    ],
+    "rows": [
+     [
+      "Proprietário que mora em sua casa",
+      "O proprietário"
+     ],
+     [
+      "Imóvel alugado",
+      "O proprietário, salvo se o contrato disser outra coisa"
+     ],
+     [
+      "Imóvel em anticrético",
+      "O anticresista (contratante do anticrético), salvo pacto distinto (art. 1434 do Código Civil)"
+     ],
+     [
+      "Compra e venda em curso",
+      "As gestões vencidas, o vendedor; convém deixar escrito na minuta (escritura preliminar)"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Por que revisar antes de comprar",
+   "paras": [
+    "As dívidas de impostos municipais seguem o imóvel na prática: sem o imposto em dia é difícil fazer a transferência, aprovar projetos ou solicitar um crédito com essa garantia. Se você compra um imóvel com anos de inadimplência, alguém terá que pagá-los (com multas e juros) antes de avançar."
+   ],
+   "steps": [
+    "Peça ao vendedor o número do imóvel ou código cadastral.",
+    "Consulte a dívida no RUAT ou no sistema da alcaldía (prefeitura), ou solicite uma certificação no balcão.",
+    "Peça os comprovantes de pagamento das últimas gestões.",
+    "Se houver dívida, combine por escrito que o vendedor a pagará antes da assinatura, ou desconte do preço."
+   ]
+  },
+  {
+   "h2": "Pagar a tempo e aproveitar descontos",
+   "paras": [
+    "Muitos municípios oferecem descontos por pagamento antecipado ou dentro de um prazo, e às vezes programas de condonação de multas para dívidas antigas. Os percentuais e datas mudam a cada ano e em cada cidade, então verifique-os no site da sua alcaldía (prefeitura) ou no RUAT. Pagar fora do prazo soma multas e juros."
+   ]
+  },
+  {
+   "h2": "Depois de comprar: coloque o imposto em seu nome",
+   "paras": [
+    "Quando você registra sua compra em Direitos Reais, o município nem sempre atualiza apenas seus registros. Você precisa fazer a mudança de nome no cadastro e no registro tributário municipal, com sua escritura inscrita e sua cédula. Se não fizer isso, as boletas podem continuar sendo emitidas em nome do vendedor, e qualquer dívida que se acumular complicará depois uma venda, um crédito ou a aprovação de projetos.",
+    "Guarde cada comprovante de pagamento, em papel e escaneado. Se algum dia vender, o comprador vai pedir a você, e é muito mais fácil mostrá-los do que reconstruir o histórico no balcão."
+   ]
+  },
+  {
+   "h2": "Erros frequentes com este imposto",
+   "bullets": [
+    "Acreditar que o inquilino ou o anticresista paga \"porque mora aí\", sem que o contrato diga.",
+    "Ampliar a casa e não atualizar os dados técnicos: a diferença aparece justamente na venda.",
+    "Pagar apenas a gestão atual e deixar gestões antigas pendentes, que continuam somando multas.",
+    "Comprar sem consultar a dívida porque \"o vendedor disse que está tudo pago\"."
+   ]
+  },
+  {
+   "h2": "Pergunte sobre os impostos desde a primeira mensagem",
+   "paras": [
+    "Quando você vir um imóvel que lhe interessa, pergunte se os impostos estão em dia e peça o número do imóvel para consultá-lo você mesmo. No Casa-Libre você vê casas, apartamentos e lotes no mapa e escreve direto por WhatsApp ao anunciante. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quem cobra o imposto sobre a propriedade de imóveis?",
+   "a": "O governo municipal onde o imóvel está localizado. A Lei 154 o define como um imposto de domínio municipal."
+  },
+  {
+   "q": "Como consulto se uma casa deve impostos?",
+   "a": "No RUAT, se o município estiver vinculado, ou na alcaldía, com o número do imóvel ou código cadastral. Você também pode solicitar uma certificação."
+  },
+  {
+   "q": "O inquilino paga o imposto sobre a propriedade?",
+   "a": "Normalmente não: ele é pago pelo proprietário, salvo se o contrato disser o contrário. Em anticrético, por padrão o paga o anticresista."
+  },
+  {
+   "q": "Há desconto por pagamento pontual?",
+   "a": "Muitos municípios oferecem descontos por pagamento antecipado, mas os percentuais e prazos mudam a cada ano. Verifique na sua alcaldía ou no RUAT."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Guia: gastos ao comprar uma casa",
+  "Guia: impostos e gastos ao vender",
+  "Imposto sobre a transferência de imóveis"
+ ]
+}

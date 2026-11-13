@@ -1,0 +1,137 @@
+{
+ "_src": "7cb9ac19b9fa",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como evitar fraudes imobiliários na Venezuela",
+  "h1": "Fraudes imobiliárias na Venezuela: as mais comuns e como se proteger",
+  "description": "As fraudes imobiliárias mais comuns na Venezuela ao alugar ou comprar (falsos proprietários, reservas antecipadas, poderes falsos, venda dupla) e como verificar antes de pagar.",
+  "answer": "As fraudes imobiliárias mais comuns na Venezuela são o falso locador que cobra uma \"reserva\" por um imóvel que não lhe pertence, a venda com poderes falsos ou revogados, a venda dupla e os pagamentos antecipados a pessoas no exterior. A regra de ouro: não pague nada antes de visitar o imóvel, verifique no Registro Imobiliário quem é o proprietário e assine um documento. Pague sempre para contas em nome do proprietário e por meios que deixem registro."
+ },
+ "sections": [
+  {
+   "h2": "Os golpes mais comuns",
+   "table": {
+    "head": [
+     "Golpe",
+     "Como funciona",
+     "Como evitar"
+    ],
+    "rows": [
+     [
+      "Falso locador",
+      "Alguém publica um apartamento de outra pessoa com preço baixo e pede uma reserva por pagamento móvel ou transferência",
+      "Não pague sem visitar e sem ver o documento de propriedade"
+     ],
+     [
+      "Dono \"no exterior\"",
+      "Diz que não pode mostrar o imóvel e pede o pagamento para enviar as chaves",
+      "Exija visita com alguém autorizado por procuração"
+     ],
+     [
+      "Procuração falsa ou revogada",
+      "Um suposto procurador vende com uma procuração que não existe ou já não vale",
+      "Verifique a procuração na notaria ou consulado que a emitiu"
+     ],
+     [
+      "Venda dupla",
+      "O mesmo imóvel é vendido ou prometido a várias pessoas",
+      "Pague contra a assinatura no registro e peça certificação recente de gravames"
+     ],
+     [
+      "Herança incompleta",
+      "Vende um herdeiro sem a assinatura dos demais",
+      "Peça declaração sucessória e a assinatura de todos os herdeiros"
+     ],
+     [
+      "Pré-venda sem respaldo",
+      "Venda de apartamentos em planta de um projeto sem permissões nem terreno próprio",
+      "Verifique permissões, propriedade do terreno e documento de condomínio"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Sinais de alerta",
+   "bullets": [
+    "Preço muito abaixo do que pedem por imóveis semelhantes na mesma zona.",
+    "Urgência: \"há outros interessados, se não reservar hoje você perde\".",
+    "Desculpas para não mostrar o imóvel ou para não mostrar documentos.",
+    "Pedido de pagamento na conta de um terceiro.",
+    "Fotos que aparecem em outros anúncios com outro endereço.",
+    "Contato que muda de número ou só escreve, nunca liga.",
+    "Documentos enviados apenas como foto, com dados borrados ou riscados."
+   ],
+   "tip": "Busque as fotos do anúncio usando a busca por imagem do seu navegador. Se aparecerem em outro anúncio com outra cidade ou preço, desconfie."
+  },
+  {
+   "h2": "Como verificar antes de pagar",
+   "steps": [
+    "Visite o imóvel pessoalmente ou com alguém de confiança.",
+    "Peça a cédula de quem o atende e compare com o nome do documento de propriedade.",
+    "Peça os dados de registro do documento e verifique com um advogado no Registro Imobiliário.",
+    "Se agir um procurador, peça a procuração e verifique-a na notaria ou consulado que a concedeu.",
+    "Em compras, peça certificação recente de gravames e de solvência municipal e de condomínio.",
+    "Assine um documento (contrato de locação ou opção de compra) antes de entregar dinheiro.",
+    "Pague por transferência para uma conta em nome do proprietário e guarde o comprovante."
+   ]
+  },
+  {
+   "h2": "Em aluguéis: o momento de maior risco",
+   "paras": [
+    "Em aluguel o golpe típico é rápido e por valores pequenos, o que faz com que muita gente baixe a guarda. O padrão: anúncio atraente, conversa por mensagens, pressão para reservar e pedido de pagamento móvel antes de visitar. Uma vez pago, o contato desaparece.",
+    "Um locador real pode pedir uma garantia, mas o faz depois que você visitou, viu o documento e assinou o contrato."
+   ]
+  },
+  {
+   "h2": "Se você foi vítima",
+   "paras": [
+    "Reúna tudo: capturas das conversas, o anúncio, comprovantes de pagamento e dados da conta que recebeu o dinheiro. Avise imediatamente seu banco para que tente reter a transferência e denuncie ao Corpo de Investigações Científicas, Penais e Criminalísticas (CICPC) ou ao Ministério Público. Reporte também o anúncio na plataforma onde o viu, para que não enganem outra pessoa."
+   ]
+  },
+  {
+   "h2": "Se compra em planta ou em pré-venda",
+   "paras": [
+    "Comprar um apartamento antes de ser construído pode sair mais barato, mas o risco é maior porque você paga por algo que ainda não existe. Antes de assinar com um promotor, verifique se ele é dono do terreno ou tem direito de construir nele, se o projeto tem licença de construção da alcaldía e se o documento de condomínio está protocolado ou em tramitação.",
+    "Confira também o histórico do promotor: obras anteriores concluídas, se foram entregues no prazo e o que dizem quem comprou. Assine um contrato que estabeleça prazo de entrega, o que acontece se houver atraso, como o preço será ajustado e como seu dinheiro será devolvido se o projeto não se concretizar."
+   ]
+  },
+  {
+   "h2": "Buscar com mais segurança",
+   "paras": [
+    "No Casa-Libre você pode ver cada propriedade no mapa e escrever ao anunciante por WhatsApp para coordenar uma visita antes de falar de dinheiro. Se algo não bater em um anúncio, denuncie. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É normal pagar uma reserva para alugar?",
+   "a": "Pagar antes de visitar e de ver o documento de propriedade não é normal e é o padrão mais comum de fraude. Qualquer pagamento deve ser feito após assinar um contrato."
+  },
+  {
+   "q": "Como sei se quem me aluga é o proprietário?",
+   "a": "Peça sua cédula e os dados do documento de propriedade, e compare-os. Se não for o proprietário, deve ter um poder notariado verificável."
+  },
+  {
+   "q": "O que é uma venda dupla?",
+   "a": "Quando o mesmo imóvel é vendido ou prometido a mais de uma pessoa. Previna pagando contra a assinatura no registro e solicitando certificação de gravames recente."
+  },
+  {
+   "q": "Onde denuncio uma fraude imobiliária?",
+   "a": " perante o CICPC ou o Ministério Público, com todas as provas. Avise também seu banco o quanto antes."
+  },
+  {
+   "q": "Como verifico um projeto em pré-venda?",
+   "a": "Peça provas de que o promotor é dono do terreno ou tem direito de construir, a licença de construção da alcaldía e o documento de condomínio, e verifique obras anteriores do promotor."
+  },
+  {
+   "q": "As fotos do anúncio podem ser falsas?",
+   "a": "Sim. Procure-as usando a busca por imagem do seu navegador; se aparecerem em outro anúncio com outro endereço ou preço, desconfie."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Propriedades à venda",
+  "Como verificar o documento de propriedade"
+ ]
+}

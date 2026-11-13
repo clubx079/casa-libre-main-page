@@ -1,0 +1,101 @@
+{
+ "_src": "460d94682fea",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Reservation Ticket and Promise of Sale in Uruguay: guide",
+  "h1": "Reservation ticket, promise of sale and escritura (public deed): the steps to buy in Uruguay",
+  "description": "How to buy a house or an apartment in Uruguay step by step: reservation ticket, title study, registered promise of sale, escritura, ITP and what to control at each stage.",
+  "answer": "In Uruguay a purchase usually involves three documents. First, the reservation ticket: an initial agreement where you leave a deposit so the owner removes the property from the market while the escribano (notary) studies the titles. Then, in some transactions, the promise of sale, which is registered in the Property Registry and gives you protection if payment is in installments or the escritura is delayed. Finally, the escritura of sale before the escribano, where the balance is paid and the property passes to your name. The escribano controls the titles and debts, and retains the ITP."
+ },
+ "sections": [
+  {
+   "h2": "The complete map of a purchase",
+   "steps": [
+    "You find the property, you visit it and negotiate the price.",
+    "You sign the reservation ticket and deliver a deposit.",
+    "Your escribano (notary) studies the titles and requests the certificates (records, debts, taxes).",
+    "If there is financing or payment in installments, a promise of sale can be signed and registered.",
+    "If you request credit, the bank appraises the property and approves the loan.",
+    "You sign the escritura (deed) of sale, pay the balance and receive the keys.",
+    "The escribano registers the purchase in the Property Registry."
+   ]
+  },
+  {
+   "h2": "The reservation ticket: what it is and what it should say",
+   "paras": [
+    "The reservation ticket is not regulated by a specific law: it is a widely used private agreement. With it you deliver a deposit and the seller commits not to sell to anyone else for a period, while your escribano reviews everything. If the title search fails, the reservation should fall and the deposit be returned.",
+    "Before signing, make sure the ticket clearly states:"
+   ],
+   "bullets": [
+    "Details of the parties and the property: address and cadastral number.",
+    "Total price, currency and payment method.",
+    "Amount of the deposit and what happens to it in each case: if the buyer backs out, if the seller backs out, if the titles are not in order or if the credit is not approved.",
+    "Deadline to sign the promise or the deed.",
+    "Escribano who will intervene for each party.",
+    "What the sale includes: furniture, air conditioning, garage, storage."
+   ],
+   "tip": "If you are buying with credit, ask that the ticket state that the transaction is subject to loan approval and that, if the loan is not approved within the period, the deposit will be returned."
+  },
+  {
+   "h2": "The title search",
+   "paras": [
+    "While the reservation is in effect, the escribano reviews the chain of titles of the property (previous purchases and inheritances) to confirm that the seller is the owner and can sell. He also requests information from the Property Registry about liens, mortgages, interdictions or other encumbrances, and checks that the property tax, the Primary tax and the common expenses are up to date.",
+    "If a problem appears, for example an unfinished succession or an unpaid mortgage, it can sometimes be resolved before signing the deed. Your escribano tells you whether it is advisable to wait or to walk away."
+   ]
+  },
+  {
+   "h2": "The promise of sale",
+   "paras": [
+    "The promise of transfer of real estate in installments is regulated by Law 8.733. It is the contract by which the seller obliges himself to transfer ownership and the buyer to pay in installments or over time. The law requires it to be in writing and provides for its registration in the Registry.",
+    "Its great advantage is that, from the registration, the buyer has a real right against any subsequent sale or encumbrance, and when the payments are completed he can demand the deed. That is why it is widely used in off-plan purchases, in installments or when the final deed is executed much later. In a cash purchase with immediate deed, sometimes the process goes straight from the ticket to the deed."
+   ]
+  },
+  {
+   "h2": "The deed and the taxes",
+   "paras": [
+    "The escritura of sale is signed before the escribano. There you pay the balance, the seller hands over possession and the escribano then registers it in the Property Registry. The Property Transfer Tax (ITP) is withheld by the escribano: according to the DGI, in sales it is 2% for the seller and 2% for the buyer, calculated on the real value set by the Cadastre, not on the price.",
+    "In addition to the ITP, as the buyer you pay your escribano’s fees and the associated contributions and stamps. If a real-estate agency is involved, you also pay its commission. Request a written estimate at the beginning."
+   ]
+  },
+  {
+   "h2": "Deposits and payments: how to protect yourself",
+   "bullets": [
+    "Do not hand over money without a signed document.",
+    "Pay by bank transfer or with a method that leaves a record; for large amounts, notaries must also verify the source of funds.",
+    "Beware of \"urgent\" reservations without a visit or without anyone showing documents.",
+    "Have your own escribano review the ticket before signing it."
+   ]
+  },
+  {
+   "h2": "Before reserving",
+   "paras": [
+    "When you inquire about a listing, ask for the cadastral number, whether the property is free of debts and whether the owner accepts a sale with credit. On Casa-Libre you can see houses and apartments for sale throughout Uruguay on the map and write directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is the reservation ticket mandatory?",
+   "a": "It is not mandatory by law, but it is the usual practice: it fixes the price, the deposit and the deadline while the escribano studies the titles."
+  },
+  {
+   "q": "What is the difference between a reservation ticket and a promise of sale?",
+   "a": "The ticket is an initial agreement with a deposit. The promise, regulated by Law 8.733, is registered in the Registry and gives the buyer a real right against later sales or encumbrances."
+  },
+  {
+   "q": "Who pays the ITP in a sale?",
+   "a": "Both parties: according to the DGI, 2% the seller and 2% the buyer on the real value set by the Cadastre. It is retained by the escribano."
+  },
+  {
+   "q": "Can I use the same escribano as the seller?",
+   "a": "It is possible, but many buyers prefer to have their own, who reviews the titles and the ticket thinking of their interests."
+  }
+ ],
+ "related": [
+  "Casas en venta",
+  "Apartamentos en venta",
+  "Guía: cómo comprar tu primera casa",
+  "Guía: gastos e impuestos al comprar"
+ ]
+}

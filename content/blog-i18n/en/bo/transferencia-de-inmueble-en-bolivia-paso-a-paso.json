@@ -1,0 +1,104 @@
+{
+ "_src": "5329d36c4905",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Property Transfer in Bolivia: Step-by-Step Process",
+  "h1": "Transfer of a Property in Bolivia: minuta, escritura, taxes and registration step by step",
+  "description": "How a house, apartment or lot is transferred in Bolivia: what the minuta is, what the notary does, which tax is paid, what Derechos Reales requires and what remains after registration.",
+  "answer": "The transfer of a property in Bolivia has four stages: the minuta (the sales contract drafted and signed by a lawyer), the escritura (public deed) (the notario of public faith protocols the minuta with the parties' signatures), the payment of the transfer tax at the alcaldía and the registration in Derechos Reales, which makes you the owner against everyone. Afterwards you must update the municipal cadastre and the services."
+ },
+ "sections": [
+  {
+   "h2": "Step 1: the purchase agreement draft",
+   "paras": [
+    "The draft is the document where buyer and seller put the sale in writing. It is prepared by a lawyer, who signs it together with the parties. Although draft templates circulate on the internet, each transfer has its own data that must be correctly written, because Derechos Reales checks that the title clearly designates the parties and the property."
+   ],
+   "bullets": [
+    "Complete data of the parties: name, ID, marital status, address. If the seller is married, the spouse usually signs as well.",
+    "Identification of the property: location, area, boundaries and registration number in Derechos Reales.",
+    "Ownership background: how the seller acquired it (purchase, inheritance, etc.).",
+    "Price, currency and payment method, including any outstanding balance or bank credit.",
+    "Statement that the property is free of liens, or which ones are cancelled at the act.",
+    "Who pays each expense: transfer tax, notary, Derechos Reales."
+   ]
+  },
+  {
+   "h2": "Step 2: the escritura pública (public deed) before notary",
+   "paras": [
+    "The public notary receives the draft, verifies the identity of the parties and protocolizes it: it becomes an escritura pública that remains in his register and from which he issues a testimonio (certificate). That testimonio is the title presented to Derechos Reales.",
+    "Before signing, the notary usually requests the updated folio real (registry folio), the municipal tax receipt up to date and the IDs. If there is a bank credit, the mortgage in favor of the bank is constituted in the same deed or in another one."
+   ],
+   "tip": "Pay the balance of the price at the signing, by transfer or with a manager's check payable to the seller, and make sure the deed states how it was paid. Avoid handing over cash."
+  },
+  {
+   "h2": "Step 3: the transfer tax",
+   "paras": [
+    "When a person who does not sell real estate as a business sells, the Municipal Transfer Tax (IMT) applies. According to its regulation, it is 3% of the higher amount between the price and the property’s assessed value for property tax, and it must be paid within 10 business days after signing. If a company in the sector sells, national taxes apply. Without the payment receipt, Derechos Reales will not register."
+   ]
+  },
+  {
+   "h2": "Step 4: registration in Derechos Reales",
+   "paras": [
+    "The Civil Code and the Law of Registration of Real Rights establish that acts concerning real estate take effect against third parties upon registration. Until you register, another buyer or a creditor of the seller who registers before you may have priority."
+   ],
+   "steps": [
+    "Gather the testimonio, the transfer tax receipt, the IDs and any other requirements requested by the office.",
+    "Submit the procedure at the Derechos Reales office of the department where the property is located and pay the fees.",
+    "If the registrador observes something (a wrongly written datum, a surface discrepancy), correct it with the notary or lawyer; observed procedures that nobody withdraws are archived after a time.",
+    "Collect the registration certificate and request an updated folio real where you already appear as owner."
+   ]
+  },
+  {
+   "h2": "After registration: what remains",
+   "bullets": [
+    "Change of name in the municipal cadastre and in the property tax register.",
+    "Change of utility account holder for electricity, water and gas, with the deed and your ID.",
+    "If it is an apartment, notify the building administration for expenses and regulations.",
+    "Store the testimonio, the folio real and the tax receipts in a safe place."
+   ]
+  },
+  {
+   "h2": "Who does what",
+   "paras": [
+    "The lawyer drafts the purchase agreement and reviews the documents; the public notary gives form to the escritura pública and verifies identities; the mayor's office collects the tax and updates the cadastre; Derechos Reales registers. As a buyer, it is advisable that a single trusted person (usually your lawyer) follows the process from start to finish."
+   ]
+  },
+  {
+   "h2": "How long it takes",
+   "paras": [
+    "It varies a lot by city, the condition of the documents and the workload of each office. The slowest part is usually solving problems that appear late: surface differences, un-cancelled liens or incorrectly written data. Reviewing the folio real and the plan before signing the draft is the best way to shorten the process."
+   ]
+  },
+  {
+   "h2": "Start with a property with papers in order",
+   "paras": [
+    "When searching, ask right away for the registration number, the approved plan and the taxes. On Casa-Libre you see properties for sale on the map and write directly to the advertiser via WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a minuta of property transfer?",
+   "a": "The sales document drafted and signed by a lawyer with the parties. The notario protocols it as escritura (public deed), which is the title that is registered in Derechos Reales."
+  },
+  {
+   "q": "What requirements does Derechos Reales ask for a transfer?",
+   "a": "Mainly the testimonio (certificate) of the escritura, the transfer tax receipt and the IDs. Confirm the exact list at your department office."
+  },
+  {
+   "q": "Can I register a private document?",
+   "a": "The Derechos Reales regulation accepts legally recognized private documents, but for a sale the usual and safest option is the escritura (public deed) before a notario."
+  },
+  {
+   "q": "What happens if I don’t register the purchase?",
+   "a": "The contract is valid between the parties, but not against third parties. Another buyer or a creditor who registers first could have priority."
+  }
+ ],
+ "related": [
+  "Properties for Sale",
+  "Guide: Documents to Sell a Property",
+  "Guide: Buying Costs",
+  "Folio real: what it is"
+ ]
+}

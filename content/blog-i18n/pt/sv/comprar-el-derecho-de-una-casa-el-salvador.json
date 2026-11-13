@@ -1,0 +1,116 @@
+{
+ "_src": "c82f8972c72e",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar \"el derecho\" de uma casa em El Salvador: riscos",
+  "h1": "O que significa comprar \"el derecho\" de uma casa em El Salvador e quais são os riscos",
+  "description": "Quando lhe oferecem \"el derecho\" de uma casa com hipoteca do FSV ou de um banco: o que você está realmente comprando, por que é arriscado e como fazer isso de forma segura.",
+  "answer": "Quando alguém \"vende el derecho\" de uma casa, quase sempre se trata de um imóvel que ainda tem um crédito hipotecário com o FSV ou com um banco: você paga ao dono um valor e se compromete a continuar pagando as parcelas, mas a casa continua em nome do vendedor e a hipoteca permanece vigente. Enquanto não for formalizado ante notario (notário) e com autorização do credor, você não é proprietário. A forma segura é que o vendedor quite a dívida (ou que você assuma o crédito com aprovação do credor) e que a compra e venda seja escriturada e inscrita no CNR."
+ },
+ "sections": [
+  {
+   "h2": "O que se vende quando se vende \"o direito\"",
+   "paras": [
+    "A expressão é popular, não jurídica. Na prática costuma significar um destes arranjos: o comprador paga um \"prêmio\" ao dono e depois continua pagando a parcela do crédito; ou o dono sai da casa e o comprador mora nela pagando, com um documento privado ou uma promessa de venda. Em ambos os casos, no Registro de Propriedade Raiz e Hipotecas a casa continua em nome do vendedor e com a hipoteca inscrita a favor do FSV ou do banco.",
+    "Isso quer dizer que, perante o registro e perante o credor, você não existe. O que você tem é, no máximo, um compromisso pessoal do vendedor."
+   ]
+  },
+  {
+   "h2": "Os riscos concretos para quem compra",
+   "bullets": [
+    "O vendedor continua sendo o dono: pode vender novamente, hipotecar ou ser penhorado por outras dívidas dele, e a casa responde.",
+    "Se o vendedor falecer, a casa passa para seus herdeiros, que não estão obrigados por um arranjo informal mal documentado.",
+    "Se você paga as parcelas mas o crédito atrasa por algum motivo, o credor executa a hipoteca contra o dono registrado e você pode perder o investido.",
+    "O seguro de dívida do crédito cobre o devedor original, não você: se algo acontecer com você, sua família não fica protegida.",
+    "Ao final do crédito, precisa que o vendedor assine a escritura. Se ele não aparecer ou não quiser, terá que ir a juízo."
+   ],
+   "tip": "Desconfie se o vendedor insiste em \"não meter ao notario (tabelião)\" ou em fazer tudo \"por fora\" para economizar trâmites. Essas economias acabam pagando o comprador."
+  },
+  {
+   "h2": "O que verificar se lhe oferecem uma casa assim",
+   "paras": [
+    "Antes de entregar dinheiro, peça a matrícula e tire uma certificação extraída no CNR: confirmará quem é o dono e que hipotecas ou penhoras existem. Peça também ao vendedor que solicite ao credor o saldo atualizado do crédito e se está em dia. Com esses dois dados você sabe quanto se deve e se o preço que pedem pelo \"direito\" faz sentido."
+   ],
+   "bullets": [
+    "Certificação do CNR em nome do vendedor.",
+    "Comprovante de saldo do crédito emitido pelo FSV ou pelo banco.",
+    "Regularidade das taxas municipais e recibos de serviços em dia.",
+    "DUI do vendedor e, se for casado, do cônjuge se for o caso."
+   ]
+  },
+  {
+   "h2": "Três formas seguras de fazer a operação",
+   "paras": [
+    "Existem maneiras de comprar uma casa com hipoteca sem ficar desprotegido. Todas passam por um notario (tabelião) e pelo credor."
+   ],
+   "table": {
+    "head": [
+     "Opção",
+     "Como funciona",
+     "Vantagem"
+    ],
+    "rows": [
+     [
+      "Cancelar e comprar",
+      "O preço cobre o saldo; o credor cancela a hipoteca e se escritura a venda",
+      "Você recebe a casa livre"
+     ],
+     [
+      "Crédito novo do comprador",
+      "Seu banco ou o FSV lhe empresta; parte do empréstimo paga o saldo do vendedor",
+      "A casa fica em seu nome com sua própria hipoteca"
+     ],
+     [
+      "Assumir a dívida com aprovação",
+      "O credor avalia o comprador e autoriza que assuma o crédito",
+      "Possível somente se o credor aceitar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como saber se o preço do \"direito\" faz sentido",
+   "paras": [
+    "O preço real da casa é a soma do que você paga ao vendedor mais o saldo que resta do crédito, mais os gastos de escriturar. Se o vendedor lhe pede um prêmio e você assume uma dívida grande, faça a conta completa e compare com casas semelhantes da mesma zona que se vendem livres de gravame.",
+    "Considere também o prazo que falta. Um crédito com muitos anos pela frente significa muitos juros a pagar. Às vezes sai mais barato solicitar um crédito próprio com melhores condições do que herdar um antigo."
+   ]
+  },
+  {
+   "h2": "Se a hipoteca é do FSV",
+   "paras": [
+    "O FSV financia, entre outras linhas, a compra de moradia usada e o refinanciamento de dívidas com outras instituições. Se cumprir os requisitos, pode solicitar um crédito próprio para comprar a casa e cancelar o saldo do vendedor no mesmo ato. Consulte diretamente com o FSV qual opção se aplica ao seu caso.",
+    "Uma alternativa distinta são as moradias recuperadas que vende o próprio FSV. Nesse caso compra diretamente do Fundo e não assume a dívida de outra pessoa."
+   ]
+  },
+  {
+   "h2": "Buscar casas com papéis claros",
+   "paras": [
+    "No Casa-Libre pode buscar casas à venda e perguntar por WhatsApp, antes de visitar, se a propriedade tem hipoteca e como o vendedor pretende resolvê-la. Também pode buscar pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É legal vender el derecho de uma casa?",
+   "a": "Um acordo privado entre duas pessoas não é proibido, mas não transfere a propriedade nem libera o vendedor da hipoteca. A casa continua em seu nome no CNR. Para que você seja proprietário é necessário escritura ante notario inscrita."
+  },
+  {
+   "q": "É possível vender uma casa hipotecada em El Salvador?",
+   "a": "Sim, mas a hipoteca continua sobre o imóvel. O normal é quitar o saldo com o preço de venda ou que o comprador obtenha um crédito próprio. Assumir a dívida requer aprovação do credor."
+  },
+  {
+   "q": "O que acontece se o vendedor morrer antes de escriturar?",
+   "a": "A casa passa para seus herdeiros. Se o seu acordo era informal, você terá que negociar com eles ou reivindicar judicialmente. Por isso convém formalizar desde o início."
+  },
+  {
+   "q": "Como sei quanto se deve da casa?",
+   "a": "Peça ao vendedor uma constância de saldo emitida pelo credor e verifique a hipoteca em uma certificação do CNR."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Propriedades em Soyapango",
+  "Guia: comprar sua primeira casa"
+ ]
+}

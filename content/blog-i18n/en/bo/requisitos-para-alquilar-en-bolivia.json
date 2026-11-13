@@ -1,0 +1,134 @@
+{
+ "_src": "35b4c71ef9e9",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Rent in Bolivia: Checklist for Tenants",
+  "h1": "Requirements to Rent a House or Apartment in Bolivia",
+  "description": "What they ask you for renting in Bolivia: identity card, proof of income, guarantor, security deposit and contract with signature acknowledgment. Complete list and tips.",
+  "answer": "To rent in Bolivia they usually ask for a current identity card, some proof of income (pay slips, work certificate or statements if you are self-employed), references or a guarantor, and an initial payment that typically includes the first month in advance and a security deposit. The law does not set a fixed list of tenant requirements: each owner or real-estate agency decides, so ask before you visit."
+ },
+ "sections": [
+  {
+   "h2": "The list you’ll almost always hear",
+   "paras": [
+    "The Bolivian Civil Code regulates leasing (articles 685 onward), but it doesn’t say what documents the tenant must present. Each landlord creates their own list: a private owner usually asks for little, while a real-estate agency or a managed building usually asks for more.",
+    "Having everything ready in a folder and scanned on your phone lets you reply the same day. In high-demand neighborhoods, that makes the difference."
+   ],
+   "bullets": [
+    "Current identity card (or passport and migration document if you are a foreigner).",
+    "Proof of income: latest pay slips, work certificate, or NIT and bank statements if you are self-employed.",
+    "References: a previous landlord, your employer or someone who can attest that you are reliable.",
+    "Garante (guarantor), if the owner asks: a person with income or a property in their name.",
+    "Money for signing: usually the first month in advance and a garantía (security deposit); if an agency is involved, sometimes a commission."
+   ]
+  },
+  {
+   "h2": "How to prove income according to your job",
+   "paras": [
+    "What the landlord wants to know is simple: whether you’ll be able to pay every month. A common rule of thumb is that rent should not eat up a very large part of household income; it’s not a legal rule, but you should do the math yourself first."
+   ],
+   "table": {
+    "head": [
+     "Your situation",
+     "What usually works"
+    ],
+    "rows": [
+     [
+      "Employee",
+      "Latest pay slips and work certificate with seniority"
+     ],
+     [
+      "Self-employed or professional",
+      "NIT, issued invoices and recent bank statements"
+     ],
+     [
+      "Trader",
+      "Business operating license, NIT and bank movements"
+     ],
+     [
+      "Retiree",
+      "Pay slip or income certificate"
+     ],
+     [
+      "New arrival",
+      "Work contract, demonstrable savings and, if possible, several months in advance"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The guarantee and the guarantor",
+   "paras": [
+    "The most common practice is to leave a monetary garantía (security deposit), which is returned at the end if you hand over the property in good condition and without utility debts. Some owners also require a garante (guarantor) who signs the contract and commits to pay if you don’t.",
+    "If you don’t have a guarantor, offer alternatives: a larger guarantee, pay several months in advance or show savings. Not all owners accept them, so it’s best to raise the issue in the first message."
+   ],
+   "tip": "Ask that the contract states exactly how much the guarantee is, in which currency, and the timeframe for its return after you vacate the property."
+  },
+  {
+   "h2": "What to ask before you go see the place",
+   "bullets": [
+    "What exactly do they require: guarantor, how many months of guarantee, commission?",
+    "Does the price include expensas? Are electricity, water, gas and internet the tenant’s responsibility?",
+    "Is the price in bolivianos or dollars? How and when is it adjusted?",
+    "How long is the lease and how is it terminated if you need to leave early?",
+    "Are pets allowed? Can it be used as an office?"
+   ]
+  },
+  {
+   "h2": "The contract: written and with recognized signatures",
+   "paras": [
+    "Always sign a written contract. In Bolivia it is common to draft a private document and then have the signatures recognized before a notario, which gives it a certain date. This matters: according to the Civil Code, if the contract has a certain date and the owner sells, the new owner must respect your lease.",
+    "Also keep in mind that for an urban dwelling, the Civil Code prohibits the tenant from subletting or assigning the contract unless expressly agreed, and the same dwelling cannot be both rented and in anticrético (mortgage) at the same time."
+   ]
+  },
+  {
+   "h2": "Red flags before you pay",
+   "paras": [
+    "If any of these occur, ask to see the folio real (real title) of the property or the owner’s authorization before paying."
+   ],
+   "bullets": [
+    "They ask for an advance to “reserve” a unit you haven’t been able to visit yet.",
+    "The price is much lower than comparable units in the same area.",
+    "The person renting cannot show that they are the owner nor a power of attorney from the owner.",
+    "They ask you to pay to a third-party account or only in cash, without a receipt."
+   ]
+  },
+  {
+   "h2": "If you are a foreigner",
+   "paras": [
+    "A foreigner can rent in Bolivia. Usually they will ask for a passport or your foreigner ID card, and the lack of local history is often compensated with more months in advance, a larger guarantee or a letter from your employer."
+   ]
+  },
+  {
+   "h2": "Search and write with your details",
+   "paras": [
+    "Filter by area and budget, and message the advertiser with the basics: how many people will live there, whether you have pets, when you plan to move and what guarantee you offer. On Casa-Libre you see rentals on the map and write directly via WhatsApp to the owner or agency, without paying to use the site. You can also do it from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can you rent without a guarantor in Bolivia?",
+   "a": "Yes, if the owner accepts another form of security, such as a larger deposit or several months paid in advance. It depends on each landlord: ask before you visit."
+  },
+  {
+   "q": "How much money do I need to start a rental?",
+   "a": "Usually the first month paid in advance and a security deposit; if there is an agency, sometimes a commission. Add moving costs and utility connection fees."
+  },
+  {
+   "q": "Is it mandatory to make the contract before a notario (notary)?",
+   "a": "It is not mandatory, but having the signatures acknowledged before a notario gives the contract a certain date, which protects you if the owner sells the property."
+  },
+  {
+   "q": "Can I sublet a room?",
+   "a": "In urban housing, the Civil Code prohibits it unless the contract expressly allows it. If you need to, request it in writing."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Apartments for rent",
+  "Guide for owners: how to rent your property",
+  "Rental contract: your rights"
+ ]
+}

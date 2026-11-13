@@ -1,0 +1,107 @@
+{
+ "_src": "98941b4a3bab",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mortgage loan in El Salvador: how it works",
+  "h1": "Mortgage loan in El Salvador: how it works and how to compare banks",
+  "description": "How a mortgage loan works in El Salvador: down payment, appraisal, insurance, rate, term and total cost. What documents banks require and how to compare offers before signing.",
+  "answer": "A mortgage loan is a long-term loan to buy, build or improve a home, with the house mortgaged in favor of the lender until you finish paying. In El Salvador it is offered by banks, the Fondo Social para la Vivienda (FSV) and other financial entities. You will almost always need to provide a down payment from your own savings, the entity will appraise the house and require insurance. To compare offers, look at the rate, whether it is fixed or variable, the term, the insurance, the fees and the total cost of the loan, not just the monthly payment."
+ },
+ "sections": [
+  {
+   "h2": "How it works, in simple terms",
+   "paras": [
+    "The bank lends you part of the price and you repay it in monthly installments over several years. As security, a mortgage is registered on the house in the Registro de la Propiedad Raíz e Hipotecas del CNR. If you stop paying, the bank can enforce the mortgage. When you finish paying, the mortgage is cancelled and the house is free.",
+    "The sale and the mortgage are usually signed in the same act, before notario. That is why the bank, the notario, the seller and you coordinate a single signing."
+   ]
+  },
+  {
+   "h2": "The down payment: how much you put in",
+   "paras": [
+    "Banks rarely finance 100% of the value. They lend a percentage of the lower amount between the price and the appraisal, and the difference you provide as a down payment. That percentage varies by bank, type of housing and your profile; ask about it in the first consultation.",
+    "In addition to the down payment, you need money for closing costs, registration, appraisal and the Impuesto sobre Transferencia de Bienes Raíces if the house is worth more than US$28,571.43. Those costs normally are not included in the loan."
+   ]
+  },
+  {
+   "h2": "Appraisal, document review and insurance",
+   "paras": [
+    "The bank orders an appraisal of the house. If the appraisal comes in lower than the price, they will lend based on the appraisal value and you will have to cover the difference or negotiate with the seller.",
+    "They will also review the documents: that the seller is the owner in the CNR, that there are no other liens and that the tax solvencies are up to date. And they will require insurance: a life or debt insurance that cancels the balance if the borrower dies, and a property damage insurance, which in an earthquake-prone country like El Salvador is especially important."
+   ]
+  },
+  {
+   "h2": "Documents they usually request",
+   "bullets": [
+    "DUI of the applicant and, if applicable, of the co-borrower.",
+    "Salary certificate and AFP account statement, or tax returns and statements if you are self-employed.",
+    "Bank and personal references.",
+    "Tax solvency from Hacienda, if they require it.",
+    "Property documents: escritura (public deed) and matrícula of the seller, municipal solvency.",
+    "If you live abroad: income proof from the country where you reside and, sometimes, remittance history."
+   ]
+  },
+  {
+   "h2": "How to compare two offers",
+   "paras": [
+    "Ask each institution for a written simulation with the same amount and term, and compare:"
+   ],
+   "bullets": [
+    "Interest rate: whether it is fixed for the whole term, fixed for a few years or variable.",
+    "Term: more years lower the installment but increase the total interest.",
+    "Insurance: how much they add to the installment and whether you can choose the insurer.",
+    "Fees and opening costs.",
+    "Total cost: the sum of everything you will pay over the loan.",
+    "Early payments: whether you can make principal prepayments or pay off early and if there is a penalty."
+   ],
+   "tip": "Ask for the full payment schedule. There you see how much of each installment goes to interest and how much to principal. In the first years, most of the payment is usually interest."
+  },
+  {
+   "h2": "Where to see reference rates",
+   "paras": [
+    "The Superintendencia del Sistema Financiero (SSF) publishes information on the interest rates charged by supervised entities. It is a good way to have a benchmark before negotiating. And if you think a bank did not give you clear information about the cost of your loan, the Defensoría del Consumidor handles complaints from users of financial services."
+   ]
+  },
+  {
+   "h2": "Bank or FSV?",
+   "paras": [
+    "The FSV is designed for low- and middle-income workers and has special lines for young people, women and Salvadorans abroad. Banks serve a broader range of prices and profiles. The sensible approach is to simulate with both and compare the total cost."
+   ]
+  },
+  {
+   "h2": "Principal prepayments: how to save interest",
+   "paras": [
+    "If you receive extra income, such as a bonus or the aguinaldo, you can make a principal prepayment. Each prepayment reduces the balance on which interest is calculated. Ask if the bank charges a penalty and whether the prepayment reduces the installment or the term."
+   ]
+  },
+  {
+   "h2": "Choosing the house with the loan in mind",
+   "paras": [
+    "A house with paperwork in order is approved faster. When you inquire about a listing, ask if it is registered in the seller’s name, if it has a mortgage and if it accepts payment with a bank loan. On Casa-Libre you can filter by type and price, view properties on the map and write via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much do banks finance in El Salvador?",
+   "a": "There is no single percentage: it depends on the bank, the type of property and your profile. It is almost never 100%, so be prepared to provide a down payment and cover the purchase expenses."
+  },
+  {
+   "q": "What insurance does a mortgage loan require?",
+   "a": "Usually a life or debt insurance that cancels the balance if the borrower dies, and a property damage insurance for the home."
+  },
+  {
+   "q": "Where can I see banks' interest rates?",
+   "a": "The Superintendencia del Sistema Financiero publishes interest rate information for the entities it supervises. Use it as a reference and request a written simulation from each bank."
+  },
+  {
+   "q": "What happens to the mortgage when I finish paying?",
+   "a": "The creditor grants the cancellation of the mortgage, which is recorded in the CNR. Request the document and verify that it is registered."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: costs when buying a house"
+ ]
+}

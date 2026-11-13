@@ -1,0 +1,134 @@
+{
+ "_src": "35b4c71ef9e9",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para alugar na Bolívia: lista para inquilinos",
+  "h1": "Requisitos para alugar uma casa ou um apartamento na Bolívia",
+  "description": "O que pedem para alugar na Bolívia: cédula de identidade, comprovante de renda, garantidor, mês de garantia e contrato com reconhecimento de firmas. Lista completa e dicas.",
+  "answer": "Para alugar na Bolívia normalmente pedem cédula de identidade vigente, algum comprovante de renda (boletas de pagamento, certificado de trabalho ou extratos se você for autônomo), referências ou um garantidor, e um pagamento inicial que costuma incluir o primeiro mês adiantado e uma garantia. A lei não fixa uma lista de requisitos para o inquilino: a decide cada proprietário ou imobiliária, então pergunte antes de visitar."
+ },
+ "sections": [
+  {
+   "h2": "A lista que você vai ouvir quase sempre",
+   "paras": [
+    "O Código Civil boliviano regula o arrendamento (artigos 685 em diante), mas não diz quais documentos o inquilino deve apresentar. Cada proprietário monta sua própria lista: um dono particular costuma pedir pouco, enquanto uma imobiliária ou um prédio administrado costuma pedir mais.",
+    "Ter tudo pronto em uma pasta e escaneado no celular permite responder no mesmo dia. Em bairros com muita demanda, isso faz a diferença."
+   ],
+   "bullets": [
+    "Cédula de identidade vigente (ou passaporte e documento migratório se for estrangeiro).",
+    "Comprovante de renda: últimos holerites, certificado de trabalho, ou NIT e extratos bancários se for autônomo.",
+    "Referências: um proprietário anterior, seu empregador ou alguém que possa atestar que você cumpre.",
+    "Garante, se o dono solicitar: uma pessoa com renda ou com um imóvel em seu nome.",
+    "Dinheiro para a assinatura: normalmente o primeiro mês adiantado e uma garantia; se intervier uma imobiliária, às vezes uma comissão."
+   ]
+  },
+  {
+   "h2": "Como comprovar renda segundo seu trabalho",
+   "paras": [
+    "O que o proprietário quer saber é simples: se você vai conseguir pagar todos os meses. Uma referência que muitos usam é que o aluguel não consuma uma parte muito grande da renda familiar; não é uma regra legal, mas convém fazer a conta você primeiro."
+   ],
+   "table": {
+    "head": [
+     "Sua situação",
+     "O que costuma servir"
+    ],
+    "rows": [
+     [
+      "Assalariado",
+      "Últimos holerites e certificado de trabalho com tempo de serviço"
+     ],
+     [
+      "Autônomo ou profissional",
+      "NIT, notas fiscais emitidas e extratos bancários recentes"
+     ],
+     [
+      "Comerciante",
+      "Licença de funcionamento do negócio, NIT e movimentações bancárias"
+     ],
+     [
+      "Aposentado/a",
+      "Holerite ou comprovante de pensão"
+     ],
+     [
+      "Recém-chegado/a",
+      "Contrato de trabalho, poupança comprovável e, se possível, mais meses adiantados"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A garantia e o garante",
+   "paras": [
+    "O mais comum é deixar uma garantia em dinheiro, que é devolvida ao final se você entregar o imóvel em bom estado e sem dívidas de serviços. Alguns proprietários pedem ainda um garante que assine o contrato e se comprometa a pagar se você não o fizer.",
+    "Se não tem garante, ofereça alternativas: uma garantia maior, pagar vários meses adiantados ou mostrar poupança. Nem todos os donos aceitam, por isso convém apresentar isso na primeira mensagem."
+   ],
+   "tip": "Peça que o contrato diga exatamente quanto é a garantia, em que moeda e em que prazo será devolvida após a entrega do imóvel."
+  },
+  {
+   "h2": "O que perguntar antes de ir ver",
+   "bullets": [
+    "O que exatamente pedem: garante, quantos meses de garantia, comissão?",
+    "O preço inclui despesas? Luz, água, gás e internet ficam por conta do inquilino?",
+    "O preço está em bolivianos ou em dólares? Como e quando é reajustado?",
+    "Quanto tempo dura o contrato e como se encerra se precisar sair antes?",
+    "Aceitam animais de estimação? Pode ser usado como escritório?"
+   ]
+  },
+  {
+   "h2": "O contrato: por escrito e com assinaturas reconhecidas",
+   "paras": [
+    "Assine sempre um contrato escrito. Na Bolívia é habitual fazer um documento privado e depois o reconhecimento de assinaturas perante notario (tabelião), o que lhe confere data certa. Isso importa: segundo o Código Civil, se o contrato tem data certa e o dono vende, o novo proprietário deve respeitar seu aluguel.",
+    "Tenha em conta também que, para uma moradia urbana, o Código Civil proíbe que o inquilino subloque ou ceda o contrato salvo se houver acordo em contrário, e que o mesmo imóvel não pode estar simultaneamente em aluguel e em anticrético (hipoteca de garantia)."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta antes de pagar",
+   "paras": [
+    "Se algo disso acontecer, peça ver o folio real (registro de imóveis) do imóvel ou a autorização do proprietário antes de pagar."
+   ],
+   "bullets": [
+    "Pedem um adiantamento para \"reservar\" um imóvel que você ainda não pôde visitar.",
+    "O preço está muito abaixo do de imóveis semelhantes na mesma região.",
+    "Quem aluga não pode provar que é o dono nem apresentar procuração do dono.",
+    "Pedem pagamento na conta de terceiros ou só em dinheiro, sem recibo."
+   ]
+  },
+  {
+   "h2": "Se você for estrangeiro",
+   "paras": [
+    "Um estrangeiro pode alugar na Bolívia. Normalmente pedem passaporte ou sua cédula de estrangeiro, e a falta de histórico local costuma ser compensada com mais meses adiantados, uma garantia maior ou uma carta do seu empregador."
+   ]
+  },
+  {
+   "h2": "Busque e escreva com seus dados",
+   "paras": [
+    "Filtre por zona e orçamento, e escreva ao anunciante com o básico: quantas pessoas vão morar, se tem animais, desde quando e que garantia oferece. No Casa-Libre você vê os aluguéis no mapa e escreve direto por WhatsApp ao dono ou à imobiliária, sem pagar para usar o site. Também pode fazer isso pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É possível alugar sem garantidor na Bolívia?",
+   "a": "Sim, se o proprietário aceitar outra garantia, como um depósito maior ou vários meses adiantados. Depende de cada dono: pergunte antes de visitar."
+  },
+  {
+   "q": "Quanto dinheiro preciso para entrar em um aluguel?",
+   "a": "O habitual é o primeiro mês adiantado e uma garantia; se houver imobiliária, às vezes uma comissão. Some a mudança e a conexão dos serviços."
+  },
+  {
+   "q": "É obrigatório fazer o contrato perante notario (tabelião)?",
+   "a": "Não é obrigatório, mas o reconhecimento de firmas perante notario dá data certa ao contrato, o que protege se o dono vender o imóvel."
+  },
+  {
+   "q": "Posso sublocar um quarto?",
+   "a": "Em moradia urbana, o Código Civil proíbe salvo se o contrato permitir expressamente. Se precisar, solicite por escrito."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Guia para proprietários: como alugar sua propriedade",
+  "Contrato de aluguel: seus direitos"
+ ]
+}

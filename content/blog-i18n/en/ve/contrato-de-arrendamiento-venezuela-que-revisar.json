@@ -1,0 +1,133 @@
+{
+ "_src": "65933daf845e",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Rental Agreement in Venezuela: What to Review Before Signing",
+  "h1": "Residential Rental Agreement in Venezuela: Clauses You Should Review",
+  "description": "Before using a rental agreement template in Venezuela, check the parties, rent, duration, deposit, condominium fees, repairs and termination. Guide for the tenant.",
+  "answer": "A residential rental agreement in Venezuela must clearly identify the parties and the property, set the rent and payment method, the duration, the guarantee, who pays condominium fees and services, who handles each repair, and how it ends. Before signing, confirm that the landlord is the owner or has power of attorney, that the agreement does not contradict the housing rental law, and, if possible, have it authenticated at a notary office. A template downloaded from the internet is only a starting point."
+ },
+ "sections": [
+  {
+   "h2": "Why a downloaded template isn’t enough",
+   "paras": [
+    "Searching \"model lease agreement\" and filling in the blanks is tempting, but many templates that circulate are for commercial premises, are from before the current housing law, or come from other countries. A housing lease that contradicts the law may contain clauses that are not valid, and that leaves you without the protection you thought you had.",
+    "Use it as a checklist, not as a final document. What follows are the points you need to review one by one."
+   ]
+  },
+  {
+   "h2": "Parties and property: who rents and what is rented",
+   "bullets": [
+    "Full name and ID number of the landlord and the tenant. If an attorney-in-fact signs, the contract must cite the notarized power of attorney with their details.",
+    "The landlord must match the owner shown on the registered property document.",
+    "Full address: building, floor, apartment number, parking space and storage unit if any.",
+    "Inventory of what is delivered: furniture, white goods, condition of floors, walls and bathrooms. Better with dated photos as an annex."
+   ]
+  },
+  {
+   "h2": "Rent, currency and payment method",
+   "paras": [
+    "The contract must state how much you pay, when, how and to whom. Pay attention to the payment date, the method (transfer, mobile payment, cash) and the account holder’s name. If you pay in cash, demand a signed receipt each month.",
+    "Currency is a delicate point. In the market it is common to use reference amounts in foreign currency or calculated at the official exchange rate published by the Central Bank of Venezuela, while the housing lease law has its own rules on rent setting. Ask a lawyer to review how that clause is drafted and which exchange rate is used if you pay in bolívares."
+   ]
+  },
+  {
+   "h2": "Duration, extension and increases",
+   "paras": [
+    "Check from when to when the contract lasts, whether it renews automatically or must be signed again, and how far in advance you must notify if either party does not want to continue.",
+    "Also look at how the rent is adjusted. A free increase \"when the landlord decides\" leaves you exposed. Reasonably, the adjustment mechanism should be written and compatible with the law."
+   ]
+  },
+  {
+   "h2": "Deposit or guarantee: amount and return",
+   "paras": [
+    "The contract must state how much you gave as a guarantee, in which currency, where it is kept and the timeframe and conditions for its return when you hand over the property. The housing lease law regulates the guarantee, so an exaggerated amount or a clause that says \"the deposit is not returned\" is a red flag to consult."
+   ]
+  },
+  {
+   "h2": "Condominium, services and repairs",
+   "paras": [
+    "Special condominium fees (for example, to repair the elevator or waterproofing) are a frequent source of dispute. Put it in writing."
+   ],
+   "table": {
+    "head": [
+     "Concept",
+     "What the contract should clarify"
+    ],
+    "rows": [
+     [
+      "Condominium",
+      "Whether it is included in the rent or paid separately, and who pays special fees"
+     ],
+     [
+      "Electricity, water, gas, cleaning",
+      "Who pays and in whose name the services are registered"
+     ],
+     [
+      "Internet",
+      "If the property already has a line and whether you can contract another"
+     ],
+     [
+      "Major repairs",
+      "Which structure, embedded pipes and leaks are the landlord’s responsibility"
+     ],
+     [
+      "Minor maintenance",
+      "Which small fixes you assume"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How the contract ends",
+   "paras": [
+    "The housing law limits the reasons a landlord can demand the property and sets procedures before SUNAVI prior to going to court. A contract that says you can be evicted without further procedure contradicts that framework. Also check what happens if you want to leave early: how much notice and whether there is a penalty."
+   ],
+   "tip": "Sign only after you have read everything, with all annexes (inventory, photos) attached, and keep your authenticated copy and payment receipts in one place."
+  },
+  {
+   "h2": "Red flags in a contract",
+   "paras": [
+    "None of these signals alone means a scam, but each is a reason to pause, ask questions and, if needed, look for another property. A serious landlord has no problem letting you review the contract calmly."
+   ],
+   "bullets": [
+    "The landlord is not the owner and does not show a notarized power of attorney authorizing the rental.",
+    "The contract does not mention the deposit, or says it is not returned under any circumstance.",
+    "They ask you to sign blank or with empty spaces \"to be completed later\".",
+    "There is no inventory and the apartment has visible damage that no one notes.",
+    "They pressure you to pay the same day, without letting you take the contract to review.",
+    "There is a clause waiving rights that the law grants you as a tenant."
+   ]
+  },
+  {
+   "h2": "Before the contract, the search",
+   "paras": [
+    "On Casa-Libre you can compare rentals on the map by area and message the advertiser to request the contract model before visiting. That way you arrive with your questions answered. It is on the website and the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a PDF rental agreement template useful?",
+   "a": "As a guide, yes. But check that it is for housing, that it is updated with the current law, and adapt it to your case. Ideally a lawyer should review it."
+  },
+  {
+   "q": "Is notarizing the agreement mandatory?",
+   "a": "Authenticating it at a notary office is not always mandatory, but it provides a certain date and is the recommended practice for both parties."
+  },
+  {
+   "q": "Can the landlord evict me without notice?",
+   "a": "The housing rental law sets causes and procedures for eviction, with SUNAVI involvement. If faced with an eviction threat, seek advice before leaving the property."
+  },
+  {
+   "q": "Who pays the condominium fees when I rent?",
+   "a": "It depends on what the agreement says. It is common to state this explicitly, along with any special fees."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Houses for rent",
+  "Requirements to rent an apartment"
+ ]
+}

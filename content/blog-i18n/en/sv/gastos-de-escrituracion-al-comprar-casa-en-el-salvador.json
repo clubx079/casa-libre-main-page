@@ -1,0 +1,145 @@
+{
+ "_src": "d85dc19df3da",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Deed costs when buying a house in El Salvador",
+  "h1": "Deed costs when buying a house in El Salvador: complete list",
+  "description": "What costs are there besides the price when buying a house in El Salvador: notario (notary), transfer tax, registration with the CNR, certifications, clearances and, with financing, mortgage, appraisal and insurance.",
+  "answer": "When you buy a house in El Salvador, besides the price you usually pay: the Real Estate Transfer Tax (3% on the amount exceeding US$28,571.43), the notario (notary) fees for the escritura (deed), the registration fees with the Registro de la Propiedad Raíz e Hipotecas of the CNR and the prior certifications. If you buy with financing you add the mortgage escritura, the appraisal, commissions and insurance. Ask the notario for a written quote before you sign."
+ },
+ "sections": [
+  {
+   "h2": "The expense list, at a glance",
+   "table": {
+    "head": [
+     "Expense",
+     "Who normally pays it",
+     "How it is set"
+    ],
+    "rows": [
+     [
+      "Impuesto sobre Transferencia de Bienes Raíces",
+      "Buyer",
+      "3% on the amount that exceeds US$28,571.43"
+     ],
+     [
+      "Honorarios del notario (compraventa)",
+      "Agreed; often the buyer",
+      "Free agreement; request a quote"
+     ],
+     [
+      "Inscripción en el CNR",
+      "Buyer",
+      "Registration fee"
+     ],
+     [
+      "Certificación extractada u otras certificaciones",
+      "Whoever requests it, usually the buyer",
+      "CNR fee"
+     ],
+     [
+      "Solvencia municipal del inmueble",
+      "Seller",
+      "Must be up to date before escriturar"
+     ],
+     [
+      "Escritura de hipoteca (si hay crédito)",
+      "Buyer",
+      "Notary fees of the lending entity"
+     ],
+     [
+      "Avalúo y seguros (si hay crédito)",
+      "Buyer",
+      "According to the entity"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The notario: what they do and how to get a quote",
+   "paras": [
+    "In El Salvador the sale of a property is formalized in escritura pública (public deed) before a notario, who is a lawyer authorized by the Supreme Court of Justice to perform notarial functions. The notario drafts the escritura, verifies identities and powers, reviews the registration background and, usually, presents the escritura to the CNR for registration.",
+    "Their fees are agreed with you. Request a written quote that states what is included: background study, drafting, testimonio, presentation to the registry, tax declaration and follow-up until the escritura is registered."
+   ],
+   "tip": "Ask if the quote includes follow-up of the registration. A signed but unregistered escritura does not protect you against third parties."
+  },
+  {
+   "h2": "Registration at the CNR",
+   "paras": [
+    "The escritura is submitted to the Registry of Real Property and Mortgages, which administers the Centro Nacional de Registros. The registry charges fees according to its schedule and, before registering, requires proof of payment of the transfer tax when applicable.",
+    "Once registered, it is advisable to request a new certification to confirm that the house now appears in your name and to activate the CNR’s free registration alerts, which notify you by mail of any procedure concerning the property."
+   ]
+  },
+  {
+   "h2": "Certifications and solvencies before signing",
+   "paras": [
+    "Before escriturar, the notario or you should review the property’s situation. According to the CNR, cited by the press, the certificación extractada summarizes the owner’s name, their percentage, the legal status of the property and the documents in process, and can be requested online."
+   ],
+   "bullets": [
+    "Recent certificación extractada of the property.",
+    "Solvencia municipal: confirms there are no pending municipal taxes with the alcaldía.",
+    "Water and electricity bills up to date.",
+    "If the house is in a residential complex with administration, a statement that there are no pending maintenance fees."
+   ]
+  },
+  {
+   "h2": "If you buy with credit",
+   "paras": [
+    "With credit, the sale and the mortgage are usually signed in the same act. The lending entity (bank or FSV) normally works with its notarios, and the mortgage fees are added to your expenses. In addition you pay the appraisal and the insurance: debt insurance, which cancels the balance if the borrower dies or becomes disabled, and property damage insurance. Request the full list of initial charges from the entity before accepting the offer."
+   ]
+  },
+  {
+   "h2": "What the seller is responsible for",
+   "paras": [
+    "The seller must deliver the property with its municipal taxes and services up to date and, if there is a mortgage, cancel it (usually with part of the price). If they earn a profit on the sale, the tax on that profit is their responsibility, not the buyer’s."
+   ]
+  },
+  {
+   "h2": "How to avoid surprises",
+   "steps": [
+    "Request a written quote from the notario with everything included.",
+    "Calculate the transfer tax using the 3% formula on the excess amount.",
+    "Ask the credit entity for the list of initial expenses.",
+    "Agree in writing with the seller on who pays what.",
+    "Set aside an extra margin for unforeseen costs."
+   ]
+  },
+  {
+   "h2": "An example to organize the account",
+   "paras": [
+    "Hypothetical example: you buy a house for US$70,000 cash. The transfer tax is 3% on US$41,428.57 (70,000 − 28,571.43), about US$1,243. Add the notario’s fees according to the quote they give you, the CNR registration fees and the prior certifications. If you also use credit, add the mortgage escritura, the appraisal and the first insurance payment.",
+    "The lesson: the cash you need on the signing day is more than just the down payment or price. Make the complete list with your notario before committing."
+   ]
+  },
+  {
+   "h2": "Budgeting from the notice",
+   "paras": [
+    "At Casa-Libre you can see the price of each house or apartment, add the expenses from this list and ask the seller via WhatsApp if the solvencies are up to date. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much does a notario charge for a escritura de compraventa in El Salvador?",
+   "a": "The fees are freely agreed with the notario. Request several written quotes and confirm what they include, especially the registration with the CNR."
+  },
+  {
+   "q": "Who pays the deed costs?",
+   "a": "Usually the buyer pays the transfer tax and the registration; the notario fees are negotiated. The seller provides up-to-date clearances and cancels any mortgage they have."
+  },
+  {
+   "q": "How much does a certification extracted from the CNR cost?",
+   "a": "The press reported in 2026 a price of US$8.86 as stated by the CNR. Confirm the current rate when you request it."
+  },
+  {
+   "q": "What happens if I don’t register the deed?",
+   "a": "Against third parties, the owner would remain the seller: the property could be seized for their debts or sold again. Registration is an essential part of the purchase."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: costs when buying a house"
+ ]
+}

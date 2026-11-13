@@ -1,0 +1,111 @@
+{
+ "_src": "07bb8426cb2a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Escritura de compraventa em El Salvador: o que revisar",
+  "h1": "Escritura de compraventa de um imóvel em El Salvador: o que contém e o que revisar antes de assinar",
+  "description": "O que é a escritura de compraventa de um imóvel em El Salvador, quais dados deve conter, o que revisar antes de assinar perante notario e como se inscreve no CNR.",
+  "answer": "A escritura pública é o documento público, concedido perante notario (notário), com o qual o vendedor transfere um imóvel ao comprador em El Salvador. Deve identificar com exatidão as partes (com seu DUI), o imóvel (localização, medidas, limites e matrícula), o preço e a forma de pagamento, e declarar se há gravames. Antes de assinar, revise se os dados coincidem com a certificação do CNR, se o preço é o real e se estão todas as assinaturas necessárias. Depois, a escritura deve ser inscrita no Registro de la Propiedad Raíz e Hipotecas."
+ },
+ "sections": [
+  {
+   "h2": "O que é e por que se faz ante notario",
+   "paras": [
+    "O Código Civil exige que a venda de bens imóveis se faça por escritura pública. Em El Salvador a concede um notario (tabelião), que é um advogado autorizado pela Corte Suprema de Justiça para exercer essa função. O notario dá fé da identidade das partes e do que declaram, e entrega um testimonio (cópia autenticada) da escritura que depois se apresenta ao registro.",
+    "Um documento privado ou uma \"carta de venda\" sem notario não transfere a propriedade de um imóvel nem pode ser inscrito."
+   ]
+  },
+  {
+   "h2": "O que deve conter",
+   "bullets": [
+    "Local, data e dados do notario.",
+    "Comparecentes: nome completo, DUI, domicílio e estado civil do vendedor e do comprador; se algum atua por procuração, os dados do poder.",
+    "Antecedente: como o vendedor adquiriu o imóvel e sua inscrição (matrícula).",
+    "Descrição do imóvel: localização, medidas, limites e, se aplicar, a unidade dentro de um condomínio.",
+    "Preço e forma de pagamento: valor em dólares, se foi pago antes, no ato ou com crédito.",
+    "Declaração sobre gravames: se o imóvel está livre ou quais gravames existem.",
+    "Tradição ou entrega do imóvel.",
+    "Assinaturas de todas as partes e do notario."
+   ]
+  },
+  {
+   "h2": "O que revisar antes de assinar",
+   "paras": [
+    "Peça ao notario o rascunho com alguns dias de antecedência e compare-o com a certificação extraída do CNR. Os erros mais comuns são nomes mal escritos, medidas que não coincidem e matrículas equivocadas, e corrigi-los depois exige uma escritura de rectificação."
+   ],
+   "bullets": [
+    "O nome e o DUI do vendedor coincidem com o registro?",
+    "Assinam todos os coproprietários?",
+    "A descrição e a matrícula coincidem com a certificação?",
+    "O preço é o real? Declarar menos para pagar menos imposto pode prejudicá-lo.",
+    "Diz claramente se o imóvel está livre de gravames?",
+    "Se o vendedor atua por procuração, o poder lhe permite vender esse imóvel?"
+   ],
+   "tip": "Se pagar parte do preço antes da assinatura, que a escritura o diga e guarde os comprovantes de transferência. Evite pagamentos grandes em dinheiro."
+  },
+  {
+   "h2": "Promessa de venda: quando se usa",
+   "paras": [
+    "Quando a escritura definitiva não pode ser assinada imediatamente (por exemplo, enquanto se aprova um crédito ou se termina de pagar um lote em parcelas), costuma-se assinar uma promessa de venda. Nela as partes se obrigam a assinar a compra e venda mais adiante, com um preço e um prazo determinados.",
+    "Uma promessa não o torna dono. Revise o que acontece com o que pagou se a venda não se concretizar, qual o prazo e quais penalidades se aplicam a cada parte."
+   ]
+  },
+  {
+   "h2": "Depois de assinar: imposto e inscrição",
+   "paras": [
+    "Com a escritura assinada, declara-se e paga-se o Impuesto sobre Transferencia de Bienes Raíces perante a Hacienda se o valor supera US$28,571.43, e depois apresenta-se o testimonio ao CNR para sua inscrição. Sem o comprovante do imposto, o registro não inscreve.",
+    "Peça ao notario que avise quando a escritura for inscrita e obtenha uma nova certificação para confirmar que já aparece como proprietário."
+   ],
+   "steps": [
+    "Assinatura da escritura ante notario.",
+    "Declaração e pagamento do imposto de transferência, se couber.",
+    "Apresentação do testimonio no CNR.",
+    "Inscrição e entrega do testimonio inscrito.",
+    "Nova certificação e ativação de avisos registrais."
+   ]
+  },
+  {
+   "h2": "Se houver um erro: a retificação",
+   "paras": [
+    "Se depois de assinar descobrir um erro em nomes, medidas ou dados registrais, corrige-se com uma escritura de rectificação ante notario, que também se inscreve. É mais fácil revisar com calma antes de assinar do que corrigir depois."
+   ]
+  },
+  {
+   "h2": "Estado civil, coproprietários e heranças",
+   "paras": [
+    "Se o imóvel pertence a várias pessoas, todas devem assinar a venda ou estar representadas por procuração. É frequente em casas herdadas: se a herança ainda não foi concluída e o imóvel não está inscrito em nome dos herdeiros, ainda não pode ser vendido como corresponde. Peça ao notario que revise o antecedente e o estado civil do vendedor, caso seja necessária alguma assinatura adicional.",
+    "Se comprar com seu parceiro, decidam antes de assinar como aparecerão na escritura e em quais percentuais. Isso tem consequências se um dia venderem ou se algum falecer."
+   ]
+  },
+  {
+   "h2": "Começar com boa informação",
+   "paras": [
+    "Solicitar a matrícula desde o primeiro contato economiza tempo. No Casa-Libre pode escrever por WhatsApp ao vendedor de cada casa ou terreno e solicitá-la antes de visitar. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É obrigatório fazer a compraventa perante notario?",
+   "a": "Sim. A venda de bens imóveis requer escritura pública, que em El Salvador é concedida por um notario (notário). Um documento privado não transfere a propriedade nem se inscreve."
+  },
+  {
+   "q": "Qual a diferença entre promessa de venda e escritura de compraventa?",
+   "a": "A promessa obriga a assinar a venda mais tarde; a escritura de compraventa transfere o imóvel. Só com a escritura inscrita você é dono perante terceiros."
+  },
+  {
+   "q": "O que faço se a escritura tem um erro?",
+   "a": "Corrige-se com uma escritura de rectificação perante notario, que também se inscreve no CNR."
+  },
+  {
+   "q": "Quanto tempo leva a inscrição no CNR?",
+   "a": "Depende da carga do registro e se a documentação está completa. Pergunte ao notario (notário) e peça que avise quando for inscrita."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Guia: documentos para vender um imóvel",
+  "Guia: gastos ao comprar uma casa"
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "_src": "125642f8d04b",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Rental Agreement in Bolivia: Tenant Rights",
+  "h1": "Rental Agreement in Bolivia: Your Rights and Obligations as a Tenant",
+  "description": "What the Bolivian Civil Code says about housing rentals: repairs, improvements, subletting, property sale, renewal, eviction and the exceptional 2020 law. Explained for tenants.",
+  "answer": "In Bolivia, housing rentals are governed by the Civil Code (articles 685 to 722). As a tenant you have the right to receive the dwelling in usable condition, to have the owner carry out necessary repairs, and if the property is sold with a fixed-date contract, the buyer must respect your lease. You must pay on time, take care of the dwelling and perform minor maintenance. Evicting a dwelling requires a court order: the owner cannot force you out."
+ },
+ "sections": [
+  {
+   "h2": "What law governs your lease",
+   "paras": [
+    "The basis is the Civil Code, which calls \"arrendamiento\" the lease and has a special section for urban properties intended for housing (articles 713 to 722). Article 722 says those rules cannot be set aside by private agreement, except for subletting. In other words: even if the contract says otherwise, those protections apply.",
+    "In 2020 Law 1342, the Exceptional Lease Law, was approved, which reduced rents and prohibited evictions during the pandemic quarantine and for three months afterwards. It was a temporary measure; if you read that \"the lease law\" cuts the rent in half, it refers to that exceptional situation, not to a rule in force today."
+   ]
+  },
+  {
+   "h2": "Your rights as a tenant",
+   "bullets": [
+    "Receive the dwelling in a condition suitable for living (art. 689) and with adequate hygiene and health standards (art. 717).",
+    "Have the owner make necessary repairs; if they take too long, request a proportional rent reduction (arts. 690 and 691).",
+    "Request a reduction or termination of the contract if the dwelling has hidden defects that make it unsuitable (art. 697).",
+    "Install services such as telephone or electricity that do not reduce the property's value, and remove them when you leave (art. 718).",
+    "Have the new owner respect your contract if the property is sold and your contract has a definite date (arts. 711, 712 and 714).",
+    "If the tenant dies, the contract continues in favor of the spouse or minor children who live in the dwelling (art. 720)."
+   ]
+  },
+  {
+   "h2": "Your obligations",
+   "bullets": [
+    "Pay the rent on the agreed deadlines (art. 701).",
+    "Use the dwelling carefully and only for the agreed purpose (art. 702).",
+    "Carry out minor maintenance repairs and promptly notify the owner when a major repair is needed (art. 690).",
+    "Be liable for damages caused by you or your visitors (art. 703).",
+    "Return the dwelling as you received it, except for normal wear and tear (art. 705).",
+    "Do not sublet or assign the contract unless the contract allows it (art. 719).",
+    "Do not make improvements or extensions without authorization (art. 706)."
+   ]
+  },
+  {
+   "h2": "The handover record: your best defense",
+   "paras": [
+    "Article 705 says something many tenants do not know: if there is no handover record, it is presumed that you received the dwelling in good condition. That means any damage that already existed can end up being deducted from your deposit.",
+    "When you move in, make a record with photos and videos of walls, floors, bathrooms, kitchen, doors and windows, and have both parties sign it. When you move out, repeat the walkthrough with the owner."
+   ],
+   "tip": "Save the photos of the record with a date in the cloud and send them via WhatsApp to the owner on the day you move in. That creates a clear record of when they were taken."
+  },
+  {
+   "h2": "Term, renewal and move-out",
+   "paras": [
+    "If the contract expires and the tenant remains in the dwelling without anyone saying anything, the Civil Code considers the lease renewed under the same conditions (art. 710). If you want to leave, give written notice with the advance period specified in your contract.",
+    "For urban housing, the Civil Code lists in a limited way how a lease ends: if the tenant voluntarily returns the dwelling, by death (with the family exception) or by a judicial eviction order (art. 720). In practice, this means eviction must go through a judge: cutting services, changing locks or removing your belongings is not a legal route."
+   ]
+  },
+  {
+   "h2": "The price and its adjustments",
+   "paras": [
+    "The Civil Code provides that if the cadastral value of the property is adjusted, the rent is proportionally adjusted, with an annual cap of 10% of the new cadastral value (art. 715). In practice, most contracts fix the price and its adjustment by agreement. Read the adjustment clause carefully and note the currency, especially if the rent is in dollars and you are paid in bolivianos."
+   ]
+  },
+  {
+   "h2": "If you have a conflict with the owner",
+   "paras": [
+    "First, everything in writing: complaints, notices and agreements by message or letter, keeping a copy. If there is no agreement, a conciliation center or a lawyer can help you before going to court. Keep paying the rent while you dispute the issue: stopping payment weakens your position."
+   ]
+  },
+  {
+   "h2": "Before signing your next lease",
+   "paras": [
+    "Compare prices in the same area and ask everything in writing. On Casa-Libre you see rentals on the map and write directly to the owner or agency via WhatsApp. You can also use the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can the owner evict me without a court order?",
+   "a": "No. For urban housing, the Civil Code provides termination by eviction judgment, among other methods. Removing the tenant by force or cutting off services is not legal."
+  },
+  {
+   "q": "Who pays for repairs?",
+   "a": "Those necessary for the dwelling to remain functional are the owner's responsibility. Minor maintenance is the tenant's responsibility (art. 690 of the Civil Code)."
+  },
+  {
+   "q": "If they sell the house, do I have to leave?",
+   "a": "If your contract has a fixed date (for example, with signatures recognized before a notary), the new owner must respect it (art. 711)."
+  },
+  {
+   "q": "Is the rental law that reduced the rent to 50% still in effect?",
+   "a": "Law 1342 of 2020 was exceptional, linked to the COVID-19 quarantine and a few months afterward. It is not a general rule in force."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Houses for rent",
+  "Guide for owners: renting your property",
+  "Requirements for renting in Bolivia"
+ ]
+}

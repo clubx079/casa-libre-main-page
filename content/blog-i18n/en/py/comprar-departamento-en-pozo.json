@@ -1,0 +1,134 @@
+{
+ "_src": "9573b7a69cf7",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a pre-construction apartment in Paraguay: risks and keys",
+  "h1": "Buying a pre-construction apartment: what it is, its risks and what to check",
+  "description": "What buying in pre-construction means, why it can be cheaper, what risks you assume and what to review about the developer and the contract before signing in Paraguay.",
+  "answer": "Buying \"en pozo\" means purchasing an apartment before the building is constructed, paying an advance and installments during the works. It usually allows a lower price and staged payments, but you assume the risk of delays, changes in the project or, in the worst case, the work not being completed. Before signing, review the developer's track record, ensure the land is in their name, the municipal approval of the project and a contract that sets a delivery deadline, specifications and what happens if it is not met."
+ },
+ "sections": [
+  {
+   "h2": "What buying off-plan means",
+   "paras": [
+    "The name comes from the well that is dug for the foundations: you buy when the building is just a project or in the early stages. The developer sells units in advance to finance part of the work, and in return offers a launch price and a payment plan that extends during construction.",
+    "The escritura (public deed) in your name is normally not signed at the beginning but when the building is finished and the horizontal property regime is established. In the meantime, what you have is a contract (sometimes called a boleto or purchase commitment) that gives you the right to receive the unit."
+   ]
+  },
+  {
+   "h2": "Advantages and risks, no frills",
+   "paras": [
+    "The main advantage is financial: launch price, ability to choose floor and orientation, and installments that are paid while the work progresses without needing a bank loan from day one. The risk is that you are paying for something that does not yet exist."
+   ],
+   "table": {
+    "head": [
+     "In favor",
+     "Against"
+    ],
+    "rows": [
+     [
+      "Launch price, generally lower than that of a finished apartment",
+      "Delays in delivery, sometimes months"
+     ],
+     [
+      "Payments in installments during construction",
+      "Changes in materials or design compared to what was promised"
+     ],
+     [
+      "You choose unit, floor and orientation",
+      "If the developer has problems, recovering what you paid can be lengthy"
+     ],
+     [
+      "New unit, no immediate repairs",
+      "You cannot see or test what you buy before paying"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to investigate the developer",
+   "paras": [
+    "What matters most in an off-plan purchase is who builds it. Before looking at renders and amenities, investigate the company:"
+   ],
+   "bullets": [
+    "Ask for the list of buildings they have already delivered and go see one. Talk to the residents about timelines and finishes.",
+    "Ask for the corporate name and the RUC of the company that signs the contract (not just the trade name).",
+    "Consult with your escribano (notary) for a domain condition report of the land: that it is in the name of the developer or a trust, and whether it has mortgages.",
+    "Ask if the project has the plans approved by the municipality and a current construction permit.",
+    "Ask how the work is financed: with own capital, bank credit or a trust, and who manages the buyers’ money."
+   ],
+   "tip": "Having the buyers’ money go into a trust administered by an authorized entity does not eliminate risk, but it adds external control over how it is used. Always ask about it."
+  },
+  {
+   "h2": "Contract clauses you need to understand",
+   "paras": [
+    "The contract is your only protection while the building does not exist. Have it reviewed by an escribano or a lawyer you trust before signing, not by the developer’s. Pay special attention to:"
+   ],
+   "bullets": [
+    "Delivery deadline with a concrete date and how much tolerance the company has.",
+    "Penalties for delay: do they pay you something per month of delay? Can you rescind and recover what you paid?",
+    "Specifications: unit size (private and common), materials, openings, fixtures and whether it includes a garage or storage box.",
+    "Price and adjustments: whether the balance is fixed or adjusted by an index, and in which currency.",
+    "What happens if you stop paying: fines, loss of amounts paid or possibility to assign the contract.",
+    "Assignment: whether you can sell your contract to another person before delivery and at what cost.",
+    "When and how the escritura is signed, and who pays its expenses."
+   ]
+  },
+  {
+   "h2": "Payment plan and currency",
+   "paras": [
+    "A common scheme combines an upfront payment at signing, monthly installments during construction and a final balance at delivery. That final balance is usually the largest part, and many buyers cover it with a mortgage loan. Before signing, check with a bank whether you could qualify for that loan when the time comes, because if you don’t get it you must have the money ready.",
+    "In Paraguay many projects are sold in dollars. If you are paid in guaraníes, each installment depends on the month’s exchange rate: do your calculations with a dollar price higher than today’s to see if you remain comfortable. If the contract provides for a balance adjustment, ask that the formula be written clearly."
+   ]
+  },
+  {
+   "h2": "During construction: monitoring",
+   "paras": [
+    "Keep all receipts and written communications. Visit the site from time to time or request progress reports with photos. If you notice the work stops for weeks, ask immediately and in writing: the sooner you detect a problem, the more options you have.",
+    "If you want changes in your unit (walls, finishes), agree them in writing with price and their effect on the schedule."
+   ]
+  },
+  {
+   "h2": "What you receive at delivery",
+   "paras": [
+    "When the work is finished, the developer invites you to receive the unit. Before signing the delivery act, walk through it calmly: test taps, drains, light switches, openings, and note every pending detail in the act. Anything not written afterward is hard to claim."
+   ],
+   "bullets": [
+    "Delivery act with a list of observations.",
+    "Keys, controls and equipment manuals.",
+    "Co-ownership regulations and building administration details (expensas).",
+    "Planned date for the escritura and registration in your name."
+   ]
+  },
+  {
+   "h2": "Compare with finished apartments",
+   "paras": [
+    "Before deciding, compare the off-plan price with brand-new or used apartments in the same area: sometimes the difference does not justify the risk and the wait. On Casa-Libre you can see apartments for sale on the map and message the seller directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does pre-construction apartment mean?",
+   "a": "It is an apartment that is bought before the building is constructed. You pay an advance and installments during the works, and you receive the unit when it is finished."
+  },
+  {
+   "q": "Is it safe to buy pre-construction?",
+   "a": "It has its own risks: delays, changes in the project or the developer's financial problems. They are reduced by investigating the company, verifying the land and permits, and signing a contract reviewed by your own escribano (notary) or lawyer."
+  },
+  {
+   "q": "When is the escritura of a pre-construction apartment signed?",
+   "a": "Usually when the building is completed, when the horizontal property is constituted. Until that moment your derecho is in the purchase contract."
+  },
+  {
+   "q": "Can I use a mortgage loan to buy pre-construction?",
+   "a": "Many buyers finance the final balance with a loan at the time of delivery. Check beforehand with a financial institution if you could qualify and under what conditions."
+  }
+ ],
+ "related": [
+  "Apartments for sale",
+  "Properties in Asunción",
+  "Guide: how to buy your first home"
+ ]
+}

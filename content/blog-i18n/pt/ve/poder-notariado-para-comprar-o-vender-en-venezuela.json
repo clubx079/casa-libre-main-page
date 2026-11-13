@@ -1,0 +1,124 @@
+{
+ "_src": "333b79a970e8",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Poder notariado para comprar ou vender na Venezuela",
+  "h1": "Poder notariado para comprar ou vender um imóvel na Venezuela, também do exterior",
+  "description": "Quando você precisa de um poder para comprar ou vender um imóvel na Venezuela, a diferença entre poder geral e especial, como concedê-lo em um cartório ou no exterior e como verificá-lo.",
+  "answer": "Se você não pode estar na Venezuela para assinar uma compra ou venda, pode conceder um poder a alguém de confiança para que assine por você. Para imóveis, recomenda-se um poder especial que nomeie o imóvel e as faculdades exatas (vender, cobrar, assinar perante o registro). Na Venezuela o poder é concedido perante notário; no exterior, perante o consulado venezuelano ou perante um notário local com apostila. Se comprar de um procurador, verifique o poder no cartório que o autenticou."
+ },
+ "sections": [
+  {
+   "h2": "Quando você precisa de uma procuração",
+   "paras": [
+    "Muitos venezuelanos que vivem no exterior têm imóveis no país ou querem comprar um. Como a compra e venda é assinada perante o Registro Imobiliário, alguém tem que estar presente. Se você não pode viajar, a procuração permite que outra pessoa assine em seu nome.",
+    "Também é usada quando o proprietário está doente, quando vários herdeiros vendem juntos e alguns moram longe, ou quando uma pessoa quer que um familiar cuide dos trâmites."
+   ]
+  },
+  {
+   "h2": "Procuração geral ou procuração especial",
+   "paras": [
+    "Para vender um imóvel, a procuração deve incluir expressamente a faculdade de dispor (vender) e, se o procurador vai receber o dinheiro, a de cobrar e dar recibo. Uma procuração que só diz \"administrar\" não basta para vender."
+   ],
+   "table": {
+    "head": [
+     "Tipo",
+     "O que permite",
+     "Quando usar"
+    ],
+    "rows": [
+     [
+      "Procuração geral de administração e disposição",
+      "Atuar em muitos assuntos do outorgante, inclusive seus bens",
+      "Quando você confia plenamente no procurador e precisa que ele gerencie vários assuntos"
+     ],
+     [
+      "Procuração especial",
+      "Atos concretos sobre um bem concreto: vender tal apartamento, cobrar o preço, assinar perante o registro",
+      "Para uma compra ou venda pontual; é o mais recomendável"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O que deve constar em uma procuração especial para um imóvel",
+   "bullets": [
+    "Dados completos do outorgante e do procurador: nomes, cédulas e estado civil.",
+    "Identificação do imóvel: endereço, limites e dados de registro do documento de propriedade.",
+    "Faculdades exatas: vender ou comprar, fixar preço, cobrar ou pagar, assinar o documento, tramitar solvências e pagamentos perante o SENIAT e a alcaldia.",
+    "Se houver cônjuge com direitos sobre o bem, seu consentimento ou sua própria procuração.",
+    "Vigência, se quiser limitá-la no tempo."
+   ]
+  },
+  {
+   "h2": "Como é concedida na Venezuela",
+   "steps": [
+    "Peça a um advogado que redija a procuração. As notarías costumam exigir que o documento esteja visado por advogado.",
+    "Inicie o trâmite pelo sistema online do SAREN, carregue o documento e pague as taxas.",
+    "Compareça à notaría na data agendada com sua cédula, para assinar perante o notário.",
+    "Retire a procuração autenticada e entregue uma cópia certificada ao procurador."
+   ]
+  },
+  {
+   "h2": "Se você mora no exterior",
+   "paras": [
+    "Existem dois caminhos habituais. O primeiro é conceder a procuração perante o consulado da Venezuela no seu país de residência, que atua como notaría. O segundo é assiná-la perante um notário do país onde você vive e depois apostilá-la (se esse país for parte do Convênio de Haia sobre a apostila) para que tenha validade na Venezuela. Se a procuração estiver em outro idioma, será necessária uma tradução por intérprete público.",
+    "Antes de assinar no exterior, peça ao seu advogado na Venezuela que revise o texto. Um erro nos dados do imóvel ou nas faculdades pode fazer com que o registro não aceite a procuração e você tenha que repetir tudo."
+   ],
+   "tip": "Envie ao procurador o original com a apostila por um serviço de mensageria com rastreamento. Uma cópia simples escaneada não serve para assinar perante o registro."
+  },
+  {
+   "h2": "Se você compra de alguém que age com procuração",
+   "paras": [
+    "É uma situação comum e legítima, mas também um ponto onde surgem fraudes: procurações falsas, revogadas ou que não incluem a faculdade de vender."
+   ],
+   "bullets": [
+    "Peça cópia da procuração e verifique se inclui expressamente a faculdade de vender aquele imóvel.",
+    "Confirme com a notaría ou consulado que a concedeu que a procuração existe e não foi revogada.",
+    "Se for do exterior, verifique a apostila ou legalização.",
+    "Que seu advogado confirme que o registro aceitará aquela procuração.",
+    "Pague para uma conta em nome do proprietário, salvo se a procuração autorizar expressamente o procurador a cobrar."
+   ]
+  },
+  {
+   "h2": "Como revogar uma procuração",
+   "paras": [
+    "Se você já não confia no procurador ou a operação mudou, pode revogar a procuração com um documento de revogação autenticado perante notaría ou consulado. Notifique a revogação ao procurador e, se souber com quem ele estava negociando, também a essa pessoa, para que ninguém atue com uma procuração que já não vale."
+   ]
+  },
+  {
+   "h2": "Comprar ou vender à distância com Casa-Libre",
+   "paras": [
+    "Se você vende do exterior, pode publicar seu imóvel na Casa-Libre e atender as consultas por WhatsApp enquanto seu procurador faz as visitas. Se compra, pode ver opções no mapa e pedir vídeos antes de decidir. Na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso vender meu apartamento na Venezuela estando no exterior?",
+   "a": "Sim, concedendo um poder especial perante o consulado venezuelano ou perante um notário local com apostila, para que um procurador assine em seu nome."
+  },
+  {
+   "q": "Um poder geral serve para vender?",
+   "a": "Só se incluir expressamente a faculdade de dispor ou vender bens. Para uma venda pontual, o recomendável é um poder especial."
+  },
+  {
+   "q": "Como verifico se um poder é real?",
+   "a": "Confirme com o cartório ou o consulado que o concedeu que ele existe e que não foi revogado, e peça ao seu advogado que o revise."
+  },
+  {
+   "q": "Preciso apostilar um poder feito no exterior?",
+   "a": "Se você o assinar perante um notário estrangeiro, normalmente sim, ou legalizá-lo se o país não for parte do convênio da apostila. Se concedê-lo no consulado venezuelano, siga as instruções dele."
+  },
+  {
+   "q": "É possível revogar um poder?",
+   "a": "Sim, com um documento de revogação autenticado perante notário ou consulado. Notifique o procurador e quem estiver negociando com ele."
+  }
+ ],
+ "related": [
+  "Publicar seu imóvel",
+  "Propriedades à venda",
+  "Comprar casa do exterior"
+ ]
+}

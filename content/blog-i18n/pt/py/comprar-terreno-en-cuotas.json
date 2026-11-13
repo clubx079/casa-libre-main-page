@@ -1,0 +1,106 @@
+{
+ "_src": "6891ffc7f4d3",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar um terreno em parcelas no Paraguai: o que verificar",
+  "h1": "Comprar um terreno em parcelas: o que verificar antes de assinar",
+  "description": "Antes de comprar um lote em parcelas no Paraguai: aprovação municipal, contrato, moeda das parcelas, atrasos, quando entregam a escritura e serviços.",
+  "answer": "Comprar um terreno em parcelas em um loteamento é comum no Paraguai, mas antes de assinar verifique cinco coisas: que o loteamento esteja aprovado pela municipalidade e que o lote tenha sua própria conta corrente cadastral ou esteja em tramitação; que o contrato indique o preço total, a moeda, a quantidade de parcelas e o que acontece se você atrasar; quando e como a escritura será assinada em seu nome; quais serviços realmente existem (água, luz, ruas); e quem é o titular registral do imóvel matriz. Enquanto paga parcelas, o lote normalmente continua em nome do vendedor."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona uma compra em parcelas",
+   "paras": [
+    "Na maioria dos loteamentos o vendedor (uma empresa loteadora ou um particular) financia diretamente: você assina um contrato de compra e venda a prazo, paga uma entrada e depois parcelas mensais, e só ao terminar de pagar (ou ao atingir certo percentual) se assina a escritura pública que o torna proprietário. Até esse momento, nos Registros Públicos o lote continua constando em nome do vendedor.",
+    "Isso não é ruim em si, é como funciona o sistema, mas significa que sua proteção depende quase totalmente do contrato e da seriedade de quem vende. Por isso a revisão prévia é mais importante que em uma compra à vista."
+   ]
+  },
+  {
+   "h2": "1. O loteamento está aprovado pela municipalidade?",
+   "paras": [
+    "Para dividir um imóvel em lotes e vendê-los, o loteamento precisa estar aprovado pela municipalidade do distrito, com seus planos, ruas e espaços públicos. Um loteamento sem aprovação pode trazer problemas graves: lotes que não podem ser escriturados individualmente, ruas que não são públicas ou impossibilidade de conectar serviços."
+   ],
+   "bullets": [
+    "Peça a resolução municipal de aprovação do loteamento e o plano aprovado.",
+    "Verifique se o seu lote está nesse plano, com as mesmas medidas e número.",
+    "Pergunte se o lote já tem conta corrente cadastral própria ou se está em tramitação. O Serviço Nacional de Cadastro e a municipalidade podem orientá-lo.",
+    "Peça a um escribano (tabelião) um relatório de condição de domínio do imóvel matriz: quem é o titular e se há hipotecas, penhoras ou litígios."
+   ]
+  },
+  {
+   "h2": "2. O contrato: o que tem que dizer sim ou sim",
+   "paras": [
+    "O contrato de compra e venda a prazo é seu documento principal. Leia-o com calma, e se puder, que o revise um escribano ou advogado antes de assinar. Observe que estejam claros estes pontos:"
+   ],
+   "bullets": [
+    "Identificação do vendedor e de seu direito sobre o imóvel.",
+    "Lote exato: número, quadra, medidas, superfície e conta corrente cadastral, se existir.",
+    "Preço total, valor da entrada, número de parcelas, valor de cada parcela e data de pagamento.",
+    "Moeda das parcelas e se há reajustes ou juros.",
+    "O que acontece se você atrasar: juros moratórios, períodos de carência e em que caso o vendedor pode rescindir.",
+    "O que acontece com o que já foi pago se o contrato for rescindido.",
+    "Quando se assina a escritura, quem escolhe o escribano e quem paga esses custos.",
+    "Quem paga o imposto predial do lote enquanto dura o plano."
+   ],
+   "tip": "Guarde todos os recibos das parcelas, com data, número do lote e assinatura ou selo do vendedor. Se pagar por transferência, guarde os comprovantes junto com o contrato."
+  },
+  {
+   "h2": "3. Parcelas em dólares ou em guaranis",
+   "paras": [
+    "Muitos loteamentos publicam parcelas em guaranis e outros em dólares. Se sua renda é em guaranis e as parcelas são em dólares, quando o dólar sobe sua parcela sobe em guaranis, ainda que no contrato seja \"a mesma\". Em planos longos essa diferença pode ser grande.",
+    "Também verifique se a parcela é fixa ou se o contrato prevê reajustes. Uma parcela que se reajusta a cada ano pode terminar bem mais alta que a que lhe mostraram no anúncio."
+   ]
+  },
+  {
+   "h2": "4. O que acontece se você atrasar",
+   "paras": [
+    "É o ponto que mais se ignora. Alguns contratos preveem que, após certo número de parcelas em atraso, o vendedor pode rescindir e ficar com parte ou todo o pago. Antes de assinar, pergunte exatamente quantas parcelas em atraso o contrato tolera, se avisam antes de rescindir e se você pode regularizar a situação.",
+    "Se tiver dúvidas sobre se uma cláusula é abusiva, consulte um advogado. O Código Civil regula a compra e venda e os contratos, e a lei de defesa do consumidor pode ser relevante quando vende uma empresa."
+   ]
+  },
+  {
+   "h2": "5. Quando entregam a escritura",
+   "paras": [
+    "Ser realmente dono significa ter a escritura pública inscrita em seu nome nos Registros Públicos. Pergunte se a escritura ocorre ao terminar de pagar, ao atingir um percentual ou se existe a opção de escriturar antes com hipoteca a favor do vendedor. Quanto antes for inscrita em seu nome, mais protegido você está.",
+    "Peça que o contrato indique quantos dias após o último pagamento a escritura será assinada. Há compradores que terminaram de pagar e esperaram anos pelo título."
+   ]
+  },
+  {
+   "h2": "6. Serviços reais, não prometidos",
+   "paras": [
+    "Um lote barato sem água nem energia pode sair caro: levar uma linha elétrica ou perfurar um poço custa. Visite o loteamento, veja se há postes da ANDE com rede próxima, se há rede de água (ESSAP, junta de saneamento ou poço privado) e em que estado estão as ruas após uma chuva.",
+    "Se os serviços são uma promessa (\"serão instalados\"), peça que constem no contrato com data e quem os paga."
+   ]
+  },
+  {
+   "h2": "Compare com terrenos à vista",
+   "paras": [
+    "O preço total em parcelas costuma ser maior que o preço à vista. Compare a soma de todas as parcelas com o que pedem por lotes semelhantes na mesma região. No Casa-Libre você pode ver terrenos à venda no mapa e escrever direto ao dono ou à imobiliária por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É seguro comprar um terreno em parcelas no Paraguai?",
+   "a": "Pode ser, se o loteamento estiver aprovado pela municipalidade, o vendedor for o titular registral, o contrato for claro e estiver definido quando a escritura será assinada. O risco está em loteamentos sem aprovação e contratos com cláusulas de rescisão rígidas."
+  },
+  {
+   "q": "Em nome de quem está o lote enquanto pago as parcelas?",
+   "a": "Normalmente continua em nome do vendedor até que a escritura seja assinada e registrada. Por isso é fundamental que o contrato fixe quando a escritura será feita."
+  },
+  {
+   "q": "O que acontece se eu deixar de pagar as parcelas?",
+   "a": "Depende do contrato: pode haver juros de mora e, após certo número de parcelas em atraso, a rescisão. Leia essa cláusula antes de assinar e pergunte o que acontece com o que já foi pago."
+  },
+  {
+   "q": "Como sei se um loteamento está aprovado?",
+   "a": "Peça a resolução municipal de aprovação e o plano aprovado, e consulte na municipalidade do distrito. Um escribano (tabelião) pode verificar também a situação registral do imóvel matriz."
+  }
+ ],
+ "related": [
+  "Terrenos à venda",
+  "Comprar propriedades",
+  "Guia: custos ao comprar"
+ ]
+}

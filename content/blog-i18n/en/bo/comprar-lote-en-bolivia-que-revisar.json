@@ -1,0 +1,91 @@
+{
+ "_src": "61e39cb14933",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a Lot in Bolivia: What to Check Before Paying",
+  "h1": "Buying a Lot or Land in Bolivia: What You Need to Review Before Paying",
+  "description": "Before buying a lot in Bolivia check the folio real, approved urbanization, plan, services, risks and whether they sell you the whole lot or shares and rights. Practical checklist.",
+  "answer": "Before you pay for a lot in Bolivia, check four things: that the seller is the owner registered in Derechos Reales (Real Rights Register) and the lot has no liens (folio real (real title) and alodial certificate); that the urbanization is approved by the alcaldía, with the lot individualised on the plan; that the lot is urban and not rural land without processing; and that it has access, nearby services and is not in a risk zone. If they offer you \"acciones y derechos\", you are not buying a own lot."
+ },
+ "sections": [
+  {
+   "h2": "Why a lot needs more care than a house",
+   "paras": [
+    "In a house you see what you buy: walls, roof, services. In a lot, what you buy is almost all paperwork: a property right, an approved location and the possibility to build. That is why the most common problems with lots are legal and zoning, not physical: lots sold twice, developments that the alcaldía never approved, green areas or streets sold as lots, or rural lands subdivided without a change of use.",
+    "In the fast-growing outskirts of cities such as Santa Cruz de la Sierra, El Alto or Cochabamba, the supply of lots is large and low prices are tempting. That is precisely where you should review more calmly."
+   ]
+  },
+  {
+   "h2": "The papers: folio real, alodial and plan",
+   "bullets": [
+    "Folio real (land title) updated in Derechos Reales: confirms who the owner is, the registered area and whether there are mortgages, anticréticos (mortgage-like liens) or seizures.",
+    "Alodial certificate: proves whether the property is free of encumbrances.",
+    "Plan of the lot approved by the municipal government, with measurements and boundaries that match the folio real.",
+    "Proof of payment of the municipal property tax for the last years.",
+    "If the seller is a development company, its incorporation documents and the approval of the development."
+   ],
+   "tip": "When a development is registered in Derechos Reales, each lot receives its own matrícula. If they tell you that your lot \"still does not have its own matrícula\", ask why and when it will have one, and do not pay the full amount until then."
+  },
+  {
+   "h2": "Own lot or \"acciones y derechos\": the difference matters",
+   "paras": [
+    "Many ads offer the purchase of \"acciones y derechos\" on a larger parcel. That means you are buying an ideal share of a co-ownership, not an individual lot with its own matrícula. They may show you \"your part\" on the land, but in Derechos Reales you remain a co-owner, and to split and have your own lot you will need a division process that requires agreement and approved plans.",
+    "It is not always a scam, but the risk is much higher: conflicts among co-owners, years of delays and difficulty obtaining credit, because banks usually require an individualized property as collateral."
+   ]
+  },
+  {
+   "h2": "Urban or rural: who governs that land",
+   "paras": [
+    "Urban land is administered by the municipal government (cadastre, plan approval, taxes). Rural land falls under the agrarian regime and the Instituto Nacional de Reforma Agraria (INRA). A rural parcel subdivided without being incorporated by the municipality as urban may lack approval for housing, even if houses already exist around it.",
+    "Ask at the alcaldía if the area is within the homologated urban zone and what its land-use designation is. This inquiry can save you years of paperwork."
+   ]
+  },
+  {
+   "h2": "What you have to check on the land",
+   "bullets": [
+    "Access: is there an open, year-round road, or only a track that washes out with rain?",
+    "Services: how far do water, electricity and sewer lines extend? Connecting from a distance can be costly.",
+    "Risk: are there ravines, dry streams, unstable slopes or flood-prone zones? Ask neighbors and look for the municipal risk map if it exists.",
+    "Markers and boundaries: that the plan measurements can be located on the ground, ideally with a surveyor.",
+    "Occupants: if someone is living or caring for the lot, find out under what right they are there."
+   ]
+  },
+  {
+   "h2": "Buying a lot in installments",
+   "paras": [
+    "Developers often offer lots with an initial down payment and monthly installments. Before signing, read what happens if you fall behind (do you lose what you have paid?), when you receive the escritura (public deed) in your name and whether the price is fixed in bolivianos or dollars. Ideally the contract provides for the transfer and registration in Derechos Reales in your name within a specific period, even if a mortgage in favor of the seller remains until the balance is paid."
+   ]
+  },
+  {
+   "h2": "Finding lots with context",
+   "paras": [
+    "On Casa-Libre you can view land for sale on a map and compare location, access and price per square meter before visiting. Message the advertiser via WhatsApp and request the matrícula number and the approved plan up front. You can also save lots from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a lot has a legal owner?",
+   "a": "Request an updated folio real with the lot's registration number from Derechos Reales (Real Rights Register). It will show the registered holder and any liens. If the seller does not appear as the owner, do not proceed."
+  },
+  {
+   "q": "What does buying shares and rights mean?",
+   "a": "It means you are buying a portion of a co-ownership, not an individual lot. To have your own lot you need a division process with approved plans and agreement of the co-owners."
+  },
+  {
+   "q": "Is it safe to buy a lot in installments?",
+   "a": "It can be safe if the seller is the registered owner, the urbanization is approved, and the contract specifies when you receive the escritura in your name. Be wary if there is no individual registration for the lot."
+  },
+  {
+   "q": "Can I start building as soon as I buy the lot?",
+   "a": "You need your construction plan approved by the alcaldía, and for that they usually require the lot to be registered in your name and taxes up to date."
+  }
+ ],
+ "related": [
+  "Land and Lots for Sale",
+  "Properties in Santa Cruz de la Sierra",
+  "Guide: Costs When Buying",
+  "Approved Plan and Municipal Cadastre"
+ ]
+}

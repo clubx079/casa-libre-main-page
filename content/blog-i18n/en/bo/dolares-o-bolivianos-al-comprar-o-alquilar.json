@@ -1,0 +1,92 @@
+{
+ "_src": "0e57b0d2e553",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dollars or bolivianos when buying or renting in Bolivia?",
+  "h1": "Dollars or bolivianos: which currency is best for buying, renting or making an anticrético (mortgage) in Bolivia",
+  "description": "With the flexible exchange rate since 2026, the currency of the real-estate contract matters more. What risks are involved in agreeing in dollars or bolivianos and how to draft the currency clause.",
+  "answer": "There is no \"better\" currency for everyone: the contract’s currency should match the currency in which you receive your income or hold your savings. Since June 2026 Bolivia abandoned the fixed exchange rate of 6.96 and moved to an official flexible rate published daily by the Banco Central de Bolivia. Therefore, if you agree in dollars and receive payments in bolivianos (or vice-versa), you assume the risk that the exchange rate will move. Write it precisely in the contract."
+ },
+ "sections": [
+  {
+   "h2": "What changed in 2026",
+   "paras": [
+    "For more than a decade the official dollar was fixed at Bs 6.96, and many purchase, lease and anticrético (mortgage loan) contracts were agreed in dollars without worrying much about conversion. In recent years, the shortage of dollars caused prices to vary depending on where they were exchanged.",
+    "In June 2026 the Government and the Central Bank of Bolivia adopted a flexible exchange-rate regime: the official rate is calculated each day from the dollar-buying operations of financial institutions. Since then the official rate has moved significantly within a few weeks. For a real-estate contract, that means the conversion between dollars and bolivianos is no longer a formality."
+   ]
+  },
+  {
+   "h2": "When buying: price, payment and credit",
+   "paras": [
+    "Many properties are listed in dollars. If you are paying with dollar savings, agreeing in dollars is straightforward. If you are paying in bolivianos or with a bank loan, the key question is: at what exchange rate is the price converted, and on what date?",
+    "Housing loans are mostly granted in bolivianos, and the social-interest housing regulation only counts loans in the national currency. If the price is in dollars and the loan is in bolivianos, the boliviano amount can change between signing the commitment and disbursement. Fix the price in the currency of payment or agree on a specific exchange rate."
+   ]
+  },
+  {
+   "h2": "When renting: the monthly fee",
+   "paras": [
+    "If you receive rent in bolivianos but the lease is priced in dollars, each month you pay a different amount of bolivianos. With a rising exchange rate, your rent increases even though the contract does not change. If possible, negotiate the rent in bolivianos with an agreed annual adjustment; for the landlord it provides predictability, and for you as well."
+   ]
+  },
+  {
+   "h2": "In the anticrético: what you give is what you get back",
+   "paras": [
+    "In an anticrético the currency matters even more, because the sum returns to you after years. If you deliver dollars and the contract states dollars, they must return dollars. If you deliver bolivianos, they return bolivianos, which may be worth less in dollars than when you gave them. This difference can be large in a contract of up to five years."
+   ],
+   "tip": "If the anticrético is in dollars and the owner proposes to return you bolivianos, the contract must specify which exchange rate is used: for example, the official rate published by the BCB on the day of repayment."
+  },
+  {
+   "h2": "How to draft the currency clause",
+   "bullets": [
+    "Currency of the obligation: which currency the price, rent or anticrético amount is set in.",
+    "Currency of payment: whether payment can be made in the other currency and with which exchange rate (official BCB rate, a specific entity’s rate) and from what date.",
+    "Method of payment: bank transfer to an account in that currency, with proof of transaction.",
+    "Adjustment: whether the amount is updated (for example, rent each year) and according to which criteria.",
+    "What happens if dollars are not available to pay in that currency on the due date."
+   ]
+  },
+  {
+   "h2": "If you are saving to buy",
+   "paras": [
+    "If you are saving for the down payment and the properties you are interested in are listed in dollars, a rise in the exchange rate can push your goal farther away even if you save the same amount each month. Consider the currency of the price of what you want to buy and the currency in which you are saving, and consult your financial institution about the options available for your case."
+   ]
+  },
+  {
+   "h2": "The UFV: the other unit you will see",
+   "paras": [
+    "In housing a third unit appears: the Unidad de Fomento de Vivienda (UFV), an index published daily by the Central Bank of Bolivia that tracks inflation. It is used, for example, to set caps for social-interest housing. It is not a currency you pay with, but some contracts use it to update amounts against inflation."
+   ]
+  },
+  {
+   "h2": "Compare prices in the currency that works for you",
+   "paras": [
+    "When you compare properties listed in different currencies, convert them using the exchange rate of the day to have a common reference. On Casa-Libre you see properties for sale and rent on the map and can ask the advertiser via WhatsApp if they accept payments in bolivianos. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does the dollar stay at 6.96 in Bolivia?",
+   "a": "No. Since the end of June 2026 an official flexible exchange rate calculated and published each day by the Banco Central de Bolivia is in effect."
+  },
+  {
+   "q": "Should I rent in dollars or bolivianos?",
+   "a": "Generally, in the currency in which you receive your income. If you receive bolivianos and rent in dollars, your rent in bolivianos rises each time the exchange rate goes up."
+  },
+  {
+   "q": "In which currency is an anticrético (mortgage) repaid?",
+   "a": "In the currency specified in the contract. If it was agreed in dollars, they must return dollars, unless the contract provides otherwise and sets the exchange rate."
+  },
+  {
+   "q": "What is the UFV?",
+   "a": "The Unidad de Fomento de Vivienda, a daily BCB index that tracks inflation. It is used in social-housing caps and to update amounts."
+  }
+ ],
+ "related": [
+  "Properties for sale",
+  "Rentals on the map",
+  "Guide: costs when buying a house",
+  "Anticrético contract: what to check"
+ ]
+}

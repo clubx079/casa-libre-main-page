@@ -1,0 +1,94 @@
+{
+ "_src": "acb201fbc18e",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Anticrético in Bolivia: what it is, how it works and its risks",
+  "h1": "Anticrético in Bolivia: what it is, how it works and how to protect yourself",
+  "description": "What anticrético is, why it is used in Bolivia, how long it lasts (maximum 5 years according to the Civil Code), why it must be done before a notario and registered in Derechos Reales, and its risks.",
+  "answer": "Anticrético is a contract in which you give the owner a sum of money and, in exchange, you live in their property without paying monthly rent; at the end, you return the property and the owner returns the full amount of money. The Civil Code calls it anticresis: it must be made in a public document (before a notario), it is only effective against third parties once it is registered in Derechos Reales and it cannot be agreed for more than five years."
+ },
+ "sections": [
+  {
+   "h2": "How the anticrético works in practice",
+   "paras": [
+    "Legally, the anticrético is a guarantee: the owner receives money (like a loan) and gives you the use of the property as guarantee and as \"interest\". You do not pay rent and he does not pay you interest. When the term expires, the owner returns exactly the amount received and you return the property to him.",
+    "For someone looking for housing, the advantage is clear: there is no monthly rent expense and, if everything goes well, you get your money back at the end. For the owner, it is a way to obtain a large sum at once without going through a bank. That is why the anticrético is so common in cities such as La Paz, El Alto, Cochabamba and Santa Cruz."
+   ]
+  },
+  {
+   "h2": "What the Civil Code says",
+   "paras": [
+    "The Bolivian Civil Code regulates anticresis in articles 1429 to 1435. These are the rules that affect you the most if you are going to hand over your money:"
+   ],
+   "bullets": [
+    "It must be constituted by a public document, that is, with escritura ante notario de fe pública (public deed before a notary public) (art. 1430).",
+    "It only takes effect against third parties from the day of its registration in the registry, which is Derechos Reales (art. 1430).",
+    "It gives you a right of retention (you can stay in the property until the money is returned to you) and a preference over other creditors (arts. 1431 and 1432).",
+    "Unless otherwise agreed, the person who gives the money (the anticresista) pays the property’s annual taxes and charges and must maintain it like a good family head (art. 1434).",
+    "It cannot be agreed for more than five years; if a longer term is agreed, it is reduced to five (art. 1435).",
+    "An urban property intended for housing cannot be simultaneously rented and under anticrético (art. 716)."
+   ]
+  },
+  {
+   "h2": "The real risks of anticrético",
+   "paras": [
+    "The biggest risk is not recovering your money. This happens especially in three situations: when the owner already had a mortgage and the bank forecloses the house; when the same property is given under anticrético to more than one person; and when the owner simply does not have the money to return at the end of the term.",
+    "Registration in Derechos Reales is your main defense: if your anticrético is registered, anyone who buys or receives the property later must respect it. A private contract without registration leaves you much more exposed."
+   ],
+   "tip": "Before handing over a single boliviano, request the updated folio real of the property. If a mortgage or a prior active anticrético appears, stop and consult a lawyer."
+  },
+  {
+   "h2": "Steps to make a safe anticrético",
+   "steps": [
+    "Request the registration number and obtain the updated folio real in Derechos Reales: confirm that the person offering the anticrético is the owner and that there are no mortgages, anticréticos or liens in force.",
+    "Check that the property’s municipal taxes are paid.",
+    "Agree on the amount, the term (maximum five years) and who pays taxes, expensas and repairs.",
+    "Sign the minuta and the escritura pública before a notary public.",
+    "Transfer the money or provide a bank receipt in the name of the registered owner, at the same moment of signing.",
+    "Register the anticrético in Derechos Reales and keep the folio real that shows your right.",
+    "When receiving the property, make a delivery act with photos of the condition of everything."
+   ]
+  },
+  {
+   "h2": "If you don’t have all the money: credit for anticrético",
+   "paras": [
+    "Various financial institutions offer credit for housing anticrético. The social housing regulation even allows those credits to count toward the social housing portfolio when the property does not exceed the value caps. Compare the loan installment with what you would pay in rent: if the installment is similar, the anticrético can make sense because you recover the capital at the end; if it is much higher, perhaps not."
+   ]
+  },
+  {
+   "h2": "How to look for an anticrético",
+   "paras": [
+    "First search by area and then ask directly if the owner accepts anticrético: many owners who post rentals also consider it. On Casa-Libre you can see houses and apartments on the map and write to the owner or the agency via WhatsApp. Ask for the registration number in the first message. You can also search from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long can an anticrético last?",
+   "a": "According to article 1435 of the Civil Code, a maximum of five years. If a longer term is agreed, it is reduced to five."
+  },
+  {
+   "q": "Does the anticrético have to be registered in Derechos Reales?",
+   "a": "Yes, to be enforceable against third parties. Article 1430 states that the contract is constituted by a public document and takes effect against third parties upon registration in the registry."
+  },
+  {
+   "q": "Who pays the taxes in an anticrético?",
+   "a": "According to article 1434, if nothing else is agreed, the anticresista creditor. In practice it is negotiated; put it in writing in the contract."
+  },
+  {
+   "q": "What happens if at the end the owner does not return the money?",
+   "a": "You have a right of retention: you can stay in the property until you are paid, and you can claim it in court. With the anticrético registered, your position against other creditors is much stronger."
+  },
+  {
+   "q": "Can the same dwelling be rented and given as an anticrético?",
+   "a": "No, not at the same time. Article 716 of the Civil Code prohibits this for urban properties intended for housing and sanctions the anticrético with nullity."
+  }
+ ],
+ "related": [
+  "Apartments to live in",
+  "Houses to live in",
+  "Properties in La Paz",
+  "Anticrético contract: what to review"
+ ]
+}

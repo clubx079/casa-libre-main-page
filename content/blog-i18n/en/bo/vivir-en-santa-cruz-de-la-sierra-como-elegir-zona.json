@@ -1,0 +1,104 @@
+{
+ "_src": "b69ea5345ee7",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Living in Santa Cruz de la Sierra: How to Choose a Neighborhood",
+  "h1": "Living in Santa Cruz de the Sierra: How to Choose a Neighborhood Based on Your Routine and Budget",
+  "description": "Criteria for choosing where to live in Santa Cruz de la Sierra: rings and radial avenues, distance to work, drainage and rain, heat, services, safety and neighboring municipalities. No rankings, with useful questions.",
+  "answer": "To choose a neighborhood in Santa Cruz de la Sierra, start with your routine: where you work or study and how much time you want to spend in traffic. The city is organized in concentric rings crossed by radial avenues; generally, the closer to the center and the first rings, the more services and the higher the price, while farther out there is more space and lower prices, but longer commutes. Also check how the street drains when it rains and which services reach it."
+ },
+ "sections": [
+  {
+   "h2": "How the city is organized: rings and radials",
+   "paras": [
+    "Santa Cruz de la Sierra grew in circles around the old town: the rings are beltways numbered from the center outward, and the radials are avenues that radiate from the center like spokes of a wheel. That is why locals locate themselves by saying \"between the third and fourth ring, on such radial\".",
+    "That scheme helps you plan your search: proximity to the inner rings usually means more commerce, services and health centers nearby; the outer rings and peripheral areas offer larger lots and more affordable prices, but longer trips and, sometimes, unpaved streets or incomplete services."
+   ]
+  },
+  {
+   "h2": "Start with your routine, not with the trendy neighborhood",
+   "bullets": [
+    "Do a test commute home-work during rush hour, not on a Sunday. In a sprawling city, travel time in minutes matters more than distance in kilometers.",
+    "If you rely on public transport, check which minibuses run nearby and until what hour.",
+    "With children, locate the school first: changing schools is usually harder than changing houses.",
+    "If you work from home, prioritize a stable internet connection and a quiet area during the day."
+   ]
+  },
+  {
+   "h2": "Rain, drainage and heat: what you notice after moving in",
+   "paras": [
+    "Santa Cruz has a warm climate and intense rains in the wet season. In some areas, a heavy downpour leaves streets flooded for hours. Before renting or buying, ask neighbors how the street behaves when it rains, look for drainage channels nearby and see whether the house is higher or lower than the road.",
+    "Heat also changes the ideal home: window orientation, shade, cross-ventilation, space for air conditioning and its electricity consumption. A cool house can save you a lot on the electricity bill."
+   ],
+   "tip": "Visit the property the day after a heavy rain. Moisture marks on low walls and the condition of the street tell you more than any listing description."
+  },
+  {
+   "h2": "Services: water, sewer, gas and pavement",
+   "paras": [
+    "In established areas services are complete, but in expanding zones they are not always. Ask whether the house has connection to the water and sewer network or relies on a well and septic tank, if there is domestic gas and whether the street is paved. Each of those points affects your monthly expense and quality of life."
+   ]
+  },
+  {
+   "h2": "Condominium, house in an open neighborhood or apartment",
+   "paras": [
+    "Closed condominiums offer controlled entry and common areas, in exchange for fees and internal rules. A house in an open neighborhood gives more freedom and usually has no fees, but security and maintenance depend on you. An apartment is often better located for the same price, although with less space. Always request the amount of the fees and what they include."
+   ]
+  },
+  {
+   "h2": "Neighboring municipalities: more space, more commute",
+   "paras": [
+    "The metropolitan area includes neighboring municipalities where many people live and work in the city. They can offer more land for the same money, closed condominiums or a quieter environment. In return, the daily commute may be long, and municipal procedures (taxes, plans) are handled in another city hall, with its own rules.",
+    "If you look at new developments on the outskirts or across the Piraí River, carefully review the lot documents, access routes during the rainy season and whether the development is approved."
+   ]
+  },
+  {
+   "h2": "Security: how to assess it without bias",
+   "bullets": [
+    "Walk the block during the day and at night, and note the lighting.",
+    "Ask neighbors and local merchants, not just the advertiser.",
+    "In condominiums and buildings, ask how entry control works and how much it costs in fees.",
+    "Notice simple signals: open shops, people on the street, sidewalk maintenance."
+   ]
+  },
+  {
+   "h2": "Quick checklist to compare areas",
+   "steps": [
+    "Define your total budget, including services and transportation.",
+    "Mark your work, school and places you visit each week on a map.",
+    "Choose two or three candidate areas based on commute time.",
+    "Visit each during rush hour and after a rain.",
+    "Compare actual rental or sale prices in those areas."
+   ]
+  },
+  {
+   "h2": "Compare on the map",
+   "paras": [
+    "On Casa-Libre you can see properties in Santa Cruz de la Sierra on the map, compare them by area and price, and message the owner or agency directly via WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the best neighborhood to live in Santa Cruz de la Sierra?",
+   "a": "It depends on your routine and budget. Choose first by commute time to work or school, services and drainage, then compare prices in two or three candidate neighborhoods."
+  },
+  {
+   "q": "What are the rings of Santa Cruz?",
+   "a": "Ring roads numbered from the center outward. Together with the radials, they help you locate yourself in the city."
+  },
+  {
+   "q": "Does Santa Cruz flood?",
+   "a": "With heavy rains, some streets and areas become flooded. Ask neighbors and visit the property after a strong rain."
+  },
+  {
+   "q": "Is it convenient to live in a neighboring municipality?",
+   "a": "It can give you more space for the same price, but adds commute time and another mayor's office for procedures and taxes."
+  }
+ ],
+ "related": [
+  "Properties in Santa Cruz de la Sierra",
+  "Apartments for rent",
+  "Houses for sale"
+ ]
+}

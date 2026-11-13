@@ -1,0 +1,138 @@
+{
+ "_src": "293aeb1a0654",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Social Housing Fund Credit: requirements",
+  "h1": "Social Housing Fund (FSV) Credit: lines, requirements and how to apply",
+  "description": "How the FSV credit works in El Salvador: who can apply, lines such as Casa Joven, Casa Mujer, Vivienda en Altura and Vivienda Cercana, requirements and steps to apply.",
+  "answer": "The Social Housing Fund (FSV) is the public institution that provides mortgage loans for housing to Salvadoran workers, both in the formal sector and, in some lines, in the informal sector and Salvadorans abroad. It finances new or used housing, homes recovered by the Fund itself, lots, construction and improvements. In general it requires you to be over 18 years old, have verifiable income and payment capacity, a good credit history, be up to date with the tax authority and be covered by debt insurance. It has special lines such as Casa Joven, Casa Mujer, Vivienda en Altura and Vivienda Cercana."
+ },
+ "sections": [
+  {
+   "h2": "What is the FSV and how it differs from a bank",
+   "paras": [
+    "The FSV is an autonomous credit institution created by law to facilitate housing for workers. Unlike a commercial bank, its goal is social: its lines are designed for low- and middle-income people, and some include those who do not contribute to an AFP.",
+    "That does not mean it lends to anyone. The FSV evaluates your payment capacity and history, like any creditor, and the house is mortgaged in its favor until you finish paying."
+   ]
+  },
+  {
+   "h2": "What it can finance",
+   "bullets": [
+    "New housing in authorized projects.",
+    "Used housing.",
+    "Recovered housing sold by the FSV itself.",
+    "Purchase of a lot with services.",
+    "Construction of an individual house.",
+    "Repair, expansion or improvement.",
+    "Refinancing of housing debts with other institutions."
+   ]
+  },
+  {
+   "h2": "The most sought-after special lines",
+   "paras": [
+    "In addition to its general credit, the FSV has lines for specific groups. Conditions change over time; the following summarizes what was published in the press with information from the Fund in 2026, and must be confirmed with the FSV before applying."
+   ],
+   "table": {
+    "head": [
+     "Line",
+     "Generally for whom",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Casa Joven (formal sector)",
+      "People aged 18 to 35 who contribute to an AFP",
+      "Require salary certificate, AFP account statement and DUI"
+     ],
+     [
+      "Casa Joven (informal sector)",
+      "People aged 18 to 29 who do not contribute",
+      "At least two years of verifiable income"
+     ],
+     [
+      "Casa Mujer",
+      "Women aged 26 to 50, formal or informal",
+      "In the formal sector, credits up to US$50,000 according to the press"
+     ],
+     [
+      "Vivienda en Altura",
+      "Purchase of apartments in buildings of three or more levels",
+      "The building must have financing feasibility from the FSV"
+     ],
+     [
+      "Vivienda Cercana",
+      "Salvadorans abroad and families receiving remittances",
+      "Includes people with TPS and retirees abroad"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "General requirements",
+   "paras": [
+    "According to the information the FSV published in the press, the basic requirements are: being between 18 and 69 years old in the formal sector (up to 60 in the informal), verifiable income, payment capacity, good credit history, solvency with the Ministry of Finance and being a debt-insurance subject. Employees must have a minimum of contributions and independents a minimum time in their activity."
+   ],
+   "bullets": [
+    "DUI.",
+    "Salary certificate or employment confirmation and AFP account statement (formal sector).",
+    "Income proofs or remittance history (informal sector and Vivienda Cercana).",
+    "Fiscal solvency from the Ministry of Finance.",
+    "Property documents: escritura (public deed) of the seller, registration and solvencies, or the project documents if it is new housing."
+   ],
+   "tip": "If your income is insufficient, some lines allow a co-debtor. In Vivienda Cercana, according to the press, the co-debtor must have at least 25% of the payment capacity required of the primary debtor."
+  },
+  {
+   "h2": "Use the simulator before looking for a house",
+   "paras": [
+    "The FSV has a credit simulator on its website. It asks for your sector (employee, retiree, Salvadoran abroad, basic sector or micro-entrepreneur), the line, the type of property, your income and debts, and the house price. The result is indicative, but it tells you the price range to look for."
+   ]
+  },
+  {
+   "h2": "Steps to apply",
+   "steps": [
+    "Use the simulator and gather your income proofs.",
+    "Find a house within the range the simulator gives you.",
+    "Ask the seller for registration, escritura (public deed) and solvencies, and check the situation at the CNR.",
+    "Submit the application to the FSV with your documents and those of the property.",
+    "The FSV evaluates your payment capacity and appraises the property.",
+    "If approved, the escritura de compraventa with mortgage is signed before notario (notary) and registered at the CNR."
+   ]
+  },
+  {
+   "h2": "Debt insurance: what it covers",
+   "paras": [
+    "All debtors must be subjects of debt insurance. According to the FSV, cited by the press, that insurance can cancel the credit if the debtor or co-debtor dies or suffers a total and permanent disability. It is a protection for your family; ask the FSV how much it adds to your installment."
+   ]
+  },
+  {
+   "h2": "Find a home that fits your credit",
+   "paras": [
+    "On Casa-Libre you can filter houses and apartments by price and area, view them on the map and ask the seller via WhatsApp if they accept payment with an FSV credit. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Who can obtain an FSV credit?",
+   "a": "Formal-sector workers who contribute, and in some lines informal workers, retirees and Salvadorans abroad, provided they have verifiable income, payment capacity and a good credit history."
+  },
+  {
+   "q": "What is Casa Joven of the FSV?",
+   "a": "It is a line for young people. According to the press, in the formal sector it is for persons aged 18 to 35 who contribute to an AFP, and in the informal sector for persons aged 18 to 29 with at least two years of verifiable income."
+  },
+  {
+   "q": "Does the FSV finance used houses?",
+   "a": "Yes. It finances new and used housing, homes recovered by the Fund, lots, construction and improvements."
+  },
+  {
+   "q": "Can I apply to the FSV if I live in the United States?",
+   "a": "Yes, with the Vivienda Cercana line, which includes Salvadorans with residence or citizenship abroad, people with TPS and retirees."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: buying your first home"
+ ]
+}

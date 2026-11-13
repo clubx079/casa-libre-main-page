@@ -1,0 +1,141 @@
+{
+ "_src": "9e5b99001488",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Che Róga Porã: requirements, rates and how to apply",
+  "h1": "Che Róga Porã: who can access it and how to apply step by step",
+  "description": "What Che Róga Porã is, who qualifies, the 6.5% and 9.9% rates depending on income, the maximum amounts and how to apply at a bank, finance company or cooperative.",
+  "answer": "Che Róga Porã is a housing credit program of the Paraguayan Government, financed through the AFD and processed by banks, finance companies and affiliated cooperatives. According to the official website (consulted in November 2026), it is intended for people aged 18 to 75 with incomes of 1 to 9 minimum wages: for 1 to 6 minimum wages the rate is 6.5% per year and for more than 6 to 9 minimum wages, 9.9%. To apply you go directly to an affiliated entity, which evaluates whether you are a credit subject."
+ },
+ "sections": [
+  {
+   "h2": "What is Che Róga Porã and how does it differ from a regular loan",
+   "paras": [
+    "Che Róga Porã (\"my beautiful house\" in Guaraní) is a housing program promoted by the Ministry of Urbanism, Housing and Habitat (MUVH) with funds channeled through the Agencia Financiera de Desarrollo (AFD). The AFD does not lend directly to individuals: it lends to banks, financial institutions and cooperatives, and those entities grant you the credit.",
+    "The difference with a regular mortgage loan lies in the conditions: lower fixed rates than the market’s usual ones for the target segment, and long terms that make the monthly payment resemble what many families already pay for rent. The official website presents it as an option for those who cannot obtain loans in the financial system on affordable terms.",
+    "The AFD also has other housing products, such as Primera Vivienda and Mi Casa. If you do not qualify for Che Róga Porã because of income or property value, ask the same institution about those lines."
+   ]
+  },
+  {
+   "h2": "Who can apply",
+   "paras": [
+    "According to the program’s official website, the basic requirements are these. Note: in addition to meeting them, the financial institution must qualify you as a credit applicant, meaning it will review your income, credit history and repayment capacity."
+   ],
+   "bullets": [
+    "Be between 18 and 75 years old.",
+    "Current identity card.",
+    "Income between 1 and 9 minimum wages (family-member income can be added, depending on what the institution accepts).",
+    "The house you want to buy or build must not exceed the maximum value set for your income bracket.",
+    "Be approved by a financial institution attached to the AFD."
+   ]
+  },
+  {
+   "h2": "Rates and maximum amounts by income bracket",
+   "paras": [
+    "These are the values published on the official Che Róga Porã site, consulted in November 2026. The amounts are tied to the minimum wage, so they change when it is adjusted. Always confirm them with the institution before signing."
+   ],
+   "tip": "The property-value ceiling is as important as the credit ceiling. Before falling in love with a house, compare its price with the maximum value for your bracket: if it exceeds it, the property is not eligible for the program.",
+   "table": {
+    "head": [
+     "Income bracket",
+     "Annual rate",
+     "Maximum financing",
+     "Maximum property value"
+    ],
+    "rows": [
+     [
+      "From 1 to 6 minimum wages (up to Gs. 18.264.000)",
+      "6.5%",
+      "Gs. 684.900.000",
+      "Gs. 821.880.000"
+     ],
+     [
+      "More than 6 up to 9 minimum wages (up to Gs. 27.396.000)",
+      "9.9%",
+      "Gs. 761.000.000",
+      "Gs. 913.200.000"
+     ],
+     [
+      "Asunción, Central and districts of Pdte. Hayes (Nueva Asunción, Benjamín Aceval, Villa Hayes), from 1 to 9 minimum wages",
+      "According to your bracket",
+      "Gs. 837.100.000",
+      "Gs. 1.156.720.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Term and payment: how to think about what you will pay",
+   "paras": [
+    "The official site does not detail the term in the conditions table, but Paraguayan press reported terms of up to 30 years. A long term lowers the monthly payment but increases the total interest you pay over the life of the loan. Ask the institution for a simulation with at least two different terms to compare.",
+    "The payment also depends on the amount you request: the more own savings you contribute, the less they lend you and the lower your monthly payment. Institutions look for a payment that is reasonable relative to your income; if it is too high, they will offer you a smaller amount."
+   ]
+  },
+  {
+   "h2": "How to apply step by step",
+   "paras": [
+    "The official site also offers a form to leave your data and be contacted, but the formal application is made at the financial institution."
+   ],
+   "steps": [
+    "Review your household income and locate your bracket (1 to 6 or more than 6 to 9 minimum wages).",
+    "Choose an attached institution. The official site lists banks (for example Atlas, BASA, Familiar, GNB, Itaú, Bancop, BNF, Interfisa, Solar, Sudameris and ZETA), financial institutions and more than twenty cooperatives.",
+    "Request from the institution the exact list of documents: they usually include identity card, income proofs and, if you are self-employed, RUC certificate and bank statements.",
+    "Ask for a pre-qualification: they will tell you how much you could receive and the approximate payment.",
+    "Find a property within the maximum value for your bracket and with paperwork in order (registered title, no debts or pending liens).",
+    "The institution conducts the appraisal and legal analysis of the property with a escribano (notary).",
+    "If everything is approved, the sale deed and the mortgage are signed in favor of the institution."
+   ]
+  },
+  {
+   "h2": "What property you can buy with Che Róga Porã",
+   "paras": [
+    "The program is intended for housing: buying a house or an apartment, or building one. There are developer projects designed especially for the program, but you can also look for a home on the market, provided it meets the value ceiling and the institution accepts it after appraisal and title review.",
+    "Specific conditions for used homes, land or construction on your own land may vary depending on the program version and the institution. Ask before committing to a property."
+   ]
+  },
+  {
+   "h2": "Tips to avoid rejection or delays",
+   "bullets": [
+    "Organize your documents beforehand: recent pay slips, employment or RUC certificate, and debts up to date in the financial system.",
+    "If you have overdue debts, regularize them before applying: the history weighs on the qualification.",
+    "Apply with more than one institution if the first one is slow or offers a low amount; the program’s conditions are the same, but evaluation speed varies.",
+    "Do not give a large deposit for a property until you have the pre-qualification: if the credit does not materialize, you could lose it.",
+    "Beware of intermediaries who charge to \"ensure\" the credit: the application is done directly with the institution."
+   ]
+  },
+  {
+   "h2": "Search for homes within your ceiling",
+   "paras": [
+    "When you already know your maximum amount, filter by price on Casa-Libre and look at houses and apartments for sale on the map. Write directly via WhatsApp to the owner or the real-estate agency and ask if the property has the paperwork up to date for a credit. You can also save options from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What rate does Che Róga Porã have?",
+   "a": "According to the official website (November 2026), 6.5% per year for incomes of 1 to 6 minimum wages and 9.9% for incomes of more than 6 up to 9 minimum wages."
+  },
+  {
+   "q": "Where do you apply for Che Róga Porã?",
+   "a": "At banks, finance companies and cooperatives affiliated with the AFD. The entity reviews your documents, qualifies you as a credit subject and processes the loan."
+  },
+  {
+   "q": "Can I add my partner's or family's income?",
+   "a": "The program allows adding income from the family nucleus to strengthen the profile, but each entity defines how it evaluates it. Ask when you request pre-qualification."
+  },
+  {
+   "q": "Is there a maximum value for the property?",
+   "a": "Yes. According to the official website, Gs. 821.880.000 for the 1 to 6 minimum wage bracket, Gs. 913.200.000 for the more than 6 to 9 bracket, and up to Gs. 1.156.720.000 in Asunción, Central and some districts of Presidente Hayes."
+  },
+  {
+   "q": "Is Che Róga Porã only for the first home?",
+   "a": "The official website does not mention it in the basic requirements it publishes. Confirm with the entity, because conditions can change between program versions."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: how to buy your first home"
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "_src": "628f9aedb1a2",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como responder consultas de compradores por WhatsApp",
+  "h1": "Como responder consultas de compradores e inquilinos por WhatsApp",
+  "description": "Para proprietários e agentes que publicam: responder rápido, mensagens prontas para copiar, como filtrar interessados reais, coordenar visitas seguras e fazer acompanhamento.",
+  "answer": "Para converter consultas de WhatsApp em visitas e operações: responda rápido, idealmente dentro da primeira hora; responda exatamente o que perguntam e adicione o dado que falta (preço, localização, condições); faça duas ou três perguntas para saber se o interessado é real; proponha um horário concreto de visita; e faça acompanhamento no dia seguinte. Ter mensagens preparadas e todas as informações da propriedade à mão economiza metade do trabalho."
+ },
+ "sections": [
+  {
+   "h2": "A velocidade vale mais que a mensagem perfeita",
+   "paras": [
+    "Quem procura casa ou apartamento escreve para vários anunciantes ao mesmo tempo. O primeiro que responde com informação útil costuma ficar com a conversa, e muitas vezes com a visita. Uma resposta breve em dez minutos funciona melhor que uma resposta perfeita no dia seguinte.",
+    "Se não pode atender o celular o dia todo, configure uma mensagem de boas-vindas ou de ausência no WhatsApp Business que diga quando vai responder, e bloqueie dois ou três momentos fixos do dia para responder tudo de uma vez."
+   ]
+  },
+  {
+   "h2": "A informação que você precisa ter à mão",
+   "paras": [
+    "A maioria das perguntas se repete. Crie uma nota no seu celular com os dados de cada imóvel para copiar e colar sem procurar:"
+   ],
+   "bullets": [
+    "Preço e moeda, e se é negociável.",
+    "Localização aproximada (bairro e uma referência) e localização exata para enviar quando a visita for confirmada.",
+    "Superfície do terreno e construída, dormitórios, banheiros, garagem.",
+    "Situação dos papéis: título, imposto imobiliário em dia.",
+    "Para aluguel: depósito, garantia que aceita, expensas, se aceita animais, data de disponibilidade.",
+    "Para venda: forma de pagamento aceita (à vista, crédito bancário), se aceita permutas.",
+    "Fotos e um vídeo curto de tour para enviar a quem solicitar."
+   ]
+  },
+  {
+   "h2": "Mensagens prontas para copiar e adaptar",
+   "paras": [
+    "Primeiro contato, quando escrevem \"¿sigue disponible?\": \"¡Hola! Sí, sigue disponible. Es una casa de 3 dormitorios en [barrio], a [precio]. ¿Es para vivir o como inversión? ¿Querés que te mande un video del recorrido?\"",
+    "Quando pedem preço \"por privado\": \"El precio es [monto y moneda]. Incluye [lo que incluya]. Si te interesa, podemos coordinar una visita esta semana.\"",
+    "Para filtrar antes da visita: \"Para organizarnos, ¿cómo pensás pagar: contado o crédito? ¿Para cuándo necesitarías mudarte?\"",
+    "Para aluguel: \"El alquiler es [monto] por mes. Pido [depósito y garantía]. ¿Cuántas personas vivirían? ¿Tienen mascotas?\"",
+    "Para fechar a visita: \"Te puedo mostrar el martes a las 17 h o el sábado a las 10 h. ¿Cuál te queda mejor?\"",
+    "Follow-up no dia seguinte: \"Hola, ¿qué te pareció la casa? Si tenés alguna duda sobre los papeles o el barrio, te ayudo.\""
+   ],
+   "tip": "Sempre ofereça dois horários concretos. \"¿Cuándo podés?\" abre uma conversa longa; \"¿martes 17 h o sábado 10 h?\" a fecha em uma única mensagem."
+  },
+  {
+   "h2": "Como distinguir um interessado real",
+   "paras": [
+    "Não é preciso interrogar ninguém. Duas ou três perguntas naturais mostram se a pessoa está pronta para avançar:"
+   ],
+   "table": {
+    "head": [
+     "Sinal de interesse real",
+     "Sinal de que ainda está olhando"
+    ],
+    "rows": [
+     [
+      "Pergunta sobre papéis, expensas ou forma de pagamento",
+      "Só pergunta \"¿último precio?\""
+     ],
+     [
+      "Tem definido como vai pagar",
+      "Não sabe se vende outro imóvel primeiro"
+     ],
+     [
+      "Aceita um horário concreto de visita",
+      "Diz \"después te aviso\" sem data"
+     ],
+     [
+      "Pede a localização exata para ir",
+      "Pede muitas fotos mas não visita"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Visitas seguras",
+   "bullets": [
+    "Antes de dar o endereço exato, peça o nome completo da pessoa que vai comparecer.",
+    "Se puder, não fique sozinho/a durante a visita.",
+    "Guarde objetos de valor e documentos fora da vista.",
+    "Desconfie de quem quer visitar à noite, sem motivo, ou pede que deixe as chaves.",
+    "Não entregue cópias dos seus documentos nem da sua cédula por WhatsApp a alguém que ainda não conhece."
+   ]
+  },
+  {
+   "h2": "Quando perguntam \"¿último precio?\"",
+   "paras": [
+    "É a pergunta mais comum e a que mais tempo faz perder. Responder com um desconto por WhatsApp, antes da visita, quase nunca fecha uma venda: só reduz seu preço de partida.",
+    "Uma resposta que funciona: \"El precio publicado es [monto]. Cualquier propuesta la conversamos después de que veas la propiedad.\" Assim você convida a visitar sem fechar a porta para negociar."
+   ]
+  },
+  {
+   "h2": "Manter a ordem quando chegam muitas consultas",
+   "paras": [
+    "Se publica vários imóveis, o WhatsApp Business permite colocar etiquetas nos chats (por exemplo \"nuevo\", \"visita agendada\", \"hizo oferta\", \"descartado\") e salvar respostas rápidas. Uma vez por semana, revise os chats com etiqueta de visita ou de oferta e escreva para quem ficou sem resposta.",
+    "Quando o imóvel é vendido ou alugado, avise quem estava interessado e dê baixa no anúncio. É uma cortesia que o deixa bem posicionado para a próxima vez."
+   ]
+  },
+  {
+   "h2": "Publicar para receber consultas diretas",
+   "paras": [
+    "No Casa-Libre você publica grátis e sem comissão, e as consultas chegam direto ao seu WhatsApp, sem intermediários. Quanto mais completo o anúncio (preço, fotos, localização no mapa e condições), menos perguntas repetidas você recebe e mais chegam interessados que já sabem o que buscam. Você pode publicar pelo site ou pelo app de Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vale a pena colocar o preço no anúncio?",
+   "a": "Sim. Anúncios com preço recebem consultas de pessoas que já sabem que o imóvel cabe no orçamento, e evitam conversas que não vão avançar."
+  },
+  {
+   "q": "Quanto tempo devo levar para responder uma consulta?",
+   "a": "O mais rápido possível, idealmente dentro da primeira hora. Os interessados escrevem para vários anunciantes ao mesmo tempo e costumam seguir com quem responde primeiro com informações úteis."
+  },
+  {
+   "q": "O que faço se alguém me pede para pagar uma reserva sem visitar?",
+   "a": "O recomendável é que toda reserva ou sinal seja firmado por escrito, após a visita e com os dados das duas partes. Para valores importantes, com intervenção de um escribano (tabelião)."
+  },
+  {
+   "q": "É seguro enviar a localização exata por WhatsApp?",
+   "a": "Envie quando a visita estiver confirmada e você souber o nome de quem vai. Antes, basta o bairro e uma referência."
+  }
+ ],
+ "related": [
+  "Publicá gratis en Casa-Libre",
+  "Cómo funciona vender en Casa-Libre",
+  "Vender sin inmobiliaria"
+ ]
+}

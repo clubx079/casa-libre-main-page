@@ -1,0 +1,105 @@
+{
+ "_src": "d10714d0e42c",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Rental Agreement in Uruguay: 9 Clauses You Need to Review",
+  "h1": "Rental Agreement in Uruguay: What to Check Before Signing",
+  "description": "What to look for in a rental agreement in Uruguay: regime (14.219, Civil Code or LUC), term, currency, adjustment, common expenses, repairs, termination, inventory and IRPF tax credit.",
+  "answer": "Before signing a rental agreement in Uruguay, check under which regime it is signed (Decree-Law 14.219, the Civil Code or the LUC regime without guarantee), the term and how it renews, the currency (pesos, dollars, UR or UI), how the price is adjusted, who pays common expenses, taxes and repairs, how you can terminate it early and how the deposit is returned. Ask that an inventory with photos be attached and that the contract be written: besides protecting you, a written contract of one year or more is required for the IRPF tax credit on rentals."
+ },
+ "sections": [
+  {
+   "h2": "1. Under which regime is it signed",
+   "paras": [
+    "In Uruguay different rules coexist for rentals. Contracts with a guarantee are usually governed by Decree-Law 14.219 on urban leases and by the Civil Code. Contracts without a guarantee can fall under the regime of Law 19.889 (LUC), which requires an express clause and has much shorter eviction periods.",
+    "Check what the contract says. If a clause of subjection to Law 19.889 appears, you are under the LUC regime even if the rest of the text seems identical to any other."
+   ]
+  },
+  {
+   "h2": "2. Term and renewal",
+   "paras": [
+    "Look at when it starts and when it ends, and what happens upon expiry: whether it renews automatically, whether notice is required and how far in advance. Under the LUC regime, if no one gives contrary notice within the 30 days prior to expiry, the contract is extended for an equal term."
+   ]
+  },
+  {
+   "h2": "3. Currency of the price",
+   "paras": [
+    "Rentals in Uruguay are agreed in Uruguayan pesos, dollars or units such as the UR (Unidad Reajustable) or the UI (Unidad Indexada). If you charge in pesos, a rent in dollars exposes you to the payment increasing if the dollar rises. If it is in UR or UI, the value in pesos changes every month according to those units, which the INE publishes."
+   ]
+  },
+  {
+   "h2": "4. How the price is adjusted",
+   "paras": [
+    "Find the adjustment clause: how often and with which index. It is common for rents in pesos to be adjusted once a year. The INE publishes the rental adjustment coefficient, which is calculated from the Unidad Reajustable, and also the CPI. Under the LUC regime, if it is in pesos and nothing was agreed, it is adjusted annually by CPI.",
+    "Ask that the contract state the specific index and the adjustment date. \"It will be adjusted according to the market\" is not a clear clause."
+   ]
+  },
+  {
+   "h2": "5. Common expenses, utilities and taxes",
+   "paras": [
+    "Utilities (UTE, OSE, internet) are normally paid by the tenant. In apartments, ask how much the common expenses are and whether the contract distinguishes between ordinary (monthly) and extraordinary (works, special funds). It is usual for the tenant to pay the ordinary ones and the owner the extraordinary ones, but the contract decides.",
+    "Also check if any property tax is transferred to you. The property contribution is usually paid by the owner, but some contracts shift fees to the tenant."
+   ]
+  },
+  {
+   "h2": "6. Repairs and improvements",
+   "paras": [
+    "The contract should say who is responsible for what: structural repairs (roof, pipes, electrical installation) usually correspond to the owner and minor maintenance to the tenant. Improvements you make normally need written permission and remain in the property when you leave, unless a different agreement is made."
+   ]
+  },
+  {
+   "h2": "7. Terminating early",
+   "paras": [
+    "One of the most common questions is how to terminate a rental contract. Review before signing whether you can leave before the term, how much notice is required and if there is a penalty. If the guarantee is state-backed, the total termination is also processed before the Contaduría General de la Nación. Always give notice in writing and keep the proof."
+   ]
+  },
+  {
+   "h2": "8. Guarantee and inventory",
+   "paras": [
+    "The contract must state which guarantee is used and how it is released at the end. If it is a deposit, remember that for housing the legal maximum is five months and it is made at the BHU. Attach a signed inventory with photos of the property's condition: it is your best proof when you leave."
+   ]
+  },
+  {
+   "h2": "9. Other clauses to review",
+   "bullets": [
+    "Pets: whether they are allowed and under what conditions.",
+    "Purpose: housing only or if you can work from home.",
+    "Subletting and assignment: generally require the owner's written consent.",
+    "Inspections: whether the owner can visit the property and with what notice.",
+    "Penalties: for late payment or for not delivering on time."
+   ],
+   "tip": "If you pay IRPF for your work, keep the written contract and receipts: the DGI allows a tax credit for permanent housing rent with a written contract of one year or longer."
+  },
+  {
+   "h2": "Before reaching the contract",
+   "paras": [
+    "Ask via WhatsApp about currency, adjustment, common expenses and guarantee before visiting. On Casa-Libre you see Uruguay rentals on the map and write directly to the advertiser, also from the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does the rental agreement have to be written?",
+   "a": "It is always recommended, and it is mandatory under the LUC regime without guarantee. In addition, the IRPF tax credit for rentals requires a written contract of one year or more."
+  },
+  {
+   "q": "How is rent adjusted in Uruguay?",
+   "a": "As the contract states. An annual adjustment by the rental adjustment coefficient or by CPI, both published by the INE, is common. If it is in UR or UI, the peso value changes month to month."
+  },
+  {
+   "q": "Who pays the common expenses in a rental?",
+   "a": "Usually the tenant pays the ordinary expenses and the owner pays the extraordinary ones, but the contract defines it. Under the LUC regime, unless otherwise agreed, they are the tenant's responsibility."
+  },
+  {
+   "q": "What is the IRPF tax credit for rent?",
+   "a": "The DGI indicates that you can deduct the equivalent of 8% of the rent actually paid in the year, if you meet the requirements. Confirm it each year with the DGI."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Apartments for rent",
+  "Renting without guarantee under the LUC",
+  "Deposit guarantee in the BHU"
+ ]
+}

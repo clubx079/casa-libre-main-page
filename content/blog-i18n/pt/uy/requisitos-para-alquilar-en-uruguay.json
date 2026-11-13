@@ -1,0 +1,170 @@
+{
+ "_src": "028effe27fc5",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para alugar no Uruguai: lista completa (inquilino)",
+  "h1": "Requisitos para alugar uma casa ou um apartamento no Uruguai",
+  "description": "O que pedem para alugar no Uruguai: cédula, rendimentos, uma garantia (CGN, ANDA, seguro, depósito no BHU ou propriedade) ou um contrato pela LUC sem garantia. Lista e custos de entrada.",
+  "answer": "Para alugar no Uruguai normalmente você precisa da cédula de identidade (ou passaporte se for estrangeiro), comprovantes de rendimentos formais e uma garantia que o proprietário aceite: a garantia estatal da Contaduría General de la Nación (CGN), uma garantia de uma instituição como ANDA, um seguro de fiança de uma seguradora, um depósito no Banco Hipotecário do Uruguay (BHU) ou um fiador com propriedade. A outra via é assinar um contrato pelo regime da Lei de Urgente Consideração (LUC), que não exige garantia. Além disso, você deve contar com o primeiro mês e, se houver imobiliária, a comissão dela."
+ },
+ "sections": [
+  {
+   "h2": "A lista básica que vão te pedir",
+   "paras": [
+    "Não existe uma lista única fixada por lei: cada proprietário ou imobiliária decide o que pede. Mas na prática os pedidos são muito semelhantes, e ter tudo pronto em uma pasta (em papel e escaneado no celular) permite reservar no mesmo dia em que você encontrar algo que goste."
+   ],
+   "bullets": [
+    "Cédula de identidade vigente de quem assina. Se for estrangeiro, passaporte ou cédula uruguaia se já iniciou a residência.",
+    "Comprovante de renda: últimos recibos de salário, ou certificado de renda assinado por contador público se for autônomo.",
+    "Uma garantia aceita pelo dono, ou o acordo de assinar pelo regime sem garantia da LUC.",
+    "Referências: um proprietário anterior ou seu local de trabalho.",
+    "Dinheiro para a assinatura: o primeiro mês, o custo da garantia escolhida e, se for o caso, a comissão da imobiliária."
+   ]
+  },
+  {
+   "h2": "As garantias que se usam no Uruguai",
+   "paras": [
+    "A pergunta chave antes de visitar é que garantia o dono aceita, porque nem todos aceitam todas. Estas são as mais comuns:"
+   ],
+   "table": {
+    "head": [
+     "Garantia",
+     "Como funciona",
+     "O que você precisa saber"
+    ],
+    "rows": [
+     [
+      "Contaduría General de la Nación (CGN)",
+      "O Estado garante o aluguel e o desconta do seu salário",
+      "Para funcionários públicos e empregados de empresas registradas, com antiguidade mínima. Cada parte paga uma comissão mensal de 3%."
+     ],
+     [
+      "Fondo de Garantía de Alquiler (MVOT/ANV)",
+      "Certificado de garantia estatal conforme sua renda",
+      "Tem limites de renda e de aluguel expressos em UR; o contrato é assinado através da CGN."
+     ],
+     [
+      "ANDA",
+      "Garantia de uma associação mutual",
+      "Requer ser sócio e cumprir seus requisitos de renda."
+     ],
+     [
+      "Seguro de fianza",
+      "Uma seguradora privada responde ao dono",
+      "Você paga um prêmio; cada seguradora avalia sua renda."
+     ],
+     [
+      "Depósito en el BHU",
+      "Você deixa um depósito em garantia no Banco Hipotecário",
+      "A lei estabelece um teto de cinco meses de aluguel para moradia."
+     ],
+     [
+      "Garantía de propiedad",
+      "Um familiar ou conhecido oferece um imóvel",
+      "Cada vez menos usada; o dono pode pedir certificados daquela propriedade."
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Alugar sem garantia: o regime da LUC",
+   "paras": [
+    "Desde a Lei 19.889 (LUC) existe um regime de arrendamento sem garantia. Para que se aplique, o contrato deve ser para moradia, por escrito, com prazo e preço, sem nenhuma garantia, e as partes precisam declarar expressamente que se submetem a essa lei. Nesse regime o dono não pode pedir mais de um mês de aluguel adiantado.",
+    "Em troca, os prazos de despejo são muito mais curtos se você não pagar. É uma boa porta de entrada se não tem garantia, mas vale ler com calma: explicamos em detalhe no artigo sobre alugar pela LUC."
+   ]
+  },
+  {
+   "h2": "Como comprovar renda conforme seu tipo de trabalho",
+   "paras": [
+    "O que o dono ou a garantia quer saber é se você vai conseguir pagar todos os meses. As garantias estaduais e privadas calculam um aluguel máximo conforme sua renda líquida formal, então antes de buscar convém saber quanto aprovam: buscar acima desse valor é perder tempo."
+   ],
+   "table": {
+    "head": [
+     "Sua situação",
+     "O que costuma servir como comprovante"
+    ],
+    "rows": [
+     [
+      "Empregado/a",
+      "Últimos recibos de salário; em algumas garantias, histórico laboral do BPS"
+     ],
+     [
+      "Independente ou profissional",
+      "Certificado de renda assinado por contador público"
+     ],
+     [
+      "Aposentado/a ou pensionista",
+      "Recibo de pagamento do último mês"
+     ],
+     [
+      "Estudante",
+      "Renda própria ou de um grupo; existe uma garantia estatal para jovens de 18 a 29 anos"
+     ],
+     [
+      "Recém-chegado/a",
+      "Contrato de trabalho e poupança demonstrável; muitas vezes o regime LUC é a via mais simples"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Quanto dinheiro você precisa para entrar",
+   "paras": [
+    "Some esses conceitos antes de reservar, para não descobri-los na assinatura:"
+   ],
+   "bullets": [
+    "O primeiro mês de aluguel.",
+    "O custo da garantia: a comissão mensal da CGN, o prêmio do seguro, o depósito no BHU ou o que cobrar a instituição que você escolher.",
+    "A comissão da imobiliária, se houver. Pergunte o valor exato e se inclui IVA.",
+    "Despesas comuns se for apartamento em prédio, e a conexão ou mudança de titular da UTE, OSE e internet.",
+    "A mudança e o básico para os primeiros dias."
+   ],
+   "tip": "Se você for pagar o aluguel com contrato escrito de um ano ou mais e pagar IRPF pelo seu trabalho, pode ter direito a um crédito fiscal por aluguel perante a DGI. Guarde o contrato e os recibos."
+  },
+  {
+   "h2": "O que perguntar antes de ir ver",
+   "paras": [
+    "Por WhatsApp, antes de coordenar a visita, pergunte o concreto. Você economiza viagens e o dono vê que você é um inquilino sério:"
+   ],
+   "bullets": [
+    "Quais garantias aceitam? Aceitam contrato pela LUC?",
+    "O preço é em pesos ou em dólares? Como é reajustado?",
+    "Quanto são as despesas comuns e o que incluem?",
+    "Quanto há que pagar na assinatura, no total?",
+    "Aceitam pets? A partir de que data está disponível?"
+   ]
+  },
+  {
+   "h2": "Como buscar aluguel sem perder tempo",
+   "paras": [
+    "Com o valor que sua garantia aprova, filtre por zona e preço e escreva com seus dados: quantas pessoas vão morar, se tem pets, quando quer entrar e que garantia tem. Essa mensagem recebe resposta mais rápido que um \"continua disponível?\".",
+    "No Casa-Libre você vê os aluguéis do Uruguai no mapa e escreve direto por WhatsApp ao dono ou à imobiliária, sem pagar para usar o site. Também pode buscar pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É possível alugar sem garantia no Uruguai?",
+   "a": "Sim. A LUC criou um regime de locação sem garantia para moradia, com contrato escrito e declaração expressa das partes. O proprietário não pode exigir mais de um mês adiantado, e os despejos por falta de pagamento são mais rápidos."
+  },
+  {
+   "q": "Quem pode usar a garantia da CGN?",
+   "a": "Segundo a CGN, funcionários públicos e empregados de empresas registradas no Serviço de Garantia de Aluguéis com pelo menos 6 meses de antiguidade, além de beneficiários de convênios com o MVOT e do subsídio do BPS."
+  },
+  {
+   "q": "Qual é o depósito máximo para alugar?",
+   "a": "Para moradia, o Decreto-Lei 14.219 fixa um teto de cinco meses de aluguel, e o depósito é feito no Banco Hipotecário do Uruguay."
+  },
+  {
+   "q": "Um estrangeiro pode alugar no Uruguai?",
+   "a": "Sim. Com passaporte ou cédula uruguaia. A falta de histórico local costuma ser resolvida com um seguro de fiança, um depósito ou um contrato pelo regime da LUC, se o proprietário aceitar."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Garantias de aluguel: qual escolher",
+  "Alugar sem garantia pela LUC"
+ ]
+}

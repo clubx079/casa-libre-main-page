@@ -1,0 +1,128 @@
+{
+ "_src": "0c5063d8dc35",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Where to Live in El Salvador: How to Choose a Neighborhood",
+  "h1": "Where to Live in El Salvador: How to Choose a Neighborhood Based on Your Routine, Budget, and Terrain",
+  "description": "Criteria for choosing where to live in El Salvador: commute time, services, type of neighborhood or residential area, rain and slope risks, and how to verify a location before buying or renting.",
+  "answer": "There is no \"best neighborhood\" for everyone in El Salvador: the right one is the one that fits your routine and budget. Start by considering your commute time to work or school during rush hour, then the type of housing you can afford (open neighborhood, gated residential area, or apartment), then review nearby services and the terrain (slopes, streams, flood-prone areas), and finally visit the area at different times of day and during the rainy season before deciding."
+ },
+ "sections": [
+  {
+   "h2": "Start with the commute, not the house",
+   "paras": [
+    "In the metropolitan area of San Salvador, peak-hour commute time can completely change your quality of life. A larger, cheaper house an hour away may cost you each month more in fuel, fares and lost hours than the price difference.",
+    "Do the real test: travel the route from the house to work at the time you will do it every day. If you rely on public transport, check the routes and frequency."
+   ],
+   "tip": "Note how many minutes it takes you to go and return on a workday. Multiply that by the days in the month: that is the time bill for that area."
+  },
+  {
+   "h2": "Colonia, gated community or apartment",
+   "table": {
+    "head": [
+     "Type",
+     "Pros",
+     "Considerations"
+    ],
+    "rows": [
+     [
+      "House in an open colonia",
+      "Usually cheaper; more freedom to expand",
+      "Security and parking depend on each street"
+     ],
+     [
+      "House in a gated community",
+      "Controlled access and common areas",
+      "Maintenance fee and internal rules"
+     ],
+     [
+      "Apartment",
+      "Central locations; less personal maintenance",
+      "Condo fee and regulations; less space"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Services within ten minutes",
+   "paras": [
+    "Make a list of what you use each week and check how far each is:"
+   ],
+   "bullets": [
+    "School or daycare, if you have children.",
+    "Health unit, clinic or hospital.",
+    "Supermarket, market and pharmacy.",
+    "Bus stops or access to main highways.",
+    "Water quality: whether it arrives every day or has scheduled times.",
+    "Internet coverage and phone signal."
+   ]
+  },
+  {
+   "h2": "The land: rains, slopes and ravines",
+   "paras": [
+    "El Salvador has an intense rainy season and a geography of volcanoes, hills and ravines. Some areas suffer flooding on low streets or near rivers, and others have landslide risk on slopes and inclines. It is also a seismic country, so how the house is built matters.",
+    "Before deciding, visit the area after a heavy rain, ask neighbors what happened in recent storms and look for walls with cracks, unprotected slopes or water stains. The Dirección General de Protección Civil publishes alerts and recommendations during the rainy season."
+   ]
+  },
+  {
+   "h2": "How to check an area before buying or renting",
+   "steps": [
+    "Visit it in the morning, afternoon and at night, on a weekday and on a weekend.",
+    "Walk the nearby streets, not just the one in front of the house.",
+    "Talk to neighbors and staff at nearby stores.",
+    "Make the commute to work during peak hour.",
+    "Ask how much the maintenance fee and municipal taxes are.",
+    "If you are buying, review the property in the CNR."
+   ]
+  },
+  {
+   "h2": "Municipalities and districts from 2024",
+   "paras": [
+    "Since May 1, 2024 El Salvador has 44 municipalities; the previous 262 municipalities became districts. In practice, people still use the traditional names (Santa Tecla, Antiguo Cuscatlán, Soyapango, San Miguel), but municipal procedures are handled by the alcaldía of the new municipality. Keep this in mind when requesting solvencies or permits."
+   ]
+  },
+  {
+   "h2": "The full budget for an area",
+   "paras": [
+    "Compare areas by total cost, not just price or rent: add maintenance fee, municipal taxes, transportation and, if applicable, nearby school fees. A slightly more expensive area can be cheaper each month if it saves you on commuting."
+   ]
+  },
+  {
+   "h2": "If you don’t know the area, consider renting first",
+   "paras": [
+    "If you move to a new city or return after years abroad, renting for a few months before buying lets you get to know the area with your real routine: daily traffic, nighttime noise, how streets behave in the rainy season and how close the services you use are. It’s a cheap way to avoid a purchase you later regret.",
+    "While renting, you can visit houses for sale in the areas you liked and compare calmly, without the pressure of having to decide quickly."
+   ]
+  },
+  {
+   "h2": "Explore areas on the map",
+   "paras": [
+    "On Casa-Libre you can see houses and apartments for sale and for rent on the map, compare areas like San Salvador, Santa Tecla or Santa Ana and write via WhatsApp to owners and agents to ask about the area. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the best neighborhood to live in El Salvador?",
+   "a": "It depends on where you work or study, your budget, and the type of housing you are looking for. Start with commute time and nearby services, and check the area in person."
+  },
+  {
+   "q": "How do I know if a neighborhood floods or has landslide risk?",
+   "a": "Visit it after a heavy rain, ask the neighbors, and look for water stains, cracks, and slopes. Follow Civil Protection alerts during the rainy season."
+  },
+  {
+   "q": "What is better, a gated residential area or an open neighborhood?",
+   "a": "A residential area offers controlled access and common areas in exchange for a fee and rules. An open neighborhood usually costs less and gives you more freedom. It depends on your priorities."
+  },
+  {
+   "q": "Did anything change with the new municipalities?",
+   "a": "Since May 2024 there are 44 municipalities and the old ones are districts. Procedures are handled at the alcaldía of the new municipality."
+  }
+ ],
+ "related": [
+  "Properties in San Salvador",
+  "Properties in Santa Ana",
+  "Rentals on the map"
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "_src": "afca7ae63a6a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como comprar casa em El Salvador a partir dos Estados Unidos",
+  "h1": "Como comprar uma casa em El Salvador a partir dos Estados Unidos ou de outro país",
+  "description": "Guia para salvadorenhos no exterior: como comprar casa em El Salvador à distância, com poder especial, crédito Vivienda Cercana do FSV ou banco, e verificação no CNR.",
+  "answer": "É possível comprar uma casa em El Salvador sem viajar. O habitual é: escolher o imóvel com a ajuda de um familiar de confiança, verificar no Centro Nacional de Registros (CNR) que o vendedor é o dono e que não há hipotecas nem penhoras, financiar com poupança própria, com um banco ou com a linha Vivienda Cercana do Fundo Social para a Habitação (FSV), e assinar a escritura (escritura pública) perante notario (notário), pessoalmente em uma viagem ou por meio de um procurador com poder especial. O comprador paga o imposto de transferência se o preço superar US$28,571.43."
+ },
+ "sections": [
+  {
+   "h2": "Antes de começar: quem será seus \"olhos e mãos\" em El Salvador",
+   "paras": [
+    "Comprar à distância funciona quando há alguém no país que visite a propriedade, tire fotos e vídeos, converse com vizinhos e leve documentos. Pode ser um familiar, um amigo de confiança ou um profissional contratado. Essa pessoa não decide por você, mas evita surpresas: uma casa que nas fotos parece boa pode ter umidade, rachaduras ou um acesso que alaga no inverno.",
+    "Defina desde o início três coisas: o orçamento total (não apenas o preço), a zona onde sua família ou você vão morar ao retornar, e se vai pagar à vista ou com crédito. Com isso você pode filtrar opções e solicitar videochamadas apenas das que realmente lhe interessam."
+   ]
+  },
+  {
+   "h2": "Verifique a propriedade no CNR antes de enviar dinheiro",
+   "paras": [
+    "No El Salvador os imóveis são inscritos no Registro da Propriedade Raiz e Hipotecas, que administra o CNR. Cada imóvel tem uma matrícula. Com esse número pode-se solicitar uma certificação extraída, um documento que resume quem é o dono, que porcentagem lhe cabe, a situação jurídica do imóvel e os documentos que estejam em tramitação. Segundo o CNR, citado pela imprensa, a certificação pode ser solicitada online e chega por e-mail.",
+    "Peça ao vendedor a matrícula e a cópia da escritura (escritura pública) antes de falar de adiantamentos. Se o nome do dono no registro não coincidir com quem lhe vende, ou aparecer uma hipoteca ou um embargo, pare e consulte um notario (notário)."
+   ],
+   "bullets": [
+    "Matrícula do imóvel e cópia da escritura do vendedor.",
+    "Certificação extraída recente do CNR.",
+    "Solvência de taxas municipais do imóvel e recibos de água e luz em dia.",
+    "Se a casa tem um crédito vigente, constância do saldo emitida pelo banco ou pelo FSV."
+   ],
+   "tip": "O CNR oferece também avisos registrais gratuitos por correio durante um ano: avisam se alguém apresenta um trâmite sobre o imóvel. Vale a pena ativá-los assim que a casa ficar em seu nome."
+  },
+  {
+   "h2": "Como financiar: poupança, banco ou Vivienda Cercana do FSV",
+   "paras": [
+    "Muitos compradores no exterior pagam com poupança enviada em várias transferências. Se for fazer isso, guarde os comprovantes: o notario (tabelião) e o banco podem solicitar que justifique a origem dos fundos.",
+    "Se precisar de crédito, o FSV tem a linha Vivienda Cercana para salvadorenhos no exterior. Segundo as informações do FSV publicadas na imprensa, podem se candidatar salvadorenhos com cidadania ou residência em outro país, pensionistas no exterior e pessoas com TPS ou outro visto de permanência, entre outros, e pode financiar casa nova ou usada, imóveis recuperados do FSV, construção, melhorias ou compra de lote. Exige capacidade de pagamento, bom histórico de crédito, ser segurado de dívida e não possuir moradia própria. A imprensa reportou em abril de 2026 financiamento de até US$150,000 conforme renda, com uma taxa de entre 5% e 20% segundo o status migratório, e parcelas que podem ser pagas do exterior.",
+    "Os bancos também oferecem crédito hipotecário para salvadorenhos no exterior, com requisitos próprios. Compare sempre a taxa, o prazo, os seguros e o custo total, não apenas a parcela."
+   ]
+  },
+  {
+   "h2": "Assinar sem viajar: o poder especial",
+   "paras": [
+    "A compra e venda de um imóvel é feita por escritura pública perante notario. Se não puder viajar para a assinatura, pode nomear um procurador: uma pessoa de sua confiança que assina em seu nome com um poder especial que indique claramente o que pode fazer (comprar um imóvel específico, pagar o preço, assinar a escritura, registrá-la).",
+    "O poder é concedido no exterior e precisa chegar a El Salvador com validade. O usual é concedê-lo perante o consulado de El Salvador ou perante um notario do país onde reside e, nesse caso, apostilá-lo se esse país for parte da Convenção de Haia. Antes de assiná-lo, envie o rascunho ao notario que fará a escritura em El Salvador para que confirme que serve."
+   ],
+   "tip": "Um poder especial para uma compra concreta é mais seguro que um poder geral amplo. Se seu procurador não precisar vender nem hipotecar outros bens seus, não lhe dê essas faculdades."
+  },
+  {
+   "h2": "Custos que deve somar ao preço",
+   "paras": [
+    "O preço da casa não é tudo. O comprador paga o Imposto sobre Transferência de Bens Imóveis: 3% sobre a parte do valor que exceda US$28,571.43. Além disso há os honorários do notario (tabelião), os direitos de inscrição no CNR, as certificações, os gastos da procuração se a usar e, se houver crédito, a escritura (escritura pública) de hipoteca, avaliação e seguros."
+   ],
+   "table": {
+    "head": [
+     "Conceito",
+     "Quem normalmente paga",
+     "Observação"
+    ],
+    "rows": [
+     [
+      "Imposto de transferência (3% sobre o excesso de US$28,571.43)",
+      "Comprador",
+      "É declarado à Fazenda antes de registrar"
+     ],
+     [
+      "Honorários do notario (tabelião)",
+      "Negociado; frequentemente o comprador",
+      "Solicite cotação por escrito"
+     ],
+     [
+      "Inscrição no CNR",
+      "Comprador",
+      "Conforme tarifa do registro"
+     ],
+     [
+      "Avaliação e seguros",
+      "Comprador com crédito",
+      "Exigidos pelo banco ou pelo FSV"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Passo a passo resumido",
+   "steps": [
+    "Defina orçamento, zona e forma de pagamento.",
+    "Busque opções e solicite videoconferências; envie sua pessoa de confiança para visitar as finalistas.",
+    "Solicite matrícula e escritura do vendedor e obtenha uma certificação extraída no CNR.",
+    "Se usar crédito, pré-qualifique com o FSV ou com um banco antes de negociar.",
+    "Combine preço e condições por escrito; evite adiantamentos grandes sem documento.",
+    "Conceda a procuração especial se não viajar e faça-a revisar pelo notario.",
+    "Assine a escritura, pague o imposto de transferência e registre no CNR.",
+    "Coloque em seu nome as contas de água e luz e ative os avisos registrais."
+   ]
+  },
+  {
+   "h2": "Buscar de longe com Casa-Libre",
+   "paras": [
+    "No Casa-Libre você pode ver casas e apartamentos à venda no mapa, filtrar por preço e escrever direto por WhatsApp ao dono ou ao agente, sem pagar para usar o site. Pelo app do Casa-Libre para iPhone e Android você pode salvar os imóveis e compartilhá-los com a pessoa que vai visitá-los por você."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso comprar casa em El Salvador se moro nos Estados Unidos?",
+   "a": "Sim. Você pode fazê-lo viajando para a assinatura ou por meio de um procurador com poder especial. O importante é verificar o imóvel no CNR antes de pagar e trabalhar com um notario."
+  },
+  {
+   "q": "O FSV empresta a salvadorenhos no exterior?",
+   "a": "Sim, com a linha Vivienda Cercana. Segundo informações do FSV publicadas na imprensa, aplica-se a salvadorenhos com residência ou cidadania em outro país, pensionistas e pessoas com TPS, entre outros, com requisitos de capacidade de pagamento e histórico de crédito. Confirme as condições vigentes com o FSV."
+  },
+  {
+   "q": "Quanto é o imposto ao comprar uma casa em El Salvador?",
+   "a": "O Imposto sobre Transferência de Bens Imóveis é 3% sobre o valor que exceda US$28,571.43, e é pago pelo comprador. Se a casa valer menos que esse valor, não se paga."
+  },
+  {
+   "q": "Preciso apostilar o poder?",
+   "a": "Se for concedido perante um notario de um país que faz parte da Convenção de Haia, normalmente sim. Se for concedido no consulado salvadorenho, o procedimento é diferente. Confirme com o notario que fará a escritura."
+  }
+ ],
+ "related": [
+  "Casas à venda em El Salvador",
+  "Propriedades em San Salvador",
+  "Guia: custos ao comprar uma casa"
+ ]
+}

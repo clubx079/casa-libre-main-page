@@ -1,0 +1,136 @@
+{
+ "_src": "a9f41e962331",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Documento de propriedade na Venezuela: como verificá-lo",
+  "h1": "Documento de propriedade de um imóvel na Venezuela: o que é e como verificá-lo antes de comprar",
+  "description": "O que é o documento de propriedade registrado, como ler seus dados, o que é a tradição legal e como verificar no Registro Imobiliário se o vendedor é o dono e não há gravames.",
+  "answer": "O documento de propriedade é a escritura de compra e venda (ou outro título, como uma herança ou adjudicação) protocolizada no Registro Imobiliário da jurisdição onde está o imóvel. Para verificá-lo, peça cópia ao vendedor e confirme nesse registro, que depende do SAREN, que o documento existe, que o vendedor é o último titular e que não há hipotecas, embargos nem proibições de alienar. Essa revisão, chamada estudo da tradição legal, convém fazer com um advogado antes de pagar nada."
+ },
+ "sections": [
+  {
+   "h2": "O que é o documento de propriedade",
+   "paras": [
+    "Na Venezuela, a propriedade de um imóvel é comprovada com um título protocolado no Registro Imobiliário (antes chamado Escritório Subalterno de Registro). Normalmente é o documento de compra e venda com o qual o vendedor adquiriu, mas também pode ser uma declaração sucessória com partilha, uma doação ou uma adjudicação.",
+    "Um documento apenas autenticado em notária não é o mesmo que um registrado. A notária dá fé das assinaturas; o registro é o que torna pública a propriedade perante terceiros. Para comprar com segurança, o que importa é o que consta no Registro Imobiliário."
+   ]
+  },
+  {
+   "h2": "Quais dados tem e quais revisar",
+   "bullets": [
+    "Dados de registro: escritório, número, tomo, protocolo ou folio e data (ou a matrícula e assento no sistema atual).",
+    "Nome e cédula do proprietário que adquiriu.",
+    "Descrição do imóvel: localização, limites, medidas e, em apartamentos, a alíquota de condomínio.",
+    "Preço e forma de pagamento com que foi adquirido.",
+    "Título anterior: de quem o vendedor comprou, com seus próprios dados de registro.",
+    "Notas marginais ou assentos posteriores: hipotecas, liberações, penhoras."
+   ]
+  },
+  {
+   "h2": "A tradição legal: a cadeia de proprietários",
+   "paras": [
+    "Revisar apenas o último documento não basta. O estudo da tradição legal segue a cadeia de proprietários para trás durante vários anos, para confirmar que cada transferência foi válida. Um problema antigo, como uma herança mal feita ou uma venda por alguém que não tinha poder, pode afetar todos os proprietários que vieram depois.",
+    "Esse estudo o faz um advogado. Se você compra com crédito, o banco o faz por conta própria, mas convém que você também tenha seu próprio assessor."
+   ]
+  },
+  {
+   "h2": "Certificação de gravames",
+   "paras": [
+    "No Registro Imobiliário pode-se solicitar uma certificação de gravames, que indica se o imóvel tem hipotecas, penhoras, proibições de alienar e gravar ou outras limitações durante um período de anos. Peça-a com data recente, próxima à assinatura."
+   ],
+   "steps": [
+    "Peça ao vendedor cópia simples do documento de propriedade e da cédula cadastral.",
+    "Identifique em qual Registro Imobiliário está protocolado.",
+    "Solicite a certificação de gravames nesse registro, pelos canais que indicar o SAREN.",
+    "Faça com que um advogado estude a tradição legal e a certificação.",
+    "Antes de assinar, verifique se nada mudou: peça uma certificação atualizada se passou tempo."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta",
+   "tip": "Nunca entregue o preço total antes do ato de protocolização. O habitual é pagar no momento da assinatura perante o registrador ou com um mecanismo que assegure o pagamento contra a assinatura.",
+   "table": {
+    "head": [
+     "Situação",
+     "O que fazer"
+    ],
+    "rows": [
+     [
+      "O vendedor não é quem figura no documento",
+      "Peça a procuração notarial ou a declaração sucessória que o autoriza"
+     ],
+     [
+      "Só há um documento notariado, não registrado",
+      "Consulte um advogado: a propriedade não está registrada em seu nome"
+     ],
+     [
+      "Há uma hipoteca vigente",
+      "Deve ser liberada antes ou no mesmo ato da venda"
+     ],
+     [
+      "Os limites ou medidas não coincidem com a realidade",
+      "Peça um levantamento e revise o cadastro"
+     ],
+     [
+      "O dono é uma pessoa falecida",
+      "É necessária a declaração sucessória e que assinem todos os herdeiros"
+     ],
+     [
+      "Pressa para cobrar antes de registrar",
+      "Freie: o pagamento deve ser feito contra a assinatura no registro"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O SAREN e os trâmites online",
+   "paras": [
+    " O Serviço Autônomo de Registros e Notarias (SAREN) coordena os registros e notarías do país. Muitos trâmites são iniciados por seu sistema online, onde se carregam os dados, paga-se e solicita-se a agenda. As taxas e requisitos mudam, então verifique o portal antes de ir."
+   ]
+  },
+  {
+   "h2": "Quando já for seu: como guardar o documento",
+   "paras": [
+    "Depois da compra, o documento protocolado é sua prova de propriedade. Guarde o original em um local seguro, faça cópias digitais e anote os dados de registro em outro local. Se o perder, pode-se pedir cópia certificada ao Registro Imobiliário, mas é mais rápido ter os dados à mão."
+   ]
+  },
+  {
+   "h2": "Buscar com mais tranquilidade",
+   "paras": [
+    "No Casa-Libre você pode pedir ao vendedor por WhatsApp os dados de registro do documento de propriedade antes de visitar. Um vendedor que os compartilha rápido costuma ter os papéis em ordem. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se um imóvel está em nome do vendedor?",
+   "a": "Peça cópia do documento de propriedade e confirme no Registro Imobiliário da jurisdição que o vendedor é o último titular, idealmente com um advogado."
+  },
+  {
+   "q": "O que é uma certificação de gravames?",
+   "a": "Um documento do Registro Imobiliário que indica se o imóvel tem hipotecas, embargos ou proibições de alienar em um período de anos."
+  },
+  {
+   "q": "Um documento notariado serve como título de propriedade?",
+   "a": "A notaria autentica assinaturas, mas a propriedade frente a terceiros se torna pública com o registro. Para comprar com segurança, o título deve estar protocolizado no Registro Imobiliário."
+  },
+  {
+   "q": "O que é a tradição legal?",
+   "a": "A cadeia de proprietários do imóvel para trás. Seu estudo confirma que todas as transferências anteriores foram válidas."
+  },
+  {
+   "q": "Como obtenho uma cópia certificada do meu documento de propriedade?",
+   "a": "Solicita-se no Registro Imobiliário onde está protocolizado, normalmente iniciando o trâmite pelo sistema online do SAREN com os dados de registro."
+  },
+  {
+   "q": "O documento de propriedade inclui a vaga de estacionamento?",
+   "a": "Deve indicá-la se a vaga lhe pertence. Verifique se vagas e depósito aparecem no documento e não apenas na palavra do vendedor."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Casas à venda",
+  "Como evitar golpes imobiliários"
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "_src": "717d50ddb794",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar um terreno na Venezuela: o que verificar antes",
+  "h1": "Comprar um terreno na Venezuela: urbano, rural ou ejido, e o que verificar antes de pagar",
+  "description": "O que verificar ao comprar um terreno na Venezuela: documento registrado, limites e mensura, zoneamento, serviços, terrenos ejidos e rurais, e por que ver o terreno pessoalmente.",
+  "answer": "Antes de comprar um terreno na Venezuela confirme que o vendedor é o proprietário segundo um documento registrado, que as medidas e limites reais coincidem com o documento e o cadastro, que o zoneamento municipal permite o que você quer construir e que há acesso a água, eletricidade e via. Distinga entre terreno urbano privado, terreno ejido (municipal) e terra rural, porque cada um tem regras distintas. Visite o terreno pessoalmente com um topógrafo se as medidas importam."
+ },
+ "sections": [
+  {
+   "h2": "Nem todos os terrenos são iguais",
+   "table": {
+    "head": [
+     "Tipo",
+     "O que é",
+     "O que observar"
+    ],
+    "rows": [
+     [
+      "Urbano privado",
+      "Terreno dentro da área urbana com título registrado em nome de um particular",
+      "O caso mais direto: verificar título, cadastro e zoneamento"
+     ],
+     [
+      "Ejido",
+      "Terreno propriedade do município",
+      "Existem procedimentos municipais para uso ou aquisição; um particular pode ter apenas direitos de ocupação"
+     ],
+     [
+      "Rural ou agrícola",
+      "Terra com vocação agrícola fora da área urbana",
+      "Há uma lei especial de terras e o Instituto Nacional de Terras (INTI) intervém na sua regulação"
+     ],
+     [
+      "Parcela em urbanização ou desenvolvimento",
+      "Lote dentro de um desenvolvimento com ruas e serviços",
+      "Verificar se o desenvolvimento tem permissões e se o lote está individualizado no registro"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O título: quem é o verdadeiro dono",
+   "paras": [
+    "Peça cópia do documento de propriedade registrado e faça com que um advogado estude a tradição legal e solicite a certificação de gravames no Registro Imobiliário. Em terrenos são frequentes os problemas de sucessões não feitas, vendas de \"bem-echuras\" sem título do solo e terrenos ejidos oferecidos como se fossem privados.",
+    "Se alguém lhe vende apenas \"as bem-echuras\" (o construído ou plantado) e não o solo, tenha claro o que está comprando: não é o mesmo que a propriedade do terreno."
+   ]
+  },
+  {
+   "h2": "Medidas, limites e mensura",
+   "paras": [
+    "O documento descreve o terreno com medidas e limites. Na prática podem não coincidir: cercas corridas, invasões parciais ou descrições antigas pouco precisas. Um levantamento topográfico feito por um profissional indica o que há no terreno e se coincide com o documento e com o cadastro municipal."
+   ],
+   "steps": [
+    "Compare o documento com a certidão cadastral do terreno.",
+    "Contrate um levantamento topográfico se o terreno for grande ou as medidas forem essenciais para seu projeto.",
+    "Caminhe os limites com o vendedor e, se possível, com os vizinhos.",
+    "Verifique se não há ocupantes nem construções de terceiros."
+   ]
+  },
+  {
+   "h2": "Zoneamento e o que você pode construir",
+   "paras": [
+    "A prefeitura define o que pode ser construído em cada zona: uso residencial ou comercial, altura máxima, percentual de ocupação do terreno e recuos. Peça a constância de zoneamento ou variáveis urbanas antes de comprar, sobretudo se pretende construir um edifício ou um comércio.",
+    "Um terreno barato pode não servir se o zoneamento não permitir seu projeto."
+   ]
+  },
+  {
+   "h2": "Serviços e acesso",
+   "bullets": [
+    "Água: há conexão de abastecimento, poço ou será necessário depender de cisternas?",
+    "Eletricidade: há rede próxima ou será preciso instalar linha?",
+    "Via de acesso: pública, asfaltada, transitável nas chuvas?",
+    "Esgotos ou necessidade de poço séptico.",
+    "Riscos: proximidade a ravinas, encostas íngremes ou áreas inundáveis."
+   ],
+   "tip": "Visite o terreno após um dia de forte chuva. Você verá se inunda, se o acesso se torna intransitável ou se há escorrimentos."
+  },
+  {
+   "h2": "Se for terra rural",
+   "paras": [
+    "As terras com vocação agrícola têm regime especial e o Instituto Nacional de Terras (INTI) intervém na sua regulação. Antes de comprar uma fazenda ou um lote rural, peça a um advogado com experiência agrária que analise a situação do imóvel, pois há figuras como a adjudicação ou a garantia de permanência que não equivalem a uma propriedade privada plena."
+   ]
+  },
+  {
+   "h2": "Se você pensa em construir: calcule o projeto completo",
+   "paras": [
+    "O preço do terreno é apenas o começo. Antes de comprar, peça uma estimativa preliminar a um arquiteto ou engenheiro do que custaria seu projeto naquele terreno específico. Um terreno em declive, com solo de preenchimento ou distante das redes de serviços pode encarecer muito a obra."
+   ],
+   "steps": [
+    "Consulte as variáveis urbanas na prefeitura para saber o que pode construir.",
+    "Solicite um estudo de solo se o terreno tem declive ou dúvidas sobre sua firmeza.",
+    "Descubra quanto custa levar água, eletricidade e esgoto até o terreno.",
+    "Peça a licença de construção na prefeitura antes de iniciar a obra.",
+    "Reserve uma margem para imprevistos: em obra quase sempre surgem."
+   ]
+  },
+  {
+   "h2": "Ver terrenos no mapa",
+   "paras": [
+    "No Casa-Libre você pode filtrar terrenos à venda e visualizá-los no mapa, o que ajuda a localizar acessos, vizinhos e distância da cidade antes de ir. Escreva ao vendedor por WhatsApp para solicitar o documento e a certidão cadastral. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se um terreno tem dono na Venezuela?",
+   "a": "Peça o documento de propriedade registrado e verifique no Registro Imobiliário a tradição legal e os gravames. Consulte também o cadastro da prefeitura."
+  },
+  {
+   "q": "O que é um terreno ejido?",
+   "a": "Um terreno de propriedade do município. Seu uso ou aquisição segue procedimentos municipais, e quem o ocupa nem sempre tem a propriedade do solo."
+  },
+  {
+   "q": "Um estrangeiro pode comprar um terreno na Venezuela?",
+   "a": "Pode comprar terrenos urbanos. Para terras rurais ou zonas fronteiriças e costeiras há normas especiais que convém revisar com um advogado."
+  },
+  {
+   "q": "O que são as bem-echurías?",
+   "a": "As construções ou melhorias feitas sobre um terreno. Comprar bem-echurías não é o mesmo que comprar o terreno."
+  },
+  {
+   "q": "O que são as variáveis urbanas?",
+   "a": "As regras da prefeitura sobre o que pode ser construído em um terreno: uso, altura, percentual de ocupação e recuos. Consulte-as antes de comprar se pretende construir."
+  },
+  {
+   "q": "Preciso de um topógrafo para comprar um terreno?",
+   "a": "Não é obrigatório, mas é muito recomendável se o terreno for grande ou as medidas forem importantes para seu projeto. Ele indica se o real coincide com o documento."
+  }
+ ],
+ "related": [
+  "Terrenos à venda",
+  "Propriedades na Ilha de Margarita",
+  "Como verificar o documento de propriedade"
+ ]
+}

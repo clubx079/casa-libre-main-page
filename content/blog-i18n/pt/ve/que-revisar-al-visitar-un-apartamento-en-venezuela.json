@@ -1,0 +1,154 @@
+{
+ "_src": "53309b9cf5e4",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "O que verificar ao visitar um apartamento na Venezuela",
+  "h1": "O que verificar ao visitar um apartamento usado na Venezuela: a lista completa",
+  "description": "Lista do que você deve verificar na visita a um apartamento na Venezuela: água e tanque, eletricidade e gerador, infiltrações, elevador, condomínio, documentos e a região em diferentes horários.",
+  "answer": "Na visita a um apartamento na Venezuela verifique, além do estado do imóvel, os serviços do prédio: quantas horas chega a água e se há tanque e bombas, se há gerador e o que cobre, se o elevador funciona e como está o condomínio. Procure infiltrações, teste torneiras e tomadas elétricas, pergunte sobre taxas especiais e solicite os dados do documento de propriedade. Volte uma segunda vez em outro horário para ver a região à noite ou em horário de pico."
+ },
+ "sections": [
+  {
+   "h2": "Serviços do edifício: o que mais pesa no dia a dia",
+   "paras": [
+    "Um apartamento bonito em um prédio com problemas de água ou eletricidade pode virar dor de cabeça. Essas perguntas valem mais que pintura nova:"
+   ],
+   "bullets": [
+    "Quantos dias e horas chega a água por tubulação? Há tanque subterrâneo, tanque aéreo e bombas funcionando?",
+    "O prédio compra água por cisternas? Com que frequência e como se reparte o custo?",
+    "Há planta elétrica? Cobre só elevadores e bombas, ou também os apartamentos?",
+    "Como é a pressão da água nos andares altos?",
+    "Há gás direto ou em botijão?",
+    "Quais provedores de internet chegam ao prédio?"
+   ],
+   "tip": "Pergunte ao porteiro, não só ao vendedor. Ele costuma saber exatamente quando chega a água e quais equipamentos estão falhando."
+  },
+  {
+   "h2": "Dentro do apartamento",
+   "table": {
+    "head": [
+     "O que revisar",
+     "Como fazer"
+    ],
+    "rows": [
+     [
+      "Filtrações",
+      "Observe tetos, cantos, ao redor das janelas e sob as pias; procure manchas, pintura inchada e cheiro de umidade"
+     ],
+     [
+      "Água e esgotos",
+      "Abra todas as torneiras e o chuveiro ao mesmo tempo, acione os sanitários e veja se drenam bem"
+     ],
+     [
+      "Eletricidade",
+      "Teste tomadas e interruptores, verifique o quadro e pergunte se a instalação foi renovada"
+     ],
+     [
+      "Aquecedor",
+      "Pergunte o tipo e a idade, e teste-o"
+     ],
+     [
+      "Ar-condicionado",
+      "Teste os aparelhos e pergunte se ficam com o apartamento"
+     ],
+     [
+      "Janelas e portas",
+      "Que fechem bem, com grades ou proteções em bom estado"
+     ],
+     [
+      "Pisos e paredes",
+      "Rachaduras grandes ou pisos levantados podem indicar problemas maiores"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Áreas comuns e estado do prédio",
+   "bullets": [
+    "Elevador: se funciona, quantos há e quando foi a última manutenção.",
+    "Fachada, cobertura e impermeabilização: problemas aqui terminam em taxas especiais.",
+    "Estacionamento: quantas vagas lhe cabem, se são cobertas e se constam no documento.",
+    "Vigilância, portão e controle de acesso.",
+    "Limpeza e manutenção geral: dizem muito sobre como o condomínio funciona."
+   ]
+  },
+  {
+   "h2": "Perguntas sobre o condomínio",
+   "paras": [
+    "Peça o valor do condomínio dos últimos meses, se há taxas especiais aprovadas e quanto há no fundo de reserva. Peça também a solvência de condomínio do apartamento: as dívidas de despesas comuns acompanham o imóvel e você pode acabar pagando-as."
+   ]
+  },
+  {
+   "h2": "Papéis: pergunte na primeira visita",
+   "paras": [
+    "Não é preciso esperar a negociação para perguntar pelos documentos. Um vendedor com a papelada em ordem lhe dará sem problema os dados de registro do documento de propriedade, a cédula cadastral e dirá se há hipoteca. Se ficar nervoso ou evasivo, anote."
+   ],
+   "steps": [
+    "Peça o nome do proprietário e compare com quem lhe mostra o imóvel.",
+    "Peça os dados de registro do documento de propriedade.",
+    "Pergunte se há hipoteca e se as solvências municipal e de condomínio estão em dia.",
+    "Pergunte se as vagas de estacionamento e o depósito estão no documento."
+   ]
+  },
+  {
+   "h2": "A zona, em diferentes horários",
+   "paras": [
+    "Volte uma segunda vez em outro horário: à noite para ver iluminação e movimento, e no horário de pico para medir o trânsito até seu trabalho ou escolas. Caminhe pelas quadras próximas e observe comércios, transporte e, se for importante, proximidade ao metrô ou vias principais."
+   ]
+  },
+  {
+   "h2": "O que levar à visita",
+   "paras": [
+    "Ir preparado permite revisar mais em menos tempo e não depender da memória ao comparar vários apartamentos."
+   ],
+   "bullets": [
+    "O telefone com bateria cheia, para fotos e vídeos de cada ambiente.",
+    "Uma lanterna, para olhar sob pias, dentro de armários e no quadro elétrico.",
+    "Um carregador pequeno ou um testador de tomadas, para verificar se funcionam.",
+    "Uma fita métrica, se lhe importa que seus móveis caibam.",
+    "Esta lista impressa ou em notas, para ir marcando.",
+    "Se for compra, alguém que saiba de construção ou instalações, ainda que um familiar experiente."
+   ]
+  },
+  {
+   "h2": "Depois da visita",
+   "paras": [
+    "Anote no mesmo dia o que viu, o que gostou e o que o preocupou, com fotos. Se o apartamento ainda está na sua lista, peça por escrito o que ficou pendente: valor do condomínio, atas de assembleia, dados do documento de propriedade. E se encontrou problemas, como filtrações ou equipamentos danificados, use-os para negociar o preço ou peça que sejam reparados antes da assinatura, deixando tudo escrito na proposta de compra."
+   ]
+  },
+  {
+   "h2": "Chegue à visita com a tarefa feita",
+   "paras": [
+    "Na Casa-Libre você pode ver apartamentos à venda no mapa e perguntar por WhatsApp sobre água, planta elétrica e condomínio antes de ir. Assim visita só os que passam o primeiro filtro. Gratis, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é o mais importante ao visitar um apartamento na Venezuela?",
+   "a": "Além do estado do imóvel, os serviços do prédio: água, tanque e bombas, gerador, elevador e a saúde do condomínio."
+  },
+  {
+   "q": "Como detecto infiltrações?",
+   "a": "Procure manchas, pintura inchada e cheiro de umidade em tetos, cantos, janelas e sob as pias. Pergunte ao porteiro sobre problemas de impermeabilização."
+  },
+  {
+   "q": "Devo solicitar a solvência do condomínio?",
+   "a": "Sim. As dívidas de despesas comuns acompanham o imóvel, então solicite antes de assinar."
+  },
+  {
+   "q": "Quantas vezes é conveniente visitar?",
+   "a": "Pelo menos duas, em horários diferentes, para conhecer a região de dia e de noite."
+  },
+  {
+   "q": "Posso pedir que consertem algo antes de comprar?",
+   "a": "Sim. Negocie e deixe escrito na opção de compra, com prazo, ou use o problema para ajustar o preço."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Propriedades em Caracas",
+  "Condomínio: o que cobre"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "_src": "33db2316206b",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a Pre-sale Apartment in Bolivia: Risks and Key Points",
+  "h1": "Buying a Pre-sale Apartment in Bolivia: What to Check Before Signing",
+  "description": "How to buy a pre-sale or off-plan apartment in Bolivia without surprises: project land, construction license, contract, payments, delivery deadlines and your own folio real.",
+  "answer": "Buying in pre-sale can be cheaper than buying a finished apartment, but the risk is that the work is delayed or never completed. Before signing, verify that the land is registered in Derechos Reales in the developer’s name and free of unexplained mortgages, that the project has plans approved by the alcaldía, and that the contract sets price, currency, delivery deadlines, penalties and when you will receive your apartment with your own folio real. Also make sure the contract includes the escritura (public deed) in your favor."
+ },
+ "sections": [
+  {
+   "h2": "What buying off-plan means",
+   "paras": [
+    "In off-plan, or “en plano”, you buy an apartment that does not yet exist: the building is still a project or under construction. You pay an initial installment and then installments during the work, and the balance is usually paid when you receive the apartment, sometimes with a mortgage loan.",
+    "The advantage is the price and the possibility of paying in parts. The disadvantage is that you pay for something that depends on the developer completing the work on time and according to plan. All the review that follows aims to reduce that risk."
+   ]
+  },
+  {
+   "h2": "Research the developer and its previous projects",
+   "bullets": [
+    "Ask for the list of buildings it has already delivered and visit at least one: talk to owners about timelines, finishes and response to complaints.",
+    "Verify the corporate name and that the company exists legally; the contract must be signed by the company, not by a person “on behalf” without power of attorney.",
+    "Beware of very large discounts for paying everything upfront: that money finances the work and you are the one taking the risk."
+   ]
+  },
+  {
+   "h2": "The land and the project permits",
+   "paras": [
+    "The building is erected on a plot that must be registered in Derechos Reales. Request the folio real (real title) of that land: if a mortgage in favor of a bank appears, it can be normal (financing the work), but ask how your unit will be released when you buy it. The Reglamento de Derechos Reales allows the lien to be cancelled per unit so that each apartment is free.",
+    "Also request the construction plans approved by the alcaldía. If the project still lacks approval, you are buying a project that could change or not be authorized."
+   ]
+  },
+  {
+   "h2": "Your apartment must finish with its own folio real",
+   "paras": [
+    "When the building is completed, it is registered under the horizontal property regime: each apartment, parking space or storage unit receives its own registration and its folio real. That is what makes you the owner against everyone, allowing you to sell, mortgage or inherit without problems.",
+    "The contract must state within what period the developer will carry out that procedure and sign the escritura (deed) of transfer in your favor. Many conflicts in new buildings are not about construction, but because years later owners still do not have their folio real."
+   ],
+   "tip": "Ask whether the parking space and storage unit are sold as separate units with their own registration or as part of the apartment. That changes the price, taxes and what you can sell later."
+  },
+  {
+   "h2": "What the off-plan contract must say",
+   "bullets": [
+    "Exact identification of the unit: floor, number, area, parking space and storage unit.",
+    "Total price, currency (bolivianos or dollars) and payment schedule.",
+    "Delivery deadline and what penalty the developer pays if it is delayed.",
+    "What happens to your money if the project is not built or if you back out.",
+    "Specifications of finishes (floors, windows, kitchen, bathrooms), ideally with an annex.",
+    "Deadline for the escritura and registration in Derechos Reales in your name.",
+    "Initial expenses and internal building regulations."
+   ]
+  },
+  {
+   "h2": "How to pay with less risk",
+   "paras": [
+    "Always pay to the company’s bank account, with a receipt or invoice for each payment. If you will pay the final balance with a mortgage loan, request a pre-qualification before signing the off-plan agreement: the bank will appraise the completed apartment and tell you how much it will lend, and if the amount is insufficient you need to know it in advance.",
+    "With an exchange rate that moves, the currency is also a risk: if your income is in bolivianos and the contract is in dollars, each installment may cost you differently. Analyze this before committing to several years of payments."
+   ]
+  },
+  {
+   "h2": "The delivery day",
+   "paras": [
+    "Inspect the apartment calmly before signing the receipt act: finishes, humidity, electrical and plumbing installations, doors and windows. Write down everything that is pending and the deadline for correction. Once you sign the receipt without observations, claiming becomes much harder."
+   ]
+  },
+  {
+   "h2": "Compare off-plan with finished apartments",
+   "paras": [
+    "Before deciding, look at how much finished apartments cost in the same area: if the difference with the off-plan price is small, it may not be worth the risk and the wait. On Casa-Libre you can see apartments for sale on the map, compare them and write by WhatsApp to each advertiser. You can also do it from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it safe to buy a pre-sale apartment?",
+   "a": "It can be safe if the developer has completed projects, the land is registered, the project has approved plans and the contract sets deadlines, penalties and the delivery of the folio real. Without that, the risk is high."
+  },
+  {
+   "q": "When will I receive the folio real for my apartment?",
+   "a": "After the building is registered in horizontal property and the escritura is signed in your favor. Require that the contract set a deadline for that procedure."
+  },
+  {
+   "q": "Can I pay the balance with a mortgage loan?",
+   "a": "Yes, it is common. Get a pre-qualification before signing the pre-sale to know how much they would lend you for the finished apartment."
+  },
+  {
+   "q": "What happens if the construction is delayed?",
+   "a": "It depends on the contract. That’s why it’s essential that it includes a delivery deadline and a penalty for delay, as well as what happens to your money if the project is cancelled."
+  }
+ ],
+ "related": [
+  "Apartments for Sale",
+  "Properties in Santa Cruz de la Sierra",
+  "Guide: How to Buy Your First Home",
+  "Mortgage Loan in Bolivia"
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "_src": "3d9793489fcd",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dollars or bolivars when buying or renting in Venezuela",
+  "h1": "Dollars or bolivars when buying or renting in Venezuela: how to agree on the price and pay without surprises",
+  "description": "Why properties in Venezuela are listed in foreign currency, how the official exchange rate of the BCV is used, what the contract must state, and how to pay safely and with proper documentation.",
+  "answer": "In Venezuela most properties are listed with a reference price in foreign currency, mainly dollars, while the bolivar is the legal tender and appears in many procedures. If you pay in bolivars, the contract must specify which exchange rate is used (the usual practice is the official rate of the Central Bank of Venezuela on the day of payment). In residential rentals the law has its own rules regarding the rent. Whatever the currency, pay by traceable means and keep every receipt."
+ },
+ "sections": [
+  {
+   "h2": "Why prices are listed in foreign currencies",
+   "paras": [
+    "After years of high inflation and monetary reconversions, most people set the value of large assets, like an apartment, in a more stable currency. That’s why you will see almost all properties for sale priced in dollars and many rentals with a reference rent in foreign currencies.",
+    "That does not change the fact that the bolívar is the legal tender. In the documents recorded at the registry and in tax payments the amount usually appears in bolívares, even though the negotiation was done in foreign currencies."
+   ]
+  },
+  {
+   "h2": "The official exchange rate of the BCV",
+   "paras": [
+    "The Central Bank of Venezuela publishes the official exchange rate every business day. It is the most used reference when a price in foreign currency is paid in bolívares, and also the one used for many tax calculations.",
+    "The problem arises when the contract does not specify which rate or which day. If the price is agreed in dollars and the payment is made weeks later, the difference can be significant. Always write: \"at the official exchange rate published by the BCV for the day of payment\"."
+   ]
+  },
+  {
+   "h2": "In a sale",
+   "bullets": [
+    "Write down the price, the payment currency and, if there is payment in bolívares, the applicable exchange rate.",
+    "If there are earnest money or an initial payment when signing the purchase option, specify the currency and what happens to that amount if the sale does not materialize.",
+    "Prefer bank transfers to accounts in the seller’s name over cash delivery.",
+    "If you pay from abroad, keep the receipts of the international transfer: they will help you justify the source of funds.",
+    "The price shown in the registered document must match what was actually paid. Declaring a lower price to pay less tax is a legal risk for both parties."
+   ]
+  },
+  {
+   "h2": "In a residential lease",
+   "paras": [
+    "In rentals it is very common for the rent to be advertised in foreign currencies. The Law for the Regularization and Control of Housing Leases has rules on rent setting that do not always match this practice. Before signing, seek advice on how the rent clause should be drafted to protect you.",
+    "In practice, agree in writing: the amount, the reference currency, the currency you will pay in, the exchange rate and the payment date. That way you avoid disputes each month."
+   ]
+  },
+  {
+   "h2": "Payment methods: traceability above all",
+   "tip": "Never pay a third-party account \"because the owner is traveling\". If the owner cannot receive, there must be a notarized power of attorney authorizing the collector.",
+   "table": {
+    "head": [
+     "Method",
+     "Advantage",
+     "Caution"
+    ],
+    "rows": [
+     [
+      "Transfer in bolívares",
+      "Bank record in the names of the parties",
+      "Confirm the account belongs to the seller or landlord"
+     ],
+     [
+      "Mobile payment",
+      "Fast for smaller amounts, like the monthly rent",
+      "Daily limits; keep the screenshot and reference"
+     ],
+     [
+      "Transfer in foreign currencies (national or abroad account)",
+      "Preserves value",
+      "Check fees and that the account belongs to the holder"
+     ],
+     [
+      "Cash in foreign currencies",
+      "Immediate",
+      "Security risk and no record; require a signed receipt"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Payments in foreign currencies and taxes",
+   "paras": [
+    "Certain payments in foreign currencies or crypto-assets may be subject to the large financial transactions tax (IGTF), depending on who pays and who receives. The rules change, so ask your bank or an accountant whether your transaction is subject before choosing the payment method."
+   ]
+  },
+  {
+   "h2": "A clear clause example (hypothetical)",
+   "paras": [
+    "For a lease, wording that avoids disputes could look like this, always reviewed by a lawyer for your case: \"The monthly rent is the equivalent in bolívares of [amount] United States dollars, calculated at the official exchange rate published by the Central Bank of Venezuela for the day of payment, payable within the first five days of each month by transfer to account [details] in the name of the landlord.\"",
+    "The important thing is that the five elements are present: amount, reference currency, payment currency, exchange rate and date."
+   ]
+  },
+  {
+   "h2": "Compare prices in the same currency",
+   "paras": [
+    "On Casa-Libre the listings show the price in the currency chosen by the advertiser, so you can compare options on the map without doing calculations all the time. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it legal to sell a property in dollars in Venezuela?",
+   "a": "Agreeing on a price in foreign currency is a very common practice in sales. The important thing is that the document reflects the real price and that a lawyer drafts the payment clause properly."
+  },
+  {
+   "q": "Which exchange rate is used to pay in bolivars?",
+   "a": "The usual practice is the official exchange rate published by the BCV for the day of payment. Write it into the contract."
+  },
+  {
+   "q": "Can they charge me rent in dollars?",
+   "a": "It is common in practice, but the housing lease law has rules about the rent. Check before signing how the clause should be written."
+  },
+  {
+   "q": "Is paying in cash safe?",
+   "a": "It carries security risks and leaves no record. If there is no other option, demand a signed receipt with date, amount, currency and description."
+  }
+ ],
+ "related": [
+  "Properties for sale",
+  "Rentals on the map",
+  "Buy from abroad"
+ ]
+}

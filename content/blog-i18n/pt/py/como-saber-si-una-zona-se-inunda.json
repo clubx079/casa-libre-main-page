@@ -1,0 +1,134 @@
+{
+ "_src": "ec15e169b1fc",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como saber se uma zona alaga antes de comprar ou alugar",
+  "h1": "Como saber se uma casa ou rua alaga antes de comprar ou alugar",
+  "description": "Córregos, cheias do rio Paraguai e quintais que se enchem de água: como detectar o risco de inundação de um imóvel e o que perguntar ao proprietário.",
+  "answer": "Para saber se um imóvel alaga, visite-o depois de uma chuva forte, pergunte aos vizinhos, procure marcas de água nas paredes e portões, verifique se a rua tem drenagem pluvial e se a casa está em uma declive ou em uma área baixa perto do rio. Em Assunção e arredores há dois riscos diferentes: os córregos, que se formam nas ruas com tempestades intensas, e as cheias do rio Paraguai, que afetam as áreas ribeirinhas. Pergunte ao proprietário por escrito se alguma vez entrou água."
+ },
+ "sections": [
+  {
+   "h2": "Dois riscos distintos: enxurradas e cheias",
+   "paras": [
+    "Quando se fala em inundações na área de Assunção costumam se confundir dois fenômenos que não têm nada a ver entre si e que são avaliados de maneira distinta.",
+    "As enxurradas aparecem durante e logo após chuvas intensas: a água corre pelas ruas em declive com muita força, arrasta objetos e pode entrar em garagens e casas que estão abaixo do nível da rua. Duram horas, mas se repetem a cada tempestade forte.",
+    "As cheias do rio Paraguai são lentas e sazonais: o nível do rio sobe durante semanas ou meses e afeta as áreas baixas e ribeirinhas, como os alagadiços. Podem obrigar famílias a deixar suas casas por um longo período."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Enxurrada",
+     "Chegada do rio"
+    ],
+    "rows": [
+     [
+      "Quando ocorre",
+      "A cada tempestade forte",
+      "Nas temporadas de rio alto"
+     ],
+     [
+      "Quanto dura",
+      "Horas",
+      "Semanas ou meses"
+     ],
+     [
+      "Onde",
+      "Ruas em declive, descidas, cruzamentos sem drenagem",
+      "Áreas baixas próximas ao rio"
+     ],
+     [
+      "Como se vê na casa",
+      "Água na garagem, calçadas quebradas, marcas baixas",
+      "Marcas de água altas, umidade, reparos nas paredes"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A melhor prova: ir depois da chuva",
+   "paras": [
+    "Se puder, volte a ver o imóvel no mesmo dia de uma tempestade ou no dia seguinte. Você verá ao vivo como a quadra se comporta: se a água corre pela frente, se fica parada na esquina ou se o pátio drena. Nenhuma foto do aviso fornece essa informação.",
+    "Se não coincidir com uma chuva, percorra a quadra inteira e observe a inclinação: se a casa está no fundo de uma descida, a água de toda a rua passará pela sua frente."
+   ]
+  },
+  {
+   "h2": "Sinais na casa que vale a pena observar",
+   "paras": [
+    "Nenhum sinal isolado prova que a casa inunda, mas se você vir vários juntos, pergunte diretamente."
+   ],
+   "bullets": [
+    "Marcas horizontais em paredes, muros ou portões: costumam ficar na altura que a água chegou.",
+    "Pintura nova apenas na parte baixa das paredes, ou rebocos reparados na mesma altura em vários ambientes.",
+    "Umidade, odor de mofo ou pisos de madeira levantados.",
+    "Degraus ou “lomos de burro” improvisados na entrada da garagem para frear a água.",
+    "Sacos de areia, comportas ou tábuas guardadas perto da porta.",
+    "Grades e drenagens do pátio entupidas ou insuficientes."
+   ]
+  },
+  {
+   "h2": "Converse com os vizinhos",
+   "paras": [
+    "Os vizinhos são a fonte mais honesta que você vai encontrar. Pergunte se a rua alaga com a chuva, se alguma vez entrou água nas casas e o que aconteceu na última grande tempestade. O armazém ou a despensa da esquina costuma saber tudo.",
+    "Se for comprar, pergunte também se houve obras de drenagem pluvial na zona: às vezes um problema que já existia foi resolvido, e outras vezes a obra está prometida há anos."
+   ]
+  },
+  {
+   "h2": "Veja o terreno no mapa",
+   "paras": [
+    "Os mapas satelitais e de relevo que você tem no celular mostram se o imóvel está perto de um arroio, de um cauce ou da margem do rio. Uma casa a poucas quadras de um arroio ou na parte mais baixa de um bairro merece mais perguntas que uma em uma colina.",
+    "Você também pode consultar na prefeitura se a zona tem histórico de inundação ou restrições de construção. Para acompanhar o nível do rio e os avisos de tempestades, a Direção de Meteorologia e Hidrologia publica previsões e alertas."
+   ]
+  },
+  {
+   "h2": "O que perguntar ao dono ou à imobiliária",
+   "paras": [
+    "Faça as perguntas por WhatsApp ou por escrito, assim a resposta fica registrada:"
+   ],
+   "steps": [
+    "Alguma vez entrou água na casa, na garagem ou no pátio? Quando foi a última vez?",
+    "A rua alaga com chuvas fortes?",
+    "Fizeram alguma obra para evitar a água (grades, elevação do piso, drenagens)?",
+    "O seguro da casa, se houver, cobre inundações?",
+    "Em um aluguel: quem se responsabiliza pelos danos se entrar água?"
+   ]
+  },
+  {
+   "h2": "Se ainda gostar do imóvel",
+   "paras": [
+    "Uma rua com enxurradas não significa que você deva descartar a casa. Muitas casas em áreas com enxurradas têm o piso elevado ou boas drenagens e nunca tiveram problemas. O importante é saber antes e que o preço reflita isso.",
+    "Se for comprar, considere o custo de obras como elevar o acesso à garagem ou melhorar as drenagens do pátio, e peça opinião a um arquiteto ou a um mestre de obras de confiança. Se for alugar, deixe por escrito no contrato quem responde pelos danos causados pela água."
+   ]
+  },
+  {
+   "h2": "Busque no mapa à vista",
+   "paras": [
+    "No Casa-Libre você vê cada imóvel localizado no mapa, assim pode observar seu entorno (arroios, rio, declives) antes de visitá-lo e perguntar ao dono por WhatsApp. Também pelo app do Casa-Libre para iPhone e Android, que permite guardar os imóveis para ver novamente depois de uma chuva."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é um córrego?",
+   "a": "É a corrente de água que se forma nas ruas durante chuvas intensas, sobretudo em ruas em declive ou sem drenagem pluvial suficiente. Pode ser perigosa e entrar em garagens e casas baixas."
+  },
+  {
+   "q": "Como sei se uma casa já alagou?",
+   "a": "Procure marcas de água nas paredes e portões, reparos na mesma altura em vários ambientes e umidade, e pergunte aos vizinhos e ao proprietário por escrito."
+  },
+  {
+   "q": "As áreas próximas ao rio Paraguai sempre alagam?",
+   "a": "Não sempre, mas as áreas baixas e ribeirinhas podem ser afetadas nas cheias. É conveniente consultar antecedentes na prefeitura e perguntar aos vizinhos."
+  },
+  {
+   "q": "Se eu alugar e entrar água, quem paga os danos?",
+   "a": "Depende do contrato e da causa. O recomendável é que o contrato deixe isso explícito antes de assinar."
+  }
+ ],
+ "related": [
+  "Propriedades em Assunção no mapa",
+  "Aluguéis no mapa",
+  "Guia: como comprar sua primeira casa"
+ ]
+}

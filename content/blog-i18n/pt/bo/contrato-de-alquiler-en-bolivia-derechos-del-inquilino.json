@@ -1,0 +1,100 @@
+{
+ "_src": "125642f8d04b",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contrato de aluguel na Bolívia: direitos do inquilino",
+  "h1": "Contrato de aluguel na Bolívia: seus direitos e obrigações como inquilino",
+  "description": "O que diz o Código Civil boliviano sobre o aluguel de moradia: reparos, melhorias, sublocação, venda do imóvel, renovação, despejo e a lei excepcional de 2020. Explicado para inquilinos.",
+  "answer": "Na Bolívia, o aluguel de moradia é regido pelo Código Civil (artigos 685 a 722). Como inquilino você tem direito a receber o imóvel em condições de uso, que o proprietário faça os reparos necessários e que, se o imóvel for vendido com contrato de data certa, o comprador respeite seu aluguel. Você deve pagar pontualmente, cuidar do imóvel e fazer a pequena manutenção. O despejo de um imóvel exige ordem judicial: o proprietário não pode expulsá-lo à força."
+ },
+ "sections": [
+  {
+   "h2": "Que norma rege seu aluguel",
+   "paras": [
+    "A base é o Código Civil, que chama \"arrendamento\" ao aluguel e tem uma seção especial para os imóveis urbanos destinados a moradia (artigos 713 a 722). O artigo 722 diz que essas regras não podem ser deixadas de lado por acordo privado, salvo a do subarrendamento. Ou seja: embora o contrato diga outra coisa, essas proteções se aplicam.",
+    "Em 2020 foi aprovada a Lei 1342, Lei Excepcional de Arrendamentos, que reduziu aluguéis e proibiu despejos durante a quarentena pela pandemia e até três meses depois. Foi uma norma temporária; se você ler que \"a lei de aluguéis\" reduz o canon à metade, refere-se a essa situação excepcional, não a uma regra vigente hoje."
+   ]
+  },
+  {
+   "h2": "Seus direitos como inquilino",
+   "bullets": [
+    "Receber a moradia em estado de servir para viver (art. 689) e com condições adequadas de higiene e salubridade (art. 717).",
+    "Que o dono faça os reparos necessários; se demoram muito, pedir um desconto proporcional do aluguel (arts. 690 e 691).",
+    "Pedir o desconto ou a rescisão do contrato se a moradia tem defeitos ocultos que a tornam inadequada (art. 697).",
+    "Instalar serviços como telefone ou eletricidade que não reduzam o valor do imóvel, e retirá-los ao sair (art. 718).",
+    "Que o novo dono respeite seu contrato se o imóvel for vendido e seu contrato tiver data certa (arts. 711, 712 e 714).",
+    "Se o inquilino falecer, o contrato continua a favor do cônjuge ou filhos menores que vivam na moradia (art. 720)."
+   ]
+  },
+  {
+   "h2": "Suas obrigações",
+   "bullets": [
+    "Pagar o aluguel nos prazos acordados (art. 701).",
+    "Usar a moradia com cuidado e somente para o destino pactuado (art. 702).",
+    "Fazer os reparos de pequena manutenção e avisar rápido ao dono quando houver necessidade de reparo maior (art. 690).",
+    "Responder pelos danos que você ou suas visitas causem (art. 703).",
+    "Devolver a moradia como a recebeu, salvo o desgaste normal (art. 705).",
+    "Não subarrendar nem ceder o contrato, salvo se o contrato permitir (art. 719).",
+    "Não fazer melhorias nem ampliações sem autorização (art. 706)."
+   ]
+  },
+  {
+   "h2": "A ata de entrega: sua melhor defesa",
+   "paras": [
+    "O artigo 705 diz algo que muitos inquilinos não sabem: se não houver ata de entrega, presume-se que você recebeu a moradia em bom estado. Isso significa que qualquer dano que já existia pode acabar descontado da sua garantia.",
+    "Ao entrar, faça uma ata com fotos e vídeos de paredes, pisos, banheiros, cozinha, portas e janelas, e que ambos assinem. Ao sair, repita o percurso com o dono."
+   ],
+   "tip": "Guarde as fotos da ata com data na nuvem e envie por WhatsApp ao dono no dia que entrar. Assim fica comprovado quando foram tiradas."
+  },
+  {
+   "h2": "Prazo, renovação e saída",
+   "paras": [
+    "Se o contrato vence e o inquilino continua na moradia sem que ninguém diga nada, o Código Civil considera que o aluguel foi renovado com as mesmas condições (art. 710). Se quiser sair, avise por escrito com a antecedência que seu contrato determina.",
+    "Para moradia urbana, o Código Civil enumera de forma limitada como se extingue o aluguel: se o inquilino entrega voluntariamente a moradia, por seu falecimento (com exceção da família) ou por sentença judicial de despejo (art. 720). Na prática, isso significa que o despejo passa por um juiz: cortar serviços, trocar fechaduras ou retirar seus pertences não é via legal."
+   ]
+  },
+  {
+   "h2": "O preço e seus reajustes",
+   "paras": [
+    "O Código Civil prevê que, se o valor cadastral do imóvel for reajustado, o aluguel será reajustado proporcionalmente, com um teto anual de 10% do novo valor cadastral (art. 715). Na prática, a maioria dos contratos fixa o preço e seu reajuste por acordo. Leia com cuidado a cláusula de reajuste e a moeda, sobretudo se o aluguel estiver em dólares e você receber em bolivianos."
+   ]
+  },
+  {
+   "h2": "Se houver um conflito com o dono",
+   "paras": [
+    "Primeiro, tudo por escrito: reclamações, avisos e acordos por mensagem ou carta, guardando cópia. Se não houver acordo, um centro de conciliação ou um advogado pode ajudar antes de chegar a julgamento. Continue pagando o aluguel enquanto discute: deixar de pagar enfraquece sua posição."
+   ]
+  },
+  {
+   "h2": "Antes de assinar seu próximo aluguel",
+   "paras": [
+    "Compare preços na mesma zona e pergunte tudo por escrito. No Casa-Libre você vê aluguéis no mapa e escreve direto por WhatsApp ao dono ou à imobiliária. Também pode usar o app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O proprietário pode me despejar sem ordem judicial?",
+   "a": "Não. Para moradia urbana, o Código Civil prevê a extinção por sentença de desahucio, entre outros modos. Expulsar o inquilino à força ou cortar os serviços não é legal."
+  },
+  {
+   "q": "Quem paga os reparos?",
+   "a": "Os necessários para que o imóvel continue servindo, o proprietário. Os de pequena manutenção, o inquilino (art. 690 do Código Civil)."
+  },
+  {
+   "q": "Se venderem a casa, preciso sair?",
+   "a": "Se seu contrato tem data certa (por exemplo, com assinaturas reconhecidas perante notario (notário)), o novo proprietário deve respeitá-lo (art. 711)."
+  },
+  {
+   "q": "A lei de aluguéis que reduzia o aluguel em 50% ainda está em vigor?",
+   "a": "A Lei 1342 de 2020 foi excepcional, vinculada à quarentena por COVID-19 e alguns meses posteriores. Não é uma regra geral vigente."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Casas para alugar",
+  "Guia para proprietários: alugue seu imóvel",
+  "Requisitos para alugar na Bolívia"
+ ]
+}

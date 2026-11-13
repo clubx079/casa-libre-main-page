@@ -1,0 +1,113 @@
+{
+ "_src": "24126e1c84b2",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Dólares ou guaranis? Em que moeda comprar ou alugar",
+  "h1": "Dólares ou guaranis: em que moeda convém comprar ou alugar um imóvel",
+  "description": "Por que tantas propriedades no Paraguai são publicadas em dólares, que risco você corre se recebe em guaranis e como escolher a moeda do contrato e do crédito.",
+  "answer": "Em Paraguai muitas propriedades à venda são publicadas em dólares e muitos aluguéis em guaranis, mas não há uma regra fixa: a moeda é acordada pelas partes. O importante é que a moeda do que você paga coincida com a moeda em que você recebe. Se você ganha em guaranis e se compromete a pagar parcelas ou aluguel em dólares, quando o dólar sobe seu pagamento sobe embora o número do contrato não mude. Para compras à vista importa menos; para pagamentos ao longo de anos, importa muito."
+ },
+ "sections": [
+  {
+   "h2": "Por que tantas propriedades são publicadas em dólares",
+   "paras": [
+    "No mercado imobiliário paraguaio é comum ver preços de venda em dólares, sobretudo em apartamentos, casas de maior valor e terrenos em áreas procuradas. É um costume do mercado: os vendedores consideram o valor de sua propriedade como um ativo de longo prazo e preferem uma moeda que percebem como referência estável, e muitos desenvolvimentos e materiais de construção são cotados em dólares.",
+    "Os aluguéis residenciais, por outro lado, são publicados muitas vezes em guaranis, porque são pagos com rendimentos mensais que a maioria recebe em moeda local. Mas você encontrará de tudo: aluguéis em dólares (frequentes em apartamentos mobiliados ou áreas corporativas) e vendas em guaranis."
+   ]
+  },
+  {
+   "h2": "O risco cambial explicado com um exemplo",
+   "paras": [
+    "Suponha, com números hipotéticos, que você receba em guaranis e se comprometa a pagar um aluguel de 500 dólares por mês. Se a taxa de câmbio subir 10% durante o contrato, seu aluguel em guaranis sobe 10%, embora seu salário não tenha mudado. Se cair, paga menos. O problema é que você não sabe qual das duas situações ocorrerá.",
+    "Em um aluguel de um ou dois anos esse risco é limitado. Em um crédito ou em parcelas a dez, vinte ou trinta anos, pode mudar completamente quanto custa sua casa."
+   ],
+   "table": {
+    "head": [
+     "Situação",
+     "Risco cambial",
+     "O que convém observar"
+    ],
+    "rows": [
+     [
+      "Compra à vista em dólares",
+      "Baixo: paga uma vez",
+      "A taxa de câmbio do dia e os custos de conversão"
+     ],
+     [
+      "Aluguel em dólares com renda em guaranis",
+      "Médio: dura o contrato",
+      "Prazo, reajustes e se pode pagar em guaranis"
+     ],
+     [
+      "Crédito ou parcelas em dólares com renda em guaranis",
+      "Alto: dura anos",
+      "Comparar com a mesma operação em guaranis"
+     ],
+     [
+      "Renda em dólares e pagamentos em dólares",
+      "Baixo",
+      "Que sua renda continue em dólares todo o prazo"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "A moeda no contrato",
+   "paras": [
+    "A moeda é acordada entre comprador e vendedor, ou dono e inquilino. O importante é que o contrato seja claro: em que moeda o preço está fixado, em que moeda se paga e, se for permitido pagar em outra, a que taxa de câmbio (por exemplo, a de uma entidade determinada no dia do pagamento)."
+   ],
+   "bullets": [
+    "Se o preço está em dólares mas você vai pagar em guaranis, indique no contrato qual cotação será usada e de qual fonte.",
+    "Nos aluguéis, verifique como o preço é reajustado e se o reajuste se soma ao efeito da taxa de câmbio.",
+    "Nas compras com sinal, defina em que moeda está o sinal e o que acontece se a operação cair.",
+    "Guarde comprovação de cada pagamento com a cotação aplicada."
+   ]
+  },
+  {
+   "h2": "Créditos: dólares ou guaranis",
+   "paras": [
+    "As instituições financeiras paraguaias oferecem créditos em guaranis e, em alguns casos, em dólares. Um crédito em dólares às vezes apresenta taxa mais baixa, mas se sua renda é em guaranis, a parcela real em guaranis depende da taxa de câmbio ao longo de todo o prazo. Os programas habitacionais com fundos públicos, como Che Róga Porã, publicam seus valores em guaranis.",
+    "A regra prática mais prudente é contrair dívida na mesma moeda em que você recebe. Se ainda assim avaliar um crédito em dólares, peça à instituição a simulação nas duas moedas e pergunte se poderia pagar a parcela em dólares se a taxa de câmbio subisse bastante."
+   ],
+   "tip": "Compare créditos pelo custo total e por quanto a parcela poderia subir no pior cenário razoável, não apenas pela taxa mais baixa do folheto."
+  },
+  {
+   "h2": "Como comparar preços em moedas diferentes",
+   "paras": [
+    "Quando um anúncio está em dólares e outro em guaranis, comparar a olho nu é difícil. No Casa-Libre cada propriedade mostra seu preço na moeda em que o anunciante publicou e, como referência, uma conversão aproximada à taxa de câmbio do dia, assim você pode comparar opções em uma única moeda. Essa conversão é orientativa: o preço que vale é o que você acorda com o dono ou a imobiliária.",
+    "Para operações reais, consulte a cotação do seu banco ou casa de câmbio no dia do pagamento. O Banco Central do Paraguai publica taxas de referência."
+   ]
+  },
+  {
+   "h2": "A moeda também pode ser negociada",
+   "paras": [
+    "Se o anúncio está em dólares e você recebe em guaranis, pode propor fixar o preço em guaranis à taxa de câmbio do dia. Alguns vendedores aceitam, sobretudo em operações à vista ou quando o comprador obtém crédito em guaranis. Nos aluguéis, pedir o contrato em guaranis é uma negociação comum.",
+    "Busque opções em ambas as moedas, filtre pelo seu orçamento e escreva direto ao anunciante por WhatsApp a partir do Casa-Libre ou do app para iPhone e Android para perguntar se aceita outra moeda."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Por que as casas no Paraguai são vendidas em dólares?",
+   "a": "É um costume do mercado: muitos vendedores veem o imóvel como um ativo de longo prazo e preferem o dólar como referência. Não é obrigatório; o preço também pode ser fixado em guaranis."
+  },
+  {
+   "q": "Vale a pena alugar em dólares?",
+   "a": "Se você recebe em guaranis, um aluguel em dólares o expõe a que o pagamento suba se o dólar subir. Se puder, negocie o contrato em guaranis ou fixe um tipo de câmbio de referência."
+  },
+  {
+   "q": "Vale a pena um crédito hipotecário em dólares?",
+   "a": "Só se sua renda for em dólares ou se você puder absorver uma alta forte do câmbio. Para rendas em guaranis, o mais prudente é se endividar em guaranis."
+  },
+  {
+   "q": "A conversão que mostra Casa-Libre é exata?",
+   "a": "Não, é uma referência aproximada ao câmbio do dia. O preço válido é o que o anunciante publica e acorda, e para pagar usa-se a cotação do seu banco ou casa de câmbio."
+  }
+ ],
+ "related": [
+  "Propriedades à venda",
+  "Propriedades para aluguel",
+  "Guia: quanto vale um imóvel"
+ ]
+}

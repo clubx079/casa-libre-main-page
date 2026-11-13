@@ -1,0 +1,157 @@
+{
+ "_src": "82660d6e1d30",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How Much to Save Before Buying a House in Paraguay",
+  "h1": "How Much You Need to Save Before Buying a House",
+  "description": "How to calculate the savings you need to buy: the portion the bank does not finance, deed expenses, moving costs, and an emergency fund. With an example.",
+  "answer": "Before buying with credit you need savings for four things: the part of the price the bank does not finance, the transaction costs (escribanía (notary), registration, appraisal, initial insurance), the move and entry-level repairs, and an emergency fund so you don’t run out of cushion with the first payment. The percentage each entity finances varies, so the calculation starts by asking how much they will lend you and on what value. Add the four blocks and that is your real target, not just the \"down payment\"."
+ },
+ "sections": [
+  {
+   "h2": "The four savings blocks",
+   "paras": [
+    "The most common mistake is to save only the down payment and discover at the escribano (notary) that several million guaraníes are missing. Think of the savings in four parts, each with its own number."
+   ],
+   "table": {
+    "head": [
+     "Block",
+     "What it includes",
+     "What it depends on"
+    ],
+    "rows": [
+     [
+      "1. Non-financed part",
+      "The difference between the price and what the entity lends",
+      "Percentage financed by the entity and appraisal value"
+     ],
+     [
+      "2. Operation costs",
+      "Escribanía, registration, appraisal, insurance and credit expenses",
+      "Property value, entity and escribano"
+     ],
+     [
+      "3. Move-in and entry",
+      "Freight, connection or change of service holder, repairs and basic furniture",
+      "Property condition and distance"
+     ],
+     [
+      "4. Emergency fund",
+      "Several months of fixed expenses, including the new installment",
+      "Stability of your income"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Block 1: the part the bank does not finance",
+   "paras": [
+    "Entities lend a percentage of the lower value between the price and the appraisal. If the appraisal comes in below the price, you also cover the difference. That’s why you should ask the percentage before you start looking and leave a margin in case the appraisal is low.",
+    "Programs like Che Róga Porã also have a maximum property value per income bracket. If your goal is that program, start with those limits."
+   ]
+  },
+  {
+   "h2": "Block 2: operation costs",
+   "paras": [
+    "When buying you pay escribanía fees, registration fees at the Public Registries, the appraisal required by the entity and credit-related expenses such as insurance and granting fees. The amounts depend on the property value and each professional or entity. The expense guide for buying a house from Casa-Libre contains the details; the important thing here is that you request a written quote from the escribano and the entity before signing."
+   ]
+  },
+  {
+   "h2": "Block 3: move-in and entry repairs",
+   "paras": [
+    "A used house almost always requires something when you move in: paint, lock changes, electrical inspection, tank cleaning, some plumbing repair. If you bought it \"to renovate\", this block is large and it’s wise to budget it with a professional before buying.",
+    "Add freight, the change of ANDE and water account holder (or new connection) and the basics for living: refrigerator, bed, curtains. You don’t need to buy everything at first, but you should have money for what can’t wait."
+   ]
+  },
+  {
+   "h2": "Block 4: the emergency fund",
+   "paras": [
+    "Having a 20- or 30-year installment without a cushion is fragile: one month without income or a big repair and you fall behind. A widely spread personal-finance rule is to set aside three to six months of fixed expenses, including the new installment. If your income is variable (commerce, freelance work), aim for the higher end."
+   ],
+   "tip": "Keep the emergency fund in a separate account and do not use it for the down payment. If you have to empty it to buy, it’s still not the right time or the property is too expensive."
+  },
+  {
+   "h2": "An example with hypothetical numbers",
+   "paras": [
+    "The numbers in this example are invented to show the calculation; they are not market prices nor real conditions of any entity. Suppose a house costs Gs. 600.000.000, an entity finances 80% of the value, operation costs estimated at 5% of the price, Gs. 15.000.000 for moving and repairs, and fixed household expenses of Gs. 6.000.000 per month, including the installment."
+   ],
+   "table": {
+    "head": [
+     "Concept",
+     "Calculation",
+     "Amount (Gs.)"
+    ],
+    "rows": [
+     [
+      "Non-financed part",
+      "20% of 600.000.000",
+      "120.000.000"
+     ],
+     [
+      "Operation costs (assumed)",
+      "5% of 600.000.000",
+      "30.000.000"
+     ],
+     [
+      "Move-in and repairs",
+      "Own estimate",
+      "15.000.000"
+     ],
+     [
+      "Emergency fund",
+      "4 months × 6.000.000",
+      "24.000.000"
+     ],
+     [
+      "Total to save",
+      "",
+      "189.000.000"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The other half: making the installment fit your income",
+   "paras": [
+    "Saving the down payment isn’t enough if the installment later overwhelms you. Entities set a limit on the installment based on your verifiable income, but you can be more prudent: calculate your budget with the highest installment, add the monthly house expenses (expensas if it’s a building, electricity, water, annual property tax divided by months) and make sure you have something left to save.",
+    "A good exercise: for three to six months before buying, set aside each month the equivalent of the estimated installment plus the new expenses. If you can do it without going into debt, the installment is realistic. And what you set aside adds to your savings."
+   ]
+  },
+  {
+   "h2": "How to reach the goal faster",
+   "paras": [
+    "While you save, keep an eye on the market: at Casa-Libre you can view houses and apartments for sale on the map and save the ones you like, also from the iPhone and Android app, to understand what your budget can buy in each area."
+   ],
+   "bullets": [
+    "Look at properties slightly below your ceiling: the required savings drop in all blocks at once.",
+    "Consider areas of Greater Asunción or nearby cities where the same budget yields more square meters.",
+    "If you’re eligible, check programs with lower rates, like Che Róga Porã.",
+    "Negotiate with the seller who pays which costs and on what schedule."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the down payment for buying a house in Paraguay?",
+   "a": "It depends on the percentage the entity finances, which varies by product and your profile. Ask beforehand and calculate it on the lower amount between price and appraisal."
+  },
+  {
+   "q": "Do deed expenses count toward the credit?",
+   "a": "Usually not: the costs of escribanía, registration and appraisal are paid with your own savings. Request a written quote from the escribano and the entity."
+  },
+  {
+   "q": "How many months of emergency fund is advisable?",
+   "a": "A common reference in personal finance is three to six months of fixed expenses, including the new payment. With variable income, aim closer to six."
+  },
+  {
+   "q": "Can I use all my savings for the down payment?",
+   "a": "It is not advisable. If a repair or a month without income appears later, you will fall behind on the payment. Separate the emergency fund before calculating how much you can put down."
+  }
+ ],
+ "related": [
+  "Casas en venta",
+  "Guía: gastos e impuestos al comprar",
+  "Guía: cómo comprar tu primera casa"
+ ]
+}

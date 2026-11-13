@@ -1,0 +1,150 @@
+{
+ "_src": "71421b4771b0",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contrato de aluguel: cláusulas que você tem que revisar",
+  "h1": "As cláusulas do contrato de aluguel que você tem que ler antes de assinar",
+  "description": "Guia para inquilinos: prazo, reajuste, moeda, saída antecipada, reparos, pets, uso, depósito e fiador. Quais cláusulas observar e quais são sinais de alerta.",
+  "answer": "Antes de assinar um contrato de aluguel no Paraguai, verifique sete coisas: o prazo e como ele se renova, o preço com sua moeda e a forma de reajuste, o que acontece se você quiser sair antes, quem paga cada tipo de reparo, para que uso o imóvel é alugado (residencial ou comercial), como e quando o depósito é devolvido, e quem exatamente assina como seu fiador. O Código Civil regula a locação, mas quase tudo o concreto é definido no contrato, então o que não está escrito depois é discutido."
+ },
+ "sections": [
+  {
+   "h2": "Por que o contrato importa mais que a conversa",
+   "paras": [
+    "Em uma visita tudo parece fácil: \"se algo quebrar me avisa\", \"se precisar ir, a gente conversa\". Mas quando surge um problema, o que vale é o que foi assinado. O Código Civil paraguaio (Lei 1183/1985) tem um capítulo sobre a locação de coisas, a partir do artigo 803, com regras gerais sobre as obrigações do locador e do locatário. Essas regras cobrem o que o contrato não diz, mas muitas podem ser modificadas por acordo das partes.",
+    "Traduzido: o contrato manda. Leia-o inteiro, com calma, e peça mudanças antes de assinar. Depois é muito mais difícil."
+   ]
+  },
+  {
+   "h2": "Prazo e renovação",
+   "paras": [
+    "Verifique a data de início, a de fim e o que acontece ao terminar. Algumas perguntas que o contrato deve responder:"
+   ],
+   "bullets": [
+    "É por um ano, dois, ou por tempo indeterminado?",
+    "Renova sozinho, ou é preciso assinar um novo contrato?",
+    "Com quanto de antecedência deve avisar se não quiser renovar?",
+    "O que acontece se ficar alguns dias após o vencimento?"
+   ]
+  },
+  {
+   "h2": "Preço, moeda e reajuste",
+   "paras": [
+    "Veja três dados juntos: quanto, em que moeda e como aumenta. Um aluguel em dólares com um salário em guaranis te expõe à taxa de câmbio. E um contrato que diz \"o preço será atualizado anualmente\" sem dizer como deixa a porta aberta a qualquer aumento.",
+    "O ideal é que o reajuste tenha uma regra clara: um percentual fixo, um índice concreto ou um valor já pactuado para o segundo ano. Também fixe a data de pagamento, se há multa por atraso e como se paga (transferência, depósito, dinheiro com recibo)."
+   ]
+  },
+  {
+   "h2": "Se precisar sair antes: a rescisão antecipada",
+   "paras": [
+    "É uma das cláusulas que mais gera conflitos. A vida muda —um novo trabalho, uma mudança para outra cidade— e convém saber antecipadamente quanto custa sair antes.",
+    "Procure que o contrato diga com quanto de aviso prévio você pode rescindir e se há uma penalidade (por exemplo, um mês de aluguel). Desconfie de cláusulas que obrigam a pagar todos os meses que faltam até o fim do contrato mesmo se você sair: pergunte se pode negociar uma penalidade fixa."
+   ]
+  },
+  {
+   "h2": "Reparos: quem paga o quê",
+   "paras": [
+    "Uma regra razoável, e a que costuma ser vista, é que o inquilino cuida da manutenção menor e dos danos que cause, e o dono da parte estrutural e do que se rompe com o tempo. Mas convém que o contrato diga isso com exemplos."
+   ],
+   "table": {
+    "head": [
+     "Tipo de reparo",
+     "Costuma corresponder a",
+     "O que convém que o contrato diga"
+    ],
+    "rows": [
+     [
+      "Lâmpadas, torneiras que pingam, limpeza de calhas",
+      "Inquilino",
+      "Que é manutenção menor a cargo do inquilino"
+     ],
+     [
+      "Danos causados por uso indevido",
+      "Inquilino",
+      "Que são reparados a seu custo"
+     ],
+     [
+      "Telhado, tubulações internas, instalação elétrica",
+      "Dono",
+      "Que são a cargo do proprietário e o prazo para repará-los"
+     ],
+     [
+      "Eletrodomésticos incluídos no aluguel",
+      "A definir",
+      "Quem paga se quebram por desgaste"
+     ],
+     [
+      "Melhorias feitas pelo inquilino",
+      "A definir",
+      "Se precisam de permissão e se ficam para o dono ao final"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Uso: moradia, escritório ou comércio",
+   "paras": [
+    "O contrato tem que dizer para que se aluga. Se pretende trabalhar de casa com clientes, abrir um consultório ou um pequeno negócio, declare antes: muitos contratos de moradia proíbem isso.",
+    "O destino também tem efeito tributário. Segundo a Lei 6380/2019 e a informação da DNIT, o aluguel de imóveis destinados exclusivamente a moradia está sujeito ao IVA na taxa reduzida de 5%, enquanto outros destinos, como o comercial, tributam na taxa geral de 10%. Se o dono está inscrito no IVA, o uso que constar no contrato altera o imposto na fatura."
+   ]
+  },
+  {
+   "h2": "Animais de estimação, sublocação e visitas",
+   "bullets": [
+    "Animais: se tem ou pretende ter, que o contrato permita por escrito. Um \"sim, sem problema\" verbal não protege.",
+    "Sublocação ou ceder o contrato: quase sempre é proibido sem permissão do dono. Se pretende dividir com alguém, que conste como ocupante.",
+    "Visitas do dono: é razoável que ele possa inspecionar ou mostrar o imóvel ao final do contrato, mas com aviso prévio e em horários acordados.",
+    "Regulamento do prédio ou condomínio: se existir, peça antes de assinar. Lá costumam estar as regras sobre ruídos, animais e mudanças."
+   ]
+  },
+  {
+   "h2": "Depósito e fiador",
+   "paras": [
+    "O contrato deve dizer o valor exato do depósito, que é devolvido ao final, em que prazo e o que pode ser descontado. Peça também que anexe um inventário ou ata do estado da propriedade com fotos.",
+    "Se houver fiador, leia o que ele assina: responde apenas pelos aluguéis ou também por danos e serviços? Sua obrigação termina com o contrato ou continua se houver renovação? Seu fiador tem direito a saber isso antes de assinar."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta em um contrato de aluguel",
+   "bullets": [
+    "Quem assina como locador não é o dono e não apresenta autorização ou procuração escrita.",
+    "Pedem pagamento antes de ver o contrato ou antes de visitar.",
+    "O reajuste fica a critério do dono.",
+    "Não há prazo para devolver o depósito, ou diz que não se devolve.",
+    "Fazem renunciar antecipadamente a qualquer reclamação por reparos estruturais.",
+    "O texto está em branco em partes chave (\"preço: ____\") para completar depois."
+   ],
+   "tip": "Se algo não fechar, peça a mudança por escrito e guarde as mensagens. Para contratos longos ou valores altos, que o leia um advogado ou um escribano (tabelião) antes de assinar."
+  },
+  {
+   "h2": "Antes do contrato, a busca",
+   "paras": [
+    "No Casa-Libre você pode comparar aluguéis no mapa e perguntar por WhatsApp, antes de visitar, as condições do contrato: prazo, reajuste, garantia e se aceitam animais. Funciona na web e no app para iPhone e Android, sem custo para quem busca."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual lei regula os aluguéis no Paraguai?",
+   "a": "O Código Civil (Lei 1183/1985) regula a locação de coisas a partir do artigo 803. Muitas de suas regras se aplicam quando o contrato não diz nada, por isso convém que o contrato seja completo."
+  },
+  {
+   "q": "Aluguel de residência paga IVA?",
+   "a": "Se o proprietário está inscrito no IVA, o aluguel de um imóvel destinado exclusivamente a residência tributa à taxa de 5%; o aluguel comercial, à taxa geral de 10%, segundo a Lei 6380/2019."
+  },
+  {
+   "q": "Podem aumentar o aluguel no meio do contrato?",
+   "a": "Só se o contrato prever. Por isso convém que a forma de reajuste esteja escrita com uma regra concreta e não fique a critério do dono."
+  },
+  {
+   "q": "Posso sair antes que termine o contrato?",
+   "a": "Depende do que o contrato disser sobre rescisão antecipada: aviso prévio e penalidade. Se não disser nada, negocie antes de assinar."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Dúplex para alugar",
+  "Como recuperar o depósito"
+ ]
+}

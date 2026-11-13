@@ -1,0 +1,154 @@
+{
+ "_src": "53309b9cf5e4",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "What to Check When Visiting an Apartment in Venezuela",
+  "h1": "What to Check When Visiting a Used Apartment in Venezuela: The Complete List",
+  "description": "List of what you should check during a visit to an apartment in Venezuela: water and tank, electricity and generator, leaks, elevator, condominium, paperwork and the area at different times.",
+  "answer": "During a visit to an apartment in Venezuela, check, in addition to the condition of the property, the building services: how many hours the water runs and whether there is a tank and pumps, if there is a generator and what it covers, whether the elevator works and the state of the condominium. Look for leaks, test faucets and electrical outlets, ask about special fees and request the property document details. Return a second time at a different hour to see the area at night or during rush hour."
+ },
+ "sections": [
+  {
+   "h2": "Building services: what matters most in daily life",
+   "paras": [
+    "A nice apartment in a building with water or electricity problems can become a headache. These questions are worth more than fresh paint:"
+   ],
+   "bullets": [
+    "How many days and hours does water flow through the pipes? Is there an underground tank, an aerial tank, and are the pumps working?",
+    "Does the building buy water by tanker? How often and how is the cost shared?",
+    "Is there a generator? Does it cover only elevators and pumps, or also the apartments?",
+    "What is the water pressure on the upper floors?",
+    "Is gas supplied directly or by cylinder?",
+    "Which internet providers reach the building?"
+   ],
+   "tip": "Ask the concierge, not just the seller. They usually know exactly when water arrives and which equipment is failing."
+  },
+  {
+   "h2": "Inside the apartment",
+   "table": {
+    "head": [
+     "What to check",
+     "How to do it"
+    ],
+    "rows": [
+     [
+      "Leaks",
+      "Look at ceilings, corners, around windows and under sinks; look for stains, bubbling paint and a musty smell"
+     ],
+     [
+      "Water and drains",
+      "Turn on all taps and the shower at once, flush the toilets and see if they drain well"
+     ],
+     [
+      "Electricity",
+      "Test outlets and switches, inspect the breaker panel and ask if the wiring has been renovated"
+     ],
+     [
+      "Water heater",
+      "Ask the type and age, and test it"
+     ],
+     [
+      "Air conditioning",
+      "Test the units and ask if they stay with the apartment"
+     ],
+     [
+      "Windows and doors",
+      "Make sure they close well, with grills or protections in good condition"
+     ],
+     [
+      "Floors and walls",
+      "Large cracks or lifted floors can indicate bigger problems"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Common areas and building condition",
+   "bullets": [
+    "Elevator: if it works, how many there are and when the last maintenance was done.",
+    "Facade, roof and waterproofing: problems here end up in special fees.",
+    "Parking: how many spaces belong to you, whether they are covered and if they are in the deed.",
+    "Security, gate and access control.",
+    "Cleaning and general maintenance: they say a lot about how the condominium operates."
+   ]
+  },
+  {
+   "h2": "Condominium questions",
+   "paras": [
+    "Ask for the condominium fee amount for the last months, whether any special fees have been approved and how much is in the reserve fund. Also request the condominium solvency of the apartment: common-area debt follows the property and you could end up paying it yourself."
+   ]
+  },
+  {
+   "h2": "Paperwork: ask on the first visit",
+   "paras": [
+    "You don’t need to wait until negotiation to ask for documents. A seller with paperwork in order will readily give you the registration data of the property deed, the cadastral certificate and tell you if there is a mortgage. If they become nervous or evasive, take notes."
+   ],
+   "steps": [
+    "Ask for the owner’s name and compare it with the person showing you the property.",
+    "Request the registration data of the property deed.",
+    "Ask if there is a mortgage and if the municipal and condominium solvencies are up to date.",
+    "Ask if the parking spaces and the storage unit are in the deed."
+   ]
+  },
+  {
+   "h2": "The area at different times",
+   "paras": [
+    "Return a second time at another hour: at night to see lighting and activity, and during rush hour to gauge traffic to your work or schools. Walk the nearby blocks and notice shops, transport and, if it matters to you, proximity to the Metro or main roads."
+   ]
+  },
+  {
+   "h2": "What to bring to the visit",
+   "paras": [
+    "Being prepared lets you inspect more in less time and not rely on memory when comparing several apartments."
+   ],
+   "bullets": [
+    "Your phone with a full battery, for photos and videos of each room.",
+    "A flashlight, to look under sinks, inside closets and at the electrical panel.",
+    "A small charger or outlet tester, to check that sockets work.",
+    "A tape measure, if you care that your furniture will fit.",
+    "This list printed or in notes, to tick off items.",
+    "If it’s a purchase, someone who knows construction or installations, even a family member with experience."
+   ]
+  },
+  {
+   "h2": "After the visit",
+   "paras": [
+    "Write down the same day what you saw, what you liked and what worried you, with photos. If the apartment remains on your list, request in writing what is still pending: condominium fee amount, meeting minutes, property deed data. And if you found problems, such as leaks or damaged equipment, use them to negotiate the price or ask that they be repaired before signing, putting it in writing in the purchase option."
+   ]
+  },
+  {
+   "h2": "Come to the visit with the homework done",
+   "paras": [
+    "At Casa-Libre you can view apartments for sale on the map and ask via WhatsApp about water, generator and condominium before you go. That way you only visit those that pass the first filter. Free, on the web and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the most important thing when visiting an apartment in Venezuela?",
+   "a": "In addition to the condition of the property, the building services: water, tank and pumps, generator, elevator and the health of the condominium."
+  },
+  {
+   "q": "How do I detect leaks?",
+   "a": "Look for stains, bubbling paint and a musty smell on ceilings, corners, windows and under sinks. Ask the concierge about waterproofing problems."
+  },
+  {
+   "q": "Should I request the condominium's solvency?",
+   "a": "Yes. Common expense debts accompany the property, so request it before signing."
+  },
+  {
+   "q": "How many times is it advisable to visit?",
+   "a": "At least twice, at different times, to get to know the area during day and night."
+  },
+  {
+   "q": "Can I ask for something to be repaired before buying?",
+   "a": "Yes. Negotiate it and put it in writing in the purchase option, with a deadline, or use the issue to adjust the price."
+  }
+ ],
+ "related": [
+  "Apartments for Sale",
+  "Properties in Caracas",
+  "Condominium: What It Covers"
+ ]
+}

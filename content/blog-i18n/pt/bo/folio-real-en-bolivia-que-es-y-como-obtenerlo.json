@@ -1,0 +1,135 @@
+{
+ "_src": "e5accf845c23",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Fólio real na Bolívia: o que é e como obtê-lo",
+  "h1": "Fólio real na Bolívia: o que é, como lê-lo e em que se diferencia do certificado alodial",
+  "description": "O que é o folio real de Direitos Reais, que informações traz (matrícula, titular, superfície, gravames), como solicitar um atualizado e por que não é o mesmo que o certificado alodial.",
+  "answer": "O folio real é o registro de um imóvel em Direitos Reais: mostra seu número de matrícula, sua localização e superfície, quem é o proprietário e quais gravames possui (hipotecas, anticréticos, penhoras ou anotações preventivas). Solicita-se nas escrituras (públicas) de Direitos Reais com o número de matrícula. Não é o mesmo que o certificado alodial: o folio mostra a história e a situação do imóvel; o alodial certifica se está livre de encargos."
+ },
+ "sections": [
+  {
+   "h2": "O que é o folio real",
+   "paras": [
+    "Direitos Reais é o registro público da propriedade imóvel na Bolívia e funciona dentro do Órgão Judicial. Seu regulamento, o Decreto Supremo 27957, adotou a técnica do folio real: cada imóvel tem uma ficha própria onde são anotados, em ordem, o imóvel, o titular e os direitos que o afetam.",
+    "Para entrar nesse sistema, cada imóvel se matricula: recebe um código único a nível nacional, permanente e definitivo. Esse número de matrícula é a primeira coisa que você tem que pedir quando se interessa por uma propriedade, porque com ele pode solicitar todas as informações."
+   ]
+  },
+  {
+   "h2": "Como ler um folio real",
+   "table": {
+    "head": [
+     "Parte",
+     "O que diz",
+     "O que revisar"
+    ],
+    "rows": [
+     [
+      "Identificação do imóvel",
+      "Matrícula, localização, superfície e confrontações",
+      "Que coincidam com o plano e com o que você vê no terreno"
+     ],
+     [
+      "Titularidade",
+      "Quem é o dono e como adquiriu (compra, herança, etc.)",
+      "Que coincida com a cédula de quem vende ou aluga"
+     ],
+     [
+      "Gravames e restrições",
+      "Hipotecas, anticréticos, embargos, anotações preventivas",
+      "Que não haja encargos vigentes, ou que sejam cancelados na operação"
+     ],
+     [
+      "Cancelamentos",
+      "Gravames que já foram levantados",
+      "Que o cancelado esteja efetivamente anotado como cancelado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Folio real e certificado alodial não são a mesma coisa",
+   "paras": [
+    "É uma dúvida muito comum. O folio real mostra a situação registral completa do imóvel. O certificado alodial é uma certificação de Direitos Reais sobre se o imóvel está livre de gravames. Em uma compra, um anticrético ou um crédito, o habitual é pedir ambos: o folio atualizado para ver quem é o dono e o que está inscrito, e o alodial como comprovação de que não há encargos.",
+    "Também existe o certificado de propriedade, que atesta quais imóveis constam em nome de uma pessoa. É útil, por exemplo, para saber se alguém tem outra residência."
+   ],
+   "tip": "Peça documentos atualizados, com data recente. Um folio de meses atrás não mostra uma hipoteca ou um embargo inscritos na semana passada."
+  },
+  {
+   "h2": "Como solicitar um folio real atualizado",
+   "paras": [
+    "Muitos escritórios têm guichês rápidos para esses pedidos. Os requisitos, taxas e prazos podem mudar, então consulte antes no escritório do seu departamento."
+   ],
+   "steps": [
+    "Obtenha o número de matrícula do imóvel (está no título do proprietário ou em um folio anterior).",
+    "Dirija-se ao escritório de Direitos Reais do departamento onde está o imóvel, ou use os canais que esse escritório disponibilizar.",
+    "Solicite o folio real atualizado e, se precisar, o certificado alodial.",
+    "Pague a taxa correspondente e guarde o comprovante.",
+    "Revise o documento com calma, idealmente com um advogado se for comprar ou entregar dinheiro."
+   ]
+  },
+  {
+   "h2": "O que o folio real não garante",
+   "paras": [
+    "A inscrição em Direitos Reais dá publicidade e protege contra terceiros, mas o próprio regulamento lembra que o registro não valida atos nulos: se um título tem um vício de origem, registrá-lo não o corrige. Além disso, o folio não informa se o imóvel está ocupado, se tem dívidas de impostos municipais ou se a construção coincide com os planos aprovados. Para isso você precisa da visita, da consulta de impostos e da revisão do plano."
+   ]
+  },
+  {
+   "h2": "Sinais de alerta ao ler um folio",
+   "paras": [
+    "Nenhum desses sinais significa necessariamente fraude, mas todos exigem uma explicação clara, por escrito, antes de entregar dinheiro."
+   ],
+   "bullets": [
+    "O titular não coincide com quem oferece a propriedade e ninguém apresenta uma procuração notarial.",
+    "Há uma anotação preventiva ou um embargo: costuma indicar um processo em curso sobre o imóvel.",
+    "A superfície inscrita é muito diferente da que lhe mostram ou da do plano.",
+    "Constam vários coproprietários, mas só um quer assinar.",
+    "O vendedor não quer lhe dar o número de matrícula ou pede que \"confie\" em uma fotocópia antiga."
+   ]
+  },
+  {
+   "h2": "Quando solicitar",
+   "bullets": [
+    "Antes de pagar uma reserva ou um adiantamento por uma compra.",
+    "Antes de entregar dinheiro em um anticrético.",
+    "Antes de assinar um aluguel longo, se quiser confirmar que quem aluga é o dono.",
+    "Depois de registrar sua compra ou seu anticrético, para verificar que conste a seu favor."
+   ]
+  },
+  {
+   "h2": "Peça a matrícula já na primeira mensagem",
+   "paras": [
+    "Um anunciante sério não tem problema em lhe dar o número de matrícula. No Casa-Libre você vê propriedades no mapa e escreve direto por WhatsApp ao dono ou à imobiliária; peça isso na sua primeira mensagem. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O folio real e o alodial são a mesma coisa?",
+   "a": "Não. O folio real mostra a situação registral do imóvel (proprietário, superfície, gravames). O certificado alodial certifica se está livre de gravames. O habitual é solicitar ambos."
+  },
+  {
+   "q": "O que preciso para obter um folio real?",
+   "a": "O número de matrícula do imóvel e pagar a taxa no escritório de Direitos Reais do departamento. Consulte os requisitos vigentes em seu escritório."
+  },
+  {
+   "q": "Qualquer pessoa pode solicitar o folio real de um imóvel?",
+   "a": "O registro é público. Consulte no escritório de Direitos Reais quais dados são exigidos para emiti-lo."
+  },
+  {
+   "q": "O que faço se meu imóvel não tem folio real?",
+   "a": "Se for um imóvel inscrito no sistema antigo, é preciso matriculá-lo para passar ao folio real; se nunca foi inscrito, o caso é mais complexo. Consulte um advogado e o escritório de Direitos Reais do seu departamento."
+  },
+  {
+   "q": "O folio real mostra se devo impostos municipais?",
+   "a": "Não. As dívidas de impostos municipais são consultadas na alcaldía ou no RUAT."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Guia: documentos para vender um imóvel",
+  "Comprar casa na Bolívia: passos",
+  "Transferência de imóvel passo a passo"
+ ]
+}

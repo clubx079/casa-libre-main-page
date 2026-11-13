@@ -1,0 +1,130 @@
+{
+ "_src": "39c28339344b",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mortgage loan in Paraguay: how it works and how to compare",
+  "h1": "Mortgage loan in Paraguay: how it works and how to compare offers",
+  "description": "How a mortgage loan works in Paraguay: who lends, lines with AFD funds, prior savings, appraisal, insurance, documents and how to compare offers.",
+  "answer": "A mortgage loan is a long-term loan to buy, build or renovate a home, where the property is mortgaged in favor of the lender until you finish paying. In Paraguay it is offered by banks, financial companies and cooperatives, often with AFD funds (lines such as Primera Vivienda, Mi Casa or the Che Róga Porã program). You almost always have to put down a portion with your own savings, the institution appraises the property, requires insurance and analyzes your income. To compare offers look at the rate, term, currency and total cost, not just the monthly payment."
+ },
+ "sections": [
+  {
+   "h2": "How it works, in simple terms",
+   "paras": [
+    "The entity lends you part of the home price and you repay it in monthly installments over many years. As security, the property is mortgaged: a mortgage in favor of the entity is registered in the Public Registries. If you stop paying, the entity can enforce that security. When you pay off the debt, the mortgage is lifted and the property becomes free.",
+    "The mortgage is created by escritura pública (public deed) ante escribano, usually in the same act when you sign the purchase. That’s why the loan, the sale and the registration are coordinated among the entity, the escribano, the seller and you."
+   ]
+  },
+  {
+   "h2": "Who lends: banks, finance companies, cooperatives and the AFD",
+   "paras": [
+    "Housing loans are offered by banks, finance companies and cooperatives. Many of them use funds from the Agencia Financiera de Desarrollo (AFD), a second-tier public bank: the AFD does not lend directly to individuals, but to entities, which in turn lend to you with more favorable term and rate conditions than a loan with own funds.",
+    "According to press coverage of AFD products, Primera Vivienda is aimed at those who still do not own a home, with a family-income ceiling, and Mi Casa does not require it to be the first home. There is also Che Róga Porã, the housing program with fixed rates by income bracket. Conditions change over time: ask the entity to explain which line applies to you."
+   ],
+   "table": {
+    "head": [
+     "Line",
+     "Generally for whom",
+     "Where it is processed"
+    ],
+    "rows": [
+     [
+      "Primera Vivienda (AFD)",
+      "Someone without own home, with income ceiling",
+      "Entities with AFD line"
+     ],
+     [
+      "Mi Casa (AFD)",
+      "Purchase, construction or renovation, does not require first home",
+      "Entities with AFD line"
+     ],
+     [
+      "Che Róga Porã",
+      "Incomes from 1 to 9 minimum wages, with property-value ceiling",
+      "Banks, finance companies and cooperatives that adhere"
+     ],
+     [
+      "Loan with entity’s own funds",
+      "According to each entity’s policy",
+      "Each bank, finance company or cooperative"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Prior savings: how much they lend you and how much you put in",
+   "paras": [
+    "Entities almost never finance 100% of the value. They lend a percentage of the lower amount between the purchase price and the appraisal, and you cover the rest. That percentage depends on the entity, the line and your profile, so there is no single number for the country: ask about it at the first consultation.",
+    "In addition to the savings for the unfunded part, you will need money for transaction costs (escribanía (notary office), registration, appraisal, insurance) and for the move. Those costs are usually not included in the loan."
+   ]
+  },
+  {
+   "h2": "Appraisal, title study and insurance",
+   "paras": [
+    "Before approving, the entity orders an appraisal of the property: an appraiser checks the condition and estimates its value. If the appraisal is lower than the price, they lend based on the appraised value and you must cover the difference or renegotiate with the seller.",
+    "A title study is also done with the escribano: confirming the seller is the title holder, that there are no liens or other mortgages, and that taxes are up to date. And almost always they require insurance: a life or death-benefit policy that cancels the debt if the borrower dies, and a property insurance against fire or other damages. Their cost is added to the installment."
+   ]
+  },
+  {
+   "h2": "Documents they usually request",
+   "bullets": [
+    "Identity card of the holder and, if applicable, of the spouse or co-borrower.",
+    "Proof of income: pay slips and employment certificate, or RUC certificate, invoices and statements if you are self-employed.",
+    "Declaration of assets and debts.",
+    "Property data: copy of the title, cadastral current account details and seller’s documents.",
+    "Under construction: approved plans and work budget."
+   ]
+  },
+  {
+   "h2": "How to compare two loan offers",
+   "paras": [
+    "Two loans with the same installment can cost very different amounts. Ask each entity for a written simulation with the same amount and term, and compare these points:"
+   ],
+   "bullets": [
+    "Interest rate: whether it is fixed for the whole term or can change.",
+    "Term: more years lower the installment but increase total interest.",
+    "Currency: if you are charged in guaraníes, a dollar loan adds exchange-rate risk.",
+    "Total cost: add interest, insurance, fees and granting expenses over the whole loan.",
+    "Pre-cancellation: whether you can make early payments or cancel early, and if there is a penalty.",
+    "Timing: how long approval takes. A seller does not always wait weeks."
+   ],
+   "tip": "Always request the full amortization schedule: it shows how much of each installment goes to interest and how much to principal, and the total amount you will pay at the end."
+  },
+  {
+   "h2": "How much of your income can go to the installment",
+   "paras": [
+    "Each entity has its own limit for the installment as a share of income, and it applies to your verifiable income, not to undeclared earnings. Beyond the entity’s limit, do your own calculation: the installment plus insurance must fit into your budget even in a bad month, without relying on overtime or occasional income."
+   ]
+  },
+  {
+   "h2": "Choosing the property with the loan in mind",
+   "paras": [
+    "A property with paperwork in order is approved faster. When checking a listing, ask if the title is registered, if the property tax is up to date and if the owner accepts a sale with bank financing. On Casa-Libre you can filter by type and price, view properties on the map and message directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much do banks finance in Paraguay?",
+   "a": "There is no single percentage: it depends on the institution, the credit line and your profile. It is rarely 100%, so be prepared to put down a portion with your own savings and to cover the transaction costs."
+  },
+  {
+   "q": "What is the AFD and how does it lend to me?",
+   "a": "The Agencia Financiera de Desarrollo is a second-tier public bank. It does not lend directly to individuals: it provides funds to banks, financial companies and cooperatives, which then lend to you through lines such as Primera Vivienda or Mi Casa."
+  },
+  {
+   "q": "Is a loan in dollars or guaraníes better for me?",
+   "a": "If your income is in guaraníes, a loan in guaraníes prevents the payment from rising if the dollar goes up. Compare both options with the total cost, not just the rate."
+  },
+  {
+   "q": "What happens to the mortgage when I finish paying?",
+   "a": "It is cancelled by escritura and the registration is removed from the Registros Públicos. Ask the institution for the cancellation document and verify that it is recorded."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: expenses and taxes when buying"
+ ]
+}

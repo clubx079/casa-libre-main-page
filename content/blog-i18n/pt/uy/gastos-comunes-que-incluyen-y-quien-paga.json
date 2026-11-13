@@ -1,0 +1,129 @@
+{
+ "_src": "36639ae0a098",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Despesas comuns no Uruguai: o que incluem e quem as paga",
+  "h1": "Despesas comuns: o que incluem, quem as paga e como avaliá-las antes de alugar ou comprar",
+  "description": "O que são as despesas comuns em um edifício no Uruguai, o que incluem, diferença entre ordinárias e extraordinárias, quem as paga em um aluguel e o que verificar antes de comprar um apartamento.",
+  "answer": "As despesas comuns são o que cada apartamento de um edifício paga pelo manutenção e pelos serviços compartilhados: limpeza, portaria ou vigilância, elevadores, energia elétrica e água das áreas comuns, administração, seguros e fundos de reserva. São rateadas conforme o regulamento de copropiedade e administradas por um administrador. Em um aluguel, o habitual é que o inquilino pague as ordinárias e o proprietário as extraordinárias, embora o contrato defina; no regime da LUC, salvo acordo diferente, são do inquilino. Antes de comprar, solicite as últimas liquidações e um comprovante de que não há dívida."
+ },
+ "sections": [
+  {
+   "h2": "O que são e de onde vêm",
+   "paras": [
+    "Um edifício de apartamentos no Uruguai se rege pelo regime de propriedade horizontal (Lei 10.751). Cada proprietário é dono da sua unidade e copropietário dos bens comuns: o terreno, a estrutura, os corredores, o elevador, a cobertura. Os gastos desses bens comuns são repartidos entre todos segundo o regulamento de copropiedade, normalmente em proporção ao valor ou à superfície de cada unidade.",
+    "Ele é administrado por um administrador, que a lei prevê que dure um ano em suas funções e possa ser reeleito, e que cobra os gastos comuns e faz os pagamentos. As decisões importantes são tomadas em assembleia de copropietários."
+   ]
+  },
+  {
+   "h2": "O que normalmente inclui",
+   "bullets": [
+    "Limpeza de áreas comuns.",
+    "Portaria, concierge ou vigilância, se o edifício tiver.",
+    "Manutenção e lubrificação de elevadores.",
+    "Luz e água de áreas comuns; em alguns edifícios, aquecimento central ou água quente.",
+    "Honorários da administração.",
+    "Seguro do edifício.",
+    "Fundo de reserva para gastos imprevistos.",
+    "Amenidades: piscina, academia, churrasqueira, com sua manutenção."
+   ],
+   "tip": "Os edifícios com portaria 24 horas, aquecimento central ou muitas amenidades costumam ter gastos comuns bem mais altos. Veja isso antes de se apaixonar pelo apartamento."
+  },
+  {
+   "h2": "Ordinários e extraordinários",
+   "paras": [
+    "Essa divisão é a prática habitual, mas o contrato pode dizer outra coisa. No regime de arrendamento sem garantia da LUC, a lei dispõe que os gastos comuns são de responsabilidade do inquilino salvo pacto expresso em contrário, e que se o proprietário teve que pagar dois ou mais meses por falta de pagamento do inquilino, essa dívida se soma ao aluguel."
+   ],
+   "table": {
+    "head": [
+     "Tipo",
+     "O que são",
+     "Quem paga em um aluguel (habitual)"
+    ],
+    "rows": [
+     [
+      "Ordinários",
+      "Os gastos de todos os meses: limpeza, portaria, elevador, luz comum, administração",
+      "O inquilino"
+     ],
+     [
+      "Extraordinários",
+      "Obras, reparos grandes, fachada, troca de elevador, fundos especiais",
+      "O proprietário"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Se você vai alugar",
+   "steps": [
+    "Pergunte quanto foram os gastos comuns nos últimos meses, não apenas \"aproximadamente\".",
+    "Pergunte o que inclui: aquecimento?, água?, portaria 24 horas?",
+    "Confirme se há obras ou gastos extraordinários previstos.",
+    "Que o contrato diga quem paga ordinários e extraordinários.",
+    "Some aluguel mais gastos comuns para saber o custo real mensal."
+   ]
+  },
+  {
+   "h2": "Se você vai comprar um apartamento",
+   "paras": [
+    "Os gastos comuns são um custo fixo para a vida toda, então convém avaliá-los tanto quanto o preço. Peça ao vendedor:"
+   ],
+   "bullets": [
+    "As liquidações de gastos comuns dos últimos meses.",
+    "Uma constatação da administração de que a unidade não tem dívida.",
+    "As atas das últimas assembleias: mostram obras aprovadas, conflitos e o estado do edifício.",
+    "O regulamento de copropiedade: diz o que pode ser feito (animais, aluguéis temporários, reformas).",
+    "O saldo do fundo de reserva e se há obras pendentes."
+   ]
+  },
+  {
+   "h2": "Dívidas de gastos comuns",
+   "paras": [
+    "A dívida de gastos comuns de uma unidade pode ser cobrada de quem for proprietário, por isso seu escribano (tabelião) deve solicitar a certidão de livre dívida à administração antes de escriturar. Se houver dívida, que o vendedor a quite ou que seja descontada do preço, por escrito."
+   ]
+  },
+  {
+   "h2": "O regulamento de copropiedade e a assembleia",
+   "paras": [
+    "O regulamento de copropiedade é o documento que fixa as regras do edifício: como se repartem os gastos, que usos são permitidos nas unidades, se são aceitos animais, como se fazem reformas e como se convoca a assembleia. Na falta de regulamento, ou no que não disser, a Lei 10.751 estabelece regras supletivas.",
+    "Se você é proprietário, participar das assembleias é a forma de controlar os gastos comuns: lá são aprovados orçamentos, obras e a escolha do administrador. Se você é inquilino, não vota, mas convém saber o que está sendo decidido, porque pode afetar os gastos ordinários que paga."
+   ]
+  },
+  {
+   "h2": "Como comparar apartamentos com diferentes gastos comuns",
+   "paras": [
+    "Um apartamento mais barato com gastos comuns altos pode acabar custando mais que outro com melhores condições. Para alugar, compare aluguel mais gastos comuns. Para comprar, multiplique a diferença mensal de gastos comuns pelos anos que pretende viver aí: o número costuma surpreender.",
+    "No Casa-Libre você pode ver apartamentos à venda e para aluguel no mapa e perguntar os gastos comuns direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "As despesas comuns podem subir durante o meu contrato de aluguel?",
+   "a": "Sim. São fixadas conforme os custos reais do edifício e o que aprovar a assembleia, portanto podem mudar mês a mês. Pergunte o histórico dos últimos meses para ter uma ideia."
+  },
+  {
+   "q": "Quem paga as despesas comuns em um aluguel no Uruguai?",
+   "a": "O habitual é que o inquilino pague as ordinárias e o proprietário as extraordinárias, mas o contrato define. No regime da LUC, salvo acordo em contrário, são do inquilino."
+  },
+  {
+   "q": "O que incluem as despesas comuns?",
+   "a": "Limpeza, portaria ou vigilância, elevadores, energia elétrica e água comuns, administração, seguro do edifício, fundo de reserva e amenidades."
+  },
+  {
+   "q": "O que são despesas comuns extraordinárias?",
+   "a": "Aquelas aprovadas para obras ou reparos grandes, como fachada ou elevadores, ou para fundos especiais. Não são mensais fixas."
+  },
+  {
+   "q": "Se eu comprar um apartamento com dívida de despesas comuns, devo pagá-la?",
+   "a": "Pode ser cobrada ao novo proprietário. Por isso se solicita comprovante de dívida livre antes de escriturar."
+  }
+ ],
+ "related": [
+  "Apartamentos para aluguel",
+  "Apartamentos à venda",
+  "O que verificar no contrato de aluguel"
+ ]
+}

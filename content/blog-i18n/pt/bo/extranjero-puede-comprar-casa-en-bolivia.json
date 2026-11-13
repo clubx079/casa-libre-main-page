@@ -1,0 +1,98 @@
+{
+ "_src": "619a8daeb86d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Um estrangeiro pode comprar casa na Bolívia? Regras e passos",
+  "h1": "Um estrangeiro pode comprar uma casa na Bolívia? O que diz a lei e como fazer",
+  "description": "Sim, um estrangeiro pode comprar imóvel na Bolívia, salvo na zona de segurança fronteiriça de 50 km. Documentos, poder notarial, pagamento e registro em Derechos Reales.",
+  "answer": "Sim. Em geral uma pessoa estrangeira pode comprar uma casa ou um apartamento na Bolívia e registrá-lo em seu nome em Derechos Reales, igual a um boliviano. A grande exceção está na Constituição: nenhum estrangeiro pode adquirir propriedade dentro dos 50 quilômetros da linha de fronteira. Se comprar do exterior, pode fazê-lo com um poder notarial a favor de alguém de confiança na Bolívia."
+ },
+ "sections": [
+  {
+   "h2": "A regra geral: pode comprar",
+   "paras": [
+    "O Código Civil boliviano não distingue entre nacionais e estrangeiros para comprar um imóvel urbano. O que se precisa é o mesmo que para qualquer comprador: identificar-se, assinar a escritura (escritura pública) perante notário de fé pública, pagar os impostos da transferência e inscrever a compra em Direitos Reais.",
+    "O que muda na prática é a identificação. Se você vive na Bolívia com residência, normalmente usará sua cédula de identidade de estrangeiro; se não, seu passaporte. Alguns notários e bancos pedem documentos adicionais, como um certificado de residência ou um número de identificação tributária, por isso convém perguntar antes."
+   ]
+  },
+  {
+   "h2": "A exceção: a zona de segurança fronteiriça",
+   "paras": [
+    "O artigo 262 da Constituição Política do Estado estabelece que os 50 quilômetros a partir da linha de fronteira são zona de segurança fronteiriça, e que nenhuma pessoa estrangeira, sozinha ou em sociedade, pode adquirir propriedade nesse espaço, direta ou indiretamente. A única saída é uma lei expressa aprovada por dois terços da Assembleia por necessidade estatal. Se for violada, a propriedade passa ao Estado sem indenização.",
+    "A Bolívia tem fronteiras longas com cinco países, então essa regra atinge cidades e áreas que muita gente não imagina. Antes de se interessar por uma propriedade perto de uma fronteira, peça a um advogado que confirme a distância exata. Não fique só com o que o vendedor disser."
+   ],
+   "tip": "A proibição alcança também a compra \"indireta\", por exemplo através de uma sociedade ou de um terceiro que figura como dono. Não é um atalho legal: é a forma mais rápida de perder a propriedade."
+  },
+  {
+   "h2": "Comprar do exterior com procuração",
+   "paras": [
+    "Se não puder viajar para assinar, pode conceder uma procuração especial a uma pessoa de confiança na Bolívia. Essa procuração é feita no consulado da Bolívia no país onde você reside ou perante notário local; neste último caso, normalmente é preciso legalizá-la ou apostilá-la para que valha na Bolívia. Peça que a procuração seja específica: qual imóvel, qual preço máximo e com quais faculdades (assinar a minuta, a escritura, pagar impostos, inscrever em Direitos Reais)."
+   ],
+   "bullets": [
+    "Evite procurações gerais amplas: limite a procuração a esta compra concreta.",
+    "Peça cópia do folio real (registro real) e do certificado alodial antes de enviar dinheiro.",
+    "Pague ao proprietário registrado por transferência bancária, nunca a intermediários.",
+    "Peça que enviem escaneada a escritura e o folio real já em seu nome ao terminar."
+   ]
+  },
+  {
+   "h2": "Como pagar: moeda e transferências",
+   "paras": [
+    "Muitas propriedades na Bolívia são anunciadas em dólares e outras em bolivianos. Desde meados de 2026 o Banco Central da Bolívia publica um tipo de câmbio oficial flexível, que varia dia a dia, então a moeda do contrato importa: deixe escrito na minuta em que moeda se paga e qual taxa de câmbio será usada se pagar na outra.",
+    "Se trouxer dinheiro do exterior, faça-o pelo sistema bancário e guarde os comprovantes. Servirá para demonstrar a origem dos fundos ao banco e ao notário, e mais adiante se vender."
+   ]
+  },
+  {
+   "h2": "Passos para um estrangeiro, em ordem",
+   "steps": [
+    "Confirme com um advogado que o imóvel não está dentro da zona de segurança fronteiriça.",
+    "Peça o número de matrícula e obtenha o folio real atualizado e o certificado alodial em Direitos Reais.",
+    "Verifique que os impostos municipais sobre a propriedade estejam pagos.",
+    "Se não for estar na Bolívia, conceda uma procuração especial no consulado ou perante notário (legalizada ou apostilada).",
+    "Assine a minuta e a escritura pública perante notário de fé pública.",
+    "Pague o imposto municipal sobre a transferência e inscreva a escritura em Direitos Reais.",
+    "Atualize o cadastro municipal e os serviços em seu nome."
+   ]
+  },
+  {
+   "h2": "Erros frequentes de quem compra do exterior",
+   "bullets": [
+    "Enviar um adiantamento por foto ou vídeo sem ter visto o folio real.",
+    "Assinar uma procuração tão ampla que permite ao procurador vender ou hipotecar outros bens.",
+    "Não calcular os custos de fechamento (notário, impostos, Direitos Reais) e ficar sem recursos no final.",
+    "Comprar em uma área que não conhece sem que ninguém de confiança tenha percorrido o bairro de dia e de noite."
+   ]
+  },
+  {
+   "h2": "Buscar de longe",
+   "paras": [
+    "Do exterior, o mapa ajuda muito: no Casa-Libre você vê casas e apartamentos à venda localizados no mapa e pode escrever direto por WhatsApp ao anunciante para pedir fotos, vídeo e o número de matrícula. Também pode usar o app do Casa-Libre para iPhone e Android e salvar as opções para que alguém de confiança as visite por você."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Um estrangeiro sem residência pode comprar casa na Bolívia?",
+   "a": "Em geral sim, com passaporte, fora da zona de segurança fronteiriça. Alguns notario (tabelião) ou bancos exigem requisitos adicionais, então consulte antes de se comprometer."
+  },
+  {
+   "q": "O que é a zona de segurança fronteiriça?",
+   "a": "A faixa de 50 quilômetros a partir da linha de fronteira. Segundo o artigo 262 da Constituição, nenhum estrangeiro pode adquirir propriedade lá, salvo lei expressa por necessidade estatal."
+  },
+  {
+   "q": "Posso comprar sem viajar para a Bolívia?",
+   "a": "Sim, com um poder especial concedido no consulado da Bolívia ou perante um notario de seu país (legalizado ou apostilado), a favor de uma pessoa de confiança que assine por você."
+  },
+  {
+   "q": "Um estrangeiro pode solicitar crédito hipotecário na Bolívia?",
+   "a": "Depende do banco. Normalmente exigem residência, rendimentos comprováveis na Bolívia e histórico. Pergunte diretamente à instituição antes de contar com esse crédito."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: como comprar sua primeira casa",
+  "Comprar casa na Bolívia: requisitos e passos"
+ ]
+}

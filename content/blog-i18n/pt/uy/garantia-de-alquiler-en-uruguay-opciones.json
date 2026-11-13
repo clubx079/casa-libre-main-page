@@ -1,0 +1,133 @@
+{
+ "_src": "ccbea8e385da",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Garantia de aluguel no Uruguai: CGN, MVOT, ANDA, seguro ou depósito",
+  "h1": "Garantia de aluguel no Uruguai: quais opções existem e qual convém a você",
+  "description": "Comparação das garantias para alugar no Uruguai: CGN, Fundo de Garantia de Aluguel do MVOT, garantia para jovens, ANDA, seguro de fiança, depósito no BHU e propriedade. Custos e requisitos.",
+  "answer": "No Uruguai há cinco grandes caminhos para garantir um aluguel: a garantia estatal da Contadoria Geral da Nação (se você for funcionário público ou trabalhar em uma empresa registrada), o Fundo de Garantia de Aluguel do MVOT e a ANV (conforme sua renda, com uma versão para jovens de 18 a 29 anos), a garantia de uma instituição como a ANDA, um seguro de fiança de uma seguradora ou um depósito no Banco Hipotecário. A melhor é a que o dono aceita e que você possa pagar: as estaduais cobram uma comissão mensal de 3% de cada parte; o seguro, um prêmio; o depósito imobiliza seu dinheiro."
+ },
+ "sections": [
+  {
+   "h2": "Por que a garantia decide sua busca",
+   "paras": [
+    "No Uruguai a garantia é a primeira coisa que pergunta um dono ou uma imobiliária. Muitos anúncios indicam quais garantias aceitam, e nem todas valem para todos. Se você a definir antes de buscar, sabe quanto aluguel vão aprovar e a quais anúncios escrever.",
+    "Além disso, a garantia tem um custo próprio que se soma ao aluguel. Compará-la antes de escolher pode economizar bastante em um contrato de dois anos."
+   ]
+  },
+  {
+   "h2": "Garantia da Contaduría General de la Nación (CGN)",
+   "paras": [
+    "O Serviço de Garantia de Aluguéis (SGA) da CGN oferece uma garantia com respaldo do Estado para moradia. Segundo a CGN, podem usá-la os funcionários públicos com 6 meses de antiguidade, os empregados de empresas privadas inscritas no registro do SGA com a mesma antiguidade, e beneficiários de convênios com o MVOT e do subsídio de aluguel do BPS.",
+    "O aluguel é descontado diretamente do seu salário e a CGN paga ao dono. O trâmite não tem custo inicial, mas, uma vez que começa o desconto, cobra uma comissão de 3% do aluguel de cada parte (dono e inquilino) todos os meses. Para agendar, normalmente você precisa de um informe de líquido disponível do seu empregador."
+   ]
+  },
+  {
+   "h2": "Fondo de Garantía de Alquiler (MVOT y ANV)",
+   "paras": [
+    "Se você não é funcionário nem trabalha em uma empresa registrada, o Fundo de Garantia de Aluguel, do MVOT em convênio com a ANV e a CGN, fornece um certificado de garantia conforme sua renda. Segundo a ANV, o núcleo familiar deve ter uma renda líquida formal entre 15 e 100 UR, não ser proprietário de imóveis no mesmo departamento e não ter outra garantia estatal. O aluguel máximo garantido é expresso em UR e é um pouco maior se for uma moradia promovida.",
+    "Para jovens de 18 a 29 anos que estudam ou trabalham há uma versão específica: pode ser solicitado individualmente ou em grupo de até cinco pessoas somando rendas, o aluguel não pode ultrapassar 40% da renda e, ao ser autorizado, é preciso fazer um depósito único equivalente a 12% do valor garantido. Em ambos os casos o contrato é assinado através da CGN, com a mesma comissão de 3% por parte."
+   ],
+   "tip": "Para o Fundo de Garantia pedem também as faturas do último mês de seus gastos fixos (cartão, UTE, Antel, celular, internet) e o histórico laboral do BPS. Peça o histórico com antecedência: requer agendamento."
+  },
+  {
+   "h2": "ANDA y seguros de fianza",
+   "paras": [
+    "ANDA é uma associação mutual que oferece garantia de aluguel aos seus associados, com requisitos próprios de renda e antiguidade. Os seguros de fiança são vendidos por seguradoras privadas: você paga um prêmio (em um pagamento ou em parcelas) e a seguradora responde ao dono se você não pagar. Cada uma avalia sua renda e tem seu próprio simulador.",
+    "A vantagem dessas opções é que não dependem de onde você trabalha. A desvantagem é que o custo varia bastante entre uma e outra, então vale solicitar duas ou três cotações com o mesmo aluguel."
+   ]
+  },
+  {
+   "h2": "Depósito en el Banco Hipotecario (BHU)",
+   "paras": [
+    "O Decreto-Lei 14.219 permite garantir o aluguel com um depósito que não pode superar cinco meses de aluguel em moradias, e que é depositado no Banco Hipotecário do Uruguai. Ao terminar o contrato, se não houver dívidas nem danos, o depósito é liberado. É a opção sem custo mensal, mas imobiliza muito dinheiro no início."
+   ]
+  },
+  {
+   "h2": "Comparación rápida",
+   "table": {
+    "head": [
+     "Opção",
+     "Para quem",
+     "Custo para o inquilino"
+    ],
+    "rows": [
+     [
+      "CGN (SGA)",
+      "Funcionários públicos e empregados de empresas registradas",
+      "Comissão mensal de 3% do aluguel"
+     ],
+     [
+      "Fondo de Garantía de Alquiler",
+      "Famílias com rendas formais dentro da faixa em UR",
+      "Comissão mensal de 3% do aluguel"
+     ],
+     [
+      "Garantía para jóvenes",
+      "De 18 a 29 anos que estudam ou trabalham",
+      "3% mensal e um depósito único de 12% do valor garantido"
+     ],
+     [
+      "ANDA",
+      "Associados que cumpram seus requisitos",
+      "Conforme a instituição"
+     ],
+     [
+      "Seguro de fianza",
+      "Quem se qualificar na seguradora",
+      "Prêmio conforme a seguradora"
+     ],
+     [
+      "Depósito en el BHU",
+      "Quem tem poupança",
+      "Até cinco meses de aluguel imobilizados"
+     ],
+     [
+      "Sin garantía (LUC)",
+      "Se o dono aceitar",
+      "Sem custo de garantia; despejo mais rápido se não pagar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cómo elegir en tres pasos",
+   "steps": [
+    "Verifique se você tem acesso a uma garantia estatal: é a que mais donos e imobiliárias conhecem.",
+    "Se não, solicite cotação à ANDA e a duas seguradoras com o mesmo valor de aluguel, e compare o custo total do contrato.",
+    "Se você tem poupança ou o dono aceita a LUC, compare também essas duas opções: podem sair mais baratas."
+   ]
+  },
+  {
+   "h2": "Buscar con tu garantía en la mano",
+   "paras": [
+    "Quando souber qual garantia tem e por qual valor, escreva aos anúncios indicando isso desde a primeira mensagem. No Casa-Libre você vê os aluguéis do Uruguai no mapa e fala direto por WhatsApp com o anunciante, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é a garantia de aluguel mais barata?",
+   "a": "Depende do seu caso. As estaduais cobram 3% mensal do aluguel de cada parte; um seguro cobra um prêmio; o depósito não tem custo mensal mas imobiliza até cinco meses de aluguel. Compare o custo total do contrato."
+  },
+  {
+   "q": "Que garantia aceitam todos os proprietários?",
+   "a": "Nenhuma é universal. As estaduais são muito conhecidas, mas cada proprietário ou imobiliária decide. Pergunte antes de visitar."
+  },
+  {
+   "q": "Posso usar a garantia de jovens com amigos?",
+   "a": "Sim. Segundo o MVOT, a garantia para jovens pode ser grupal, de até cinco pessoas, somando rendas."
+  },
+  {
+   "q": "Se eu sou dono de outra casa posso solicitar a garantia do MVOT?",
+   "a": "Não se a propriedade estiver no mesmo departamento onde você solicita a garantia, conforme os requisitos publicados pela ANV."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Casas para alugar",
+  "Requisitos para alugar",
+  "Alugar sem garantia pela LUC"
+ ]
+}

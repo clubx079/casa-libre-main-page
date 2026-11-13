@@ -1,0 +1,130 @@
+{
+ "_src": "e714d3f7ea7a",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para alugar uma casa em El Salvador",
+  "h1": "Requisitos para alugar uma casa ou um apartamento em El Salvador",
+  "description": "O que pedem para alugar em El Salvador: DUI, comprovação de salário, fiador, depósito e mês adiantado. Lista completa, como se preparar e o que diz a lei sobre o contrato.",
+  "answer": "Para alugar uma casa ou um apartamento em El Salvador normalmente pedem seu DUI (ou passaporte e carteira de residente se for estrangeiro), uma comprovação de salário ou comprovantes de renda, referências, às vezes um fiador, e um pagamento inicial que costuma incluir o primeiro mês adiantado e um depósito. Não há uma lista única obrigatória: cada proprietário ou agente decide o que solicita. O que a Lei de Inquilinato exige para a moradia é que o contrato conste por escrito."
+ },
+ "sections": [
+  {
+   "h2": "A lista básica que vão pedir",
+   "paras": [
+    "Os documentos que pede um arrendante (o dono) são muito semelhantes entre si. Tê-los prontos, em papel e escaneados no telefone, permite responder no mesmo dia em que encontra um imóvel que gosta."
+   ],
+   "bullets": [
+    "DUI vigente. Se for estrangeiro, passaporte e carteira de residente emitida pela Direção Geral de Migração e Estrangeiros.",
+    "Comprovante de salário ou de trabalho, com cargo, tempo de serviço e salário, ou comprovantes de renda se trabalha por conta própria.",
+    "Referências pessoais e, se já alugou antes, o contato do dono anterior.",
+    "Fiador, se o dono solicitar: uma pessoa com renda ou bens que responda caso você não pague.",
+    "Dinheiro para a assinatura: geralmente o primeiro mês adiantado e um depósito."
+   ]
+  },
+  {
+   "h2": "Como comprovar sua renda conforme seu tipo de trabalho",
+   "paras": [
+    "O que o dono quer saber é se você poderá pagar todo mês. Uma referência prática é que o aluguel não ultrapasse cerca de um terço da renda familiar; não é uma regra legal, mas muitos a usam para decidir."
+   ],
+   "table": {
+    "head": [
+     "Sua situação",
+     "O que costuma servir como comprovante"
+    ],
+    "rows": [
+     [
+      "Empregado do setor privado ou público",
+      "Comprovante de salário e, se pedirem, extrato de conta de AFP"
+     ],
+     [
+      "Profissional independente",
+      "Faturas ou comprovantes emitidos e extratos bancários"
+     ],
+     [
+      "Comerciante ou empreendedor",
+      "Matrícula ou registro do negócio, extratos e declarações de renda"
+     ],
+     [
+      "Aposentado",
+      "Comprovante de pensão"
+     ],
+     [
+      "Recebe remessas",
+      "Histórico de remessas dos últimos meses e, se possível, um fiador"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Fiador, depósito e meses adiantados",
+   "paras": [
+    "O fiador é a garantia mais tradicional: assina o contrato e se obriga a pagar se você não o fizer. Alguns donos aceitam, em vez de fiador, um depósito maior ou o pagamento de vários meses adiantados.",
+    "A Lei de Inquilinato não fixa um valor máximo de depósito para casas e apartamentos, então isso é negociado. O importante é que o contrato indique quanto foi entregue, para que serve e quando e como será devolvido ao final."
+   ],
+   "tip": "Peça sempre recibo de tudo que pagar: depósito, mês adiantado e cada mensalidade. A Lei de Inquilinato obriga o arrendante a emitir recibo por cada pagamento."
+  },
+  {
+   "h2": "O contrato: por escrito e lido integralmente",
+   "paras": [
+    "Para aluguel de moradia, a Lei de Inquilinato exige que o contrato conste por escrito, com as partes, o imóvel, o preço e a forma de pagamento. Leia-o inteiro antes de assinar: prazo, valor e data de pagamento, quem paga água, luz e taxa de manutenção, quais reparos cabem a cada um, se são permitidos animais de estimação e o que acontece se quiser sair antes.",
+    "Faça um inventário com fotos do estado da casa no dia da entrada, assinado por ambos. É sua melhor prova na hora de recuperar o depósito."
+   ]
+  },
+  {
+   "h2": "O que perguntar antes de visitar",
+   "paras": [
+    "Muitas visitas são perdidas porque, no final, o inquilino não cumpre algum requisito. Por WhatsApp, antes de ir, pergunte:"
+   ],
+   "bullets": [
+    "Pedem fiador ou aceitam depósito adicional?",
+    "Quanto deve ser pago na assinatura, no total?",
+    "O preço inclui a taxa de manutenção da colônia ou residencial?",
+    "A água e a luz são transferidas para o nome do inquilino ou pagas ao dono?",
+    "Por quanto tempo é o contrato e pode ser renovado?",
+    "Aceitam animais de estimação ou uso como escritório?"
+   ]
+  },
+  {
+   "h2": "Se for estrangeiro ou salvadorenho que retorna",
+   "paras": [
+    "Um estrangeiro pode alugar sem problema; o normal é que peçam passaporte e carteira de residente, e que compense a falta de histórico local com mais meses adiantados ou um fiador local. Se retornar após anos fora, uma carta do seu empregador em El Salvador ou extratos recentes ajudam muito."
+   ]
+  },
+  {
+   "h2": "Cuidado com anúncios falsos",
+   "paras": [
+    "Não entregue depósitos nem adiantamentos antes de ver o imóvel pessoalmente e de confirmar que quem o aluga é o dono ou está autorizado. Desconfie de preços muito abaixo da região e de quem pressiona para pagar para \"reservar\" a casa."
+   ]
+  },
+  {
+   "h2": "Como buscar aluguel sem perder tempo",
+   "paras": [
+    "Filtre por zona e orçamento e escreva ao anunciante com seus dados básicos: quantas pessoas vão morar, se tem animais, quando deseja entrar e que garantia pode oferecer. No Casa-Libre veja os aluguéis no mapa e escreva direto por WhatsApp ao dono ou ao agente, sem pagar nada para usar o site. Também pode buscar pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quais documentos pedem para alugar uma casa em El Salvador?",
+   "a": "Normalmente DUI, comprovação de salário ou comprovantes de renda, referências e, às vezes, um fiador. Além disso, o primeiro mês adiantado e um depósito."
+  },
+  {
+   "q": "O contrato de aluguel precisa ser escrito?",
+   "a": "Para moradia, a Lei de Inquilinato exige que conste por escrito com as partes, o imóvel, o preço e a forma de pagamento."
+  },
+  {
+   "q": "É possível alugar sem fiador?",
+   "a": "Sim, se o proprietário aceitar. As alternativas mais comuns são um depósito maior ou pagar vários meses adiantados."
+  },
+  {
+   "q": "Qual é o valor do depósito de um aluguel?",
+   "a": "A lei não fixa um valor para casas e apartamentos; negocia-se. Certifique-se de que o contrato indique quanto foi entregue e como será devolvido."
+  }
+ ],
+ "related": [
+  "Ver aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Guia para proprietários: como alugar sua propriedade"
+ ]
+}

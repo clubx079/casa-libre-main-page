@@ -1,0 +1,129 @@
+{
+ "_src": "f7d1f20e7b63",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar casa na Venezuela a partir do exterior: guia prática",
+  "h1": "Comprar casa na Venezuela a partir do exterior: passos, documentos e como se proteger",
+  "description": "Como comprar uma casa ou apartamento na Venezuela se você mora na Espanha, Chile, Colômbia ou outro país: buscar à distância, verificar documentos, pagar em moedas estrangeiras, assinar com procuração e evitar fraudes.",
+  "answer": "Sim, você pode comprar um imóvel na Venezuela morando fora. O usual é buscar à distância, contar com alguém de confiança para as visitas, contratar um advogado na Venezuela que verifique o documento de propriedade e a solvência, e assinar com uma procuração especial concedida no consulado ou perante um notário local com apostila. O pagamento costuma ser feito em moedas estrangeiras e recomenda-se realizá-lo por transferência para a conta do vendedor, contra a assinatura no Registro Imobiliário, nunca antes."
+ },
+ "sections": [
+  {
+   "h2": "Quem pode comprar",
+   "paras": [
+    "Os venezuelanos que vivem no exterior podem comprar como qualquer outro venezuelano. Os estrangeiros também podem adquirir imóveis urbanos; para alguns tipos de imóvel, como terras rurais ou terrenos em zonas fronteiriças ou de segurança, há normas especiais que convém revisar com um advogado.",
+    "Você precisará da sua cédula de identidade venezuelana (ou passaporte se for estrangeiro) e, para os trâmites tributários, um RIF. Se não tem RIF ou está vencido, pode solicitá-lo ou atualizá-lo com o SENIAT."
+   ]
+  },
+  {
+   "h2": "Buscar à distância sem perder tempo",
+   "paras": [
+    "Comece definindo cidade, zona, orçamento e tipo de imóvel. Depois filtre anúncios por mapa e peça ao vendedor videochamadas e vídeos completos, não só fotos. Pergunte sobre água, eletricidade, gerador do prédio, condomínio e situação dos documentos.",
+    "Para a visita física, peça a um familiar ou a alguém de sua confiança que vá. Dê a essa pessoa uma lista concreta do que deve ser verificado e fotografado."
+   ],
+   "bullets": [
+    "Pressão da água e horário de chegada, tanque e bombas.",
+    "Vazamentos em telhados, paredes e ao redor das janelas.",
+    "Estado da instalação elétrica e do quadro de energia.",
+    "Elevador e áreas comuns, se for apartamento.",
+    "Ruído, segurança e vizinhos, conversando com o porteiro e com algum proprietário."
+   ]
+  },
+  {
+   "h2": "Verificar os papéis antes de pagar",
+   "paras": [
+    "Contrate um advogado na Venezuela que não dependa do vendedor. O trabalho dele é revisar a tradição legal do imóvel e garantir que não haja impedimentos para registrar a venda."
+   ],
+   "table": {
+    "head": [
+     "Documento",
+     "O que confirma"
+    ],
+    "rows": [
+     [
+      "Documento de propriedade registrado",
+      "Que o vendedor é o dono"
+     ],
+     [
+      "Certificação de gravames",
+      "Que não há hipotecas, penhoras nem proibições de alienação"
+     ],
+     [
+      "Cédula cadastral e solvência municipal",
+      "Que o imóvel está identificado e em dia com a alcaldía"
+     ],
+     [
+      "Solvência de condomínio",
+      "Que não há dívidas que passem para você"
+     ],
+     [
+      "Poder ou declaração sucessória",
+      "Se quem vende não é o titular direto"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Assinar sem viajar: o poder especial",
+   "paras": [
+    "Se não puder estar no dia da assinatura, conceda um poder especial para comprar esse imóvel concreto a uma pessoa de confiança. Você pode fazê-lo perante o consulado da Venezuela em seu país ou perante um notário local com apostila. Peça ao seu advogado que redija ou revise o texto antes de assiná-lo, para que o registro o aceite.",
+    "O poder deve permitir assinar o documento de compra e venda, pagar o preço e as despesas, e tramitar o necessário perante o registro, a alcaldía e o SENIAT."
+   ]
+  },
+  {
+   "h2": "Como pagar de forma segura",
+   "steps": [
+    "Combine o preço e a moeda por escrito, normalmente em uma opção de compra assinada e autenticada.",
+    "Se houver um pagamento inicial (arras), que seja moderado e com regras claras de devolução caso a venda não se concretize por culpa do vendedor.",
+    "Pague o saldo por transferência para uma conta em nome do vendedor, coordenada com a assinatura no registro.",
+    "Guarde os comprovantes da transferência internacional para justificar a origem dos fundos.",
+    "Confirme que o preço que consta no documento coincide com o pago."
+   ],
+   "tip": "Desconfie de qualquer vendedor que peça para transferir tudo \"para reservar\" antes que seu advogado revise os papéis. Essa é a fraude mais comum com compradores no exterior."
+  },
+  {
+   "h2": "Despesas a considerar",
+   "paras": [
+    "Além do preço, some honorários do advogado, os direitos de registro, a autenticação da opção de compra, o poder e sua apostila, o envio do original por mensageria e, mais adiante, o condomínio e os serviços enquanto você não morar lá. Se pretende alugar, considere quem o administrará."
+   ]
+  },
+  {
+   "h2": "Depois de comprar: o imóvel à distância",
+   "paras": [
+    "Uma vez registrada a compra, retire ou peça que enviem o documento protocolizado e guarde cópias digitais. Atualize o titular no cadastro e na arrecadação municipal, e regularize a situação no condomínio.",
+    "Se o imóvel ficar vazio, decida quem o inspecionará periodicamente, quem pagará o condomínio e os serviços, e como você receberá avisos da assembleia do condomínio. Se pretende alugar, defina se fará isso à distância ou com um administrador, e assine contratos por escrito."
+   ]
+  },
+  {
+   "h2": "Comece pelo mapa",
+   "paras": [
+    "No Casa-Libre você pode ver casas e apartamentos à venda nas principais cidades da Venezuela, com localização no mapa, e escrever ao vendedor por WhatsApp de onde estiver para solicitar vídeos e dados de registro. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso comprar um apartamento na Venezuela a partir da Espanha ou do Chile?",
+   "a": "Sim. Você busca à distância, verifica os documentos com um advogado na Venezuela e assina mediante uma procuração especial concedida no consulado ou em um notário local com apostila."
+  },
+  {
+   "q": "Um estrangeiro pode comprar na Venezuela?",
+   "a": "Sim, pode comprar imóveis urbanos. Para terras rurais ou áreas especiais há normas adicionais que convém revisar com um advogado."
+  },
+  {
+   "q": "Preciso de RIF para comprar?",
+   "a": "Normalmente sim, porque a operação tem trâmites perante o SENIAT e o registro. Se você não tem RIF ou está desatualizado, providencie antes."
+  },
+  {
+   "q": "Quando pago o preço?",
+   "a": "O mais seguro é pagar o saldo acordado com a assinatura no Registro Imobiliário, nunca tudo adiantado."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Casas à venda",
+  "Propriedades na Ilha de Margarita",
+  "Procuração notarial para comprar ou vender"
+ ]
+}

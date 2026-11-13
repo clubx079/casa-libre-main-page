@@ -1,0 +1,138 @@
+{
+ "_src": "3200a23658ea",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Despesas de escritura e ITP no Uruguai: quanto soma comprar",
+  "h1": "Despesas de escritura no Uruguai: ITP, escribano, imobiliária e outros custos do comprador",
+  "description": "O que paga o comprador ao escriturar no Uruguai: ITP (2% sobre o valor real do Catastro), honorários do escribano, contribuições e selos, comissão da imobiliária, crédito e certificados. Como orçar isso.",
+  "answer": "Ao comprar um imóvel no Uruguai, além do preço você vai pagar: o Imposto sobre as Transmissões Patrimoniais (ITP), que segundo a DGI é de 2% para o comprador sobre o valor real fixado pelo Catastro (não sobre o preço); os honorários do seu escribano (tabelião), que geralmente são calculados como um percentual do preço mais IVA; as contribuições para a Caixa Notarial e selos; a comissão da imobiliária se houver intermediação, e, se solicitar crédito, a avaliação, os seguros e os gastos da hipoteca. Peça orçamentos por escrito ao escribano e à imobiliária antes de assinar o boleto de reserva."
+ },
+ "sections": [
+  {
+   "h2": "Os gastos do comprador, de um vistazo",
+   "table": {
+    "head": [
+     "Conceito",
+     "Sobre o que se calcula",
+     "Quem cobra"
+    ],
+    "rows": [
+     [
+      "ITP do comprador",
+      "2% do valor real de Catastro (DGI)",
+      "O retém o escribano (tabelião) e paga à DGI"
+     ],
+     [
+      "Honorários do escribano",
+      "Porcentagem do preço segundo tabela, mais IVA",
+      "Seu escribano"
+     ],
+     [
+      "Aportes notariais e timbres",
+      "Segundo o ato e o montante",
+      "Caixa Notarial e Estado, via o escribano"
+     ],
+     [
+      "Inscrição e certificados",
+      "Taxas por documento",
+      "Registro e organismos, via o escribano"
+     ],
+     [
+      "Comissão imobiliária",
+      "Porcentagem do preço, mais IVA",
+      "A imobiliária, se interveio"
+     ],
+     [
+      "Gastos do crédito",
+      "Avaliação, seguros, escritura de hipoteca",
+      "O banco e seu escribano"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O ITP: o imposto da compra e venda",
+   "paras": [
+    "O Imposto sobre as Transmissões Patrimoniais grava as alienações de imóveis, as promessas de alienação e outras transmissões. Segundo a DGI, nas operações a título oneroso a taxa é de 2% para o alienante (o vendedor) e de 2% para o adquirente (o comprador).",
+    "A base não é o preço que você paga, mas o valor real que fixa a Direção Nacional de Catastro, atualizado pelo IPC. Em muitos casos esse valor é menor que o preço de mercado, então o ITP pode ser menor que 2% do preço. Seu escribano calcula com a cédula catastral.",
+    "O escribano atua como agente de retenção: cobra o imposto na escritura, apresenta a declaração jurada (formulário 1700 para urbanos) e paga dentro do prazo."
+   ],
+   "tip": "Se a compra for a primeira venda de uma habitação promovida, o ITP pode estar isento. Pergunte ao desenvolvedor e ao seu escribano."
+  },
+  {
+   "h2": "Honorários do escribano",
+   "paras": [
+    "No Uruguai o escribano é quem estuda os títulos, solicita os certificados, redige a escritura, retém impostos e registra a compra. Seus honorários costumam ser fixados como porcentagem do preço, tomando como referência a tabela da Associação de Escribanos do Uruguai, mais IVA. A isso somam-se os aportes à Caixa Notarial e os timbres profissionais.",
+    "É habitual que cada parte tenha seu escribano, ou que um atue por ambas. Peça um orçamento que detalhe honorários, IVA, aportes, timbres, certificados e inscrição, para não somar surpresas no dia da assinatura."
+   ]
+  },
+  {
+   "h2": "Comissão da imobiliária",
+   "paras": [
+    "Se a operação for intermediada por uma imobiliária, normalmente cobra uma comissão de cada parte, expressa como porcentagem do preço mais IVA. Não é um valor fixado por lei: pergunte no início e que conste no boleto de reserva. Se comprar direto do dono, não há comissão."
+   ]
+  },
+  {
+   "h2": "Se comprar com crédito",
+   "paras": [
+    "O crédito adiciona seus próprios custos: a avaliação do imóvel, a escritura de hipoteca (com honorários do escribano do banco), os seguros de vida e incêndio e, às vezes, comissões de concessão. Peça ao banco o detalhe completo junto com a simulação."
+   ]
+  },
+  {
+   "h2": "Dívidas que você não deve herdar",
+   "paras": [
+    "O escribano controla que a contribuição imobiliária, o imposto de Primaria e as despesas comuns estejam em dia ao escriturar. O habitual é que essas dívidas sejam quitadas pelo vendedor antes ou na assinatura, às vezes descontando-as do preço. Se surgir uma dívida, que fique resolvida por escrito antes de pagar o saldo."
+   ]
+  },
+  {
+   "h2": "Como montar seu orçamento",
+   "steps": [
+    "Peça ao vendedor o número de cadastro e ao escribano o valor real de Catastro para calcular o ITP.",
+    "Peça um orçamento escrito de honorários, IVA, aportes, timbres e inscrição.",
+    "Pergunte a comissão da imobiliária, se houver.",
+    "Se usar crédito, some avaliação, seguros e escritura de hipoteca.",
+    "Some a mudança, conexões (UTE, OSE, internet) e reparos iniciais."
+   ]
+  },
+  {
+   "h2": "E o vendedor, o que paga?",
+   "paras": [
+    "O vendedor paga seu 2% de ITP, seu escribano se tiver um, a comissão imobiliária que lhe couber e, se houver lucro, o IRPF por incrementos patrimoniais nos casos em que se aplique. Se for vender, veja o guia de impostos e gastos ao vender."
+   ]
+  },
+  {
+   "h2": "Comparar com tudo incluído",
+   "paras": [
+    "Duas propriedades ao mesmo preço podem custar diferente se uma tem comissão e a outra não, ou se uma é promovida. No Casa-Libre você pode ver casas e apartamentos à venda no mapa e falar direto com o dono ou a imobiliária por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "As despesas de escritura entram no crédito hipotecário?",
+   "a": "Em geral não: o banco financia parte do preço e as despesas da operação são cobertas com sua própria poupança. Pergunte em cada banco."
+  },
+  {
+   "q": "Quanto é o ITP no Uruguai?",
+   "a": "Segundo a DGI, em uma compra e venda é 2% para o vendedor e 2% para o comprador, sobre o valor real fixado pelo Catastro, não sobre o preço."
+  },
+  {
+   "q": "Quem paga a escritura no Uruguai?",
+   "a": "Cada parte paga seu escribano. O comprador paga ainda seu ITP, contribuições e selos, e a comissão da imobiliária se houver."
+  },
+  {
+   "q": "O ITP é calculado sobre o preço de venda?",
+   "a": "Não. É calculado sobre o valor real do Catastro vigente, atualizado pelo IPC."
+  },
+  {
+   "q": "Quanto cobra um escribano por uma compra e venda?",
+   "a": "Costuma cobrar um percentual do preço tomando como referência a tabela da Associação de Escribanos, mais IVA e contribuições. Peça um orçamento por escrito."
+  }
+ ],
+ "related": [
+  "Guia: despesas e impostos ao comprar",
+  "Guia: impostos e despesas ao vender",
+  "Propriedades à venda"
+ ]
+}

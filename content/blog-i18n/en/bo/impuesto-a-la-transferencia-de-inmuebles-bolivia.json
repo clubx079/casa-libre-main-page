@@ -1,0 +1,124 @@
+{
+ "_src": "d1742ae519e9",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Property Transfer Tax in Bolivia (IMT)",
+  "h1": "Property Transfer Tax in Bolivia: how much, who pays, and when",
+  "description": "How the Municipal Transfer Tax (IMT) works in Bolivia: 3% rate, taxable base, who is liable, 10 business-day deadline and when another tax applies.",
+  "answer": "When a person sells a property in Bolivia, the transaction is subject to the Municipal Transfer Tax (IMT). According to its regulation (DS 24054), the general rate is 3% on the higher of the price paid and the value the property has for the property tax. The liable party is the person listed as owner in the registry (the seller), and the tax must be paid within 10 business days after the transfer is signed. Without that payment the purchase is not recorded in Derechos Reales."
+ },
+ "sections": [
+  {
+   "h2": "What is the IMT",
+   "paras": [
+    "The Municipal Tax on Transfers of Real Estate and Motor Vehicles (IMT) taxes the sale of properties that were registered in Derechos Reales when they are transferred, carried out by persons who do not engage in real-estate sales as a business. It is collected by the municipal government where the property is located. Law 154 of 2011 confirms that the onerous transfer of real estate by persons who do not have that activity as their line of business is a taxable municipal event.",
+    "If the seller is a company that is engaged in selling real estate (for example, a developer selling new apartments), national taxes administered by the Servicio de Impuestos Nacionales apply instead of the IMT. Therefore you should ask the notario which tax applies in your case."
+   ]
+  },
+  {
+   "h2": "How it is calculated",
+   "paras": [
+    "A hypothetical example: if a house is sold for Bs 500,000 and its value for the property tax is lower, the IMT is calculated on Bs 500,000; at 3% that would be Bs 15,000. If the value for the property tax were higher than the price, that higher value would be used. The figures are only to illustrate the calculation."
+   ],
+   "table": {
+    "head": [
+     "Element",
+     "What the regulation (DS 24054) says"
+    ],
+    "rows": [
+     [
+      "Triggering event",
+      "The celebration of the act by which the ownership is transferred for consideration"
+     ],
+     [
+      "Obligated party (taxpayer)",
+      "The person in whose name the asset is registered: the seller"
+     ],
+     [
+      "Tax base",
+      "The greater of the amount actually paid and the property’s value for the property tax of the last overdue fiscal year"
+     ],
+     [
+      "Rate",
+      "General 3%"
+     ],
+     [
+      "Payment deadline",
+      "Within 10 business days after the triggering event"
+     ],
+     [
+      "Intermediary commissions",
+      "Do not form part of the tax base"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Who pays it in practice",
+   "paras": [
+    "The rule places the obligation on the seller, because they are the registered owner. In practice, how the transaction costs are split is negotiated between buyer and seller, and in some cases the buyer ends up assuming the tax as part of the price. The important thing is that the minute states who pays what."
+   ],
+   "tip": "As a buyer, do not accept that the tax has \"already been paid\". Request the receipt: Derechos Reales requires it to register the transfer in your name."
+  },
+  {
+   "h2": "Inheritance, donations and swaps",
+   "bullets": [
+    "Inheritance and donations: Law 154 places them under the jurisdiction of the departmental governments, with their own tax; they are not a sale.",
+    "Swaps: the IMT regulation treats them as two transfers, and the tax applies to each asset.",
+    "Housing leasing (financial lease): the tax is generated when the balance is paid upon exercising the purchase option."
+   ]
+  },
+  {
+   "h2": "Where the IMT fits in the purchase",
+   "paras": [
+    "The regulation clarifies an important point: paying the IMT does not consolidate ownership rights. Payment is a requirement; what makes you the owner before everyone else is registration in Derechos Reales."
+   ],
+   "steps": [
+    "The minute is signed and the notario protocols it as escritura pública (public deed).",
+    "Within 10 business days, the IMT is settled and paid to the municipality, at banks or other authorized locations.",
+    "With the payment receipt, the escritura is presented to Derechos Reales for registration.",
+    "Then the municipal cadastral and tax record is updated in the buyer’s name."
+   ]
+  },
+  {
+   "h2": "Mistakes that increase transfer costs",
+   "bullets": [
+    "Declaring a lower price in the minute \"to pay less\": the base is the greater of the price and the property-tax value, and a false declaration can cause tax problems and leave the buyer with a title that does not reflect what was paid.",
+    "Missing the 10-day deadline: late payment adds fines and interest.",
+    "Paying the tax to the wrong municipality: it must be paid to the municipality where the property is located.",
+    "Not keeping the receipt: you will need it at Derechos Reales and later if you sell."
+   ]
+  },
+  {
+   "h2": "Calculate costs before making an offer",
+   "paras": [
+    "When you compare properties, add closing costs to the price: transfer tax (if you assume it), notary, lawyer and Derechos Reales. On Casa-Libre you can view properties for sale on the map and ask the advertiser via WhatsApp how they propose to split the costs. You can also do this from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much is the property transfer tax in Bolivia?",
+   "a": "The IMT regulation sets a general rate of 3% on the higher of the price paid and the property’s value for the property tax."
+  },
+  {
+   "q": "Who pays the IMT, the buyer or the seller?",
+   "a": "The rule obliges the registered holder, that is, the seller. In practice it is negotiated; put it in writing in the minuta (agreement)."
+  },
+  {
+   "q": "What is the payment deadline?",
+   "a": "Within 10 business days after the transfer act, according to DS 24054."
+  },
+  {
+   "q": "If I buy from a developer do I also pay IMT?",
+   "a": "If the company sells properties as its business activity, national taxes usually apply instead of the IMT. Ask the notario."
+  }
+ ],
+ "related": [
+  "Properties for sale",
+  "Guide: taxes and costs when selling",
+  "Guide: costs when buying a house",
+  "Property transfer step by step"
+ ]
+}

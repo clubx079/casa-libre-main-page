@@ -1,0 +1,130 @@
+{
+ "_src": "39c28339344b",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito hipotecário no Paraguai: como funciona e como comparar",
+  "h1": "Crédito hipotecário no Paraguai: como funciona e como comparar ofertas",
+  "description": "Como funciona um crédito hipotecário no Paraguai: quem empresta, linhas com fundos da AFD, poupança prévia, avaliação, seguros, documentos e como comparar ofertas.",
+  "answer": "Um crédito hipotecário é um empréstimo de longo prazo para comprar, construir ou reformar uma moradia, em que o imóvel fica hipotecado a favor de quem empresta até que você termine de pagar. No Paraguai, são concedidos por bancos, financeiras e cooperativas, muitas vezes com fundos da AFD (linhas como Primera Vivienda, Mi Casa ou o programa Che Róga Porã). Quase sempre você precisa colocar uma parte com poupança própria, a entidade avalia o imóvel, exige seguros e analisa sua renda. Para comparar ofertas, observe a taxa, o prazo, a moeda e o custo total, não apenas a parcela."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona, em simples",
+   "paras": [
+    "A entidade lhe empresta parte do preço da moradia e você devolve em parcelas mensais durante muitos anos. Como garantia, a propriedade é hipotecada: fica inscrita nos Registros Públicos uma hipoteca a favor da entidade. Se você deixar de pagar, a entidade pode executar essa garantia. Quando você quitar a dívida, a hipoteca é levantada e a propriedade fica livre.",
+    "A hipoteca se constitui por escritura pública ante escribano, normalmente no mesmo ato em que você assina a compra. Por isso o crédito, a compra e a inscrição são coordenados entre a entidade, o escribano, o vendedor e você."
+   ]
+  },
+  {
+   "h2": "Quem concede: bancos, financeiras, cooperativas e a AFD",
+   "paras": [
+    "Os créditos para moradia são concedidos por bancos, financeiras e cooperativas. Muitos deles utilizam recursos da Agência Financeira de Desenvolvimento (AFD), um banco público de segundo piso: a AFD não empresta diretamente às pessoas, mas às entidades, que por sua vez lhe concedem a você com condições de prazo e taxa mais favoráveis que um crédito com recursos próprios.",
+    "De acordo com a cobertura da imprensa sobre os produtos da AFD, o programa Primeira Vivienda está pensado para quem ainda não tem uma moradia em seu nome, com um limite de renda familiar, e o Mi Casa não exige que seja a primeira moradia. Além disso existe o Che Róga Porã, o programa habitacional com taxas fixas por faixa de renda. As condições mudam com o tempo: peça à entidade que explique qual linha lhe corresponde."
+   ],
+   "table": {
+    "head": [
+     "Linha",
+     "Para quem é (em geral)",
+     "Onde se tramita"
+    ],
+    "rows": [
+     [
+      "Primera Vivienda (AFD)",
+      "Quem não tem moradia própria, com limite de renda",
+      "Entidades com linha AFD"
+     ],
+     [
+      "Mi Casa (AFD)",
+      "Compra, construção ou reforma, não exige que seja a primeira",
+      "Entidades com linha AFD"
+     ],
+     [
+      "Che Róga Porã",
+      "Renda de 1 a 9 salários mínimos, com limite de valor do imóvel",
+      "Bancos, financeiras e cooperativas aderidas"
+     ],
+     [
+      "Crédito com recursos próprios da entidade",
+      "Conforme a política de cada entidade",
+      "Cada banco, financeira ou cooperativa"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Economia prévia: quanto lhe emprestam e quanto você coloca",
+   "paras": [
+    "As entidades quase nunca financiam 100% do valor. Emprestam um percentual do menor valor entre o preço de compra e a avaliação, e o resto você coloca. Esse percentual depende da entidade, da linha e do seu perfil, então não há um número único para o país: pergunte na primeira consulta.",
+    "Além da economia para a parte não financiada, você vai precisar de dinheiro para os gastos da operação (escribanía (cartório), inscrição, avaliação, seguros) e para a mudança. Isso geralmente não entra no crédito."
+   ]
+  },
+  {
+   "h2": "Avaliação, estudo de títulos e seguros",
+   "paras": [
+    "Antes de aprovar, a entidade manda avaliar a propriedade: um avaliador verifica o estado e estima seu valor. Se a avaliação for menor que o preço, lhe emprestam sobre o valor avaliado e a diferença você tem que cobrir ou renegociar com o vendedor.",
+    "Também se faz um estudo de títulos com escribano (tabelião): que o vendedor seja o titular, que não haja penhoras nem outras hipotecas e que os impostos estejam em dia. E quase sempre exigem seguros: um de vida ou desgravamen, que cancela a dívida se o devedor falecer, e um sobre o imóvel contra incêndio ou outros danos. Seu custo se soma à parcela."
+   ]
+  },
+  {
+   "h2": "Documentos que costumam solicitar",
+   "bullets": [
+    "Cédula de identidade do titular e, se for o caso, do cônjuge ou codevedor.",
+    "Comprovantes de renda: recibos de salário e constância laboral, ou constância de RUC, faturamento e extratos se for autônomo.",
+    "Declaração de bens e dívidas.",
+    "Dados da propriedade: cópia do título, dados de cuenta corriente catastral (conta corrente cadastral) e documentos do vendedor.",
+    "Em construção: plantas aprovadas e orçamento da obra."
+   ]
+  },
+  {
+   "h2": "Como comparar duas ofertas de crédito",
+   "paras": [
+    "Dois créditos com a mesma parcela podem custar muito diferente. Peça a cada instituição uma simulação por escrito, com o mesmo valor e prazo, e compare estes pontos:"
+   ],
+   "bullets": [
+    "Taxa de juros: se é fixa durante todo o prazo ou se pode mudar.",
+    "Prazo: mais anos reduzem a parcela mas aumentam o total de juros.",
+    "Moeda: se cobra em guaranis, um crédito em dólares adiciona risco de câmbio.",
+    "Custo total: some juros, seguros, comissões e despesas de concessão ao longo de todo o crédito.",
+    "Pré-cancelamento: se pode adiantar pagamentos ou cancelar antes, e se isso tem penalidade.",
+    "Tempos: quanto tempo leva a aprovação. Um vendedor nem sempre espera semanas."
+   ],
+   "tip": "Sempre peça a tabela de amortização completa: mostra quanto de cada parcela vai para juros e quanto para capital, e quanto você paga no total ao final."
+  },
+  {
+   "h2": "Quanto da sua renda pode ir para a parcela",
+   "paras": [
+    "Cada instituição tem seu próprio limite de parcela sobre a renda, e o aplica sobre sua renda comprovável, não sobre o que ganha no informal. Além do limite da instituição, faça seu próprio cálculo: a parcela mais os seguros precisam caber no seu orçamento mesmo em um mês ruim, sem depender de horas extras ou rendas ocasionais."
+   ]
+  },
+  {
+   "h2": "Escolher o imóvel pensando no crédito",
+   "paras": [
+    "Um imóvel com a documentação em ordem é aprovado mais rápido. Ao consultar um anúncio, pergunte se tem título registrado, se o imposto predial está em dia e se o proprietário aceita venda com crédito bancário. No Casa-Libre você pode filtrar por tipo e preço, ver os imóveis no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto financiam os bancos no Paraguai?",
+   "a": "Não há um percentual único: depende da entidade, da linha de crédito e do seu perfil. Quase nunca é 100%, então prepare-se para colocar uma parte com poupança própria e para cobrir os custos da operação."
+  },
+  {
+   "q": "O que é a AFD e como ela me empresta?",
+   "a": "A Agência Financeira de Desenvolvimento é um banco público de segundo nível. Não empresta direto a pessoas: repassa fundos a bancos, financeiras e cooperativas, que lhe emprestam com linhas como Primera Vivienda ou Mi Casa."
+  },
+  {
+   "q": "Convém um crédito em dólares ou em guaranis?",
+   "a": "Se sua renda é em guaranis, um crédito em guaranis evita que a parcela suba se o dólar subir. Compare as duas opções pelo custo total, não apenas pela taxa."
+  },
+  {
+   "q": "O que acontece com a hipoteca quando termino de pagar?",
+   "a": "É cancelada por escritura (escritura pública) e a inscrição nos Registros Públicos é levantada. Solicite à entidade o documento de cancelamento e verifique que seja inscrito."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: gastos e impostos ao comprar"
+ ]
+}

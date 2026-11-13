@@ -1,0 +1,121 @@
+{
+ "_src": "3496cbd87813",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mudança de titular da ANDE e água ao se mudar: o que fazer",
+  "h1": "Luz, água e internet ao se mudar: troca de titular e leitura de medidores",
+  "description": "O que fazer com a ANDE, a água e a internet quando você compra ou aluga: troca de titular, leitura final dos medidores e a quem convém colocar o serviço em nome.",
+  "answer": "Ao se mudar, a primeira coisa é anotar (e fotografar) a leitura dos medidores de luz e água no dia em que recebe as chaves e confirmar que não haja faturas atrasadas. Se comprou, cabe transferir os serviços para o seu nome: a ANDE tem um procedimento de mudança de titular do contrato de fornecimento, e a água é gerida pela ESSAP ou pela junta de saneamento ou aguatera da sua região. Se aluga, muitas vezes o serviço fica em nome do proprietário e você paga as faturas; o importante é deixar isso por escrito no contrato."
+ },
+ "sections": [
+  {
+   "h2": "O dia em que você recebe as chaves",
+   "paras": [
+    "Quase todas as discussões sobre serviços começam por não saber quem consumiu o quê. A solução leva cinco minutos: no dia da entrega, com o dono ou o inquilino anterior presentes, tire fotos de cada medidor com o número visível e a data do celular."
+   ],
+   "steps": [
+    "Fotografe o medidor da ANDE mostrando a leitura e o número do medidor.",
+    "Faça o mesmo com o medidor de água, se houver.",
+    "Peça a última fatura paga de cada serviço (ou o comprovante de pagamento).",
+    "Anote na ata de entrega ou no contrato as leituras e quem paga a partir daquela data.",
+    "Guarde tudo em uma pasta do celular e envie por WhatsApp ao dono, assim fica registrado."
+   ]
+  },
+  {
+   "h2": "ANDE: a mudança de titular do contrato de fornecimento",
+   "paras": [
+    "A energia elétrica é fornecida pela Administração Nacional de Electricidad (ANDE). Cada fornecimento tem um contrato em nome de uma pessoa. Segundo o procedimento interno de atendimento ao cliente que a ANDE publica, a mudança de titular é a solicitação para que um contrato de fornecimento que consta em nome de outra pessoa passe para o nome do solicitante.",
+    "Para trâmites relacionados à titularidade, a ANDE pede documentos que comprovem o vínculo com o imóvel; em seus procedimentos publicados se mencionam, por exemplo, cópia autenticada do título de propriedade ou constâncias da municipalidade ou da imobiliária. Os requisitos exatos e o canal (escritório comercial ou atendimento online) podem mudar, então confirme na ANDE antes de ir."
+   ],
+   "bullets": [
+    "Leve sua cédula e o documento que o vincula ao imóvel (título ou escritura, ou contrato se for o caso).",
+    "Tenha à mão o número do contrato ou do NIS que consta na fatura.",
+    "Pergunte se há dívida pendente: convém que o titular anterior a cancele antes da mudança.",
+    "Se a casa ficou muito tempo desocupada ou o serviço foi cortado, pergunte sobre a religação."
+   ]
+  },
+  {
+   "h2": "Água: ESSAP, junta de saneamento ou aguatera",
+   "paras": [
+    "A água não tem um único fornecedor em todo o país. Em Assunção e parte da área metropolitana o serviço é prestado pela ESSAP; em muitas outras cidades e bairros ele é prestado por juntas de saneamento ou aguateras privadas, cada uma com seu próprio escritório e seus requisitos. Antes de se mudar, pergunte ao dono quem fornece a água e como se paga.",
+    "O trâmite de mudança de titular, quando corresponde, é feito perante esse fornecedor. Em geral vão pedir cédula e algum documento que comprove que você é o dono ou que está autorizado. Se for uma aguatera, pergunte também sobre a qualidade e a pressão da água em horário de pico: é uma pergunta que poucos fazem e que muda muito a vida diária."
+   ],
+   "tip": "Se a casa tem poço próprio ou tanque elevado, peça que mostrem a bomba e o estado do tanque. Limpar um tanque é barato; descobrir o problema no pleno verão não."
+  },
+  {
+   "h2": "Em nome de quem deve ficar o serviço?",
+   "paras": [
+    "Depende se você comprou ou alugou. Na compra, o lógico é que todos os serviços passem para o seu nome o quanto antes: você é o novo dono e não convém que faturas e dívidas continuem em nome de outra pessoa.",
+    "No aluguel há duas formas habituais, e nenhuma é melhor por si só: que o serviço continue em nome do proprietário e o inquilino pague as faturas, ou que o inquilino o coloque em seu nome durante o contrato. O que importa é que o contrato diga claramente quem paga, como se comprova o pagamento (por exemplo, enviando o comprovante a cada mês) e o que acontece com a última fatura ao sair."
+   ],
+   "table": {
+    "head": [
+     "Situação",
+     "O habitual",
+     "O que deixar por escrito"
+    ],
+    "rows": [
+     [
+      "Comprou a propriedade",
+      "Passar luz e água para o seu nome",
+      "Leituras do dia da escritura e dívidas quitadas pelo vendedor"
+     ],
+     [
+      "Aluga, serviço em nome do dono",
+      "Você paga, o dono controla",
+      "Que você envia os comprovantes e como se paga a última fatura"
+     ],
+     [
+      "Aluga, serviço em seu nome",
+      "Você paga e é titular",
+      "Que ao sair devolve o serviço ao dono sem dívida"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cuidado com as dívidas do ocupante anterior",
+   "paras": [
+    "Uma fatura impaga pode terminar em corte de serviço embora a dívida não seja sua. Por isso, antes de pagar o sinal de uma compra ou o primeiro mês de um aluguel, peça ver as últimas faturas pagas. Em uma compra, o escribano (tabelião) costuma pedir constâncias de que não há dívidas; para luz e água, convém que você também controle."
+   ]
+  },
+  {
+   "h2": "Internet e TV: o serviço que mais se esquece",
+   "paras": [
+    "A internet geralmente não faz parte do contrato de aluguel, mas faz parte da sua rotina. Antes de assinar, pergunte quais empresas têm cobertura naquela quadra (nem todas chegam a todos os bairros) e quanto tempo demoram para instalar. Se o inquilino anterior tinha fibra, às vezes a cabeação já está e a instalação é mais rápida.",
+    "Se você sair de uma casa, lembre-se de cancelar seu próprio serviço de internet e devolver os equipamentos. Muitas empresas cobram o equipamento se não for devolvido."
+   ]
+  },
+  {
+   "h2": "Quando você é quem está saindo",
+   "paras": [
+    "Repita o mesmo ritual ao contrário: fotos dos medidores no dia em que entrega as chaves, última fatura paga ou um acordo escrito sobre como se paga, e cancelamento ou devolução dos serviços que estavam em seu nome. É a maneira mais simples de que o depósito de garantia volte sem descontos surpresa.",
+    "Se você está procurando onde se mudar, na Casa-Libre vê casas e apartamentos no mapa e pode perguntar ao dono por WhatsApp quem fornece a água ou se a casa tem fibra antes de visitá-la. Também pelo app da Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como se faz a mudança de titular da ANDE?",
+   "a": "Solicita-se à ANDE apresentando cédula e documentos que comprovem seu vínculo com o imóvel, como o título de propriedade. Confirme os requisitos vigentes na ANDE antes de ir."
+  },
+  {
+   "q": "Se eu alugo, preciso colocar a luz no meu nome?",
+   "a": "Não necessariamente. Muitas vezes fica em nome do proprietário e o inquilino paga as faturas. O importante é que o contrato indique quem paga e como o pagamento será comprovado."
+  },
+  {
+   "q": "Quem paga uma fatura atrasada do inquilino anterior?",
+   "a": "Quem consumiu. Por isso convém fotografar os medidores e solicitar a última fatura paga no dia da entrega, e deixar isso registrado na ata ou no contrato."
+  },
+  {
+   "q": "Quem fornece a água no meu bairro?",
+   "a": "Depende da região: a ESSAP em Assunção e parte da área metropolitana, e juntas de saneamento ou aguateras em muitas outras cidades. Pergunte ao proprietário antes de se mudar."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Casas à venda",
+  "Guia: como alugar sua propriedade"
+ ]
+}

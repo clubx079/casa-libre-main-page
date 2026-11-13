@@ -1,0 +1,101 @@
+{
+ "_src": "460d94682fea",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Boleto de reserva e promessa de compra e venda no Uruguai: guia",
+  "h1": "Boleto de reserva, promessa de compra e venda e escritura: os passos para comprar no Uruguai",
+  "description": "Como comprar uma casa ou apartamento no Uruguai passo a passo: boleto de reserva, estudo de títulos, promessa de compra e venda inscrita, escritura, ITP e o que controlar em cada etapa.",
+  "answer": "No Uruguai uma compra costuma ter três documentos. Primeiro, o boleto de reserva: um acordo inicial em que você deixa uma sinal para que o dono retire o imóvel do mercado enquanto o escribano (tabelião) estuda os títulos. Depois, em algumas operações, a promessa de compra e venda, que se inscreve no Registro de la Propiedad e lhe dá proteção se o pagamento for em parcelas ou a escritura atrasar. Por último, a escritura (escritura pública) de compra e venda perante escribano, onde se paga o saldo e a propriedade passa ao seu nome. O escribano controla os títulos e as dívidas, e retém o ITP."
+ },
+ "sections": [
+  {
+   "h2": "O mapa completo de uma compra",
+   "steps": [
+    "Você encontra a propriedade, a visita e negocia o preço.",
+    "Assina o boleto de reserva e entrega um sinal.",
+    "Seu escribano (tabelião) estuda os títulos e pede os certificados (registros, dívidas, tributos).",
+    "Se houver financiamento ou o pagamento for em parcelas, pode-se assinar uma promessa de compra e venda e registrá-la.",
+    "Se solicitar crédito, o banco avalia a propriedade e aprova o empréstimo.",
+    "Assina a escritura (escritura pública) de compra e venda, paga o saldo e recebe as chaves.",
+    "O escribano registra a compra no Registro da Propriedade."
+   ]
+  },
+  {
+   "h2": "O boleto de reserva: o que é e o que deve conter",
+   "paras": [
+    "O boleto de reserva não está regulado por uma lei específica: é um acordo privado de uso muito difundido. Com ele você entrega um sinal e o vendedor se compromete a não vender a outro durante um prazo, enquanto seu escribano revisa tudo. Se o estudo de títulos der errado, a reserva deve cair e o sinal ser devolvido.",
+    "Antes de assinar, assegure-se de que o boleto diga claramente:"
+   ],
+   "bullets": [
+    "Dados das partes e do imóvel: endereço e número de cadastro.",
+    "Preço total, moeda e forma de pagamento.",
+    "Valor do sinal e o que acontece com ele em cada caso: se o comprador desistir, se o vendedor desistir, se os títulos não estiverem em ordem ou se o crédito não for aprovado.",
+    "Prazo para assinar a promessa ou a escritura.",
+    "Escribano que intervirá por cada parte.",
+    "O que está incluído na venda: móveis, ar-condicionado, garagem, depósito."
+   ],
+   "tip": "Se for comprar com crédito, peça que o boleto diga que a operação fica sujeita à aprovação do empréstimo e que, se não for aprovada no prazo, devolvam o sinal."
+  },
+  {
+   "h2": "O estudo de títulos",
+   "paras": [
+    "Enquanto a reserva corre, o escribano revisa a cadeia de títulos da propriedade (as compras e heranças anteriores) para confirmar que o vendedor é o dono e pode vender. Também solicita informações ao Registro da Propriedade sobre penhoras, hipotecas, interdições ou outros gravames, e verifica se a contribuição imobiliária, o imposto Predial e as despesas comuns estão em dia.",
+    "Se surgir um problema, por exemplo uma sucessão sem terminar ou uma hipoteca não quitada, às vezes pode-se resolver antes de escriturar. Seu escribano lhe dirá se convém esperar ou desistir."
+   ]
+  },
+  {
+   "h2": "A promessa de compra e venda",
+   "paras": [
+    "A promessa de alienação de imóveis a prazo está regulada pela Lei 8.733. É o contrato pelo qual o vendedor se obriga a transferir a propriedade e o comprador a pagá-la em parcelas ou prazos. A lei exige que seja feita por escrito e prevê seu registro no Registro.",
+    "Sua grande vantagem é que, a partir do registro, o comprador tem um direito real frente a qualquer venda ou gravame posterior, e quando terminar de pagar pode exigir a escritura. Por isso é muito usada em compras na planta, em parcelas ou quando a escritura definitiva é feita muito tempo depois. Em uma compra à vista com escritura imediata, às vezes passa-se direto do boleto para a escritura."
+   ]
+  },
+  {
+   "h2": "A escritura e os impostos",
+   "paras": [
+    "A escritura de compra e venda é assinada perante escribano. Lá você paga o saldo, o vendedor entrega a posse e o escribano a registra no Registro da Propriedade. O Imposto sobre Transmissões Patrimoniais (ITP) é retido pelo escribano: segundo a DGI, nas compras e vendas é de 2% para o vendedor e 2% para o comprador, calculado sobre o valor real fixado pelo Catastro, não sobre o preço.",
+    "Além do ITP, como comprador você paga os honorários do seu escribano e os aportes e selos associados. Se intervier uma imobiliária, também sua comissão. Peça um orçamento por escrito no início."
+   ]
+  },
+  {
+   "h2": "Sinais e pagamentos: como se proteger",
+   "bullets": [
+    "Não entregue dinheiro sem um documento assinado.",
+    "Pague por transferência bancária ou com um meio que deixe registro; para valores altos, os escribanos também devem controlar a origem dos fundos.",
+    "Desconfie de reservas \"urgentes\" sem visita ou sem que ninguém mostre documentos.",
+    "Faça com que seu próprio escribano revise o boleto antes de assiná-lo."
+   ]
+  },
+  {
+   "h2": "Antes de reservar",
+   "paras": [
+    "Ao consultar um anúncio, pergunte o número de cadastro, se a propriedade está livre de dívidas e se o dono aceita venda com crédito. No Casa-Libre você pode ver casas e apartamentos à venda de todo o Uruguai no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O boleto de reserva é obrigatório?",
+   "a": "Não é obrigatório por lei, mas é a prática habitual: fixa o preço, a sinal e o prazo enquanto o escribano estuda os títulos."
+  },
+  {
+   "q": "Qual a diferença entre boleto de reserva e promessa de compra e venda?",
+   "a": "O boleto é um acordo inicial com sinal. A promessa, regulada pela Lei 8.733, inscreve-se no Registro e dá ao comprador um direito real frente a vendas ou gravames posteriores."
+  },
+  {
+   "q": "Quem paga o ITP em uma compra e venda?",
+   "a": "As duas partes: segundo a DGI, 2% ao vendedor e 2% ao comprador sobre o valor real fixado pelo Catastro. O escribano o retém."
+  },
+  {
+   "q": "Posso usar o mesmo escribano que o vendedor?",
+   "a": "É possível, mas muitos compradores preferem ter o seu, que revise os títulos e o boleto pensando em seus interesses."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Apartamentos em venda",
+  "Guia: como comprar sua primeira casa",
+  "Guia: gastos e impostos ao comprar"
+ ]
+}

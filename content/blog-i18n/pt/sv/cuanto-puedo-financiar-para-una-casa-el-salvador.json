@@ -1,0 +1,145 @@
+{
+ "_src": "24003b1a7c57",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Quanto me emprestam para uma casa em El Salvador",
+  "h1": "Quanto podem lhe emprestar para uma casa em El Salvador e quanto deve economizar antes",
+  "description": "Como estimar quanto o FSV ou um banco lhe emprestariam para comprar casa em El Salvador, quais despesas deve economizar além da entrada e como preparar seu histórico antes de solicitar.",
+  "answer": "O que lhe emprestam depende da sua capacidade de pagamento: a entidade calcula quanto da sua renda comprovável pode ir para a parcela após descontar suas outras dívidas, e com isso, a taxa e o prazo definem o valor. Além disso, quase nunca financiam 100% do preço: será necessário economizar uma entrada e, aparte, as despesas da compra (notario, inscrição, avaliação e o imposto de transferência se a casa superar US$28,571.43). O simulador do FSV e as simulações dos bancos lhe dão um valor orientativo antes de buscar casa."
+ },
+ "sections": [
+  {
+   "h2": "Como calculam sua capacidade de pagamento",
+   "paras": [
+    "A entidade toma sua renda mensal comprovável, subtrai as parcelas de outros empréstimos (pessoais, cartões, outro crédito habitacional) e aplica um limite: só uma parte do que resta pode ir para a parcela da casa. Cada entidade fixa seu próprio limite, por isso duas simulações podem dar valores diferentes.",
+    "Com essa parcela máxima, a taxa de juros e o prazo, calcula-se o valor que podem lhe emprestar. Prazo maior, valor maior, mas também mais juros no total."
+   ],
+   "tip": "Quitar um cartão ou um empréstimo pessoal antes de solicitar pode aumentar mais seu valor aprovado que um aumento de salário, porque libera capacidade de pagamento."
+  },
+  {
+   "h2": "Use um simulador antes de buscar",
+   "paras": [
+    "O FSV tem um simulador em seu site que pede o número de solicitantes, seu setor (empregado, pensionista, salvadorenho no exterior, setor básico ou microempresário), a linha de crédito, o tipo de imóvel, suas rendas e dívidas, e o preço da moradia. Os bancos oferecem simulações semelhantes em seus sites ou nas agências.",
+    "O resultado é orientativo. Use-o para saber em que faixa de preço buscar e não se apaixonar por uma casa que não poderá financiar."
+   ]
+  },
+  {
+   "h2": "O que deve economizar além da entrada",
+   "paras": [
+    "Muitas famílias economizam só para a entrada e se deparam com gastos adicionais no momento da assinatura. Faça uma lista completa:"
+   ],
+   "table": {
+    "head": [
+     "Gasto",
+     "Quando aparece",
+     "Como estimá-lo"
+    ],
+    "rows": [
+     [
+      "Entrada",
+      "Ao assinar",
+      "Preço menos valor financiado"
+     ],
+     [
+      "Imposto de transferência",
+      "Antes de registrar",
+      "3% sobre o valor que exceder US$28,571.43"
+     ],
+     [
+      "Honorários do notário",
+      "Ao assinar",
+      "Peça cotação por escrito"
+     ],
+     [
+      "Registro no CNR",
+      "Depois de assinar",
+      "Conforme tabela registral"
+     ],
+     [
+      "Avaliação e seguros",
+      "Durante o processo e a cada mês",
+      "Pergunte à entidade"
+     ],
+     [
+      "Mudança, reparos e móveis",
+      "Ao entrar",
+      "Sua própria lista"
+     ],
+     [
+      "Fundo de emergência",
+      "Sempre",
+      "Vários meses de parcela"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Um exemplo para organizar os números",
+   "paras": [
+    "Exemplo hipotético, só para ilustrar o cálculo: uma casa de US$60,000. O imposto de transferência seria 3% sobre US$31,428.57 (60,000 − 28,571.43), ou seja, cerca de US$943. Se a entidade financia parte do preço, a diferença é sua entrada. Some a isso notário, registro, avaliação e mudança. O total que precisa em dinheiro é bem maior que a entrada sozinha.",
+    "Os valores reais de taxa, prazo e percentual financiado dependem da entidade e do seu perfil; não os use como promessa de crédito."
+   ]
+  },
+  {
+   "h2": "Prepare seu histórico de crédito",
+   "paras": [
+    "Um bom histórico pesa tanto quanto a renda. Antes de solicitar, verifique se não há atrasos e pague pontualmente todas as parcelas por vários meses. Se trabalha por conta própria, organize seus comprovantes e declare sua renda: o que não está documentado não conta para o crédito."
+   ],
+   "bullets": [
+    "Pague pontualmente cartões e empréstimos; evite abrir novos créditos antes de solicitar.",
+    "Reúna comprovantes de salário ou documentos de renda dos últimos meses.",
+    "Se recebe remessas, guarde o histórico de envios.",
+    "Esteja em dia com a Hacienda, pois o FSV exige."
+   ]
+  },
+  {
+   "h2": "Solicitar com codevedor",
+   "paras": [
+    "Somar a renda de outra pessoa (cônjuge, familiar) aumenta a capacidade de pagamento. Mas o codevedor também fica obrigado a pagar se você não o fizer, e sua própria capacidade de crédito se reduz. No FSV, quando um dos solicitantes é do setor informal ou pensionista, as condições do crédito podem seguir as desse setor."
+   ]
+  },
+  {
+   "h2": "A parcela que pode pagar nem sempre é a que aprovam",
+   "paras": [
+    "Ter um valor aprovado não significa que convém usar tudo. Faça seu orçamento: a parcela mais seguros, taxas municipais, serviços e manutenção precisam caber em um mês normal, sem horas extras ou bônus."
+   ]
+  },
+  {
+   "h2": "Se não tem suficiente para a entrada",
+   "paras": [
+    "Algumas linhas do FSV são pensadas para pessoas com menos poupança, e a entrada varia conforme a linha e sua situação. Outra opção é comprar um imóvel de preço menor como primeiro passo, ou economizar alguns meses a mais enquanto aluga.",
+    "O que se deve evitar é cobrir a entrada com um empréstimo pessoal caro: isso aumenta suas dívidas justo quando a entidade mede sua capacidade de pagamento, e pode reduzir o valor que aprovam."
+   ]
+  },
+  {
+   "h2": "Buscar dentro do seu intervalo",
+   "paras": [
+    "Com seu valor estimado, filtre casas e apartamentos por preço no Casa-Libre, veja-os no mapa e pergunte por WhatsApp se o vendedor aceita crédito do FSV ou bancário. Também pode fazer isso pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto me empresta o FSV?",
+   "a": "Depende da sua renda comprovável, suas dívidas, a linha e o prazo. O simulador do FSV lhe dá um valor orientativo; o definitivo é fornecido pelo FSV ao avaliar sua solicitação."
+  },
+  {
+   "q": "Quanto devo economizar para comprar uma casa?",
+   "a": "A entrada mais as despesas de compra: imposto de transferência se aplicável, notario, inscrição, avaliação e mudança. E é conveniente ter um fundo de emergência à parte."
+  },
+  {
+   "q": "Como se calcula o imposto de transferência?",
+   "a": "É 3% sobre a parte do valor que exceder US$28,571.43. Em uma casa de US$60,000 seriam cerca de US$943."
+  },
+  {
+   "q": "Vale a pena solicitar com codeudor?",
+   "a": "Aumenta o valor que podem lhe emprestar, mas o codeudor também responde pela dívida. Faça isso somente se ambos entenderem esse compromisso."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Apartamentos em venda",
+  "Guia: comprar sua primeira casa"
+ ]
+}

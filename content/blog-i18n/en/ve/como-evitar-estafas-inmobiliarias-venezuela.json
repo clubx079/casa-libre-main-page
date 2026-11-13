@@ -1,0 +1,137 @@
+{
+ "_src": "7cb9ac19b9fa",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Avoid Real Estate Scams in Venezuela",
+  "h1": "Real Estate Scams in Venezuela: the Most Common Ones and How to Protect Yourself",
+  "description": "The most common real estate scams in Venezuela when renting or buying (fake owners, advance reservations, fake powers of attorney, double sale) and how to verify before paying.",
+  "answer": "The most common real estate scams in Venezuela are the fake landlord who charges a “reservation” for a property that is not theirs, the sale with fake or revoked powers of attorney, the double sale, and advance payments to people abroad. The golden rule: do not pay anything before visiting the property, verify the owner in the Registro Inmobiliario, and sign a document. Always pay to accounts in the name of the owner and by methods that leave a record."
+ },
+ "sections": [
+  {
+   "h2": "The most common scams",
+   "table": {
+    "head": [
+     "Scam",
+     "How it works",
+     "How to avoid it"
+    ],
+    "rows": [
+     [
+      "Fake landlord",
+      "Someone posts someone else’s apartment with a low price and asks for a reservation via mobile payment or transfer",
+      "Do not pay without visiting and without seeing the property deed"
+     ],
+     [
+      "Owner \"abroad\"",
+      "Says they cannot show the property and asks for payment to send you the keys",
+      "Require a visit with someone authorized by power of attorney"
+     ],
+     [
+      "Fake or revoked power of attorney",
+      "A supposed attorney sells with a power that does not exist or is no longer valid",
+      "Verify the power with the notary office or consulate that issued it"
+     ],
+     [
+      "Double sale",
+      "The same property is sold or promised to several people",
+      "Pay upon signing at the registry and request a recent lien certification"
+     ],
+     [
+      "Incomplete inheritance",
+      "Sells an heir without the signatures of the other heirs",
+      "Request a succession declaration and the signatures of all heirs"
+     ],
+     [
+      "Pre-sale without backing",
+      "Sale of apartments off-plan for a project with no permits or own land",
+      "Verify permits, land ownership and condominium document"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Warning signs",
+   "bullets": [
+    "Price far below what similar properties in the same area are asking for.",
+    "Urgency: \"there are other interested parties, if you don’t reserve today you’ll lose it\".",
+    "Excuses for not showing the property or not showing documents.",
+    "Request for payment to a third-party account.",
+    "Photos that appear in other listings with a different address.",
+    "Contact that changes phone number or only texts, never calls.",
+    "Documents sent only as photos, with blurry or crossed-out data."
+   ],
+   "tip": "Search the listing photos with your browser’s image search. If they appear in another ad with a different city or price, be suspicious."
+  },
+  {
+   "h2": "How to verify before paying",
+   "steps": [
+    "Visit the property in person or with someone you trust.",
+    "Ask for the ID of the person assisting you and compare it with the name on the property deed.",
+    "Ask for the registration details of the document and verify them with a lawyer at the Real Estate Registry.",
+    "If an attorney is acting, request the power of attorney and verify it with the notary office or consulate that granted it.",
+    "For purchases, request a recent lien certification and municipal and condominium solvency certificates.",
+    "Sign a document (rental contract or purchase option) before handing over money.",
+    "Pay by transfer to an account in the owner’s name and keep the receipt."
+   ]
+  },
+  {
+   "h2": "In rentals: the highest-risk moment",
+   "paras": [
+    "In rentals the typical scam is quick and for small amounts, which makes many people let their guard down. The pattern: attractive listing, messaging conversation, pressure to reserve and request for mobile payment before a visit. Once paid, the contact disappears.",
+    "A real landlord may ask for a guarantee, but only after you have visited, seen the document and signed the contract."
+   ]
+  },
+  {
+   "h2": "If you were a victim",
+   "paras": [
+    "Gather everything: screenshots of conversations, the listing, payment receipts and the account details that received the money. Notify your bank immediately in case they can hold the transfer and file a complaint with the Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) or the Public Ministry. Also report the listing on the platform where you saw it, so another person isn’t deceived."
+   ]
+  },
+  {
+   "h2": "If you buy off-plan or in pre-sale",
+   "paras": [
+    "Buying an apartment before it is built can be cheaper, but the risk is higher because you pay for something that does not yet exist. Before signing with a developer, verify that they own the land or have the right to build on it, that the project has a construction permit from the mayor’s office and that the condominium document is recorded or in process.",
+    "Also check the developer’s history: previous completed projects, whether they were delivered on time and what buyers say. Sign a contract that states the delivery deadline, what happens if it is delayed, how the price is adjusted and how your money is returned if the project does not materialize."
+   ]
+  },
+  {
+   "h2": "Search more safely",
+   "paras": [
+    "On Casa-Libre you can view each property on the map and message the advertiser via WhatsApp to arrange a visit before discussing money. If something doesn’t add up in a listing, report it. Free, on the website and in the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it normal to pay a reservation to rent?",
+   "a": "Paying before visiting and seeing the property document is not normal and is the most common scam pattern. Any payment must come after signing a contract."
+  },
+  {
+   "q": "How do I know if the person renting to me is the owner?",
+   "a": "Ask for their ID and the property document details, and compare them. If they are not the owner, they must have a verifiable notarized power of attorney."
+  },
+  {
+   "q": "What is a double sale?",
+   "a": "When the same property is sold or promised to more than one person. Prevent it by paying at the time of signing in the registry and requesting a recent lien certification."
+  },
+  {
+   "q": "Where do I report a real estate scam?",
+   "a": "To the CICPC or the Public Ministry, with all evidence. Also notify your bank as soon as possible."
+  },
+  {
+   "q": "How do I verify a pre-sale project?",
+   "a": "Ask for proof that the developer owns the land or has the right to build, the construction permit from the alcaldía, and the condominium document, and review the developer’s previous works."
+  },
+  {
+   "q": "Can the photos in the ad be fake?",
+   "a": "Yes. Search them with your browser’s image search; if they appear in another ad with a different address or price, be suspicious."
+  }
+ ],
+ "related": [
+  "Rentals on the map",
+  "Properties for sale",
+  "How to verify the property document"
+ ]
+}

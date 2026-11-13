@@ -1,0 +1,104 @@
+{
+ "_src": "b69ea5345ee7",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver em Santa Cruz de la Sierra: como escolher a zona",
+  "h1": "Viver em Santa Cruz de la Sierra: como escolher a zona segundo sua rotina e seu orçamento",
+  "description": "Critérios para escolher onde morar em Santa Cruz de la Sierra: anéis e radiais, distância ao trabalho, drenagem e chuvas, calor, serviços, segurança e municípios vizinhos. Sem rankings, com perguntas úteis.",
+  "answer": "Para escolher a zona em Santa Cruz de la Sierra, comece pela sua rotina: onde você trabalha ou estuda e quanto tempo quer passar no trânsito. A cidade se organiza em anéis concêntricos cruzados por avenidas radiais; em geral, quanto mais perto do centro e dos primeiros anéis, mais serviços e mais caro, e para fora há mais espaço e preços mais baixos, mas trajetos mais longos. Verifique também como a rua drena quando chove e quais serviços chegam."
+ },
+ "sections": [
+  {
+   "h2": "Como a cidade é organizada: anéis e radiais",
+   "paras": [
+    "Santa Cruz de la Sierra cresceu em círculos ao redor do casco antigo: os anéis são avenidas de contorno numeradas do centro para fora, e as radiais são avenidas que saem do centro como os raios de uma roda. Por isso os cruceños se localizam dizendo \"entre o terceiro e o quarto anel, sobre tal radial\".",
+    "Esse esquema serve para pensar na busca: a proximidade dos anéis internos costuma significar mais comércio, serviços e centros de saúde perto; os anéis externos e as zonas periféricas oferecem terrenos maiores e preços mais acessíveis, mas trajetos mais longos e, às vezes, ruas sem pavimentação ou serviços incompletos."
+   ]
+  },
+  {
+   "h2": "Comece pela sua rotina, não pelo bairro da moda",
+   "bullets": [
+    "Faça o trajeto teste casa-trabalho na hora de pico, não em um domingo. Em uma cidade extensa, a distância em minutos importa mais que em quilômetros.",
+    "Se depende do transporte público, verifique quais linhas de micro-ônibus passam perto e até que hora.",
+    "Com filhos, localize primeiro a escola: mudar de escola costuma ser mais difícil que mudar de casa.",
+    "Se trabalha em casa, priorize internet estável e um ambiente tranquilo durante o dia."
+   ]
+  },
+  {
+   "h2": "Chuva, drenagem e calor: o que se percebe depois de mudar",
+   "paras": [
+    "Santa Cruz tem clima quente e chuvas intensas na estação úmida. Em algumas áreas, uma chuva forte deixa ruas alagadas por horas. Antes de alugar ou comprar, pergunte aos vizinhos como a rua fica quando chove, veja se há canais de drenagem próximos e se a moradia está mais alta ou mais baixa que a calçada.",
+    "O calor também muda a moradia ideal: orientação das janelas, sombra, ventilação cruzada, espaço para ar-condicionado e seu consumo elétrico. Uma casa fresca pode economizar muito na conta de luz."
+   ],
+   "tip": "Visite o imóvel um dia depois de uma chuva forte. As marcas de umidade nas paredes baixas e o estado da rua dizem mais que qualquer descrição do anúncio."
+  },
+  {
+   "h2": "Serviços: água, esgoto, gás e pavimentação",
+   "paras": [
+    "Em zonas consolidadas os serviços estão completos, mas nas de expansão nem sempre. Pergunte se a moradia tem conexão à rede de água e esgoto ou se depende de poço e fossa séptica, se há gás domiciliar e se a rua está pavimentada. Cada um desses pontos altera seu gasto mensal e sua qualidade de vida."
+   ]
+  },
+  {
+   "h2": "Condomínio, casa em bairro aberto ou apartamento",
+   "paras": [
+    "Os condomínios fechados oferecem controle de entrada e áreas comuns, em troca de expensas e regulamentos internos. Uma casa em bairro aberto dá mais liberdade e costuma não ter expensas, mas a segurança e a manutenção dependem de você. Um apartamento costuma estar melhor localizado pelo mesmo preço, embora com menos espaço. Sempre peça o valor das expensas e o que está incluído."
+   ]
+  },
+  {
+   "h2": "Municípios vizinhos: mais espaço, mais deslocamento",
+   "paras": [
+    "A área metropolitana inclui municípios vizinhos onde muita gente mora e trabalha na cidade. Eles podem oferecer mais terreno pelo mesmo dinheiro, condomínios fechados ou um ambiente mais tranquilo. Em troca, o trajeto diário pode ser longo, e os trâmites municipais (impostos, plantas) são feitos em outra alcaldía, com suas próprias regras.",
+    "Se olhar urbanizações novas na periferia ou do outro lado do rio Piraí, verifique com cuidado especial a documentação do lote, os acessos na época de chuva e se a urbanização está aprovada."
+   ]
+  },
+  {
+   "h2": "Segurança: como avaliá-la sem preconceitos",
+   "bullets": [
+    "Ande pela quadra de dia e de noite, e observe a iluminação.",
+    "Pergunte a vizinhos e comerciantes da região, não só ao anunciante.",
+    "Em condomínios e edifícios, pergunte como funciona o controle de entrada e quanto custa nas expensas.",
+    "Preste atenção em sinais simples: comércios abertos, gente na rua, manutenção das calçadas."
+   ]
+  },
+  {
+   "h2": "Lista rápida para comparar zonas",
+   "steps": [
+    "Defina seu orçamento total, incluindo serviços e transporte.",
+    "Marque no mapa seu trabalho, escola e lugares que visita a cada semana.",
+    "Escolha duas ou três zonas candidatas pelo tempo de deslocamento.",
+    "Visite cada uma na hora de pico e depois de uma chuva.",
+    "Compare preços reais de aluguel ou venda nessas zonas."
+   ]
+  },
+  {
+   "h2": "Compare no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver propriedades em Santa Cruz de la Sierra no mapa, compará-las por zona e preço, e escrever direto por WhatsApp ao dono ou à imobiliária. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é a melhor zona para morar em Santa Cruz de la Sierra?",
+   "a": "Depende da sua rotina e orçamento. Escolha primeiro pelo tempo de deslocamento ao trabalho ou à escola, serviços e drenagem, e depois compare preços em duas ou três zonas candidatas."
+  },
+  {
+   "q": "O que são os anéis de Santa Cruz?",
+   "a": "Avenidas de contorno numeradas do centro para fora. Juntamente com as radiais, servem para se localizar na cidade."
+  },
+  {
+   "q": "Santa Cruz alaga?",
+   "a": "Com chuvas intensas, algumas ruas e áreas ficam alagadas. Pergunte aos vizinhos e visite o imóvel após uma chuva forte."
+  },
+  {
+   "q": "Compensa morar em um município vizinho?",
+   "a": "Pode oferecer mais espaço pelo mesmo preço, mas soma tempo de deslocamento e outra alcaldia para trâmites e impostos."
+  }
+ ],
+ "related": [
+  "Propriedades em Santa Cruz de la Sierra",
+  "Apartamentos para aluguel",
+  "Casas à venda"
+ ]
+}

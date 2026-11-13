@@ -1,0 +1,119 @@
+{
+ "_src": "a23d1f23f7c3",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito de habitação social na Bolívia: requisitos e taxas",
+  "h1": "Crédito de habitação de interesse social na Bolívia: quem se qualifica, taxas e como solicitá-lo",
+  "description": "O que é a habitação de interesse social na Bolívia, os limites em UFV, as taxas máximas de 5,5%, 6% e 6,5% do DS 1842, o fundo de garantia para a entrada e como solicitar o crédito.",
+  "answer": "O crédito de habitação de interesse social é um crédito para comprar ou construir sua única residência, sem fins comerciais, com taxas máximas fixadas pelo Governo. Segundo a Lei 393 de Serviços Financeiros, a habitação não pode superar UFV 400.000 se for apartamento ou UFV 460.000 se for casa. O Decreto Supremo 1842 fixa taxas máximas de 5,5%, 6% e 6,5% ao ano conforme o valor da habitação. É solicitado em bancos e instituições financeiras reguladas pela ASFI."
+ },
+ "sections": [
+  {
+   "h2": "O que é a habitação de interesse social",
+   "paras": [
+    "A Lei 393 de Serviços Financeiros define a habitação de interesse social como a única moradia, sem fins comerciais, destinada a famílias de baixa renda, cujo valor comercial (ou o custo final de construí-la, incluído o terreno) não supere UFV 400.000 no caso de um apartamento ou UFV 460.000 no caso de uma casa. Esses valores podem ser ajustados por decreto supremo.",
+    "A mesma definição inclui os terrenos comprados para construir uma habitação única sem fins comerciais, com um teto de valor próprio, mais baixo.",
+    "Que o teto esteja em UFV (Unidade de Fomento de Habitação) é importante: a UFV é um índice que publica diariamente o Banco Central da Bolívia e que varia com a inflação. Para saber quanto é o teto em bolivianos, multiplique o número de UFV pelo valor da UFV do dia."
+   ]
+  },
+  {
+   "h2": "As taxas máximas do DS 1842",
+   "paras": [
+    "O Decreto Supremo 1842, de dezembro de 2013, fixa as taxas de juros anuais máximas para créditos de habitação de interesse social, em função do valor comercial da habitação. Todas as entidades financeiras reguladas devem respeitá-las."
+   ],
+   "tip": "As taxas reguladas não incluem o seguro de desgravamen, formulários nem outros encargos. Ao comparar entidades, peça a taxa efetiva e a parcela total com seguros incluídos.",
+   "table": {
+    "head": [
+     "Valor comercial da habitação",
+     "Taxa máxima anual"
+    ],
+    "rows": [
+     [
+      "Até UFV 255.000",
+      "5,5%"
+     ],
+     [
+      "De UFV 255.001 a UFV 380.000",
+      "6,0%"
+     ],
+     [
+      "De UFV 380.001 a UFV 460.000",
+      "6,5%"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Quem pode acessar",
+   "bullets": [
+    "Pessoas que vão comprar ou construir sua única moradia, para viver e não para negócio. Normalmente pedirão uma declaração de que você não tem outra moradia.",
+    "Que a habitação não supere o teto de valor de interesse social, estabelecido por um perito avaliador.",
+    "Que a entidade financeira o qualifique como sujeito de crédito: renda estável, capacidade de pagamento e histórico em ordem.",
+    "O crédito é concedido em moeda nacional (bolivianos)."
+   ]
+  },
+  {
+   "h2": "A entrada e o fundo de garantia",
+   "paras": [
+    "O maior obstáculo costuma ser a própria contribuição ou entrada. Para isso existe o Fundo de Garantia de Créditos de Habitação de Interesse Social (FOGAVISP), criado pelo Decreto Supremo 2137 de 2014 com parte dos lucros dos bancos. Esse fundo garante a parte do financiamento que substitui a contribuição própria que a entidade exigiria de você.",
+    "Na prática, isso pode permitir que você financie um percentual maior da habitação. Nem todas as entidades o oferecem nas mesmas condições, então pergunte expressamente se seu crédito pode usar a garantia do FOGAVISP e o que cobre."
+   ]
+  },
+  {
+   "h2": "Como solicitar o crédito, passo a passo",
+   "steps": [
+    "Calcule seu orçamento: quanto pode pagar por mês sem se afogar e quanto tem de poupança.",
+    "Peça uma pré-qualificação em duas ou três entidades: elas dirão quanto lhe emprestam, a que taxa e com qual parcela aproximada.",
+    "Busque uma habitação dentro do teto de valor e com documentos em ordem: folio real em nome do vendedor, sem gravames, impostos pagos e planta aprovada.",
+    "A entidade faz a avaliação com um perito e revisa os documentos com sua área jurídica.",
+    "Se aprovado, assina a escritura (escritura pública) de compra e venda e a hipoteca a favor da entidade perante notário.",
+    "São inscritas a compra e a hipoteca em Direitos Reais e a entidade desembolsa ao vendedor."
+   ]
+  },
+  {
+   "h2": "Conselhos para não ser rejeitado",
+   "bullets": [
+    "Regularize dívidas atrasadas antes de se candidatar: o histórico na central de riscos pesa muito.",
+    "Organize seus documentos de renda dos últimos meses (holerites, ou NIT, notas fiscais e extratos se for autônomo).",
+    "Não entregue um grande adiantamento ao vendedor antes de ter a pré-qualificação.",
+    "Se uma casa ultrapassar apenas o teto, não a \"ajuste\" nos documentos: a avaliação é feita por um perito da entidade.",
+    "Desconfie de intermediários que cobram por \"garantir\" o crédito."
+   ]
+  },
+  {
+   "h2": "Procure habitações dentro do seu teto",
+   "paras": [
+    "Calcule o teto em bolivianos com o valor da UFV do dia e depois filtre por preço. No Casa-Libre você vê casas e apartamentos à venda no mapa e pode perguntar por WhatsApp ao anunciante se a propriedade tem os documentos prontos para um crédito. Também pode salvar opções no app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual taxa tem o crédito de habitação social na Bolívia?",
+   "a": "O DS 1842 fixa taxas máximas de 5,5% ao ano até UFV 255.000, 6% de UFV 255.001 a 380.000 e 6,5% de UFV 380.001 a 460.000. As instituições podem cobrar menos, não mais."
+  },
+  {
+   "q": "Qual é o valor máximo de uma habitação de interesse social?",
+   "a": "Segundo a Lei 393, UFV 400.000 para apartamento e UFV 460.000 para casa. Para converter para bolivianos, multiplique pelo valor da UFV do dia publicado pelo BCB."
+  },
+  {
+   "q": "Posso solicitar crédito de habitação social se já tenho uma casa?",
+   "a": "Em princípio não: é pensado para a única residência, sem fins comerciais."
+  },
+  {
+   "q": "O crédito de habitação social serve para anticrético?",
+   "a": "Algumas instituições oferecem crédito para anticrético de habitação, e a norma permite contabilizá-lo dentro da carteira de habitação social se não ultrapassar os limites. As condições dependem de cada instituição."
+  },
+  {
+   "q": "Preciso de entrada?",
+   "a": "Normalmente a instituição exige um aporte próprio, mas o fundo de garantia FOGAVISP pode cobrir essa parte. Pergunte na sua instituição se aplica."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: como comprar sua primeira casa",
+  "Crédito hipotecário: como funciona"
+ ]
+}

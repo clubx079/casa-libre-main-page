@@ -1,0 +1,98 @@
+{
+ "_src": "619a8daeb86d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Can a foreigner buy a house in Bolivia? Rules and steps",
+  "h1": "Can a foreigner buy a house in Bolivia? What the law says and how to do it",
+  "description": "Yes, a foreigner can buy housing in Bolivia, except in the 50-km border security zone. Documents, power of attorney, payment and registration in Derechos Reales.",
+  "answer": "Yes. In general a foreign person can buy a house or an apartment in Bolivia and register it in their name in Derechos Reales, just like a Bolivian. The major exception is in the Constitution: no foreigner can acquire property within 50 kilometres of the border line. If you buy from abroad, you can do so with a power of attorney in favor of a trusted person in Bolivia."
+ },
+ "sections": [
+  {
+   "h2": "The general rule: you can buy",
+   "paras": [
+    "The Bolivian Civil Code does not distinguish between nationals and foreigners for buying an urban property. What you need is the same as any buyer: identify yourself, sign the escritura (public deed) before a notary public, pay the transfer taxes and register the purchase in Derechos Reales.",
+    "What changes in practice is the identification. If you live in Bolivia with residency, you will normally use your foreigner identity card; if not, your passport. Some notaries and banks require additional documents, such as a residence certificate or a tax identification number, so it is advisable to ask beforehand."
+   ]
+  },
+  {
+   "h2": "The exception: the border security zone",
+   "paras": [
+    "Article 262 of the Political Constitution of the State establishes that the 50 kilometers from the border line are a border security zone, and that no foreign person, alone or in partnership, may acquire property in that area, directly or indirectly. The only way out is an express law approved by two thirds of the Assembly for state necessity. If violated, the property reverts to the State without compensation.",
+    "Bolivia has long borders with five countries, so this rule affects cities and areas that many people do not imagine. Before you become interested in a property near a border, have a lawyer confirm the exact distance. Do not rely solely on what the seller says."
+   ],
+   "tip": "The prohibition also covers \"indirect\" purchase, for example through a company or a third party listed as owner. It is not a legal shortcut: it is the fastest way to lose the property."
+  },
+  {
+   "h2": "Buying from abroad with a power of attorney",
+   "paras": [
+    "If you cannot travel to sign, you can grant a special power of attorney to a trusted person in Bolivia. That power is executed at the Bolivian consulate in the country where you live or before a local notary; in the latter case it usually must be legalized or apostilled to be valid in Bolivia. Request that the power be specific: which property, the maximum price and the powers (sign the minuta, the escritura, pay taxes, register in Derechos Reales)."
+   ],
+   "bullets": [
+    "Avoid broad general powers: limit the authority to this specific purchase.",
+    "Request a copy of the folio real and the alodial certificate before sending money.",
+    "Pay the registered owner by bank transfer, never to intermediaries.",
+    "Ask them to send you a scanned copy of the escritura and the folio real already in your name once completed."
+   ]
+  },
+  {
+   "h2": "How to pay: currency and transfers",
+   "paras": [
+    "Many properties in Bolivia are listed in dollars and others in bolivianos. Since mid-2026 the Central Bank of Bolivia publishes a flexible official exchange rate that changes daily, so the contract currency matters: state in the minuta which currency is paid and which exchange rate is used if payment is made in the other currency.",
+    "If you bring money from abroad, do it through the banking system and keep the receipts. They will help you prove the source of funds to the bank and the notary, and later if you sell."
+   ]
+  },
+  {
+   "h2": "Steps for a foreigner, in order",
+   "steps": [
+    "Confirm with a lawyer that the property is not inside the border security zone.",
+    "Request the registration number and obtain the updated folio real and the alodial certificate in Derechos Reales.",
+    "Verify that the municipal property taxes are paid.",
+    "If you will not be in Bolivia, grant a special power of attorney at the consulate or before a notary (legalized or apostilled).",
+    "Sign the minuta and the escritura before a notary public.",
+    "Pay the municipal transfer tax and register the escritura in Derechos Reales.",
+    "Update the municipal cadastre and utilities in your name."
+   ]
+  },
+  {
+   "h2": "Common mistakes by buyers from abroad",
+   "bullets": [
+    "Sending a deposit for a photo or video without having seen the folio real.",
+    "Signing a power of attorney so broad that it allows the attorney to sell or mortgage other assets.",
+    "Not calculating closing costs (notary, taxes, Derechos Reales) and running short at the end.",
+    "Buying in an area you do not know without a trusted person having walked the neighborhood day and night."
+   ]
+  },
+  {
+   "h2": "Searching from afar",
+   "paras": [
+    "From abroad, the map helps a lot: on Casa-Libre you see houses and apartments for sale located on the map and you can write directly via WhatsApp to the advertiser to request photos, video and the registration number. You can also use the Casa-Libre app for iPhone and Android and save options so that a trusted person can visit them for you."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a foreigner without residency buy a house in Bolivia?",
+   "a": "In general yes, with a passport, outside the border security zone. Some notaries or banks require additional requirements, so check before you commit."
+  },
+  {
+   "q": "What is the border security zone?",
+   "a": "The 50-kilometre strip from the border line. According to article 262 of the Constitution, no foreigner can acquire property there, unless an express law for state necessity is passed."
+  },
+  {
+   "q": "Can I buy without traveling to Bolivia?",
+   "a": "Yes, with a special power granted at the Bolivian consulate or before a notary in your country (legalized or apostilled), in favor of a trusted person who will sign for you."
+  },
+  {
+   "q": "Can a foreigner request a mortgage loan in Bolivia?",
+   "a": "It depends on the bank. Usually they require residency, demonstrable income in Bolivia and a credit history. Ask the institution directly before counting on that loan."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: how to buy your first house",
+  "Buy a house in Bolivia: requirements and steps"
+ ]
+}

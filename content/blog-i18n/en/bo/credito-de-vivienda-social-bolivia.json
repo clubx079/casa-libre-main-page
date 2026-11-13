@@ -1,0 +1,119 @@
+{
+ "_src": "a23d1f23f7c3",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Social housing loan in Bolivia: requirements and rates",
+  "h1": "Social interest housing loan in Bolivia: who qualifies, rates and how to apply",
+  "description": "What social interest housing is in Bolivia, the UFV caps, the maximum rates of 5.5%, 6% and 6.5% from DS 1842, the guarantee fund for the down payment and how to request the loan.",
+  "answer": "The social interest housing loan is a loan to buy or build your only home, not for commercial purposes, with maximum rates set by the Government. According to Law 393 of Financial Services, the housing cannot exceed UFV 400,000 if it is an apartment or UFV 460,000 if it is a house. Supreme Decree 1842 sets maximum rates of 5.5%, 6% and 6.5% per year depending on the value of the housing. It is applied for at banks and financial entities regulated by the ASFI."
+ },
+ "sections": [
+  {
+   "h2": "What is social interest housing",
+   "paras": [
+    "Law 393 of Financial Services defines social interest housing as the single dwelling, not for commercial purposes, intended for lower-income households, whose commercial value (or the final construction cost, including land) does not exceed UFV 400,000 for an apartment or UFV 460,000 for a house. Those limits may be adjusted by supreme decree.",
+    "The same definition includes land purchased to build a single dwelling without commercial purposes, with a lower own-value cap.",
+    "That the cap is in UFV (Unidad de Fomento de Vivienda) is important: the UFV is an index published daily by the Central Bank of Bolivia and moves with inflation. To know the cap in bolivianos, multiply the number of UFV by the UFV value of the day."
+   ]
+  },
+  {
+   "h2": "Maximum rates of DS 1842",
+   "paras": [
+    "Supreme Decree 1842, of December 2013, sets the maximum annual interest rates for social interest housing loans, based on the commercial value of the dwelling. All regulated financial entities must respect them."
+   ],
+   "tip": "The regulated rates do not include credit-life insurance, forms or other surcharges. When comparing entities, ask for the effective rate and the total installment with insurance included.",
+   "table": {
+    "head": [
+     "Commercial value of the dwelling",
+     "Maximum annual rate"
+    ],
+    "rows": [
+     [
+      "Up to UFV 255,000",
+      "5,5%"
+     ],
+     [
+      "From UFV 255,001 to UFV 380,000",
+      "6,0%"
+     ],
+     [
+      "From UFV 380,001 to UFV 460,000",
+      "6,5%"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Who can access",
+   "bullets": [
+    "People who are going to buy or build their only home, to live in and not for business. Usually you will be asked for a declaration that you do not own another dwelling.",
+    "That the dwelling does not exceed the social interest value cap, established by an appraiser.",
+    "That the financial entity qualifies you as a credit subject: stable income, payment capacity and a clean history.",
+    "The loan is granted in national currency (bolivianos)."
+   ]
+  },
+  {
+   "h2": "Down payment and the guarantee fund",
+   "paras": [
+    "The biggest obstacle is usually your own contribution or down payment. For that there is the Fondo de Garantía de Créditos de Vivienda de Interés Social (FOGAVISP), created by Supreme Decree 2137 of 2014 with part of the banks' profits. That fund guarantees the portion of financing that replaces the own contribution the entity would require from you.",
+    "In practice, this can allow you to finance a larger percentage of the dwelling. Not all entities offer it under the same conditions, so ask explicitly whether your loan can use the FOGAVISP guarantee and what it covers."
+   ]
+  },
+  {
+   "h2": "How to apply for the loan, step by step",
+   "steps": [
+    "Calculate your budget: how much you can pay per month without drowning and how much savings you have.",
+    "Request a pre-qualification from two or three entities: they will tell you how much they will lend, at what rate and with what approximate installment.",
+    "Find a dwelling within the value cap and with paperwork in order: folio real in the seller’s name, no liens, taxes paid and approved plan.",
+    "The entity conducts the appraisal with an appraiser and reviews the paperwork with its legal area.",
+    "If approved, the escritura (deed) de compraventa and the mortgage are signed in favor of the entity before notario.",
+    "The purchase and the mortgage are registered in Derechos Reales and the entity disburses to the seller."
+   ]
+  },
+  {
+   "h2": "Tips to avoid rejection",
+   "bullets": [
+    "Regularize overdue debts before applying: the record in the credit bureau carries a lot of weight.",
+    "Organize your income documents from the last months (pay slips, or NIT, invoices and statements if you are self-employed).",
+    "Do not give a large advance to the seller before having the pre-qualification.",
+    "If a house barely exceeds the cap, do not \"adjust\" it on paper: the appraisal is done by an appraiser from the entity.",
+    "Beware of intermediaries who charge to \"ensure\" the loan."
+   ]
+  },
+  {
+   "h2": "Search for dwellings within your cap",
+   "paras": [
+    "Calculate the cap in bolivianos using the UFV value of the day and then filter by price. On Casa-Libre you see houses and apartments for sale on the map and you can ask the advertiser via WhatsApp if the property has the paperwork ready for a loan. You can also save options from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What rate does the social housing loan have in Bolivia?",
+   "a": "DS 1842 sets maximum rates of 5.5% per year up to UFV 255,000, 6% from UFV 255,001 to 380,000 and 6.5% from UFV 380,001 to 460,000. Entities may charge less, not more."
+  },
+  {
+   "q": "What is the maximum value of a social interest housing?",
+   "a": "According to Law 393, UFV 400,000 for an apartment and UFV 460,000 for a house. To convert to bolivianos, multiply by the UFV value of the day published by the BCB."
+  },
+  {
+   "q": "Can I apply for a social housing loan if I already own a house?",
+   "a": "In principle no: it is intended for the only dwelling, not for commercial purposes."
+  },
+  {
+   "q": "Is the social housing loan usable for anticrético?",
+   "a": "Some entities offer loans for anticrético of housing, and the regulation allows it to be counted within the social housing portfolio if it does not exceed the caps. Conditions depend on each entity."
+  },
+  {
+   "q": "Do I need a down payment?",
+   "a": "Normally the entity requires a personal contribution, but the guarantee fund FOGAVISP can cover that part. Ask your entity if it applies."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: how to buy your first home",
+  "Mortgage loan: how it works"
+ ]
+}

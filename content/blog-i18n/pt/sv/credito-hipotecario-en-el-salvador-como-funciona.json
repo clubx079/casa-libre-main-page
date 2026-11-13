@@ -1,0 +1,107 @@
+{
+ "_src": "98941b4a3bab",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito hipotecário em El Salvador: como funciona",
+  "h1": "Crédito hipotecário em El Salvador: como funciona e como comparar bancos",
+  "description": "Como funciona um crédito hipotecário em El Salvador: prima, avaliação, seguros, taxa, prazo e custo total. Quais documentos os bancos exigem e como comparar ofertas antes de assinar.",
+  "answer": "Um crédito hipotecário é um empréstimo de longo prazo para comprar, construir ou melhorar uma moradia, em que a casa fica hipotecada a favor de quem empresta até que o pagamento seja concluído. Em El Salvador eles são concedidos pelos bancos, pelo Fundo Social para a Habitação (FSV) e outras entidades financeiras. Quase sempre é necessário aportar uma prima com poupança própria, a entidade faz uma avaliação da casa e exige seguros. Para comparar ofertas, observe a taxa, se é fixa ou variável, o prazo, os seguros, as comissões e o custo total do crédito, não apenas a parcela."
+ },
+ "sections": [
+  {
+   "h2": "Como funciona, em simples",
+   "paras": [
+    "O banco lhe empresta parte do preço e você devolve em parcelas mensais durante vários anos. Como garantia, registra-se uma hipoteca sobre a casa no Registro da Propriedade Raiz e Hipotecas do CNR. Se deixar de pagar, o banco pode executar a hipoteca. Quando terminar de pagar, a hipoteca é cancelada e a casa fica livre.",
+    "A compra e a hipoteca são assinadas normalmente no mesmo ato, perante notario (notário). Por isso o banco, o notario, o vendedor e você coordenam uma única assinatura."
+   ]
+  },
+  {
+   "h2": "A entrada: quanto você coloca",
+   "paras": [
+    "Os bancos raramente financiam 100% do valor. Emprestam um percentual do menor valor entre o preço e a avaliação, e a diferença você coloca como entrada. Esse percentual varia conforme o banco, o tipo de imóvel e seu perfil; pergunte na primeira consulta.",
+    "Além da entrada, você precisa de dinheiro para despesas de escrituração, inscrição, avaliação e o Imposto sobre Transferência de Bens Imóveis se a casa valer mais de US$28,571.43. Essas despesas normalmente não entram no empréstimo."
+   ]
+  },
+  {
+   "h2": "Avaliação, revisão de documentos e seguros",
+   "paras": [
+    "O banco manda avaliar a casa. Se a avaliação for menor que o preço, lhe emprestarão sobre o valor da avaliação e você terá que cobrir a diferença ou negociar com o vendedor.",
+    "Também revisará os documentos: que o vendedor seja o dono no CNR, que não haja outros gravames e que as solvências estejam em dia. E exigirá seguros: um de vida ou de dívida, que quita o saldo se o devedor falecer, e um de danos ao imóvel, que em um país sísmico como El Salvador é especialmente importante."
+   ]
+  },
+  {
+   "h2": "Documentos que costumam pedir",
+   "bullets": [
+    "DUI do solicitante e, se aplicável, do codevedor.",
+    "Comprovante de salário e extrato de AFP, ou declarações de renda e extratos se for autônomo.",
+    "Referências bancárias e pessoais.",
+    "Solvência da Fazenda, se pedirem.",
+    "Documentos do imóvel: escritura e matrícula do vendedor, solvência municipal.",
+    "Se viver no exterior: comprovantes de renda do país onde reside e, às vezes, histórico de remessas."
+   ]
+  },
+  {
+   "h2": "Como comparar duas ofertas",
+   "paras": [
+    "Peça a cada entidade uma simulação por escrito com o mesmo valor e prazo, e compare:"
+   ],
+   "bullets": [
+    "Taxa de juros: se é fixa todo o prazo, fixa por alguns anos ou variável.",
+    "Prazo: mais anos reduzem a parcela mas aumentam o total de juros.",
+    "Seguros: quanto somam à parcela e se pode escolher a seguradora.",
+    "Comissões e despesas de abertura.",
+    "Custo total: a soma de tudo que será pago durante o crédito.",
+    "Pagamentos antecipados: se pode abater ao principal ou cancelar antes e se há penalidade."
+   ],
+   "tip": "Peça o plano de pagamentos completo. Lá você vê quanto de cada parcela vai a juros e quanto a principal. Nos primeiros anos, a maior parte costuma ser juros."
+  },
+  {
+   "h2": "Onde ver as taxas de referência",
+   "paras": [
+    "A Superintendência do Sistema Financeiro (SSF) publica informações sobre as taxas de juros cobradas pelas entidades supervisionadas. É uma boa forma de ter uma referência antes de negociar. E se achar que um banco não lhe deu informação clara sobre o custo do seu crédito, a Defensoria do Consumidor atende reclamações de usuários de serviços financeiros."
+   ]
+  },
+  {
+   "h2": "Banco ou FSV?",
+   "paras": [
+    "O FSV foi pensado para trabalhadores de renda baixa e média e tem linhas especiais para jovens, mulheres e salvadorenhos no exterior. Os bancos atendem a uma gama mais ampla de preços e perfis. O sensato é simular com ambos e comparar o custo total."
+   ]
+  },
+  {
+   "h2": "Abonos ao principal: como economizar juros",
+   "paras": [
+    "Se receber renda extra, como um bônus ou o aguinaldo, pode abater ao principal. Cada abono reduz o saldo sobre o qual os juros são calculados. Pergunte se o banco cobra penalidade e se o abono reduz a parcela ou o prazo."
+   ]
+  },
+  {
+   "h2": "Escolher a casa pensando no crédito",
+   "paras": [
+    "Uma casa com documentos em ordem é aprovada mais rápido. Ao consultar um anúncio, pergunte se está inscrita em nome do vendedor, se tem hipoteca e se aceita pagamento com crédito bancário. No Casa-Libre você pode filtrar por tipo e preço, ver os imóveis no mapa e escrever por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto financiam os bancos em El Salvador?",
+   "a": "Não há um percentual único: depende do banco, do tipo de moradia e do seu perfil. Quase nunca é 100%, portanto prepare-se para aportar uma prima e cobrir os gastos da compra."
+  },
+  {
+   "q": "Quais seguros pede um crédito hipotecário?",
+   "a": "Normalmente um seguro de vida ou de dívida, que quita o saldo se o devedor falecer, e um seguro de danos sobre a moradia."
+  },
+  {
+   "q": "Onde posso ver as taxas de juros dos bancos?",
+   "a": "A Superintendência do Sistema Financeiro publica informações de taxas de juros das entidades que supervisiona. Use-a como referência e solicite uma simulação por escrito a cada banco."
+  },
+  {
+   "q": "O que acontece com a hipoteca quando termino de pagar?",
+   "a": "O credor concede a cancelamento da hipoteca, que é inscrita no CNR. Solicite o documento e verifique se ficou inscrito."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: gastos ao comprar uma casa"
+ ]
+}

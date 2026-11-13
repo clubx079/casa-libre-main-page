@@ -1,0 +1,132 @@
+{
+ "_src": "997321f6d6f4",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requirements to Sell a House in Bolivia: Owner's Checklist",
+  "h1": "Requirements to Sell a House in Bolivia: What to Have Ready Before Listing",
+  "description": "What you need to sell a house in Bolivia: title, folio real, alodial certificate, taxes up to date, approved plan, cadastral record, marital status and inheritances. Also how to publish and respond to buyers.",
+  "answer": "To sell a house in Bolivia you must be the registered holder in Derechos Reales and have on hand: the title testimony, an updated folio real, the alodial certificate (or know which liens must be cleared), the property tax up to date, the approved plan and the cadastral registration, and your ID card. If you are married, your spouse usually also signs; if you inherited, the heir declaration must be registered. Having everything ready before you list speeds up the sale."
+ },
+ "sections": [
+  {
+   "h2": "Why prepare the papers before publishing",
+   "paras": [
+    "Serious buyers, and especially the banks that give loans, review the papers before moving forward. If a buyer asks you for the folio real (real title) and you take weeks to get it, they will probably keep looking. If a review shows a surface discrepancy or an old mortgage that hasn’t been cancelled, the sale stops right when an agreement was already reached.",
+    "Preparing the folder before publishing lets you respond quickly, show transparency and negotiate from a stronger position."
+   ]
+  },
+  {
+   "h2": "The list of documents",
+   "table": {
+    "head": [
+     "Document",
+     "Where to obtain it",
+     "What it is for"
+    ],
+    "rows": [
+     [
+      "Testimonio (testimony) del título (escritura de compra, declaratoria de herederos, etc.)",
+      "Your file or the notario who recorded it",
+      "Proves how you acquired it"
+     ],
+     [
+      "Folio real (real title) actualizado",
+      "Derechos Reales",
+      "Shows that you are the owner and what liens exist"
+     ],
+     [
+      "Certificado alodial",
+      "Derechos Reales",
+      "Certifies whether the property is free of charges"
+     ],
+     [
+      "Impuesto a la propiedad al día",
+      "Alcaldía o RUAT",
+      "No debts, the transfer proceeds"
+     ],
+     [
+      "Plano aprobado y registro catastral",
+      "Alcaldía",
+      "Demonstrates that the construction is authorized and registered"
+     ],
+     [
+      "Cédula de identidad y certificado de marriage, if applicable",
+      "SEGIP y Registro Civil",
+      "Identifies who must sign"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Cases that need a prior step",
+   "bullets": [
+    "Inherited house: the heir declaration must be registered in Derechos Reales and all heirs sign, or the person with power of attorney does.",
+    "House with mortgage: it can be sold, but you must coordinate with the bank the payment and cancellation of the mortgage in the same act or before.",
+    "House in anticrético (mortgage with retention right): the anticresista has a right of retention until his money is returned; the buyer must know this and the anticrético must be resolved.",
+    "Rented house: if the lease has a fixed end date, the buyer must respect it. Notify the tenant and coordinate visits with them.",
+    "Additions not approved or surface differences: it is advisable to regularize before selling or explain clearly and adjust the price.",
+    "Sale through a proxy: the power of attorney must be specific for selling and be current."
+   ]
+  },
+  {
+   "h2": "Seller taxes and expenses",
+   "paras": [
+    "When a person sells a property, the Municipal Transfer Tax (IMT) applies. Its regulation makes the registered owner, that is, you as the seller, liable, with a general rate of 3% on the higher of the price or the property’s assessed value for the property tax. In practice, the cost sharing is negotiated: make it clear from the first conversation and put it in writing in the draft."
+   ],
+   "tip": "Before setting the price, calculate how much you net after taxes, lien cancellations, commission (if there is an intermediary) and regularizations. That way you know how far you can negotiate."
+  },
+  {
+   "h2": "When a buyer appears: the deposit and the draft",
+   "paras": [
+    "If the buyer offers you a deposit to reserve the house, sign it in a private document that states the total price, the deposit amount, the deadline to sign the draft, and what happens to the money if either party backs out. Receive it by bank transfer, never only in cash without a receipt.",
+    "Then a lawyer drafts the purchase agreement, the notario turns it into escritura pública (public deed), the transfer tax is paid and the buyer registers it in Derechos Reales. The more organized your papers are, the faster you reach signing and payment."
+   ]
+  },
+  {
+   "h2": "How to publish to attract serious buyers",
+   "bullets": [
+    "Photos with natural light of all rooms, the front and the street.",
+    "Land and built surface, exactly as shown in the papers.",
+    "Clear price and currency. If you accept payment in bolivianos or dollars, say so.",
+    "If the papers are in order and the house qualifies for bank credit, mention it: it widens the pool of buyers.",
+    "Correct location on the map, so the buyer sees access routes and surroundings."
+   ]
+  },
+  {
+   "h2": "Answering inquiries without wasting time",
+   "paras": [
+    "Have a ready-made message with key data (surface, available documents, expenses, availability for visits) and reply quickly. Before arranging a visit, ask the prospect if they will pay cash or with credit, and if they already have a pre-qualification. It helps you prioritize.",
+    "In Casa-Libre you can publish your house and receive inquiries directly via WhatsApp, without intermediaries. You can also manage your listings from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What documents do I need to sell my house in Bolivia?",
+   "a": "Title (testimony), updated folio real, alodial certificate, property tax up to date, approved plan and cadastral registration, and your ID card; if you are married, also the marriage certificate and your spouse's signature."
+  },
+  {
+   "q": "Can I sell an inherited house?",
+   "a": "Yes, after the heir declaration is registered in Derechos Reales. All heirs or their proxies sign."
+  },
+  {
+   "q": "Can I sell a house with a mortgage?",
+   "a": "Yes, by coordinating with the bank to pay the debt and cancel the mortgage before or at the same time as the sale."
+  },
+  {
+   "q": "How long does it take to get the paperwork for selling?",
+   "a": "It depends on the city and whether anything needs to be regularized. Request the folio real and the alodial certificate as soon as you decide to sell, to have a margin if a problem arises."
+  },
+  {
+   "q": "Who pays the transfer tax?",
+   "a": "The regulation places it on the seller as the registered holder, although in practice it is negotiated. Put it in writing in the minuta."
+  }
+ ],
+ "related": [
+  "Publish your house on Casa-Libre",
+  "Guide: documents to sell a property",
+  "Guide: how much my property is worth",
+  "Guide: taxes and costs when selling"
+ ]
+}

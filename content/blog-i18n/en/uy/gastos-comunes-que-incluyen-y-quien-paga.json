@@ -1,0 +1,129 @@
+{
+ "_src": "36639ae0a098",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Common Expenses in Uruguay: What They Include and Who Pays Them",
+  "h1": "Common Expenses: What They Include, Who Pays Them, and How to Evaluate Them Before Renting or Buying",
+  "description": "What common expenses are in a building in Uruguay, what they include, the difference between ordinary and extraordinary, who pays them in a rental and what to check before buying an apartment.",
+  "answer": "Common expenses are what each apartment in a building pays for maintenance and shared services: cleaning, concierge or security, elevators, electricity and water for common areas, administration, insurance and reserve funds. They are allocated according to the co-ownership regulation and managed by an administrator. In a rental, it is usual for the tenant to pay the ordinary expenses and the owner the extraordinary ones, although the contract defines it; under the LUC regime, unless otherwise agreed, they are the tenant's responsibility. Before buying, request the latest statements and a certificate that there is no debt."
+ },
+ "sections": [
+  {
+   "h2": "What they are and where they come from",
+   "paras": [
+    "An apartment building in Uruguay is governed by the horizontal property regime (Law 10.751). Each owner owns their unit and is co-owner of the common assets: the land, the structure, the hallways, the elevator, the roof. The expenses for those common assets are shared among everyone according to the co-ownership regulations, usually in proportion to the value or the area of each unit.",
+    "It is managed by an administrator, whom the law provides to serve for one year and may be re-elected, and who collects the common expenses and makes the payments. Important decisions are taken at the co-owners’ assembly."
+   ]
+  },
+  {
+   "h2": "What they normally include",
+   "bullets": [
+    "Cleaning of common areas.",
+    "Doorman, concierge or security, if the building has one.",
+    "Maintenance and lubrication of elevators.",
+    "Electricity and water for common areas; in some buildings, central heating or hot water.",
+    "Administration fees.",
+    "Building insurance.",
+    "Reserve fund for unforeseen expenses.",
+    "Amenities: pool, gym, barbecue, with its maintenance."
+   ],
+   "tip": "Buildings with 24-hour doorman, central heating or many amenities usually have considerably higher common expenses. Check this before falling in love with the apartment."
+  },
+  {
+   "h2": "Ordinary and extraordinary",
+   "paras": [
+    "That division is the usual practice, but the contract may say otherwise. Under the lease regime without guarantee of the LUC, the law provides that common expenses are the tenant’s responsibility unless expressly agreed otherwise, and if the owner had to pay two or more months because of the tenant’s non-payment, that debt is added to the rent."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "What they are",
+     "Who usually pays them in a lease"
+    ],
+    "rows": [
+     [
+      "Ordinary",
+      "The expenses of every month: cleaning, doorman, elevator, common electricity, administration",
+      "The tenant"
+     ],
+     [
+      "Extraordinary",
+      "Works, major repairs, façade, elevator replacement, special funds",
+      "The owner"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "If you are going to rent",
+   "steps": [
+    "Ask how much the common expenses have been in the last months, not just \"approximately\".",
+    "Ask what they include: heating? water? 24-hour doorman?",
+    "Confirm whether any works or extraordinary expenses are planned.",
+    "Make sure the contract states who pays ordinary and extraordinary expenses.",
+    "Add rent plus common expenses to know the real monthly cost."
+   ]
+  },
+  {
+   "h2": "If you are going to buy an apartment",
+   "paras": [
+    "Common expenses are a lifelong fixed cost, so it makes sense to evaluate them as much as the price. Ask the seller:"
+   ],
+   "bullets": [
+    "The statements of common expenses for the last months.",
+    "A certificate from the administration that the unit has no debt.",
+    "The minutes of the latest assemblies: they show approved works, conflicts and the building’s condition.",
+    "The co-ownership regulations: they state what is allowed (pets, short-term rentals, renovations).",
+    "The balance of the reserve fund and whether there are pending works."
+   ]
+  },
+  {
+   "h2": "Common expense debts",
+   "paras": [
+    "The debt of common expenses for a unit can be claimed from whoever is the owner, so your escribano (notary) should request a debt-free certificate from the administration before the deed. If there is debt, have the seller clear it or deduct it from the price, in writing."
+   ]
+  },
+  {
+   "h2": "The co-ownership regulations and the assembly",
+   "paras": [
+    "The co-ownership regulations are the document that sets the building’s rules: how expenses are shared, what uses are permitted in the units, whether pets are allowed, how renovations are done and how the assembly is convened. In the absence of regulations, or for matters not covered, Law 10.751 establishes supplementary rules.",
+    "If you are an owner, participating in the assemblies is the way to control common expenses: budgets, works and the administrator’s election are approved there. If you are a tenant, you do not vote, but it is useful to know what is being decided, because it can affect the ordinary expenses you pay."
+   ]
+  },
+  {
+   "h2": "How to compare apartments with different common expenses",
+   "paras": [
+    "A cheaper apartment with high common expenses can end up costing more than another with better conditions. For renting, compare rent plus common expenses. For buying, multiply the monthly difference in common expenses by the years you plan to live there: the number often surprises you.",
+    "At Casa-Libre you can see apartments for sale and for rent on the map and ask directly for common expenses via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can common expenses increase during my rental contract?",
+   "a": "Yes. They are set according to the building's actual costs and what the assembly approves, so they can change month to month. Ask for the history of the last few months to get an idea."
+  },
+  {
+   "q": "Who pays common expenses in a rental in Uruguay?",
+   "a": "It is usual for the tenant to pay the ordinary expenses and the owner the extraordinary ones, but the contract defines it. Under the LUC regime, unless otherwise agreed, they are the tenant's responsibility."
+  },
+  {
+   "q": "What do common expenses include?",
+   "a": "Cleaning, concierge or security, elevators, common electricity and water, administration, building insurance, reserve fund and amenities."
+  },
+  {
+   "q": "What are extraordinary common expenses?",
+   "a": "Those approved for large works or repairs, such as façade or elevators, or for special funds. They are not fixed monthly amounts."
+  },
+  {
+   "q": "If I buy an apartment with outstanding common expenses, do I have to pay them?",
+   "a": "The claim can be made against the new owner. That is why a certificate of no debt is requested before escriturar."
+  }
+ ],
+ "related": [
+  "Apartments for rent",
+  "Apartments for sale",
+  "What to check in the rental contract"
+ ]
+}

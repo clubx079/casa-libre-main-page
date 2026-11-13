@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import BlogShell, { Arrow } from '@/components/blog/BlogShell';
 import PostCard, { CountryPills } from '@/components/blog/PostCard';
+import { T } from '@/components/blog/BlogLang';
+import { CatText, CountryName } from '@/components/blog/BlogCards';
 import { allPosts, activeCategories, activeCountries, countryByCode, siteUrl, BLOG_URL, HUB, breadcrumbLd } from '@/lib/blog';
 
 export const dynamicParams = false;
@@ -31,7 +33,6 @@ export default function Page({ params }) {
   if (!c || !posts.length) notFound();
   const url = `${BLOG_URL}/pais/${c.code}`;
   const cats = activeCategories(c.code);
-  const vos = c.code === 'py' || c.code === 'uy';
 
   const ld = [
     {
@@ -57,25 +58,25 @@ export default function Page({ params }) {
         <nav aria-label="Ruta" className="text-[13px] text-ink/50 mb-4">
           <Link href="/blog" className="underline decoration-ink/25 hover:decoration-ink">Blog</Link>
           <span className="mx-2">·</span>
-          <span>{c.name}</span>
+          <span><CountryName cc={c.code} /></span>
         </nav>
         <div className="flex items-center gap-3 mb-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={`/flags/${c.code}.svg`} alt="" className="w-12 h-8 object-cover rounded-[5px] border border-ink/20" />
-          <span className="font-mono text-[11px] tracking-label uppercase text-ink/50">{posts.length} artículos · {new URL(c.site).host}</span>
+          <span className="font-mono text-[11px] tracking-label uppercase text-ink/50"><T k="countryEyebrow" v={{ n: posts.length, host: new URL(c.site).host }} /></span>
         </div>
         <h1 className="text-[clamp(32px,5vw,56px)] leading-[1] tracking-display font-bold mb-4">
-          Comprar, alquilar y vivir en {c.name}, <span className="font-serif italic font-normal">sin vueltas.</span>
+          <T k="countryH1A" v={{ cc: c.code }} /> <span className="font-serif italic font-normal"><T k="noFrills" /></span>
         </h1>
         <p className="text-[16px] md:text-[18px] leading-relaxed text-ink/65 max-w-[680px] mb-8">
-          Requisitos, créditos, costos, trámites y cómo elegir zona en {c.name}, con respuestas directas. Para ver propiedades o publicar, entrá a Casa-Libre {c.name}.
+          <T k="countryIntro" v={{ cc: c.code }} />
         </p>
         <div className="mb-10"><CountryPills countries={activeCountries()} current={c.code} /></div>
 
         {cats.map((cat) => (
           <section key={cat.slug} className="mb-14">
             <div className="flex items-baseline justify-between gap-4 mb-5 border-b border-ink/10 pb-3">
-              <h2 className="text-[clamp(22px,3vw,30px)] font-bold tracking-display">{cat.name}</h2>
+              <h2 className="text-[clamp(22px,3vw,30px)] font-bold tracking-display"><CatText slug={cat.slug} /></h2>
             </div>
             <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
               {posts.filter((p) => p.category === cat.slug).map((p) => <PostCard key={p.slug} post={p} />)}
@@ -84,11 +85,11 @@ export default function Page({ params }) {
         ))}
 
         <section className="bg-ink text-paper rounded-section p-8 md:p-10">
-          <h2 className="text-[clamp(24px,3.5vw,34px)] font-bold tracking-display mb-2">{vos ? 'Publicá' : 'Publica'} gratis en Casa-Libre {c.name}</h2>
-          <p className="text-[15px] md:text-[16px] text-paper/70 mb-6 max-w-[640px]">Sin comisión. Casas, departamentos y terrenos de dueños e inmobiliarias en el mapa, con contacto directo por WhatsApp. En la web y en la app para iPhone y Android.</p>
+          <h2 className="text-[clamp(24px,3.5vw,34px)] font-bold tracking-display mb-2"><T k="countryCtaH" v={{ cc: c.code }} /></h2>
+          <p className="text-[15px] md:text-[16px] text-paper/70 mb-6 max-w-[640px]"><T k="countryCtaText" /></p>
           <div className="flex flex-wrap gap-3">
-            <a href={siteUrl(c.code, '/propiedades', `blog-pais-${c.code}`)} target="_blank" rel="noopener" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]">Ver propiedades <Arrow /></a>
-            <a href={siteUrl(c.code, '/publicar', `blog-pais-${c.code}`)} target="_blank" rel="noopener" className="inline-block px-6 py-3 border border-paper/40 text-paper rounded-pill font-semibold text-[15px]">Publicar gratis</a>
+            <a href={siteUrl(c.code, '/propiedades', `blog-pais-${c.code}`)} target="_blank" rel="noopener" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]"><T k="seeProperties" /> <Arrow /></a>
+            <a href={siteUrl(c.code, '/publicar', `blog-pais-${c.code}`)} target="_blank" rel="noopener" className="inline-block px-6 py-3 border border-paper/40 text-paper rounded-pill font-semibold text-[15px]"><T k="publishFree" /></a>
           </div>
         </section>
       </div>

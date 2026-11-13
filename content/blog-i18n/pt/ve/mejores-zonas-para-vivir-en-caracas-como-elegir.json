@@ -1,0 +1,166 @@
+{
+ "_src": "bd5f1c706da7",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Melhores áreas para viver em Caracas: como escolher a sua",
+  "h1": "As melhores áreas para viver em Caracas: como escolher de acordo com sua rotina, seu orçamento e os serviços",
+  "description": "Como escolher a área para viver em Caracas: municípios da região metropolitana, transporte e trânsito, água e eletricidade, segurança percebida, escolas e orçamento. Critérios para decidir você.",
+  "answer": "Não existe uma \"melhor área\" de Caracas para todos: a melhor é a que se encaixa com seu trabalho, seu orçamento e suas prioridades. Para escolher, identifique primeiro onde você passa o dia e quanto trânsito está disposto a suportar, depois compare os serviços (água, eletricidade, gerador no prédio), segurança percebida em diferentes horários, proximidade de escolas e comércios e o custo total (taxa ou preço mais condomínio). Percorra a área de dia e de noite antes de decidir."
+ },
+ "sections": [
+  {
+   "h2": "Caracas são vários municípios",
+   "paras": [
+    "O que chamamos Caracas é uma área metropolitana distribuída entre o Município Libertador (Distrito Capital) e os municípios Chacao, Baruta, Sucre e El Hatillo, no estado Miranda. Cada um tem sua alcaldía, sua polícia municipal, seus tributos e sua forma de gerir serviços. Dentro de cada município convivem urbanizações muito distintas entre si.",
+    "Por isso convém pensar em urbanizações ou setores concretos, não apenas no município. Duas ruas de distância podem mudar muito o ambiente, o acesso e o preço."
+   ]
+  },
+  {
+   "h2": "Comece pela sua rotina",
+   "paras": [
+    "O trânsito de Caracas pesa muito na qualidade de vida. Antes de se apaixonar por um apartamento, marque no mapa seu trabalho, as escolas dos seus filhos e os lugares que você frequenta a cada semana. Depois meça quanto tempo levaria na hora pico, não em um domingo."
+   ],
+   "bullets": [
+    "Você chega de metrô ou depende do carro?",
+    "Qual é sua via de saída principal e quão congestionada está pela manhã?",
+    "Existem alternativas se uma rodovia ou avenida ficar bloqueada?",
+    "Você pode fazer compras básicas a pé?"
+   ]
+  },
+  {
+   "h2": "Serviços: água e eletricidade mudam por setor",
+   "paras": [
+    "A regularidade da água por tubulação e a estabilidade elétrica variam entre setores e entre edifícios. Um edifício com tanque, bombas em bom estado e gerador pode fazer uma grande diferença no seu dia a dia, e isso se reflete no condomínio.",
+    "Pergunte aos vizinhos e porteiros quantos dias chega a água, com que frequência falta luz e o que cobre o gerador. É informação que não aparece nos avisos."
+   ]
+  },
+  {
+   "h2": "Segurança: observe você mesmo",
+   "paras": [
+    "Mais que se guiar por rankings, percorra a zona em diferentes horários. Observe a iluminação das ruas, o movimento de pessoas à noite, a presença de comércios abertos e como é o acesso ao edifício (vigilância, portão, estacionamento). Pergunte a quem mora lá como se sentem."
+   ],
+   "tip": "Faça o percurso da sua rotina real: saia do edifício na hora que sairia para o trabalho e volte na hora que retornaria. Isso lhe diz mais que qualquer opinião."
+  },
+  {
+   "h2": "Uma tabela para comparar zonas",
+   "paras": [
+    "Dê pontuação de 1 a 5 a cada zona que você está considerando nesses critérios, conforme o que for importante para você:"
+   ],
+   "table": {
+    "head": [
+     "Critério",
+     "O que observar"
+    ],
+    "rows": [
+     [
+      "Tempo até o trabalho",
+      "Minutos na hora pico, de metrô ou de carro"
+     ],
+     [
+      "Água",
+      "Dias por semana, tanque e bombas do edifício"
+     ],
+     [
+      "Eletricidade",
+      "Frequência de cortes e gerador"
+     ],
+     [
+      "Segurança percebida",
+      "Iluminação, movimento noturno, acesso controlado"
+     ],
+     [
+      "Serviços próximos",
+      "Supermercados, farmácias, clínicas, escolas"
+     ],
+     [
+      "Custo total",
+      "Canon ou preço + condomínio + transporte"
+     ],
+     [
+      "Ambiente",
+      "Ruído, áreas verdes, vida de bairro"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O orçamento, completo",
+   "paras": [
+    "As zonas com mais serviços e melhor acesso costumam ter preços e condomínios mais altos. Às vezes vale a pena uma zona um pouco mais afastada se o edifício tem melhores serviços e o condomínio é razoável, ou o contrário, pagar mais para viver perto do trabalho e economizar horas de trânsito.",
+    "Considere também as cidades próximas da área metropolitana ampliada, como os Altos Mirandinos ou Guarenas e Guatire, se você trabalha de casa ou seu trabalho fica desse lado. O custo pode ser menor, em troca de mais tempo de deslocamento até o centro."
+   ]
+  },
+  {
+   "h2": "O que priorizar segundo sua situação",
+   "paras": [
+    "Você não precisa da zona \"melhor\" em tudo, mas sim da que resolve bem o que mais importa para você. Escreva suas três prioridades antes de começar a buscar e descarte rapidamente o que não as cumpre."
+   ],
+   "table": {
+    "head": [
+     "Se você é...",
+     "Priorize"
+    ],
+    "rows": [
+     [
+      "Família com filhos em idade escolar",
+      "Proximidade à escola, áreas verdes, edifício com vigilância e elevador"
+     ],
+     [
+      "Pessoa que trabalha de casa",
+      "Estabilidade elétrica, gerador no edifício, boa internet, ambiente tranquilo"
+     ],
+     [
+      "Quem usa transporte público",
+      "Proximidade a uma estação de metrô ou a rotas diretas ao seu destino"
+     ],
+     [
+      "Pessoa idosa",
+      "Elevador confiável, farmácias e clínicas próximas, ruas fáceis de caminhar"
+     ],
+     [
+      "Quem busca investir para alugar",
+      "Zonas com demanda estável de inquilinos e condomínio razoável"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Compare zonas no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver propriedades à venda e aluguel em Caracas no mapa, comparar preços por zona e guardar as que lhe interessam. Escreva ao anunciante por WhatsApp para perguntar sobre água, gerador e condomínio. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quais são as melhores áreas para viver em Caracas?",
+   "a": "Depende do seu trabalho, orçamento e prioridades. Compare tempo de deslocamento, serviços do prédio, segurança percebida e custo total em cada urbanização que considerar."
+  },
+  {
+   "q": "Quais municípios compõem Caracas?",
+   "a": "A região metropolitana inclui o Município Libertador (Distrito Capital) e os municípios Chacao, Baruta, Sucre e El Hatillo, do estado Miranda."
+  },
+  {
+   "q": "Como saber se em uma área chega água?",
+   "a": "Pergunte aos vizinhos e ao porteiro quantos dias a água chega por tubulação e se o prédio tem tanque e bombas. Não costuma aparecer nos avisos."
+  },
+  {
+   "q": "Compensa morar perto do metrô?",
+   "a": "Se você se desloca em transporte público, sim: reduz muito a dependência do trânsito. Verifique se a estação que atende você tem conexão direta com seu destino."
+  },
+  {
+   "q": "É melhor alugar antes de comprar em uma área nova?",
+   "a": "Se puder, sim. Viver alguns meses na área mostra o trânsito, os serviços e o ambiente reais antes de se comprometer com uma compra."
+  },
+  {
+   "q": "Áreas com condomínio mais alto são melhores?",
+   "a": "Não necessariamente. Um condomínio alto pode refletir mais serviços, como gerador ou vigilância, ou uma má administração. Pergunte o que está incluído."
+  }
+ ],
+ "related": [
+  "Propriedades em Caracas",
+  "Apartamentos para alugar",
+  "Quanto custa alugar em Caracas"
+ ]
+}

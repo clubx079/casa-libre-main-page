@@ -1,9 +1,12 @@
 // /blog — the Casa-Libre blog on the casa-libre.com hub: featured articles, a
 // country filter (only countries with articles), category filters and the full
-// list grouped by category. Spanish-only.
+// list grouped by category. Server HTML is Spanish; the ES/EN/PT pills in the
+// header swap the labels and card text on the client (components/blog/BlogLang.js).
 import Link from 'next/link';
 import BlogShell, { Arrow } from '@/components/blog/BlogShell';
 import PostCard, { CategoryPills, CountryPills } from '@/components/blog/PostCard';
+import { T } from '@/components/blog/BlogLang';
+import { CatText } from '@/components/blog/BlogCards';
 import { allPosts, featuredPosts, activeCategories, activeCountries, BLOG_AUTHOR, BLOG_URL, HUB, breadcrumbLd, siteUrl } from '@/lib/blog';
 
 const title = 'Blog de Casa-Libre: comprar, alquilar y vivir en Sudamérica';
@@ -54,12 +57,12 @@ export default function Page() {
 
       <section className="max-w-[1200px] mx-auto px-5 md:px-11 pt-12 md:pt-16 pb-4 grid md:grid-cols-[1.3fr_.7fr] gap-8 items-center">
         <div>
-          <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-4">Blog · {posts.length} artículos</div>
+          <div className="font-mono text-[11px] tracking-label uppercase text-ink/50 mb-4"><T k="indexEyebrow" v={{ n: posts.length }} /></div>
           <h1 className="text-[clamp(36px,5.6vw,68px)] leading-[0.98] tracking-display font-bold">
-            Comprar, alquilar y vivir en Sudamérica, <span className="font-serif italic font-normal">sin vueltas.</span>
+            <T k="indexH1A" /> <span className="font-serif italic font-normal"><T k="noFrills" /></span>
           </h1>
           <p className="text-[16px] md:text-[18px] text-ink/65 mt-5 max-w-[620px] leading-relaxed">
-            Respuestas directas para quien busca, alquila o publica una propiedad: requisitos, créditos, costos, trámites y cómo elegir zona. Cada artículo está escrito para un país, por el {BLOG_AUTHOR}.
+            <T k="indexSub" />
           </p>
         </div>
         <div className="hidden md:flex items-center justify-center">
@@ -71,20 +74,20 @@ export default function Page() {
       <div className="max-w-[1200px] mx-auto px-5 md:px-11">
         {!posts.length ? (
           <div className="bg-card border-[1.5px] border-ink rounded-card p-8 max-w-[640px] shadow-hard-sm mt-8">
-            <h2 className="text-[22px] font-bold tracking-head mb-2">Pronto vas a encontrar artículos acá</h2>
-            <p className="text-[15.5px] text-ink/65 leading-relaxed">Estamos preparando el blog. Mientras tanto, entrá al sitio de Casa-Libre de tu país desde la página principal.</p>
-            <Link href="/#map" className="btn btn-solid mt-5">Ver los países <Arrow /></Link>
+            <h2 className="text-[22px] font-bold tracking-head mb-2"><T k="emptyTitle" /></h2>
+            <p className="text-[15.5px] text-ink/65 leading-relaxed"><T k="emptyText" /></p>
+            <Link href="/#map" className="btn btn-solid mt-5"><T k="seeCountries" /> <Arrow /></Link>
           </div>
         ) : (
           <>
             <div className="mt-8 space-y-3">
-              <div className="font-mono text-[10.5px] uppercase tracking-label text-ink/45">País</div>
+              <div className="font-mono text-[10.5px] uppercase tracking-label text-ink/45"><T k="filterCountry" /></div>
               <CountryPills countries={countries} />
-              <div className="font-mono text-[10.5px] uppercase tracking-label text-ink/45 pt-3">Tema</div>
+              <div className="font-mono text-[10.5px] uppercase tracking-label text-ink/45 pt-3"><T k="filterTopic" /></div>
               <CategoryPills categories={cats} />
             </div>
 
-            <h2 className="font-mono text-[11px] uppercase tracking-label text-ink/50 mt-12 mb-4">Destacados</h2>
+            <h2 className="font-mono text-[11px] uppercase tracking-label text-ink/50 mt-12 mb-4"><T k="featured" /></h2>
             <div className="grid gap-5 md:grid-cols-3 mb-14">
               {featured.map((p) => <PostCard key={p.slug} post={p} big />)}
             </div>
@@ -95,8 +98,8 @@ export default function Page() {
               return (
                 <section key={c.slug} className="mb-14">
                   <div className="flex items-baseline justify-between gap-4 mb-5 border-b border-ink/10 pb-3">
-                    <h2 className="text-[clamp(22px,3vw,30px)] font-bold tracking-display">{c.name}</h2>
-                    <Link href={`/blog/categoria/${c.slug}`} className="inline-flex items-center gap-1.5 text-[14px] font-bold shrink-0">Ver todo <Arrow /></Link>
+                    <h2 className="text-[clamp(22px,3vw,30px)] font-bold tracking-display"><CatText slug={c.slug} /></h2>
+                    <Link href={`/blog/categoria/${c.slug}`} className="inline-flex items-center gap-1.5 text-[14px] font-bold shrink-0"><T k="seeAll" /> <Arrow /></Link>
                   </div>
                   <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
                     {list.map((p) => <PostCard key={p.slug} post={p} />)}
@@ -109,18 +112,18 @@ export default function Page() {
 
         <section className="bg-ink text-paper rounded-section p-8 md:p-10 mt-4">
           <h2 className="text-[clamp(24px,3.5vw,34px)] font-bold tracking-display mb-2">
-            Publicá gratis en Casa-Libre, <span className="font-serif italic font-normal">sin comisión.</span>
+            <T k="indexCtaA" /> <span className="font-serif italic font-normal"><T k="noCommission" /></span>
           </h2>
           <p className="text-[15px] md:text-[16px] text-paper/70 mb-6 max-w-[640px]">
-            Dueños e inmobiliarias publican sin comisión y reciben consultas por WhatsApp. Buscá en el mapa desde la web o desde la app para iPhone y Android.
+            <T k="indexCtaText" />
           </p>
           {single ? (
             <div className="flex flex-wrap gap-3">
-              <a href={siteUrl(single.code, '/publicar', 'blog-index')} target="_blank" rel="noopener" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]">Publicar gratis en Casa-Libre {single.name} <Arrow /></a>
-              <a href={siteUrl(single.code, '/propiedades', 'blog-index')} target="_blank" rel="noopener" className="inline-block px-6 py-3 border border-paper/40 text-paper rounded-pill font-semibold text-[15px]">Ver propiedades</a>
+              <a href={siteUrl(single.code, '/publicar', 'blog-index')} target="_blank" rel="noopener" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]"><T k="publishFreeIn" v={{ cc: single.code }} /> <Arrow /></a>
+              <a href={siteUrl(single.code, '/propiedades', 'blog-index')} target="_blank" rel="noopener" className="inline-block px-6 py-3 border border-paper/40 text-paper rounded-pill font-semibold text-[15px]"><T k="seeProperties" /></a>
             </div>
           ) : (
-            <Link href="/#map" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]">Elegí tu país <Arrow /></Link>
+            <Link href="/#map" className="inline-flex items-center gap-2 px-6 py-3 bg-paper text-ink rounded-pill font-bold text-[15px]"><T k="chooseCountry" /> <Arrow /></Link>
           )}
         </section>
       </div>

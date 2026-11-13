@@ -1,0 +1,142 @@
+{
+ "_src": "92e9e6464db9",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Casa ou apartamento? O que vale a pena comprar no Paraguai",
+  "h1": "Casa ou apartamento: o que vale a pena comprar de acordo com seu estilo de vida",
+  "description": "Comparação honesta entre comprar casa ou apartamento no Paraguai: gastos mensais, despesas condominiais, segurança, espaço, localização e facilidade para alugar ou revender.",
+  "answer": "Um apartamento costuma ser vantajoso se você prioriza localização, segurança e pouca manutenção, e aceita pagar despesas condominiais e ter menos espaço. Uma casa é indicada se você precisa de quintal, mais metros ou liberdade para ampliar, e está disposto a cuidar da manutenção e da segurança. Para o mesmo orçamento, em geral o apartamento fica mais próximo do centro e a casa oferece mais área mais afastada. A decisão depende da sua rotina, da sua família e de quanto tempo você pretende ficar."
+ },
+ "sections": [
+  {
+   "h2": "A pergunta correta não é qual é melhor",
+   "paras": [
+    "Não há uma resposta universal. O que serve é se perguntar como você vive hoje e como vai viver nos próximos cinco a dez anos: se vai ter filhos ou pets, se trabalha de casa, quanto tempo passa viajando para o trabalho, se gosta ou acha cansativo cuidar de reparos.",
+    "Com essas respostas, a comparação abaixo se torna concreta."
+   ]
+  },
+  {
+   "h2": "Comparação rápida",
+   "table": {
+    "head": [
+     "Aspecto",
+     "Apartamento",
+     "Casa"
+    ],
+    "rows": [
+     [
+      "Gasto fixo mensal",
+      "Expensas para áreas comuns, segurança e manutenção do prédio",
+      "Sem expensas (exceto em condomínio), mas manutenção a seu cargo"
+     ],
+     [
+      "Manutenção",
+      "O comum é resolvido pela administração",
+      "Telhado, pátio, pintura, bombas e poço você resolve"
+     ],
+     [
+      "Segurança",
+      "Portaria, acessos controlados em muitos prédios",
+      "Depende do bairro; costuma exigir grades, alarme ou câmeras"
+     ],
+     [
+      "Espaço",
+      "Menos metros, sem pátio próprio em geral",
+      "Mais metros, pátio, espaço para ampliar"
+     ],
+     [
+      "Localização",
+      "Mais oferta em áreas centrais",
+      "Mais oferta em bairros residenciais e cidades da região metropolitana"
+     ],
+     [
+      "Liberdade de uso",
+      "Sujeita ao regulamento do prédio",
+      "Maior, dentro das normas municipais"
+     ],
+     [
+      "Alugar ou revender",
+      "Demanda de aluguel em áreas centrais e universitárias",
+      "Demanda de famílias; depende muito do bairro"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Custos: expensas contra manutenção",
+   "paras": [
+    "Muitos compradores comparam só o preço e esquecem o gasto de todos os meses. Em um apartamento, as expensas cobrem limpeza, portaria, elevadores, piscina, segurança e o fundo para reparos do prédio. Variam muito conforme os serviços: um prédio com amenities completas cobra bem mais que um simples. Peça sempre as últimas contas de expensas antes de decidir.",
+    "Em uma casa não há expensas, mas a manutenção existe igualmente, só que chega de golpe: impermeabilizar um telhado, trocar uma bomba, esvaziar o poço, pintar a fachada, cuidar do jardim. Uma forma prática de comparar é reservar todo mês um valor para manutenção e ver se, somado à segurança que você vai precisar, se parece com as expensas do apartamento.",
+    "Os dois pagam imposto imobiliário à prefeitura e os serviços de luz, água e internet. O ar-condicionado pesa na conta da ANDE em ambos os casos; uma casa grande com muitos ambientes costuma consumir mais."
+   ]
+  },
+  {
+   "h2": "Segurança e tranquilidade",
+   "paras": [
+    "Para muitas pessoas que moram sozinhas ou viajam com frequência, a segurança é o que define a escolha. Um prédio com portaria e controle de acesso permite fechar a porta e sair alguns dias com menos preocupação. Em uma casa, a segurança depende do bairro e do que você investe.",
+    "Uma alternativa intermediária é a casa dentro de um condomínio fechado: você tem pátio e metros, com segurança compartilhada, mas paga expensas e tem regulamento. Explicamos em detalhe no artigo sobre condomínios."
+   ]
+  },
+  {
+   "h2": "Espaço, família e pets",
+   "paras": [
+    "Se você tem crianças pequenas ou cães grandes, o pátio muda a vida diária e uma casa costuma ganhar. Verifique também se o regulamento de um prédio permite pets antes de se apaixonar por um apartamento: alguns os restringem.",
+    "Pense também no futuro: uma casa com terreno permite ampliar um dormitório ou um quincho; em um apartamento você está limitado à superfície que comprou."
+   ]
+  },
+  {
+   "h2": "Localização e tempo de deslocamento",
+   "paras": [
+    "O trânsito na região metropolitana de Assunção faz com que a localização pese tanto quanto os metros. Pelo mesmo orçamento, muitas vezes a escolha real é entre um apartamento menor perto do trabalho ou uma casa maior em Luque, San Lorenzo, Lambaré ou outra cidade vizinha, com mais tempo de deslocamento.",
+    "Faça o teste: percorra o trajeto em horário de pico antes de decidir. Uma hora extra diária de viagem, multiplicada por anos, é um custo real embora não apareça no preço."
+   ]
+  },
+  {
+   "h2": "Se você pensa em alugar ou vender depois",
+   "paras": [
+    "Se compra pensando também em renda, os apartamentos pequenos bem localizados (próximos a universidades, escritórios ou shoppings) costumam ter demanda de inquilinos e são fáceis de administrar. As casas atraem mais famílias que buscam ficar vários anos, o que gera contratos mais longos mas um mercado menor e mais dependente do bairro.",
+    "Em ambos os casos, o que mais protege o valor é a localização e o estado. Antes de comprar, veja quantas propriedades semelhantes estão anunciadas na região e a que preço: é a melhor referência do que você enfrentará se algum dia quiser vender."
+   ]
+  },
+  {
+   "h2": "Uma forma simples de decidir",
+   "steps": [
+    "Escreva suas três prioridades não negociáveis (por exemplo: menos de 30 minutos ao trabalho, pátio, segurança).",
+    "Calcule o gasto mensal total de cada opção: parcela ou poupança, expensas ou manutenção, serviços, segurança.",
+    "Visite ao menos três propriedades de cada tipo nas áreas que lhe interessam.",
+    "Percorra o trajeto diário de cada uma em horário de pico.",
+    "Fique com a opção que cumpre suas três prioridades com o gasto mensal que você pode sustentar."
+   ]
+  },
+  {
+   "h2": "Veja as duas opções no mapa",
+   "paras": [
+    "No Casa-Libre você pode filtrar casas e apartamentos à venda na mesma região e compará-los lado a lado no mapa, com contato direto por WhatsApp com o dono ou a imobiliária. Também funciona pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é mais barato de manter, uma casa ou um apartamento?",
+   "a": "Depende. O apartamento tem despesas condominiais fixas todos os meses; a casa não, mas os reparos (telhado, pintura, bombas, poço) e a segurança ficam por sua conta. Compare o gasto mensal total, não apenas o preço."
+  },
+  {
+   "q": "É mais fácil alugar um apartamento ou uma casa?",
+   "a": "Apartamentos pequenos bem localizados costumam ter mais demanda e rotatividade; casas atraem famílias que ficam por mais tempo. A localização pesa mais que o tipo."
+  },
+  {
+   "q": "As casas em condomínio pagam despesas condominiais?",
+   "a": "Sim. Um condomínio fechado cobra despesas por segurança e áreas comuns, e tem um regulamento interno que você deve respeitar."
+  },
+  {
+   "q": "Posso ter animais de estimação em um apartamento?",
+   "a": "Depende do regulamento do prédio. Alguns permitem sem problema e outros restringem; peça o regulamento antes de comprar ou alugar."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: despesas ao comprar uma casa"
+ ]
+}

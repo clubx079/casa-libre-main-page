@@ -1,0 +1,160 @@
+{
+ "_src": "af6af1511add",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Gastos mensais de uma casa ou apartamento: despesas e mais",
+  "h1": "Quanto custa por mês viver em uma casa ou apartamento: despesas, serviços e mais",
+  "description": "Os gastos fixos de uma moradia no Paraguai: despesas ordinárias e extraordinárias, ANDE, água, internet, imposto imobiliário, manutenção e seguro.",
+  "answer": "Além do aluguel ou da parcela, uma moradia tem gastos fixos: luz (ANDE), água, internet, coleta de lixo, despesas se for um apartamento ou um condomínio fechado, o imposto imobiliário anual se você for proprietário, manutenção e, se quiser, um seguro. As despesas podem ser ordinárias (gastos comuns de todos os meses) ou extraordinárias (obras pontuais). Antes de decidir, peça as faturas reais dos últimos meses: é a única forma de saber quanto você vai gastar de verdade."
+ },
+ "sections": [
+  {
+   "h2": "Por que olhar além do preço",
+   "paras": [
+    "Dois apartamentos com o mesmo aluguel podem custar muito diferente por mês: um com expensas altas, elevador, piscina e segurança 24 horas, outro sem expensas mas com um equipamento de ar-condicionado velho que dispara a conta da ANDE. O mesmo ao comprar: a parcela é só uma parte do que você vai pagar a cada mês durante anos.",
+    "Este artigo não fornece valores, porque variam muito conforme a região, o tamanho e o consumo. Ele traz a lista completa para que você monte seu próprio orçamento com números reais."
+   ]
+  },
+  {
+   "h2": "A lista de gastos, quem os paga e com que frequência",
+   "paras": [
+    "Quem paga o quê em um aluguel é definido pelo contrato. A tabela mostra o mais habitual, mas sempre leia essa parte antes de assinar."
+   ],
+   "table": {
+    "head": [
+     "Gasto",
+     "Frequência",
+     "Se você aluga",
+     "Se você é dono"
+    ],
+    "rows": [
+     [
+      "Luz (ANDE)",
+      "Mensal",
+      "Inquilino, em geral",
+      "Dono"
+     ],
+     [
+      "Água (ESSAP, junta de saneamento ou aguateria)",
+      "Mensal",
+      "Inquilino, em geral",
+      "Dono"
+     ],
+     [
+      "Internet e TV",
+      "Mensal",
+      "Inquilino",
+      "Dono"
+     ],
+     [
+      "Coleta de lixo",
+      "Mensal ou incluída nas taxas municipais",
+      "Conforme contrato",
+      "Dono"
+     ],
+     [
+      "Expensas ordinárias",
+      "Mensal",
+      "Conforme contrato (muitas vezes o inquilino)",
+      "Dono"
+     ],
+     [
+      "Expensas extraordinárias",
+      "Ocasional",
+      "Normalmente o dono",
+      "Dono"
+     ],
+     [
+      "Imposto imobiliário",
+      "Anual",
+      "Normalmente o dono",
+      "Dono"
+     ],
+     [
+      "Manutenção e reparos",
+      "Variável",
+      "Reparos menores o inquilino; estruturais o dono, conforme contrato",
+      "Dono"
+     ],
+     [
+      "Seguro residencial",
+      "Anual ou mensal",
+      "Opcional (conteúdo)",
+      "Opcional, salvo se exigido pelo crédito"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Expensas: o que são e o que cobrem",
+   "paras": [
+    "As expensas são a parte que cada proprietário aporta para os gastos comuns de um prédio ou condomínio. São fixadas conforme o regulamento de copropiedade, normalmente em proporção à área de cada unidade, e são administradas por um síndico ou pela comissão de proprietários.",
+    "As expensas ordinárias cobrem o que ocorre todos os meses: limpeza de áreas comuns, portaria ou segurança, luz e água das áreas comuns, manutenção de elevadores, piscina, jardins e o salário do pessoal. As extraordinárias são aprovadas para algo pontual: pintar a fachada, trocar um elevador, impermeabilizar o telhado. Podem ser valores importantes."
+   ],
+   "bullets": [
+    "Pergunte quanto são as expensas e o que exatamente incluem.",
+    "Peça as últimas três liquidações de expensas, não um número \"aproximado\".",
+    "Pergunte se há expensas extraordinárias aprovadas ou em discussão.",
+    "Se você aluga, verifique se o preço inclui expensas ou se são pagas à parte."
+   ]
+  },
+  {
+   "h2": "Luz: o gasto que mais varia",
+   "paras": [
+    "No Paraguai o calor faz com que o ar-condicionado seja o fator que mais impacta a conta da ANDE. Um apartamento com boa orientação, janelas que sombreiam e equipamentos eficientes (tipo inverter) pode gastar bastante menos que outro de mesmo tamanho com equipamentos antigos ou muito sol à tarde.",
+    "Ao visitar, observe a quantidade e a idade dos aparelhos de ar, se a cozinha e o termocalefão são elétricos e para onde vão os ambientes. E peça as contas dos meses de verão, não só as de inverno."
+   ]
+  },
+  {
+   "h2": "Água: quem presta o serviço na região",
+   "paras": [
+    "Conforme a região, a água é fornecida pela ESSAP, por uma junta de saneamento ou por uma aguateria privada. O serviço, a pressão e o custo mudam. Em algumas áreas há casas com poço próprio e bomba, que adicionam consumo elétrico e manutenção.",
+    "Pergunte se há reservatório, se a pressão alcança o segundo andar e se houve cortes frequentes no último verão."
+   ]
+  },
+  {
+   "h2": "Imposto imobiliário: um gasto anual que vale mensalizar",
+   "paras": [
+    "Se você é dono, o imposto imobiliário é pago uma vez por ano e equivale a 1% do valor fiscal do imóvel, que costuma ser menor que o valor de mercado e é ajustado anualmente. É cobrado pela prefeitura. Para orçar, divida o valor anual por doze e some ao seu gasto de cada mês."
+   ]
+  },
+  {
+   "h2": "Manutenção e seguro",
+   "paras": [
+    "Uma casa precisa de manutenção constante: pintura, limpeza de calhas, inspeção do telhado antes da temporada de chuvas, poço cego ou caixa séptica onde não há rede de esgoto, jardim. Uma forma prática de não ter surpresas é reservar todo mês um valor fixo para manutenção, maior se a casa for antiga.",
+    "O seguro residencial é opcional, salvo se exigido por um crédito hipotecário. Cobre incêndio e outros danos conforme a apólice; se você aluga, existe o seguro de conteúdo para seus pertences."
+   ],
+   "tip": "Monte seu orçamento com as contas reais do último ano da propriedade, mais um valor fixo para manutenção. Se o total lhe incomodar, é melhor saber antes de assinar."
+  },
+  {
+   "h2": "Compare opções com o custo total",
+   "paras": [
+    "Ao comparar anúncios, some preço mais gastos fixos. No Casa-Libre você pode ver casas e apartamentos no mapa e perguntar por WhatsApp, direto ao dono ou à imobiliária, quanto são as expensas e os serviços. Também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que são as despesas em um apartamento?",
+   "a": "São a contribuição de cada proprietário para os gastos comuns do edifício: limpeza, segurança, elevadores, luz e água das áreas comuns e manutenção. São fixadas conforme o regulamento de copropiedade."
+  },
+  {
+   "q": "Quem paga as despesas em um aluguel?",
+   "a": "Isso é definido no contrato. É frequente que o inquilino pague as ordinárias e o proprietário as extraordinárias, mas verifique se o preço as inclui ou se são cobradas à parte."
+  },
+  {
+   "q": "O que são as despesas extraordinárias?",
+   "a": "Gastos pontuais aprovados pelos proprietários para obras ou reparos importantes, como pintar a fachada ou trocar um elevador. Normalmente são pagas pelo proprietário."
+  },
+  {
+   "q": "Como calculo quanto vou gastar por mês?",
+   "a": "Peça as faturas reais de luz, água e despesas dos últimos meses (incluindo o verão), some a internet, o imposto imobiliário anual dividido por doze e um valor fixo para manutenção."
+  }
+ ],
+ "related": [
+  "Apartamentos para alugar",
+  "Casas à venda",
+  "Guia: como alugar sua propriedade"
+ ]
+}

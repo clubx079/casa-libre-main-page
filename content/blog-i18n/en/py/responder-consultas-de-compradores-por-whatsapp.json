@@ -1,0 +1,130 @@
+{
+ "_src": "628f9aedb1a2",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Respond to Buyer Inquiries via WhatsApp",
+  "h1": "How to Respond to Buyer and Tenant Inquiries via WhatsApp",
+  "description": "For owners and agents who post: reply quickly, ready-to-copy messages, how to filter genuine prospects, coordinate safe visits and follow up.",
+  "answer": "To turn WhatsApp inquiries into visits and deals: reply fast, ideally within the first hour; answer exactly what they ask and add the missing detail (price, location, conditions); ask two or three questions to see if the prospect is real; propose a concrete visit time; and follow up the next day. Having prepared messages and all property information at hand saves you half the work."
+ },
+ "sections": [
+  {
+   "h2": "Speed matters more than the perfect message",
+   "paras": [
+    "Anyone looking for a house or apartment writes to several advertisers at once. The first one who responds with useful information usually keeps the conversation, and often the visit. A brief reply within ten minutes works better than a perfect reply the next day.",
+    "If you can’t attend to your phone all day, set up a welcome or away message in WhatsApp Business that says when you will reply, and block two or three fixed times of the day to answer everything together."
+   ]
+  },
+  {
+   "h2": "Information you need to have on hand",
+   "paras": [
+    "Most questions are repeated. Create a note on your phone with the data for each property to copy and paste without searching:"
+   ],
+   "bullets": [
+    "Price and currency, and whether it is negotiable.",
+    "Approximate location (neighborhood and a reference) and exact location to send when the visit is confirmed.",
+    "Land and built area, bedrooms, bathrooms, garage.",
+    "Paper status: title, property tax up to date.",
+    "For rent: deposit, guarantee you accept, expenses, whether pets are allowed, availability date.",
+    "For sale: accepted payment method (cash, bank credit), whether you accept swaps.",
+    "Photos and a short video tour to send to anyone who asks."
+   ]
+  },
+  {
+   "h2": "Ready-to-copy messages to adapt",
+   "paras": [
+    "First contact, when they write \"Is it still available?\": \"Hi! Yes, it’s still available. It’s a 3-bedroom house in [neighborhood], at [price]. Is it for living or as an investment? Do you want me to send you a video tour?\"",
+    "When they ask price \"privately\": \"The price is [amount and currency]. It includes [what it includes]. If you’re interested, we can schedule a visit this week.\"",
+    "To filter before the visit: \"To organize ourselves, how do you plan to pay: cash or credit? When would you need to move?\"",
+    "For rent: \"The rent is [amount] per month. I require [deposit and guarantee]. How many people would live there? Do you have pets?\"",
+    "To close the visit: \"I can show it to you on Tuesday at 5 pm or Saturday at 10 am. Which works better for you?\"",
+    "Follow-up the next day: \"Hi, what did you think of the house? If you have any questions about the papers or the neighborhood, I’m here to help.\""
+   ],
+   "tip": "Always offer two concrete times. \"When can you?\" opens a long conversation; \"Tuesday 5 pm or Saturday 10 am?\" closes it in one message."
+  },
+  {
+   "h2": "How to spot a genuine prospect",
+   "paras": [
+    "No need to interrogate anyone. Two or three natural questions show you if the person is ready to move forward:"
+   ],
+   "table": {
+    "head": [
+     "Signal of real interest",
+     "Signal they are still just looking"
+    ],
+    "rows": [
+     [
+      "Asks about papers, expenses, or payment method",
+      "Only asks \"last price?\""
+     ],
+     [
+      "Has a defined payment plan",
+      "Doesn’t know if they need to sell another property first"
+     ],
+     [
+      "Accepts a specific visit time",
+      "Says \"I’ll let you know later\" without a date"
+     ],
+     [
+      "Requests the exact location to go",
+      "Requests many photos but no visit"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Safe visits",
+   "bullets": [
+    "Before giving the exact address, ask for the full name of the person who will go.",
+    "If possible, don’t be alone during the visit.",
+    "Store valuables and documents out of sight.",
+    "Be wary of anyone who wants to visit at night without a reason, or asks you to leave the keys.",
+    "Do not send copies of your documents or ID via WhatsApp to someone you still don’t know."
+   ]
+  },
+  {
+   "h2": "When they ask \"last price?\"",
+   "paras": [
+    "It’s the most common question and the one that wastes the most time. Responding with a discount via WhatsApp before the visit almost never closes a sale: it only lowers your starting price.",
+    "A response that works: \"The published price is [amount]. Any proposal we’ll discuss after you see the property.\" That way you invite a visit without closing the door to negotiation."
+   ]
+  },
+  {
+   "h2": "Keeping order when many inquiries arrive",
+   "paras": [
+    "If you list several properties, WhatsApp Business lets you label chats (for example \"new\", \"visit scheduled\", \"made offer\", \"discarded\") and save quick replies. Once a week, review the chats labeled visit or offer and write to those who haven’t received a reply.",
+    "When the property is sold or rented, notify those who were interested and deactivate the listing. It’s a courtesy that leaves you in good standing for the next time."
+   ]
+  },
+  {
+   "h2": "Post to receive direct inquiries",
+   "paras": [
+    "On Casa-Libre you post for free and without commission, and inquiries go straight to your WhatsApp, without intermediaries. The more complete the listing (price, photos, map location and conditions), the fewer repeated questions you receive and the more interested people arrive who already know what they want. You can post from the website or from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it advisable to include the price in the listing?",
+   "a": "Yes. Listings with a price attract inquiries from people who already know the property fits their budget, and they save you conversations that won’t move forward."
+  },
+  {
+   "q": "How quickly should I answer an inquiry?",
+   "a": "As soon as possible, ideally within the first hour. Interested parties message several advertisers at once and usually stick with the first who replies with useful information."
+  },
+  {
+   "q": "What should I do if someone asks to pay a reservation fee without a visit?",
+   "a": "The recommendation is that any reservation or deposit be signed in writing, after the visit and with both parties' details. For significant amounts, involve an escribano (notary)."
+  },
+  {
+   "q": "Is it safe to send the exact location via WhatsApp?",
+   "a": "Send it once the visit is confirmed and you know the visitor’s name. Until then, the neighborhood and a reference are enough."
+  }
+ ],
+ "related": [
+  "Post for free on Casa-Libre",
+  "How selling works on Casa-Libre",
+  "Sell without a real-estate agency"
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "_src": "997321f6d6f4",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Requisitos para vender uma casa na Bolívia: lista do dono",
+  "h1": "Requisitos para vender uma casa na Bolívia: o que ter pronto antes de publicar",
+  "description": "O que você precisa para vender uma casa na Bolívia: título, folio real, alodial, impostos em dia, planta aprovada, cadastro, estado civil e heranças. Mais como publicar e responder a compradores.",
+  "answer": "Para vender uma casa na Bolívia você precisa ser o titular inscrito em Direitos Reais e ter à mão: o testamento do seu título, um folio real atualizado, o certificado alodial (ou saber quais gravames precisam ser cancelados), o imposto predial em dia, a planta aprovada e o registro cadastral, e sua cédula. Se você for casado, normalmente também assina seu cônjuge; se herdou, a declaratória de herdeiros deve estar inscrita. Ter tudo pronto antes de publicar acelera a venda."
+ },
+ "sections": [
+  {
+   "h2": "Por que preparar os papéis antes de publicar",
+   "paras": [
+    "Os compradores sérios, e sobretudo os bancos que concedem crédito, verificam os papéis antes de avançar. Se um comprador lhe pede o folio real e você demora semanas para obtê-lo, é provável que continue procurando. Se ao revisar aparecer uma diferença de superfície ou uma hipoteca antiga sem quitar, a venda para justo quando já havia acordo.",
+    "Preparar a pasta antes de publicar permite responder rápido, mostrar transparência e negociar a partir de uma posição mais firme."
+   ]
+  },
+  {
+   "h2": "A lista de documentos",
+   "table": {
+    "head": [
+     "Documento",
+     "Onde se obtém",
+     "Para que serve"
+    ],
+    "rows": [
+     [
+      "Testemunho do título (escritura de compra, declaração de herdeiros, etc.)",
+      "Seu arquivo ou o notário que o protocolizou",
+      "Comprova como você adquiriu"
+     ],
+     [
+      "Folio real atualizado",
+      "Direitos Reais",
+      "Mostra que você é o titular e quais gravames existem"
+     ],
+     [
+      "Certificado alodial",
+      "Direitos Reais",
+      "Certifica se o imóvel está livre de encargos"
+     ],
+     [
+      "Imposto sobre a propriedade em dia",
+      "Alcaldía ou RUAT",
+      "Sem dívidas, a transferência avança"
+     ],
+     [
+      "Planta aprovada e registro cadastral",
+      "Alcaldía",
+      "Demostra que a construção está autorizada e registrada"
+     ],
+     [
+      "Cédula de identidade e certificado de casamento, se for o caso",
+      "SEGIP e Registro Civil",
+      "Identifica quem deve assinar"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Casos que precisam de um passo prévio",
+   "bullets": [
+    "Casa herdada: a declaração de herdeiros deve estar inscrita em Direitos Reais e assinam todos os herdeiros, ou quem tenha procuração deles.",
+    "Casa com hipoteca: pode ser vendida, mas é preciso coordenar com o banco o pagamento e a quitação da hipoteca no mesmo ato ou antes.",
+    "Casa em anticrético: o anticrescista tem direito de retenção até que seu dinheiro seja devolvido; o comprador precisa saber disso e o anticrético deve ser resolvido.",
+    "Casa alugada: se o contrato tem data certa, o comprador deve respeitá-lo. Avise o inquilino e coordene as visitas com ele.",
+    "Ampliações sem aprovação ou diferenças de superfície: convém regularizar antes de vender ou explicar claramente e ajustar no preço.",
+    "Venda por procurador: a procuração deve ser específica para vender e estar vigente."
+   ]
+  },
+  {
+   "h2": "Impostos e despesas do vendedor",
+   "paras": [
+    "Quando uma pessoa vende um imóvel, corresponde o Imposto Municipal sobre Transferências (IMT). Seu regulamento coloca como responsável o titular registrado, ou seja, você como vendedor, com alíquota geral de 3% sobre o maior entre o preço e o valor do imóvel para o imposto sobre a propriedade. Na prática, a divisão de despesas é negociada: deixe claro desde a primeira conversa e por escrito na minuta."
+   ],
+   "tip": "Antes de fixar o preço, calcule quanto lhe resta líquido após impostos, quitação de gravames, comissão (se houver intermediário) e regularizações. Assim você sabe até onde pode negociar."
+  },
+  {
+   "h2": "Quando aparece um comprador: o adiantamento e a minuta",
+   "paras": [
+    "Se o comprador lhe oferece um adiantamento para reservar a casa, firme-o em um documento privado que indique o preço total, o valor do adiantamento, o prazo para assinar a minuta e o que acontece com o dinheiro se algum dos dois desistir. Receba por transferência bancária, nunca apenas em dinheiro sem recibo.",
+    "Depois um advogado redige a minuta de compra e venda, o notário a converte em escritura pública (escritura pública), paga-se o imposto sobre a transferência e o comprador registra em Direitos Reais. Quanto mais organizados estiverem seus papéis, mais rápido chega à assinatura e ao pagamento."
+   ]
+  },
+  {
+   "h2": "Como publicar para atrair compradores sérios",
+   "bullets": [
+    "Fotos com luz natural de todos os ambientes, da fachada e da rua.",
+    "Superfície do terreno e construída, exatamente como constam nos papéis.",
+    "Preço e moeda claros. Se aceita pagamento em bolivianos ou em dólares, informe.",
+    "Se os papéis estão em ordem e a casa serve para crédito bancário, mencione: amplia o número de compradores.",
+    "Localização correta no mapa, para que o comprador veja acessos e entorno."
+   ]
+  },
+  {
+   "h2": "Responder consultas sem perder tempo",
+   "paras": [
+    "Tenha preparado uma mensagem com os dados chave (superfície, documentos disponíveis, despesas, disponibilidade para visitas) e responda rápido. Antes de agendar uma visita, pergunte ao interessado se vai comprar à vista ou com crédito, e se já tem uma pré-qualificação. Isso ajuda a priorizar.",
+    "No Casa-Libre você pode publicar sua casa e receber consultas diretamente por WhatsApp, sem intermediários. Também pode gerir suas publicações pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quais documentos eu preciso para vender minha casa na Bolívia?",
+   "a": "Título (testamento), folio real atualizado, certificado alodial, imposto predial em dia, planta aprovada e registro cadastral, e sua cédula; se você for casado, também o certificado de casamento e a assinatura do seu cônjuge."
+  },
+  {
+   "q": "Posso vender uma casa herdada?",
+   "a": "Sim, depois que a declaratória de herdeiros estiver inscrita em Direitos Reais. Assinam todos os herdeiros ou seus procuradores."
+  },
+  {
+   "q": "Posso vender uma casa com hipoteca?",
+   "a": "Sim, coordenando com o banco para pagar a dívida e cancelar a hipoteca antes ou no mesmo ato da venda."
+  },
+  {
+   "q": "Quanto tempo leva para conseguir os papéis para vender?",
+   "a": "Depende da cidade e se há algo a regularizar. Solicite o folio real e o alodial assim que decidir vender, para ter margem caso apareça algum problema."
+  },
+  {
+   "q": "Quem paga o imposto de transferência?",
+   "a": "O regulamento coloca a responsabilidade sobre o vendedor como titular registrado, embora na prática seja negociado. Deixe isso escrito na minuta."
+  }
+ ],
+ "related": [
+  "Publique sua casa na Casa-Libre",
+  "Guia: documentos para vender um imóvel",
+  "Guia: quanto vale minha propriedade",
+  "Guia: impostos e despesas ao vender"
+ ]
+}

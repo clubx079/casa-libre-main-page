@@ -1,0 +1,111 @@
+{
+ "_src": "3adad5de86d6",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Viver em um condomínio fechado: vantagens, despesas e regras",
+  "h1": "Viver em um condomínio fechado: vantagens, custos e o que perguntar antes",
+  "description": "Prós e contras de comprar ou alugar em um condomínio fechado no Paraguai: segurança, despesas, regulamento interno e o que perguntar antes de assinar.",
+  "answer": "Um condomínio fechado oferece segurança com controle de acesso, áreas comuns e um ambiente mais tranquilo, em troca de pagar despesas todos os meses e aceitar um regulamento interno que limita o que você pode fazer (construir, alugar, ter animais de estimação, fazer barulho). Antes de comprar ou alugar, peça o regulamento, as últimas boletas de despesas e o extrato de contas da unidade, e pergunte quais obras ou aumentos estão previstos."
+ },
+ "sections": [
+  {
+   "h2": "O que é um condomínio fechado",
+   "paras": [
+    "No uso cotidiano, \"condomínio fechado\" designa um conjunto de casas, dúplex ou lotes com um perímetro fechado, uma entrada controlada e espaços que todos os proprietários compartilham: ruas internas, portaria, áreas verdes, piscina, quincho ou quadra. Na área metropolitana de Assunção e em outras cidades do país é uma forma de viver cada vez mais presente.",
+    "Jurídicamente, cada proprietário é dono da sua unidade e copropietário das partes comuns. Essa copropiedade se organiza com um regulamento e uma administração, que cobra as expensas para manter o comum."
+   ]
+  },
+  {
+   "h2": "O que você ganha",
+   "bullets": [
+    "Segurança: guarda, controle de visitas e câmeras em muitos casos. Para muitas famílias é o motivo principal.",
+    "Ruas internas tranquilas, com pouco trânsito: as crianças podem andar de bicicleta.",
+    "Áreas comuns que em uma casa individual seriam caras de ter: piscina, quincho, academia, quadras.",
+    "Um entorno mais homogêneo, com regras de construção que cuidam da aparência do conjunto.",
+    "Manutenção de ruas, iluminação e áreas verdes a cargo da administração."
+   ]
+  },
+  {
+   "h2": "O que você renuncia",
+   "bullets": [
+    "Expensas mensais que podem subir com o tempo, e expensas extraordinárias para obras grandes.",
+    "Um regulamento que lhe diz o que pode construir, de que cor pintar, se pode ter certos animais ou alugar por temporada.",
+    "Decisões coletivas: o que se vota em assembleia obriga mesmo que você não concorde.",
+    "Muitas vezes, maior distância a comércios e serviços, o que faz depender do carro.",
+    "Menos privacidade que uma casa em um bairro aberto: há vizinhos, portaria e registro de visitas."
+   ]
+  },
+  {
+   "h2": "Expensas: como entendê-las antes de se comprometer",
+   "paras": [
+    "As expensas são o custo de viver no condomínio e não são negociadas individualmente. Seu valor depende da quantidade de unidades, do tamanho das áreas comuns, da quantidade de guardas e dos serviços. Por isso dois condomínios parecidos podem ter expensas muito distintas.",
+    "Peça as boletas dos últimos meses e pergunte o que incluem. Distinga entre as expensas ordinárias (gastos de todos os meses) e as extraordinárias (obras, reparos grandes, melhorias votadas). Se comprar, peça também uma constatação de que a unidade não tem dívidas de expensas: conforme como esteja redigido o regulamento, a dívida do dono anterior pode se tornar um problema seu."
+   ],
+   "tip": "Some as expensas à parcela do crédito ou ao aluguel quando fizer seu orçamento. É um gasto fixo tão importante quanto o preço."
+  },
+  {
+   "h2": "O regulamento interno: leia-o inteiro",
+   "paras": [
+    "O regulamento é o contrato de convivência do condomínio. Antes de comprar ou alugar, solicite-o e leia-o com calma. Estes são os pontos que mais geram problemas:"
+   ],
+   "bullets": [
+    "Normas de construção e ampliação: recuos, alturas, materiais, aprovação prévia de plantas pela administração.",
+    "Animais de estimação: se são permitidos, quantos, de que tamanho e onde podem circular.",
+    "Aluguel das unidades: se é permitido, com quais requisitos, e se são aceitos aluguéis por dias ou temporada.",
+    "Horários de obras, ruídos e uso de áreas comuns.",
+    "Entrada de visitas, fornecedores e pessoal doméstico.",
+    "Como são convocadas e votadas as assembleias, e quanto pesa o voto de cada unidade."
+   ]
+  },
+  {
+   "h2": "Perguntas antes de comprar em um condomínio",
+   "paras": [
+    "Se o condomínio ainda está em desenvolvimento, some as precauções de uma compra na planta: trajetória da incorporadora, licenças municipais e um contrato que fixe o que será entregue e quando."
+   ],
+   "steps": [
+    "O condomínio está formalmente constituído e cada lote tem seu título individual?",
+    "Quem administra: uma empresa, uma comissão de proprietários ou ainda a incorporadora?",
+    "Quanto são as expensas hoje e quanto aumentaram recentemente?",
+    "Há obras previstas ou expensas extraordinárias aprovadas?",
+    "A unidade está em dia com expensas, imposto imobiliário e serviços?",
+    "As ruas internas, a rede de água e a eletricidade estão concluídas e habilitadas?"
+   ]
+  },
+  {
+   "h2": "Se você vai alugar dentro de um condomínio",
+   "paras": [
+    "Como inquilino você também deve cumprir o regulamento, ainda que não o tenha assinado. Peça ao dono uma cópia e pergunte quem paga as expensas: o habitual é que as ordinárias fiquem a cargo do inquilino e as extraordinárias do proprietário, mas isso deve estar escrito no contrato. Pergunte também como seu ingresso e o de suas visitas são registrados, e se pode usar as áreas comuns nas mesmas condições que um proprietário."
+   ]
+  },
+  {
+   "h2": "Compare condomínios e bairros abertos",
+   "paras": [
+    "Antes de decidir, veja o que há nas duas opções dentro do seu orçamento. No Casa-Libre você pode filtrar casas e dúplex à venda ou aluguel no mapa e perguntar direto por WhatsApp as expensas e o regulamento. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto se paga de despesas em um condomínio fechado?",
+   "a": "Varia muito conforme a quantidade de unidades, a segurança e as áreas comuns. Peça as boletas dos últimos meses e pergunte se há despesas extraordinárias aprovadas antes de se comprometer."
+  },
+  {
+   "q": "Quem paga as despesas se eu alugar uma casa em um condomínio?",
+   "a": "Depende do contrato. O habitual é que o inquilino pague as despesas ordinárias e o proprietário as extraordinárias, mas isso deve ficar por escrito."
+  },
+  {
+   "q": "Posso construir o que quiser no meu lote dentro de um condomínio?",
+   "a": "Não. O regulamento costuma fixar recuos, alturas, materiais e aprovação prévia de plantas, além das normas da municipalidade."
+  },
+  {
+   "q": "É possível alugar por dias em um condomínio?",
+   "a": "Depende do regulamento interno. Alguns permitem, outros proíbem ou limitam; verifique antes de comprar se você pretende alugar."
+  }
+ ],
+ "related": [
+  "Casas em venda",
+  "Dúplex em venda",
+  "Casas em aluguel"
+ ]
+}

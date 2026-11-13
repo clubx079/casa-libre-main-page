@@ -1,0 +1,115 @@
+{
+ "_src": "222e1bbc199e",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a House in Uruguay as a Foreigner or from Abroad",
+  "h1": "Buying a House or an Apartment in Uruguay as a Foreigner",
+  "description": "How a foreigner buys in Uruguay: documents, escribano, source of funds, apostilled power of attorney for buying from abroad, taxes and what happens if you later want to rent it out.",
+  "answer": "A foreigner can buy a house or an urban apartment in Uruguay with the same steps as a Uruguayan: reservation ticket, title search and escritura ante escribano. You do not need residency to buy; a passport is enough. What they will ask you for is to justify the source of the money, because the escribanos and real-estate agencies have control obligations. If you cannot travel, you can buy through a representative with a power of attorney granted in your country and apostilled. Buying does not grant residency by itself."
+ },
+ "sections": [
+  {
+   "h2": "Yes, you can: you don’t have to be a resident",
+   "paras": [
+    "For urban properties, Uruguay does not place special restrictions based on nationality. Searches from Spain, Argentina, Brazil and other countries are common, and the process is the same as for a local buyer.",
+    "What changes are some procedures: how you identify yourself, how you bring the money and how you sign if you are not in the country. And, if you later want to rent it out, how you are taxed on those rentals."
+   ]
+  },
+  {
+   "h2": "Documents you will need",
+   "bullets": [
+    "Valid passport (or Uruguayan ID if you already have residency).",
+    "Your marital status; if you are married, in some cases also your spouse’s details.",
+    "Documentation of the source of funds: bank statements, sale of another property, inheritance, declared savings.",
+    "Address abroad and, if you will have income in Uruguay, the corresponding registration with the DGI."
+   ]
+  },
+  {
+   "h2": "The source of the funds",
+   "paras": [
+    "Law 19.574 on anti-money laundering includes real-estate agencies, promoters and construction companies, and the escribano (notary) when they intervene in sales. In practice, that means they will ask you for documentation that justifies where the money comes from, especially for large amounts.",
+    "Have the papers ready from the start. A purchase can be delayed days or weeks if the escribano cannot complete that due diligence."
+   ],
+   "tip": "Pay by bank transfer from an account in your name. Avoid cash: it complicates fund justification and exposes you to risks."
+  },
+  {
+   "h2": "Buying without traveling: the power of attorney",
+   "paras": [
+    "If you cannot be present for the signing, you can give a power of attorney to a trusted person in Uruguay. The power is granted before a notary in your country and, if your country is a party to the Hague Convention, it is legalized with an apostille. If not, it is legalized through a consular channel. Then, in Uruguay, it is protocolized and, if it is in another language, it is translated.",
+    "Ask your Uruguayan escribano for the exact text of the power before you sign it in your country: a power that is too general or poorly drafted may not be valid for the escritura (public deed)."
+   ],
+   "steps": [
+    "Choose an escribano in Uruguay and request the power of attorney template.",
+    "Sign it before a notary in your country and get it apostilled.",
+    "Send it to Uruguay; the escribano protocolizes it and, if needed, translates it.",
+    "Your attorney signs the boleto and the escritura in your name."
+   ]
+  },
+  {
+   "h2": "Currency and payment method",
+   "paras": [
+    "Property sales in Uruguay are mostly agreed in US dollars. If your money is in euros or another currency, calculate the exchange cost and international transfer fees. Coordinate with your bank on timing: an international transfer can take several days to be credited."
+   ]
+  },
+  {
+   "h2": "What about a mortgage?",
+   "paras": [
+    "There is demand for mortgage credit for foreigners, but Uruguayan banks usually require demonstrable income in the country, credit history and, sometimes, residency. If you do not live in Uruguay, the most realistic option is to buy with your own funds or financing from your country. Check directly with each bank."
+   ]
+  },
+  {
+   "h2": "Taxes when buying and owning the property",
+   "paras": [
+    "When buying, you pay the Impuesto a las Transmisiones Patrimoniales (ITP), which according to the DGI is 2% for the buyer on the real value set by the Cadastre, in addition to the escribano’s fees. While you own it, you pay the property contribution of the department where the property is located and, in urban areas, the Primary tax.",
+    "If you rent it out, the rentals are subject to income tax: non-residents are taxed under the IRNR and residents under the IRPF. Consult an accountant before listing the rental."
+   ]
+  },
+  {
+   "h2": "Buying does not give you residency",
+   "paras": [
+    "Legal residency is processed before the Dirección Nacional de Migración with its own requirements. Owning a property can help you demonstrate ties or means of livelihood, but it does not automatically grant residency."
+   ]
+  },
+  {
+   "h2": "Common mistakes by foreign buyers",
+   "bullets": [
+    "Reserving based only on photos and video, without anyone you trust visiting the property.",
+    "Signing the boleto without your own escribano, relying on the seller’s or the agency’s.",
+    "Not calculating currency exchange and transfer costs.",
+    "Forgetting the costs of keeping the property vacant: contribution, common expenses, insurance.",
+    "Giving a power that is too broad, allowing more actions than necessary."
+   ]
+  },
+  {
+   "h2": "Searching from afar",
+   "paras": [
+    "Look at the area on the map, request video calls and have someone you trust visit before reserving. At Casa-Libre you can see properties in Montevideo, Maldonado, Punta del Este, Canelones and other cities on the map and write directly via WhatsApp, also from the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a foreigner buy a house in Uruguay?",
+   "a": "Yes. For urban properties you do not need to be resident: with a passport and the same steps as a local buyer, plus justification of the source of funds."
+  },
+  {
+   "q": "Can I buy in Uruguay without traveling?",
+   "a": "Yes, through a representative with a power of attorney granted in your country and apostilled, which is then recorded in Uruguay."
+  },
+  {
+   "q": "Does buying a house give me Uruguayan residency?",
+   "a": "No automatically. Residency is processed before the Dirección Nacional de Migración with its own requirements."
+  },
+  {
+   "q": "In what currency are properties bought in Uruguay?",
+   "a": "Mostly in US dollars, although another currency can be agreed upon."
+  }
+ ],
+ "related": [
+  "Propiedades en Montevideo",
+  "Propiedades en Punta del Este",
+  "Propiedades en venta",
+  "Guía: cómo comprar tu primera casa"
+ ]
+}

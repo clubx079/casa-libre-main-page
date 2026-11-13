@@ -1,0 +1,110 @@
+{
+ "_src": "48afa81fcb38",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to avoid scams when buying or renting a property",
+  "h1": "How to avoid real estate scams when buying or renting in Paraguay",
+  "description": "The signs of a fake listing, how to verify that the seller or landlord is the owner, and why you should never pay a deposit without seeing the property or signing anything.",
+  "answer": "The golden rule is simple: do not pay anything (neither deposit, nor reservation, nor \"deposit to hold the property\") without having seen the interior, without knowing who the owner is and without a signed document. Be wary of prices far below the area, owners who claim to be abroad and ask for transfers, and artificial urgency. In a purchase, the escribano (notary) verifies ownership with a domain condition report from the Registro Público before signing."
+ },
+ "sections": [
+  {
+   "h2": "How the most common scams work",
+   "paras": [
+    "Most real-estate scams don’t need a property: they use copied photos from other listings, an attractive price and pressure to pay before you think. The goal is almost always the same: to get you to transfer a deposit, a reservation fee or a down-payment to an account that later disappears.",
+    "Another, more serious variant is the sale of a real property by someone who is not the owner or cannot sell it alone (an heir who does not have the consent of the others, a mortgaged or seized property, a land with overlapping titles). There the damage can be much greater, because there are already documents and money involved."
+   ]
+  },
+  {
+   "h2": "Red flags in a listing",
+   "bullets": [
+    "Price far below comparable properties in the same area, without a clear explanation.",
+    "The advertiser says they are abroad, traveling or \"very busy\" and cannot show the property, but offers to send you the keys or the contract if you transfer first.",
+    "They ask for a deposit or reservation \"so someone else doesn’t take it\" before any viewing.",
+    "Professional-quality photos that also appear in other listings with a different price or in another city.",
+    "Imprecise address that never gets fully confirmed.",
+    "Time pressure: \"there are three interested parties\", \"only today at this price\".",
+    "Payment request to a third-party account that is neither the owner nor the real-estate agency."
+   ],
+   "tip": "Do a reverse image search of the listing photos (for example with Google Lens). If they appear on other portals with different data, stop."
+  },
+  {
+   "h2": "How to verify that the seller is the owner",
+   "paras": [
+    "In a purchase, the formal verification is done by the escribano (notary) before the escritura: they request from the Dirección General de los Registros Públicos the report or certificate of ownership condition, which shows in whose name the property is registered and whether it has mortgages, seizures or other restrictions. This procedure can also be done online through the Sistema de Gestión Registral (SIGRE), available for escribanos and lawyers.",
+    "You, as the buyer, can ask from the start for a copy of the title and the seller’s ID, and compare that the names match. If the person showing you the property is someone else, ask them to explain in what capacity they are acting: real-estate agency with the owner’s authorization, attorney-in-fact with a power of attorney, or heir. Each case has its own paperwork."
+   ],
+   "bullets": [
+    "The name on the title matches the ID of the seller.",
+    "If it is an inheritance, ask whether it is finalized and who the heirs are.",
+    "If an attorney-in-fact is acting, ask to see the power of attorney and have your escribano verify it.",
+    "If it is a real-estate agency, ask for the signed sale authorization from the owner."
+   ]
+  },
+  {
+   "h2": "The deposit: when and how to pay it",
+   "paras": [
+    "The deposit is a normal practice, but it has a timing: after you have seen the property, have a clear idea of the documentation and have a receipt or boleto signed that states how much you pay, for which property, what happens if either party backs out and the deadline for the escritura.",
+    "Pay it to the title holder or the real-estate agency representing them, never to third parties, and preferably by bank transfer to an account in that person’s or company’s name, so there is a record. Many buyers prefer the deposit to be held by the escribano until the escritura."
+   ]
+  },
+  {
+   "h2": "Scams in rentals",
+   "paras": [
+    "In rentals the scheme is usually smaller but more frequent: a listing for a nice, cheap apartment, an \"owner\" who cannot show it and asks for the first month’s rent and the security deposit upfront to reserve it. Sometimes the property exists and is rented by someone else; sometimes it does not exist at all."
+   ],
+   "bullets": [
+    "Do not pay anything before you visit the interior of the property.",
+    "Sign the contract before or at the same time you pay, never after.",
+    "Ask to see an ANDE bill or the property tax invoice in the owner’s name, or the real-estate agency’s authorization.",
+    "Be wary of anyone who only accepts cash or money orders in another person’s name."
+   ]
+  },
+  {
+   "h2": "Land: the case that requires the most caution",
+   "paras": [
+    "With land the risk is not only a fake listing. There are lots that in practice are fiscal lands, properties with overlapping titles or \"rights\" over an occupation that cannot be formalized. Before paying for a lot, ask for the cuenta corriente catastral or registry, the title and the ownership-condition report, and let an escribano or surveyor confirm that what you see on site matches what the documents say. We explain this in detail in the article on how to know if a land has an owner."
+   ]
+  },
+  {
+   "h2": "If you have already paid and suspect a scam",
+   "steps": [
+    "Keep everything: screenshots of the listing, chats, transfer receipts, phone numbers.",
+    "Notify your bank immediately to try to stop or trace the transfer.",
+    "File a complaint with the Policía Nacional or the Ministerio Público.",
+    "Report the listing on the site where you saw it so it doesn’t happen to someone else."
+   ]
+  },
+  {
+   "h2": "How to search more safely on Casa-Libre",
+   "paras": [
+    "On Casa-Libre you talk directly via WhatsApp with the owner or the real-estate agency that posted, and using the site is free: no one from Casa-Libre will ask you for a deposit or payment to view a property. If a listing looks suspicious, you can report it for the team to review. The same applies from the Casa-Libre app for iPhone and Android.",
+    "Just like on any portal, the final verification of the property and the owner is done by you with your escribano before paying."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a rental listing is fake?",
+   "a": "Typical signs are a price far below the area, an owner who cannot show the property and a request for payment before a visit. Search for the photos on other sites and do not pay anything without seeing the property and without a contract."
+  },
+  {
+   "q": "How do I verify who owns a property?",
+   "a": "The escribano requests the domain condition report from the Dirección General de los Registros Públicos, which indicates the registered owner and whether there are mortgages or liens. You can ask for a copy of the title beforehand and compare it with the seller's ID."
+  },
+  {
+   "q": "Is it normal to pay a deposit?",
+   "a": "Yes, but after seeing the property, with a receipt or boleto signed that states the conditions, and paying it to the owner, the real estate agency representing them, or the escribano, never to third parties."
+  },
+  {
+   "q": "What should I do if I was scammed?",
+   "a": "Keep all evidence, notify your bank, file a complaint with the Policía Nacional or the Ministerio Público and report the listing on the site where you found it."
+  }
+ ],
+ "related": [
+  "Properties for sale",
+  "Properties for rent",
+  "Guide: how to buy your first home"
+ ]
+}

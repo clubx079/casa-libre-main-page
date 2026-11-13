@@ -1,0 +1,125 @@
+{
+ "_src": "6369f874ee8f",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contribuição imobiliária no Uruguai: o que é e quem paga",
+  "h1": "Contribuição imobiliária: o que é, quem paga e como verificar dívidas antes de comprar ou alugar",
+  "description": "O que é a contribuição imobiliária no Uruguai, quem paga (proprietário ou inquilino), o imposto de Primária, taxas departamentais e como verificar se um imóvel não tem dívidas antes de comprar.",
+  "answer": "A contribuição imobiliária é o imposto anual que cobra cada Intendência sobre os imóveis de seu departamento, calculado a partir do valor cadastral, e geralmente pode ser pago em parcelas. A paga o proprietário. Em um aluguel, salvo se o contrato disser outra coisa, continua a cargo do dono, embora alguns contratos repassem taxas ao inquilino. A isso soma-se, nas áreas urbanas, o imposto de Ensino Primário. Se você for comprar, seu escribano (tabelião) verifica que ambos estejam em dia: uma dívida de contribuição acompanha o imóvel e convém que o vendedor a quite antes de escriturar."
+ },
+ "sections": [
+  {
+   "h2": "O que é a contribuição imobiliária",
+   "paras": [
+    "É um tributo departamental: o fixa e cobra a Intendência de cada departamento (Montevidéu, Canelones, Maldonado, etc.), por isso as buscas são sempre \"contribuição imobiliária Montevidéu\", \"Maldonado\", \"Salto\"... Cada uma tem seu próprio sistema de cálculo, vencimentos, descontos por pagamento anual e isenções.",
+    "É calculada a partir do valor cadastral do cadastro. Por isso, duas propriedades com o mesmo preço de mercado podem pagar contribuições distintas. Para saber quanto paga uma propriedade concreta, o mais direto é pedir ao dono o último recibo ou consultar no site da Intendência com o número do cadastro."
+   ]
+  },
+  {
+   "h2": "Os outros tributos que acompanham o imóvel",
+   "table": {
+    "head": [
+     "Tributo",
+     "Quem o cobra",
+     "O que saber"
+    ],
+    "rows": [
+     [
+      "Contribuição imobiliária",
+      "A Intendência do departamento",
+      "Anual, em parcelas; base no valor cadastral"
+     ],
+     [
+      "Imposto de Ensino Primário",
+      "Nacional, para imóveis urbanos e suburbanos",
+      "Tem isenções conforme o valor e o uso"
+     ],
+     [
+      "Taxas departamentais",
+      "A Intendência",
+      "Por exemplo, taxas de serviços; variam por departamento"
+     ],
+     [
+      "Saneamento",
+      "Intendência ou OSE conforme a zona",
+      "A Lei 18.840 obriga a conexão se houver rede frente ao imóvel"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Em um aluguel, quem paga?",
+   "paras": [
+    "Regra geral, os tributos que gravam a propriedade, como a contribuição imobiliária e o Primário, são pagos pelo proprietário. Mas o contrato pode dizer outra coisa, e há contratos que repassam ao inquilino alguma taxa ou parte dos tributos.",
+    "No regime sem garantia da LUC, a lei prevê que se o dono teve que pagar duas ou mais mensalidades de tributos que o contrato ou a lei colocavam a cargo do inquilino, essa dívida se soma ao aluguel. Por isso é importante saber, antes de assinar, quais tributos cabem a você."
+   ],
+   "tip": "Se o anúncio diz \"aluguel + despesas\", pergunte o que inclui \"despesas\": só despesas comuns, ou também contribuição e taxas?"
+  },
+  {
+   "h2": "Se você vai comprar: como verificar que não há dívidas",
+   "paras": [
+    "A dívida de contribuição imobiliária acompanha o imóvel, não a pessoa. Se comprar uma propriedade com dívida, a Intendência pode cobrá-la de você. Por isso, em toda compra e venda:"
+   ],
+   "steps": [
+    "Peça ao vendedor o número do cadastro e o último recibo pago.",
+    "Consulte a dívida no site da Intendência com o cadastro, ou peça que faça seu escribano (tabelião).",
+    "Seu escribano solicita os certificados de que a contribuição e o Primário estão em dia.",
+    "Se houver dívida, combine por escrito que o vendedor a cancele antes de escriturar ou que seja descontada do preço."
+   ]
+  },
+  {
+   "h2": "Como e onde pagar",
+   "paras": [
+    "Cada Intendência permite pagar online e nas redes de cobrança. Em Montevidéu, por exemplo, a Intendência tem um trâmite online de contribuição imobiliária com consulta de dívida e emissão de recibos. Geralmente há desconto por pagar o ano completo antecipadamente e juros por atraso.",
+    "Se você for aposentado ou pensionista, se o imóvel for sua única residência e de baixo valor, ou se for de uma cooperativa de usuários, pode haver isenções ou descontos. Consulte na sua Intendência."
+   ]
+  },
+  {
+   "h2": "Se você é dono e vai vender ou alugar",
+   "paras": [
+    "Ter os tributos em dia economiza atrasos: o escribano do comprador vai exigir isso sim ou sim. Se alugar, deixe claro no contrato quem paga cada tributo e taxa."
+   ]
+  },
+  {
+   "h2": "Como usar isso para comparar propriedades",
+   "paras": [
+    "Ao comparar duas propriedades para comprar, some ao preço o custo anual de mantê-las: contribuição imobiliária, Primário, despesas comuns se for apartamento, e seguros. Dividido por doze, é um custo mensal que você pagará todos os meses enquanto for dono, como uma parcela.",
+    "Como a contribuição é calculada a partir do valor cadastral e cada Intendência tem seu próprio sistema, uma casa em um departamento pode pagar bastante mais ou menos que outra semelhante no departamento vizinho. Se estiver em dúvida entre uma propriedade em Montevidéu e outra em Canelones, peça os recibos das duas."
+   ]
+  },
+  {
+   "h2": "Antes de decidir",
+   "paras": [
+    "Ao consultar um anúncio, pergunte quanto se paga de contribuição imobiliária por ano e se está em dia. É parte do custo real de ter essa propriedade. No Casa-Libre você pode ver propriedades em Montevidéu, Canelones, Maldonado e outras cidades no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "É possível pagar a contribuição imobiliária em parcelas?",
+   "a": "Em geral sim: as Intenções permitem pagar em parcelas ao longo do ano e costumam oferecer desconto por pagamento anual antecipado. Consulte os vencimentos do seu departamento."
+  },
+  {
+   "q": "Quem paga a contribuição imobiliária em um aluguel?",
+   "a": "Em geral o proprietário. Mas o contrato pode repassar tributos ou taxas ao inquilino: verifique essa cláusula antes de assinar."
+  },
+  {
+   "q": "Como sei se um imóvel deve contribuição imobiliária?",
+   "a": "Com o número de cadastro você pode consultar no site da Intendência do departamento. Em uma compra, o escribano pede os certificados."
+  },
+  {
+   "q": "A dívida de contribuição passa para o comprador?",
+   "a": "Sim, a dívida vai com o imóvel. Por isso o escribano controla que esteja em dia e o habitual é que o vendedor a quite."
+  },
+  {
+   "q": "O que é o imposto de Primária?",
+   "a": "Um imposto nacional sobre imóveis urbanos e suburbanos destinado ao ensino primário, com isenções conforme o valor e o uso."
+  }
+ ],
+ "related": [
+  "Propriedades em Montevidéu",
+  "Propriedades em Canelones",
+  "Guia: custos ao comprar"
+ ]
+}

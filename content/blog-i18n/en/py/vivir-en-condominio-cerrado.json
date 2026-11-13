@@ -1,0 +1,111 @@
+{
+ "_src": "3adad5de86d6",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Living in a gated condominium: advantages, fees and rules",
+  "h1": "Living in a gated condominium: advantages, costs and what to ask before",
+  "description": "Pros and cons of buying or renting in a gated condominium in Paraguay: security, fees, internal regulations and what to ask before signing.",
+  "answer": "A gated condominium offers security with access control, common areas and a quieter environment, in exchange for paying fees every month and accepting an internal regulation that limits what you can do (build, rent, have pets, make noise). Before buying or renting, request the regulation, the latest fee invoices and the unit’s account statement, and ask what works or fee increases are planned."
+ },
+ "sections": [
+  {
+   "h2": "What a gated condominium is",
+   "paras": [
+    "In everyday use, \"gated condominium\" refers to a group of houses, duplexes or lots with a closed perimeter, a controlled entrance and spaces shared by all owners: internal streets, gatehouse, green areas, pool, barbecue area or court. In the metropolitan area of Asunción and other cities in the country it is an increasingly common way of living.",
+    "Legally, each owner owns their unit and is co-owner of the common parts. That co-ownership is organized with a set of rules and an administration that collects the expensas to maintain the common areas."
+   ]
+  },
+  {
+   "h2": "What you gain",
+   "bullets": [
+    "Security: guard, visitor control and cameras in many cases. For many families this is the main reason.",
+    "Quiet internal streets with little traffic: kids can ride bikes.",
+    "Common areas that would be expensive for an individual house: pool, barbecue area, gym, courts.",
+    "A more homogeneous environment, with construction rules that preserve the look of the development.",
+    "Maintenance of streets, lighting and green spaces handled by the administration."
+   ]
+  },
+  {
+   "h2": "What you give up",
+   "bullets": [
+    "Monthly expensas that can increase over time, and extraordinary expensas for large works.",
+    "A set of rules that tells you what you can build, what color you can paint, whether you can have certain animals or rent seasonally.",
+    "Collective decisions: what is voted on in the assembly binds you even if you disagree.",
+    "Often a greater distance to shops and services, making you dependent on a car.",
+    "Less privacy than a house in an open neighborhood: there are neighbors, a gatehouse and a visitor log."
+   ]
+  },
+  {
+   "h2": "Expensas: how to understand them before committing",
+   "paras": [
+    "Expensas are the cost of living in the condominium and are not negotiated individually. Their amount depends on the number of units, the size of the common areas, the number of guards and the services. That is why two similar condominiums can have very different expensas.",
+    "Ask for the bills from the last months and find out what they include. Distinguish between ordinary expensas (monthly expenses) and extraordinary expensas (large works, major repairs, voted improvements). If you buy, also request a certificate that the unit has no expensas debt: depending on how the rules are written, the previous owner's debt can become your problem."
+   ],
+   "tip": "Add the expensas to your loan payment or rent when you make your budget. It is a fixed cost as important as the price."
+  },
+  {
+   "h2": "Internal rules: read the whole thing",
+   "paras": [
+    "The rules are the condominium's living contract. Before buying or renting, request them and read them calmly. These are the points that generate the most problems:"
+   ],
+   "bullets": [
+    "Construction and expansion standards: setbacks, heights, materials, prior approval of plans by the administration.",
+    "Pets: if allowed, how many, what size and where they can move.",
+    "Rental of units: if permitted, what requirements, and whether short-term or seasonal rentals are accepted.",
+    "Work schedules, noise and use of common areas.",
+    "Entry of visitors, suppliers and domestic staff.",
+    "How assemblies are called and voted, and how much weight each unit's vote carries."
+   ]
+  },
+  {
+   "h2": "Questions before buying in a condominium",
+   "paras": [
+    "If the condominium is still under development, add the precautions of a purchase off-plan: developer track record, municipal permits and a contract that specifies what is delivered and when."
+   ],
+   "steps": [
+    "Is the condominium formally constituted and does each lot have its own individual title?",
+    "Who manages it: a company, an owners' committee or still the developer?",
+    "What are the expensas today and how much have they increased recently?",
+    "Are there planned works or approved extraordinary expensas?",
+    "Is the unit up to date with expensas, property tax and services?",
+    "Are the internal streets, water network and electricity completed and operational?"
+   ]
+  },
+  {
+   "h2": "If you are going to rent inside a condominium",
+   "paras": [
+    "As a tenant you also have to comply with the rules, even if you did not sign them yourself. Ask the owner for a copy and find out who pays the expensas: usually ordinary expensas are the tenant's responsibility and extraordinary expensas the owner's, but it must be written in the contract. Also ask how your entry and that of your visitors are recorded, and whether you can use the common areas under the same conditions as an owner."
+   ]
+  },
+  {
+   "h2": "Compare condominiums and open neighborhoods",
+   "paras": [
+    "Before deciding, see what each option offers within your budget. On Casa-Libre you can filter houses and duplexes for sale or rent on the map and ask directly via WhatsApp about the expensas and the rules. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much are the fees in a gated condominium?",
+   "a": "It varies a lot depending on the number of units, security and common areas. Request the invoices from the last months and ask if any extraordinary fees have been approved before committing."
+  },
+  {
+   "q": "Who pays the fees if I rent a house in a condominium?",
+   "a": "It depends on the contract. Usually the tenant pays the ordinary fees and the owner pays the extraordinary ones, but it must be written down."
+  },
+  {
+   "q": "Can I build whatever I want on my lot inside a condominium?",
+   "a": "No. The regulation usually sets setbacks, heights, materials and prior approval of plans, in addition to municipal rules."
+  },
+  {
+   "q": "Can I rent by the day in a condominium?",
+   "a": "It depends on the internal regulation. Some allow it, others prohibit or limit it; check it before buying if you plan to rent."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Duplex for sale",
+  "Houses for rent"
+ ]
+}

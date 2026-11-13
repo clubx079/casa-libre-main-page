@@ -1,0 +1,134 @@
+{
+ "_src": "ec15e169b1fc",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to Know if an Area Floods Before Buying or Renting",
+  "h1": "How to Know if a House or Street Floods Before Buying or Renting",
+  "description": "Flash floods, rises of the Paraguay River and yards that fill with water: how to detect a property's flood risk and what to ask the owner.",
+  "answer": "To know if a property floods, visit it after a heavy rain, ask the neighbors, look for water marks on walls and gates, check if the street has storm drainage and if the house is on a slope or in a low area near the river. In Asunción and surrounding areas there are two different risks: flash floods, which form on streets during intense storms, and rises of the Paraguay River, which affect riverside zones. Ask the owner in writing if water has ever entered."
+ },
+ "sections": [
+  {
+   "h2": "Two distinct risks: flash floods and river rises",
+   "paras": [
+    "When floods are discussed in the Asunción area, two phenomena that have nothing to do with each other are usually mixed and evaluated differently.",
+    "Flash floods occur during and right after heavy rains: water rushes down streets on a slope with great force, carries objects and can enter garages and houses that are below street level. They last hours, but repeat with each strong storm.",
+    "River Paraguay rises are slow and seasonal: the river level climbs over weeks or months and affects low-lying and riverside areas, such as floodplains. They can force families to leave their homes for a long period."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Flash flood",
+     "River rise"
+    ],
+    "rows": [
+     [
+      "When it happens",
+      "With each strong storm",
+      "During high-river seasons"
+     ],
+     [
+      "How long it lasts",
+      "Hours",
+      "Weeks or months"
+     ],
+     [
+      "Where",
+      "Sloping streets, down-slopes, crossings without drainage",
+      "Low areas near the river"
+     ],
+     [
+      "How it looks in the house",
+      "Water in the garage, broken sidewalks, low water marks",
+      "High water marks, humidity, wall repairs"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The best test: go after the rain",
+   "paras": [
+    "If you can, revisit the property the same day as a storm or the next day. You will see live how the block behaves: whether water runs along the front, pools in the corner, or the yard drains. No photo in the listing gives you that information.",
+    "If there is no rain, walk the entire block and look at the slope: if the house sits at the bottom of a down-slope, water from the whole street will flow past its front."
+   ]
+  },
+  {
+   "h2": "Signs in the house worth checking",
+   "paras": [
+    "No single sign proves the house floods, but if you see several together, ask directly."
+   ],
+   "bullets": [
+    "Horizontal marks on walls, fences or gates: they usually remain at the height the water reached.",
+    "New paint only on the lower part of walls, or repaired plaster at the same height in several rooms.",
+    "Humidity, stale odor or lifted wooden floors.",
+    "Improvised steps or makeshift ramps at the garage entrance to slow the water.",
+    "Sandbags, floodgates or boards stored near the door.",
+    "Patio grates and drains clogged or insufficient."
+   ]
+  },
+  {
+   "h2": "Talk to the neighbors",
+   "paras": [
+    "Neighbors are the most honest source you will find. Ask them if the street gets cut off by rain, if water ever entered houses and what happened in the last big storm. The corner store or pantry usually knows everything.",
+    "If you are buying, also ask if there have been storm-water drainage works in the area: sometimes a problem that existed has been solved, and other times the work has been promised for years."
+   ]
+  },
+  {
+   "h2": "Check the land on the map",
+   "paras": [
+    "Satellite and relief maps on your phone show whether the property is near a stream, a channel or the riverbank. A house a few blocks from a stream or at the lowest part of a neighborhood deserves more questions than one on a hill.",
+    "You can also consult the municipality to see if the area has a history of flooding or construction restrictions. To follow river levels and storm alerts, the Dirección de Meteorología e Hidrología publishes forecasts and warnings."
+   ]
+  },
+  {
+   "h2": "What to ask the owner or agency",
+   "paras": [
+    "Ask the questions via WhatsApp or in writing, so the answer is recorded:"
+   ],
+   "steps": [
+    "Has water ever entered the house, garage or yard? When was the last time?",
+    "Does the street get cut off by heavy rains?",
+    "Were any works done to prevent water (grates, floor elevation, drains)?",
+    "If the house has insurance, does it cover floods?",
+    "In a rental: who is responsible for damage if water enters?"
+   ]
+  },
+  {
+   "h2": "If you still like the property",
+   "paras": [
+    "A street that experiences flash floods does not mean you have to discard the house. Many homes in flood-prone areas have elevated floors or good drainage and have never had problems. The important thing is to know it beforehand and have the price reflect it.",
+    "If you are buying, consider the cost of works such as raising garage access or improving yard drains, and get advice from a trusted architect or senior builder. If you are renting, put in writing in the contract who is responsible for water-related damage."
+   ]
+  },
+  {
+   "h2": "Search with the map in view",
+   "paras": [
+    "On Casa-Libre you see each property placed on the map, so you can look at its surroundings (streams, river, slopes) before visiting and ask the owner via WhatsApp. Also from the Casa-Libre app for iPhone and Android, which lets you save properties to review them after a rain."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a flash flood?",
+   "a": "It is the flow of water that forms on streets during intense rains, especially on sloped streets or those without sufficient storm drainage. It can be dangerous and enter garages and low houses."
+  },
+  {
+   "q": "How can I tell if a house has flooded before?",
+   "a": "Look for water marks on walls and gates, repairs at the same height in several rooms and humidity, and ask the neighbors and the owner in writing."
+  },
+  {
+   "q": "Do areas near the Paraguay River always flood?",
+   "a": "Not always, but low and riverside areas can be affected during rises. It is advisable to check records at the municipality and ask the neighbors."
+  },
+  {
+   "q": "If I rent and water gets in, who pays for the damage?",
+   "a": "It depends on the contract and the cause. The recommendation is that the contract state it explicitly before signing."
+  }
+ ],
+ "related": [
+  "Properties in Asunción on the map",
+  "Rentals on the map",
+  "Guide: how to buy your first house"
+ ]
+}

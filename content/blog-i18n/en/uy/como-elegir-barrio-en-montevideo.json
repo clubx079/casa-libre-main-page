@@ -1,0 +1,115 @@
+{
+ "_src": "ce8fecc1d347",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Where to Live in Montevideo: 6 Criteria for Choosing a Neighborhood",
+  "h1": "Where to Live in Montevideo: How to Choose the Neighborhood That Works for You",
+  "description": "There is no \"best neighborhood\" in Montevideo: there is one that fits your routine. Bus commutes, the waterfront and humidity, noise, house or apartment, services on foot, safety and budget.",
+  "answer": "To choose a neighborhood in Montevideo it helps to decide first on your routine and then on the reputation of the area: how long it takes you to get to work or to school by bus or car at the actual time, whether you want to be close to the rambla (with its wind and humidity), how much noise there is at night, what you have within walking distance and how much it costs to live there, adding common expenses if it is an apartment. Coastal and central neighborhoods concentrate services and apartments; the more traditional neighborhoods in the north and west tend to offer houses with more space for the same money."
+ },
+ "sections": [
+  {
+   "h2": "Start with your week, not the ranking",
+   "paras": [
+    "Searches for \"best neighborhoods in Montevideo\" are very common, but a ranking is of little use: what is ideal for a young couple who goes out at night is not ideal for a family with school-age children or for someone who works from home.",
+    "Before opening the map, write down the three or four places you go to every week and at what time: work, university, school, your family’s house, the club. That list will decide more than any recommendation."
+   ]
+  },
+  {
+   "h2": "Criterion 1: the real commute",
+   "paras": [
+    "Montevideo is a spread-out city and many people travel by bus. Look at which lines pass a few blocks away, how often, and whether they drop you off without a transfer where you need to go. The main avenues that go to the Centro and Ciudad Vieja get congested at rush hour, and the accesses from the east and west do as well.",
+    "Do the trip once, at the actual time, before signing. If you use a bicycle, see if there are bike lanes or quiet streets on your route: the rambla is an excellent path, but not all destinations are on it."
+   ]
+  },
+  {
+   "h2": "Criterion 2: the rambla, wind and humidity",
+   "paras": [
+    "Living near the rambla is one of Montevideo’s biggest attractions: walking, running, the beach. But it has downsides: more wind, salty air that damages openings and air conditioners, and in some buildings, more humidity. Montevideo in general is humid in winter.",
+    "In any neighborhood, check the orientation (an apartment facing north gets more sun in winter), look for moisture stains on walls and closets, and see how the ventilation is."
+   ],
+   "tip": "Visit the property on a rainy day or just after, and open the closets: that’s where moisture appears first."
+  },
+  {
+   "h2": "Criterion 3: noise and nightlife",
+   "paras": [
+    "Areas with more bars, restaurants and nightlife, in central or coastal neighborhoods, have advantages and noise. The avenues with heavy bus traffic, too. And the neighborhood fairs, which are part of many districts’ life, bring early-day movement when they are set up.",
+    "Come back at night and on a weekend. See if there are clubs nearby, a bus stop at the door, or a fair on the block."
+   ]
+  },
+  {
+   "h2": "Criterion 4: house or apartment",
+   "paras": [
+    "In coastal and central neighborhoods apartments dominate; in traditional northern and western neighborhoods it is easier to find houses with a yard or back area. In the far east of the city there are larger houses and residential zones with a different price."
+   ],
+   "table": {
+    "head": [
+     "If you prioritize…",
+     "Look for areas with…"
+    ],
+    "rows": [
+     [
+      "Walking everywhere and neighborhood life",
+      "Buildings in central or coastal neighborhoods, with shops on the block"
+     ],
+     [
+      "Space, yard or pets",
+      "Houses in traditional residential neighborhoods"
+     ],
+     [
+      "Beach and rambla",
+      "Coastal neighborhoods, accepting more wind and higher prices"
+     ],
+     [
+      "Lower monthly cost",
+      "Houses or buildings without concierge or amenities, with low common expenses"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Criterion 5: what you have on foot",
+   "paras": [
+    "Do the ten-block test: do you have a grocery store or supermarket, pharmacy, bakery, a polyclinic or your mutualist, a bus stop, a square? If you have children, a nearby school or high school weighs heavily. If you work from home, check the internet connection available in the building."
+   ]
+  },
+  {
+   "h2": "Criterion 6: security, looking at the block",
+   "paras": [
+    "Security is a frequent concern, and it’s best to look at it block by block, not by neighborhood: within the same district there are very different streets. Walk the area during day and night, check the lighting, talk to neighbors or the doorman, and ask about recent experiences. In a building, see how the access works."
+   ]
+  },
+  {
+   "h2": "Budget: the total cost, not just the price",
+   "paras": [
+    "To compare two options add rent or mortgage payment, common expenses, property tax if you buy, and transportation. A slightly more expensive apartment close to your work can end up cheaper than a distant one if it saves you bus fares or fuel.",
+    "On Casa-Libre you can see properties in Montevideo on the map, compare neighborhoods side by side and write directly by WhatsApp to the owner or the agency, also from the app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the best neighborhood to live in Montevideo?",
+   "a": "It depends on your routine, your budget and whether you prefer a house or an apartment. Choose based on commutes, noise, services on foot and total cost rather than the neighborhood’s reputation."
+  },
+  {
+   "q": "Is living in Montevideo expensive?",
+   "a": "It depends a lot on the area and the type of housing. Coastal neighborhoods tend to be pricier; the traditional ones in the north and west offer more space for the same money. Always add common expenses."
+  },
+  {
+   "q": "Is it worth living near the rambla?",
+   "a": "It has quality-of-life advantages, but also more wind, salt spray and sometimes humidity. Check the condition of windows and walls."
+  },
+  {
+   "q": "How can you tell if a Montevideo area is safe?",
+   "a": "Look at the block scale: walk during the day and at night, observe the lighting and talk to neighbors. Within the same neighborhood there are streets that are very different."
+  }
+ ],
+ "related": [
+  "Properties in Montevideo",
+  "Apartments for Rent",
+  "Houses for Sale",
+  "Alternatives: Ciudad de la Costa and Canelones"
+ ]
+}

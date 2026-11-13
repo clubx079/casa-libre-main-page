@@ -1,0 +1,119 @@
+{
+ "_src": "6585bc078dbe",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Property Tax on Real Estate in Bolivia: Practical Guide",
+  "h1": "Property Tax on Real Estate in Bolivia: what it is, who pays it, and how to verify it",
+  "description": "What the municipal property tax on real estate (IPBI) is in Bolivia, who pays it, what determines the amount, how to check debts in the RUAT or the mayor's office, and why you should review it before buying.",
+  "answer": "The property tax on real estate (IPBI) is an annual tax charged by the municipal government where the property is located. It is paid by the owner, and its amount depends on the property's valuation according to municipal criteria (zone, area, type and age of construction, among others). Before buying, renting, or entering an anticrético, verify that the tax is up to date: you can check it at the mayor's office or in the RUAT, if your municipality is linked."
+ },
+ "sections": [
+  {
+   "h2": "What it is and who charges it",
+   "paras": [
+    "In Bolivia, ownership of urban and rural real estate is a taxable municipal right: Law 154 of 2011 establishes that municipal governments may create taxes on real property, with the exemptions set by the Constitution for small agricultural holdings and community property. That is why each municipality has its own calendar, discounts and query systems.",
+    "Many municipalities administer the tax through the Registro Único para la Administración Tributaria Municipal (RUAT), a shared platform. Others, such as some large cities, have their own systems. If you do not find your municipality in the RUAT, check directly at the alcaldía."
+   ]
+  },
+  {
+   "h2": "What determines how much you pay",
+   "paras": [
+    "The tax is calculated on a taxable base that comes from valuation tables approved each year by the municipality, not from the purchase price. Typical factors are the tax zone, land area, built area, type of construction and its age. That is why two similar houses in different neighborhoods can pay very different amounts.",
+    "If you believe the technical data on record (area, type of construction) does not match reality, you can request a review at the alcaldía. Doing so is worthwhile especially after expanding or demolishing part of the building."
+   ]
+  },
+  {
+   "h2": "Who pays: owner, tenant or anticrético",
+   "tip": "If you enter an anticrético, read the tax clause carefully: the Civil Code defaults the annual taxes and charges to the party who delivers the money. If you agree that the owner pays them, make sure it is written down.",
+   "table": {
+    "head": [
+     "Situation",
+     "Who normally pays"
+    ],
+    "rows": [
+     [
+      "Owner living in his house",
+      "El propietario"
+     ],
+     [
+      "Rented property",
+      "El propietario, salvo que el contrato diga otra cosa"
+     ],
+     [
+      "Property in anticrético (lease with payment)",
+      "El anticresista, salvo pacto distinto (art. 1434 del Código Civil)"
+     ],
+     [
+      "Sale in progress",
+      "Las gestiones vencidas, el vendedor; conviene dejarlo escrito en la minuta (sale deed)"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Why review it before buying",
+   "paras": [
+    "Municipal tax debts stay attached to the property in practice: without the tax up to date it is difficult to complete the transfer, approve plans or obtain a loan using it as collateral. If you buy a property with years of unpaid taxes, someone will have to pay them (with fines and interest) before moving forward."
+   ],
+   "steps": [
+    "Ask the seller for the property number or cadastral code.",
+    "Check the debt in the RUAT or in the alcaldía system, or request a certification at the counter.",
+    "Ask for the payment receipts of the latest tax years.",
+    "If there is debt, agree in writing that the seller pays it before signing, or deduct it from the price."
+   ]
+  },
+  {
+   "h2": "Pay on time and take advantage of discounts",
+   "paras": [
+    "Many municipalities offer discounts for early payment or within a deadline, and sometimes programs to waive fines for old debts. The percentages and dates change each year and in each city, so check them on your alcaldía website or in the RUAT. Paying late adds fines and interest."
+   ]
+  },
+  {
+   "h2": "After buying: put the tax in your name",
+   "paras": [
+    "When you register your purchase in Derechos Reales, the municipality does not always update its records automatically. You must change the name in the cadastre and in the municipal tax register, with your escritura inscrita and your ID. If you do not do this, the tax bills may continue to be issued in the seller’s name, and any debt that accumulates will later complicate a sale, a loan or plan approval.",
+    "Keep every payment receipt, both paper and scanned. If you ever sell, the buyer will ask for them, and it is much easier to show them than to rebuild the history at the counter."
+   ]
+  },
+  {
+   "h2": "Common mistakes with this tax",
+   "bullets": [
+    "Thinking the tenant or anticresista pays it \"because they live there\", without the contract stating it.",
+    "Expanding the house and not updating the technical data: the difference shows up right at sale.",
+    "Paying only the current year and leaving older years unpaid, which continue to accrue fines.",
+    "Buying without checking the debt because \"the seller said everything is paid\"."
+   ]
+  },
+  {
+   "h2": "Ask about taxes from the first message",
+   "paras": [
+    "When you see a property that interests you, ask if the taxes are up to date and request the property number to check it yourself. On Casa-Libre you see houses, apartments and lots on the map and write directly to the advertiser via WhatsApp. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Who collects the property tax on real estate?",
+   "a": "The municipal government where the property is located. Law 154 defines it as a municipal domain tax."
+  },
+  {
+   "q": "How do I check if a house owes taxes?",
+   "a": "In the RUAT, if the municipality is linked, or at the mayor's office, using the property number or cadastral code. You can also request a certification."
+  },
+  {
+   "q": "Does the tenant pay the property tax?",
+   "a": "Usually not: it is paid by the owner, unless the contract says otherwise. In an anticrético, by default the anticresista pays it."
+  },
+  {
+   "q": "Is there a discount for paying on time?",
+   "a": "Many municipalities offer discounts for early payment, but the percentages and deadlines change each year. Check them at your mayor's office or in the RUAT."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Guide: costs when buying a house",
+  "Guide: taxes and costs when selling",
+  "Transfer tax on real estate"
+ ]
+}

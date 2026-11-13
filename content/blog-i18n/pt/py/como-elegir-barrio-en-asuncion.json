@@ -1,0 +1,103 @@
+{
+ "_src": "3501cd156192",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como escolher bairro em Assunção: 6 critérios que importam",
+  "h1": "Onde viver em Assunção: como escolher o bairro que lhe convém",
+  "description": "Não existe um \"melhor bairro\" em Assunção: há um que se encaixa na sua rotina. Deslocamentos, alagamentos, barulho, serviços, segurança e orçamento para decidir bem.",
+  "answer": "Para escolher bairro em Assunção convém decidir primeiro pela sua rotina e depois pela fama da zona: quanto você vai demorar para chegar ao trabalho ou à escola na hora de pico, se a rua alaga com os alagamentos, quanto barulho há à noite, o que você tem a pé e quanto custa. Zonas como Villa Morra, Recoleta ou Carmelitas concentram comércios e escritórios; bairros mais residenciais e tradicionais oferecem outro ritmo e, muitas vezes, mais espaço pelo mesmo preço."
+ },
+ "sections": [
+  {
+   "h2": "Comece pela sua semana, não pelo ranking",
+   "paras": [
+    "As listas de \"melhores bairros\" servem pouco porque cada família vive diferente. Para um casal que trabalha na zona de escritórios do eixo da avenida Espanha e Mariscal López, um bairro próximo vale ouro mesmo sendo mais caro. Para quem trabalha de casa, pode pesar mais o silêncio, o quintal ou o preço.",
+    "Antes de abrir o mapa, escreva em um papel os três ou quatro lugares para onde você vai todas as semanas (trabalho, escola, faculdade, a casa dos seus pais, o supermercado) e a que horas. Esse papel vai decidir mais que qualquer recomendação."
+   ]
+  },
+  {
+   "h2": "Critério 1: o deslocamento na hora pico",
+   "paras": [
+    "Assunção e sua área metropolitana têm muito trânsito nas horas de entrada e saída, e as distâncias curtas no mapa podem ser longas na realidade. Os acessos à cidade a partir de Luque, San Lorenzo ou Lambaré ficam congestionados, e dentro da capital as avenidas principais também.",
+    "Faça o percurso real, na hora real, pelo menos uma vez antes de assinar. Se usar transporte público, veja quais linhas passam perto e a frequência. Se for a pé ou de bicicleta, observe o estado das calçadas: varia muito de um quarteirão para outro."
+   ]
+  },
+  {
+   "h2": "Critério 2: a água quando chove forte",
+   "paras": [
+    "Com chuvas intensas, algumas ruas de Assunção se transformam em torrentes: correntes de água que descem pelas encostas e podem ser perigosas. A isso se somam as áreas baixas próximas ao rio Paraguai, que são afetadas nas cheias.",
+    "Não é preciso descartar um bairro inteiro, mas sim observar o quarteirão: se a casa está em uma descida, se a água entra na garagem, se a esquina fica bloqueada. O melhor teste é passar depois de uma tempestade e perguntar aos vizinhos."
+   ]
+  },
+  {
+   "h2": "Critério 3: ruído e vida noturna",
+   "paras": [
+    "As áreas com mais bares, restaurantes e estabelecimentos, como algumas partes de Villa Morra ou os arredores das avenidas comerciais, são práticas para sair e ter tudo perto, mas podem ser barulhentas nos fins de semana. Um apartamento que dá para a avenida não se vive igual a um de frente para o pátio.",
+    "Visite o local numa sexta ou sábado à noite, não só numa terça de manhã. Pergunte se há estabelecimentos noturnos, igrejas ou escolas no quarteirão: cada um tem seus horários de movimento."
+   ]
+  },
+  {
+   "h2": "Critério 4: o que você tem a pé",
+   "paras": [
+    "Supermercado, farmácia, uma parada de ônibus, uma praça, a escola. Quanto mais coisas você resolve caminhando, menos depende do carro e do trânsito. As áreas com mais comércio, como Villa Morra, Carmelitas ou Las Mercedes, costumam oferecer mais disso; os bairros mais residenciais, menos comércio mas ruas mais tranquilas.",
+    "Também observe os serviços da casa: pressão de água, cobertura de fibra óptica e se há cortes de energia frequentes na região. Pergunte diretamente ao dono e aos vizinhos."
+   ]
+  },
+  {
+   "h2": "Critério 5: segurança, com informação e não com preconceitos",
+   "paras": [
+    "A segurança muda de um quarteirão para outro, e a fama de um bairro nem sempre reflete o que acontece hoje. Em vez de se guiar por comentários gerais, observe: iluminação da rua à noite, movimento de pessoas, se as casas têm grades altas ou guardas, e converse com vizinhos e comerciantes.",
+    "Em edifícios, pergunte se há portaria ou controle de acesso e em que horário. Em casas, veja cercamentos, portões e se há câmeras no quarteirão."
+   ]
+  },
+  {
+   "h2": "Critério 6: o orçamento completo",
+   "paras": [
+    "O preço do aluguel ou da compra é apenas uma parte. Some as expensas (em edifícios), estacionamento se não estiver incluído, transporte e o tempo que você vai passar viajando. Às vezes um bairro um pouco mais caro mas próximo sai mais barato no final do mês.",
+    "Para ter uma ideia de preços, compare propriedades semelhantes na mesma área: mesmo tipo, superfície e quantidade de dormitórios. Assim você verá rapidamente quais bairros entram no seu orçamento."
+   ]
+  },
+  {
+   "h2": "Alguns bairros, em poucas palavras",
+   "paras": [
+    "Sem pretender um ranking, estas são descrições gerais que servem como ponto de partida. Confirme-as sempre percorrendo a região:"
+   ],
+   "bullets": [
+    "Villa Morra, Recoleta e Carmelitas: zona de escritórios, shoppings, restaurantes e muitos edifícios novos; prática e com muita oferta de apartamentos, com preços em geral mais altos.",
+    "Las Mercedes e San Vicente: bairros tradicionais, relativamente perto do centro e das áreas comerciais, com mistura de casas antigas e edifícios.",
+    "Sajonia e Barrio Jara: bairros históricos, com casas mais antigas e vida de bairro; vale a pena observar o estado de cada construção.",
+    "Mburucuyá e Trinidad: áreas mais residenciais, com casas e ruas tranquilas, conectadas aos acessos para Luque e o norte."
+   ]
+  },
+  {
+   "h2": "Como explorar os bairros no mapa",
+   "paras": [
+    "No Casa-Libre você pode ver no mapa as propriedades à venda e para aluguel em Assunção, comparar preços entre bairros vizinhos e escrever por WhatsApp ao dono ou à imobiliária para perguntar o que importa: ruído, água, deslocamentos. Pelo app do Casa-Libre para iPhone e Android você pode salvar as opções e percorrê-las depois pessoalmente."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual é o melhor bairro para viver em Assunção?",
+   "a": "Depende da sua rotina e orçamento. As zonas comerciais como Villa Morra ou Carmelitas têm tudo perto; bairros mais residenciais oferecem tranquilidade e, às vezes, mais espaço pelo mesmo preço."
+  },
+  {
+   "q": "Quais bairros de Assunção se alagam?",
+   "a": "As áreas baixas próximas ao rio Paraguai são afetadas nas cheias, e em muitas ruas se formam alagamentos com chuvas fortes. Convém avaliar quarteirão por quarteirão, visitando depois de uma tempestade."
+  },
+  {
+   "q": "Como calculo quanto vou demorar para chegar ao trabalho?",
+   "a": "Fazendo o trajeto real na hora de pico, ao menos uma vez, no meio de transporte que você vai usar."
+  },
+  {
+   "q": "É melhor alugar primeiro antes de comprar em um bairro?",
+   "a": "Se você não conhece a zona, alugar um tempo permite conhecê-la sem se comprometer. Não é obrigatório, mas reduz o risco de errar."
+  }
+ ],
+ "related": [
+  "Propriedades em Assunção",
+  "Apartamentos para aluguel",
+  "Casas à venda"
+ ]
+}

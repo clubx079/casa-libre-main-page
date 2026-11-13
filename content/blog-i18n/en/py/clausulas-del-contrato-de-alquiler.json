@@ -1,0 +1,150 @@
+{
+ "_src": "71421b4771b0",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Rental Agreement: Clauses You Need to Review",
+  "h1": "The rental agreement clauses you need to read before signing",
+  "description": "Guide for tenants: term, adjustment, currency, early termination, repairs, pets, use, deposit and guarantor. Which clauses to watch and which are red flags.",
+  "answer": "Before signing a rental agreement in Paraguay, check seven things: the term and how it renews, the price with its currency and adjustment method, what happens if you want to leave early, who pays each type of repair, the intended use (residential or commercial), how and when the deposit is returned, and exactly who signs as your guarantor. The Código Civil governs leases, but almost everything concrete is defined by the contract, so anything not written is up for discussion."
+ },
+ "sections": [
+  {
+   "h2": "Why the contract matters more than the chat",
+   "paras": [
+    "On a visit everything seems easy: \"if something breaks you let me know\", \"if you have to leave we’ll talk about it\". But when a problem arises, what counts is what you signed. The Paraguayan Civil Code (Law 1183/1985) has a chapter on the lease of things, starting at article 803, with general rules on the obligations of the landlord and the tenant. Those rules cover what the contract does not say, but many can be modified by agreement of the parties.",
+    "Translated: the contract rules. Read it in full, with time, and ask for changes before signing. After that it is much harder."
+   ]
+  },
+  {
+   "h2": "Term and renewal",
+   "paras": [
+    "Check the start date, the end date and what happens at termination. Some questions the contract should answer:"
+   ],
+   "bullets": [
+    "Is it for one year, two, or indefinite?",
+    "Does it renew automatically, or do you have to sign a new contract?",
+    "How far in advance must you give notice if you do not want to renew?",
+    "What happens if you stay a few days after the expiration?"
+   ]
+  },
+  {
+   "h2": "Price, currency and adjustment",
+   "paras": [
+    "Look at three data points together: how much, in what currency and how it increases. A rent in dollars with a salary in guaraníes exposes you to exchange-rate risk. And a contract that says \"the price will be updated annually\" without saying how leaves the door open to any increase.",
+    "The healthy approach is for the adjustment to have a clear rule: a fixed percentage, a specific index or a pre-agreed amount for the second year. Also check the payment date, whether there is a late-payment surcharge and how payment is made (transfer, deposit, cash with receipt)."
+   ]
+  },
+  {
+   "h2": "If you have to leave early: early termination",
+   "paras": [
+    "This is one of the clauses that generates the most conflicts. Life changes — a new job, a move to another city — and it helps to know in advance how much it costs to leave early.",
+    "Look for the contract to state how much notice you can give to terminate and whether there is a penalty (for example, one month’s rent). Be wary of clauses that force you to pay all remaining months until the end of the contract even if you leave: ask if a fixed penalty can be negotiated."
+   ]
+  },
+  {
+   "h2": "Repairs: who pays what",
+   "paras": [
+    "A reasonable rule, and the one most often seen, is that the tenant handles minor maintenance and damage they cause, and the owner handles structural issues and things that break due to wear and tear. But it’s good for the contract to spell it out with examples."
+   ],
+   "table": {
+    "head": [
+     "Type of repair",
+     "Usually falls to",
+     "What the contract should say"
+    ],
+    "rows": [
+     [
+      "Light bulbs, dripping taps, gutter cleaning",
+      "Tenant",
+      "That it is minor maintenance charged to the tenant"
+     ],
+     [
+      "Damage caused by improper use",
+      "Tenant",
+      "That it is repaired at their cost"
+     ],
+     [
+      "Roof, internal pipes, electrical installation",
+      "Owner",
+      "That it is the owner’s responsibility and the timeframe for repairs"
+     ],
+     [
+      "Appliances included in the rent",
+      "To be defined",
+      "Who pays if they break due to wear"
+     ],
+     [
+      "Improvements made by the tenant",
+      "To be defined",
+      "If permission is needed and whether they remain with the owner at the end"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Use: residential, office or commercial",
+   "paras": [
+    "The contract must state what the property is rented for. If you plan to work from home with clients, set up a consulting office or a small business, say so beforehand: many residential leases prohibit that.",
+    "The purpose also has tax implications. According to Law 6380/2019 and information from the DNIT, rent of properties used exclusively for housing is subject to VAT at the reduced rate of 5%, while other uses, such as commercial, are taxed at the general rate of 10%. If the owner is registered for VAT, the use stated in the contract changes the tax on the invoice."
+   ]
+  },
+  {
+   "h2": "Pets, subletting and visitors",
+   "bullets": [
+    "Pets: if you have or plan to have them, make sure the contract allows it in writing. A verbal \"yes, no problem\" does not protect you.",
+    "Subletting or assigning the contract: it is almost always prohibited without the owner’s permission. If you plan to share with someone, list them as an occupant.",
+    "Owner visits: it is reasonable for the owner to inspect or show the property at the end of the contract, but with prior notice and at agreed times.",
+    "Building or condominium rules: if they exist, request them before signing. They usually contain rules on noise, pets and moves."
+   ]
+  },
+  {
+   "h2": "Deposit and guarantor",
+   "paras": [
+    "The contract should state the exact deposit amount, how it is returned at the end, the timeframe and what can be deducted. Also ask that an inventory or condition report with photos be attached.",
+    "If there is a guarantor, read what they sign: do they cover only rent or also damages and utilities? Does their obligation end with the contract or continue if it is renewed? Your guarantor has the right to know this before signing."
+   ]
+  },
+  {
+   "h2": "Red flags in a rental contract",
+   "bullets": [
+    "The person signing as landlord is not the owner and does not show a written authorization or power of attorney.",
+    "They ask you to pay before seeing the contract or before visiting.",
+    "The adjustment is left to whatever the owner decides.",
+    "There is no deadline for returning the deposit, or it says it is non-refundable.",
+    "They make you waive any claim in advance for structural repairs.",
+    "The text is blank in key parts (\"price: ____\") to be filled in later."
+   ],
+   "tip": "If something doesn’t sit right, request the change in writing and keep the messages. For long contracts or high amounts, have a lawyer or an escribano (notary) review it before signing."
+  },
+  {
+   "h2": "Before the contract, the search",
+   "paras": [
+    "On Casa-Libre you can compare rentals on the map and ask via WhatsApp, before visiting, about contract conditions: term, adjustment, guarantee and whether pets are accepted. It works on the web and in the app for iPhone and Android, free for the seeker."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which law regulates rentals in Paraguay?",
+   "a": "The Código Civil (Law 1183/1985) governs the lease of things starting from article 803. Many of its rules apply when the contract says nothing, so it is advisable for the contract to be complete."
+  },
+  {
+   "q": "Does residential rent pay VAT?",
+   "a": "If the owner is registered for VAT, rent of a property used exclusively for housing is taxed at the 5% rate; commercial rent is taxed at the general 10% rate, according to Law 6380/2019."
+  },
+  {
+   "q": "Can they raise the rent in the middle of the contract?",
+   "a": "Only if the contract provides for it. That is why the adjustment method should be written with a concrete rule and not left to the owner's discretion."
+  },
+  {
+   "q": "Can I leave before the contract ends?",
+   "a": "It depends on what the contract says about early termination: notice period and penalty. If it says nothing, negotiate it before signing."
+  }
+ ],
+ "related": [
+  "View rentals on the map",
+  "Duplex for rent",
+  "How to recover the deposit"
+ ]
+}

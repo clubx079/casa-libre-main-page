@@ -1,0 +1,105 @@
+{
+ "_src": "018c13aaddc4",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a pre-construction apartment in Montevideo: risks and controls",
+  "h1": "Buying a pre-construction apartment in Montevideo: how to do it with less risk",
+  "description": "What to check before buying a pre-construction apartment in Montevideo: registered promise of sale, permits, fee adjustments, promoted housing, delivery date and deed after the horizontal regime is registered.",
+  "answer": "Buying pre-construction means purchasing an apartment before it is built, paying a down payment and installments during construction. It is usually cheaper than buying a finished unit, but the risk is that the work may be delayed, changed, or not completed. To protect yourself: verify who the developer is and what projects they have delivered, request a registered promise of sale in the Registro (Ley 8.733), understand how the installments are adjusted, confirm if the project is promoted housing and what benefits it brings, and know that the escritura (deed) is only issued when the horizontal property is registered."
+ },
+ "sections": [
+  {
+   "h2": "What buying off-plan means",
+   "paras": [
+    "In Montevideo and on the coast it is common for buildings to be sold \"off-plan\" or \"under construction\": you sign when the project is just a plan or a work that has started, and you pay part of the price at the beginning and the rest in installments until delivery. In return, the price is usually lower than that of a finished unit and you can choose floor, orientation and sometimes finishes.",
+    "The risk is in the time: years can pass between signing and delivery. That is why the important thing is not only the apartment, but who builds it and how your money is protected."
+   ]
+  },
+  {
+   "h2": "Research the developer",
+   "bullets": [
+    "What projects they have completed and delivered before. Visit one and, if you can, talk to the residents there.",
+    "Who the construction company is and who the promoter is, and whether they are the same entity.",
+    "If the land belongs to the promoter and is free of liens: your escribano (notary) can verify this in the Registry.",
+    "If the project has a construction permit approved by the Intendencia.",
+    "How the work is financed: through pre-sales, bank credit or own funds."
+   ]
+  },
+  {
+   "h2": "The registered promise of sale",
+   "paras": [
+    "In off-plan purchases, the key document is the promise of sale. Law 8.733 regulates the promise of real-estate transfer in installments and provides for its registration in the Registry. From the registration, the buyer has a real right against any subsequent sale or lien, and upon completing payment can demand the deed.",
+    "Ask that the promise be registered and that your escribano verify it. A simple receipt or a \"reservation contract\" does not give you that protection."
+   ],
+   "tip": "Before signing, ask that your own escribano read the promise and the building’s co-ownership regulations. Do not sign only with the developer’s escribano."
+  },
+  {
+   "h2": "How the installments are adjusted",
+   "paras": [
+    "Many pre-sales set the price in dollars and the installments with an adjustment mechanism, for example tied to a construction-cost index, or expressed in UI. Read that clause carefully and ask for a simulation of how much you could pay in total if the index rises.",
+    "Also ask what happens if you fall behind on an installment, if you can make early payments and if you can assign the promise to another person before delivery."
+   ]
+  },
+  {
+   "h2": "If the project is promoted housing",
+   "paras": [
+    "Many new buildings in Montevideo are built under Law 18.795 on promoted housing, which gives tax benefits to investors for building social-interest housing. Among the benefits the law allows is exemption from ITP on the first transfer, for the seller, the buyer or both.",
+    "Ask if the project is declared promoted by the ANV, which benefit applies to your purchase and if there are conditions, for example regarding price or use. We explain this in the article on promoted housing."
+   ]
+  },
+  {
+   "h2": "Delivery, horizontal regime and deed",
+   "paras": [
+    "In a building, the final deed for each apartment requires that the building be incorporated into the horizontal property regime (Law 10.751) and that the subdivision plan be registered. This can take time after the work is finished. Meanwhile, you can receive possession of the apartment with the registered promise.",
+    "Ask in writing what the estimated delivery date is, what happens if it is delayed and when the deed is expected."
+   ]
+  },
+  {
+   "h2": "Checklist before signing",
+   "steps": [
+    "Research the promoter and visit previous projects.",
+    "Ask your escribano to verify the land, the permits and the text of the promise.",
+    "Confirm that the promise will be registered.",
+    "Understand the installment adjustment and ask for a simulation.",
+    "Ask if it is promoted housing and what benefit applies to you.",
+    "Review the descriptive memorandum: materials, finishes, square meters, amenities.",
+    "Calculate the estimated common expenses of the completed building."
+   ]
+  },
+  {
+   "h2": "Compare with finished units",
+   "paras": [
+    "Before buying off-plan, compare with finished apartments in the same area: sometimes the price difference does not justify the wait. At Casa-Libre you can see apartments for sale in Montevideo on the map and write directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What happens if the construction is delayed?",
+   "a": "It depends on what the promise says: some include penalties or compensation for delays and others do not. Read that clause before signing and ask that the delivery date be put in writing."
+  },
+  {
+   "q": "Is it safe to buy pre-construction in Uruguay?",
+   "a": "There are risks of delay or the work not being completed. They are reduced by choosing a developer with delivered projects, signing a registered promise, and reviewing everything with your own escribano (notary)."
+  },
+  {
+   "q": "When is a pre-construction apartment deeded?",
+   "a": "When the building is incorporated into horizontal property and the plan is registered, which may occur some time after delivery. In the meantime the registered promise protects you."
+  },
+  {
+   "q": "Does a promoted housing pre-construction apartment pay ITP?",
+   "a": "Law 18.795 allows exemption from ITP on the first transfer. Whether it applies to your purchase depends on how the project was declared: ask and confirm with your escribano."
+  },
+  {
+   "q": "Can I sell my unit before delivery?",
+   "a": "It depends on the promise: some allow assigning the promise with notice or the promoter's consent. Review it before signing."
+  }
+ ],
+ "related": [
+  "Apartments for sale",
+  "Properties in Montevideo",
+  "What is promoted housing",
+  "Guide: how to buy your first home"
+ ]
+}

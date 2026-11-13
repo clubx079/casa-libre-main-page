@@ -1,0 +1,110 @@
+{
+ "_src": "290e6585eb10",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar casa no Paraguai morando no exterior: guia",
+  "h1": "Como comprar uma casa no Paraguai se você mora no exterior",
+  "description": "Você mora na Espanha, Argentina ou Estados Unidos e quer comprar no Paraguai: procura especial, pessoa de confiança, escribano (tabelião), envio de dinheiro e como evitar fraudes.",
+  "answer": "É possível comprar um imóvel no Paraguai sem viajar. O usual é escolher um escribano em Paraguai que verifique os documentos do imóvel, conceder uma procuração especial a uma pessoa de confiança para que assine por você (no consulado paraguaio ou perante um notário do país onde mora, com a legalização ou apostila correspondente) e pagar por transferência bancária, nunca em dinheiro a terceiros. As visitas podem ser feitas por videoconferência, mas a verificação legal deve ser feita por um profissional no Paraguai."
+ },
+ "sections": [
+  {
+   "h2": "Por que comprar à distância precisa de outro método",
+   "paras": [
+    "Muitos paraguaios que vivem na Espanha, Argentina ou Estados Unidos economizam para ter sua casa no Paraguai: para voltar, para a família ou como investimento. O problema não é o dinheiro, mas a distância: você não pode percorrer a quadra, não pode tocar nas paredes e não pode estar na assinatura. Isso faz com que os erros sejam mais caros e que os golpistas busquem justamente esse perfil.",
+    "A boa notícia é que, com três peças bem escolhidas (um escribano (tabelião), uma pessoa de confiança e um circuito de pagamento rastreável), a compra à distância pode ser tão segura quanto uma presencial."
+   ]
+  },
+  {
+   "h2": "Passo 1: buscar e filtrar de onde você estiver",
+   "paras": [
+    "Comece pelo mapa: zona, preço e tipo de propriedade. Salve várias opções e compare preços de propriedades semelhantes na mesma zona, para ter uma ideia realista antes de falar com ninguém. Desconfie de qualquer preço muito abaixo do resto da zona.",
+    "No Casa-Libre você pode buscar no mapa e escrever por WhatsApp ao dono ou à imobiliária, não importa em que país você esteja. O app do Casa-Libre para iPhone e Android permite salvar favoritos e acompanhá-los com sua família no Paraguai."
+   ]
+  },
+  {
+   "h2": "Passo 2: a visita, por vídeo e pessoalmente",
+   "paras": [
+    "Peça uma videochamada ao vivo, não um vídeo gravado. Ao vivo você pode pedir que abram torneiras, acendam luzes, mostrem o teto, o banheiro, o pátio e a calçada, e que caminhem até a esquina. Um vídeo gravado mostra só o que o vendedor quer.",
+    "Mesmo assim, convém que alguém de sua confiança vá pessoalmente ao menos uma vez, de dia e, se possível, depois de uma chuva. Essa pessoa pode conversar com vizinhos, ver como é o trânsito e detectar umidade ou odores que não se veem pela câmera."
+   ],
+   "bullets": [
+    "Peça ver os medidores de luz e água e as últimas contas pagas.",
+    "Peça que mostrem a fachada com o número da casa e a rua, para confirmar a localização.",
+    "Pergunte há quanto tempo está à venda e por que está sendo vendida."
+   ]
+  },
+  {
+   "h2": "Passo 3: o escribano verifica antes de você pagar",
+   "paras": [
+    "No Paraguai a compra e venda de um imóvel se formaliza por escritura pública perante escribano. Escolha você o escribano (não o que o vendedor sugere por padrão) e peça que, antes de qualquer pagamento, verifique a situação do imóvel: quem é o titular segundo os Registros Públicos, se há hipotecas, penhoras ou inibições, se o imposto imobiliário está em dia e se os dados do Cadastro coincidem com o que está sendo oferecido.",
+    "O escribano pode trabalhar com você por e-mail e videochamada. Peça que explique por escrito o que revisou e o que encontrou, e que lhe envie o orçamento de seus honorários e dos gastos da escritura."
+   ],
+   "tip": "Se o vendedor lhe pressiona para pagar um sinal \"antes de vender\" e ainda não há relatório do escribano, pare. Uma propriedade real pode esperar os dias que leva para ser verificada."
+  },
+  {
+   "h2": "Passo 4: o poder especial para que alguém assine por você",
+   "paras": [
+    "Se você não vai viajar para a assinatura, precisa conceder um poder especial a uma pessoa de confiança para que compre em seu nome. O mais prudente é que seja um poder especial, limitado a essa compra (com a identificação do imóvel e o preço, se possível), e não um poder geral para qualquer ato.",
+    "O poder pode ser concedido perante o consulado do Paraguai no país onde você mora ou perante um notário local; neste segundo caso costuma ser necessário legalizá-lo ou apostilá-lo, e às vezes traduzi-lo, para que valha no Paraguai. Os requisitos dependem do país e mudam com o tempo, então peça ao seu escribano no Paraguai o texto exato que precisa antes de ir ao consulado ou ao notário. Assim você evita fazer o trâmite duas vezes."
+   ],
+   "steps": [
+    "Peça ao escribano no Paraguai um modelo do poder especial com os dados do imóvel.",
+    "Consulte ao consulado paraguaio ou a um notário local como concedê-lo e se é necessária apostila.",
+    "Envie o original por correio seguro ou conforme indicar seu escribano; uma foto não basta.",
+    "Confirme com o escribano que o poder chegou e que é válido antes de marcar a data da assinatura."
+   ]
+  },
+  {
+   "h2": "Passo 5: como enviar o dinheiro sem riscos",
+   "paras": [
+    "Toda a operação precisa ser rastreável. Pague por transferência bancária para uma conta em nome do vendedor (o titular que consta no relatório do Registro), ou conforme indique seu escribano. Nunca deposite em nome de terceiro \"que cobra pelo dono\" nem envie dinheiro por giros a pessoas que você não conhece.",
+    "Guarde todos os comprovantes. Além de protegê-lo diante de um problema, eles servirão para justificar a origem dos fundos, algo que os bancos e o escribano podem solicitar em operações grandes. Se o preço estiver em dólares, pergunte ao seu banco com antecedência quanto tempo leva uma transferência internacional e quais comissões cobra cada banco intermediário."
+   ]
+  },
+  {
+   "h2": "Sinais de golpe que apontam para quem vive no exterior",
+   "paras": [
+    "Diante de qualquer um desses sinais, não pague e consulte seu escribano. Uma operação séria não cai por pedir verificação."
+   ],
+   "bullets": [
+    "Preço muito abaixo da zona e pressa para fechar.",
+    "O \"dono\" também mora no exterior e não pode mostrar a casa, mas pede um sinal para reservá-la.",
+    "Pedem pagamento em conta que não está em nome do titular registral.",
+    "Não aceitam que seu escribano revise os papéis ou enviam para \"seu\" escribano sem opção.",
+    "Enviam fotos de um título ou da cédula do dono como prova: uma foto não prova nada."
+   ]
+  },
+  {
+   "h2": "Depois da assinatura",
+   "paras": [
+    "Peça ao escribano cópia da escritura e da certidão de inscrição nos Registros Públicos quando estiver pronta. Encarregue sua pessoa de confiança da troca de titular da luz e da água, e anote quando vence o imposto imobiliário a cada ano. Se for alugar enquanto ainda estiver fora, defina desde o início quem vai administrá-la."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso comprar uma casa no Paraguai sem viajar?",
+   "a": "Sim. Com uma procuração especial concedida a uma pessoa de confiança, um escribano no Paraguai que verifique o imóvel e pagamentos por transferência bancária, a compra pode ser feita à distância."
+  },
+  {
+   "q": "Onde concedo a procuração se moro na Espanha ou nos Estados Unidos?",
+   "a": "No consulado do Paraguai ou perante um notário local; nesse caso costuma ser necessário legalizá-la ou apostilá-la. Peça primeiro ao escribano no Paraguai o texto exato que ele precisa."
+  },
+  {
+   "q": "É melhor uma procuração geral ou uma especial?",
+   "a": "Uma especial, limitada a essa compra. Uma procuração geral permite que a outra pessoa faça muitos outros atos em seu nome."
+  },
+  {
+   "q": "Como pago o sinal do exterior?",
+   "a": "Por transferência bancária para uma conta do titular registral ou conforme indicar seu escribano, e somente depois que o escribano tenha verificado o imóvel. Nunca a terceiros."
+  }
+ ],
+ "related": [
+  "Casas à venda no mapa",
+  "Apartamentos à venda",
+  "Guia: como comprar sua primeira casa",
+  "Guia: despesas e impostos ao comprar"
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "_src": "e5accf845c23",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Real Estate Register in Bolivia: What It Is and How to Obtain It",
+  "h1": "Real Estate Register in Bolivia: What It Is, How to Read It and How It Differs from the Alodial Certificate",
+  "description": "What the real estate register of Derechos Reales is, what information it contains (registration number, owner, area, encumbrances), how to request an updated one and why it is not the same as the alodial certificate.",
+  "answer": "The real estate register is the record of a property in Derechos Reales: it shows its registration number, location and area, who the owner is and what encumbrances it has (mortgages, anticréticos, liens or preventive annotations). It is requested at the Derechos Reales offices with the registration number. It is not the same as the alodial certificate: the register shows the property's history and status; the alodial certificate confirms whether it is free of charges."
+ },
+ "sections": [
+  {
+   "h2": "What is the folio real",
+   "paras": [
+    "Derechos Reales is the public registry of real estate in Bolivia and operates within the Judicial Branch. Its regulation, Supreme Decree 27957, adopted the folio real technique: each property has its own record where, in order, the property, the owner and the rights affecting it are noted.",
+    "To enter that system, each property is registered: it receives a unique, permanent and definitive national code. That registration number is the first thing you must ask for when you are interested in a property, because with it you can request all the information."
+   ]
+  },
+  {
+   "h2": "How to read a folio real",
+   "table": {
+    "head": [
+     "Section",
+     "What it tells you",
+     "What to check"
+    ],
+    "rows": [
+     [
+      "Property identification",
+      "Registration number, location, area and boundaries",
+      "That they match the map and what you see on the ground"
+     ],
+     [
+      "Ownership",
+      "Who the owner is and how they acquired it (purchase, inheritance, etc.)",
+      "That it matches the ID of the person selling or renting"
+     ],
+     [
+      "Liens and restrictions",
+      "Mortgages, anticréticos, seizures, preventive annotations",
+      "That there are no active charges, or that they are cancelled in the transaction"
+     ],
+     [
+      "Cancellations",
+      "Liens that have already been lifted",
+      "That the cancelled items are effectively recorded as cancelled"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Folio real and alodial certificate are not the same",
+   "paras": [
+    "It is a very common doubt. The folio real shows the complete registration situation of the property. The alodial certificate is a certification of Derechos Reales confirming whether the property is free of liens. In a purchase, an anticrético or a loan, it is usual to request both: the updated folio to see who the owner is and what is registered, and the alodial as proof that there are no charges.",
+    "There is also a property certificate, which proves which properties are in a person’s name. It is useful, for example, to know if someone has another home."
+   ],
+   "tip": "Request updated documents with a recent date. A folio from months ago will not show a mortgage or seizure registered last week."
+  },
+  {
+   "h2": "How to request an updated folio real",
+   "paras": [
+    "Many offices have fast windows for these requests. Requirements, fees and timelines can change, so check beforehand at your department’s office."
+   ],
+   "steps": [
+    "Obtain the property’s registration number (it is on the owner’s title or on a previous folio).",
+    "Go to the Derechos Reales office of the department where the property is located, or use the channels that office provides.",
+    "Request the updated folio real and, if you need it, the alodial certificate.",
+    "Pay the corresponding fee and keep the receipt.",
+    "Review the document calmly, ideally with a lawyer if you are buying or handing over money."
+   ]
+  },
+  {
+   "h2": "What the folio real does not guarantee",
+   "paras": [
+    "Registration in Derechos Reales provides publicity and protects against third parties, but the regulation itself reminds that the registry does not validate null acts: if a title has an inherent defect, registering it does not correct it. In addition, the folio does not tell you if the property is occupied, if it has municipal tax debts, or if the construction matches the approved plans. For that you need a visit, a tax query and a review of the plan."
+   ]
+  },
+  {
+   "h2": "Red flags when reading a folio",
+   "paras": [
+    "None of these signals necessarily means fraud, but all require a clear written explanation before you hand over money."
+   ],
+   "bullets": [
+    "The owner does not match the person offering the property and no one presents a power of attorney.",
+    "There is a preventive annotation or a seizure: it usually indicates a pending lawsuit over the property.",
+    "The registered area is very different from what is shown to you or from the plan.",
+    "Several co-owners are listed, but only one wants to sign.",
+    "The seller does not want to give you the registration number or asks you to \"trust\" an old photocopy."
+   ]
+  },
+  {
+   "h2": "When to request it",
+   "bullets": [
+    "Before paying a reservation or an advance for a purchase.",
+    "Before handing over money for an anticrético.",
+    "Before signing a long-term lease, if you want to confirm that the lessor is the owner.",
+    "After registering your purchase or anticrético, to verify that it appears in your favor."
+   ]
+  },
+  {
+   "h2": "Ask for the registration number from the first message",
+   "paras": [
+    "A serious advertiser has no problem giving you the registration number. On Casa-Libre you see properties on the map and write directly via WhatsApp to the owner or the agency; ask for it in your first message. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are the real estate register and the alodial certificate the same?",
+   "a": "No. The real estate register shows the property's registration status (owner, area, encumbrances). The alodial certificate confirms whether it is free of charges. It is common to request both."
+  },
+  {
+   "q": "What do I need to obtain a real estate register?",
+   "a": "The property's registration number and payment of the fee at the department's Derechos Reales office. Check the current requirements at your office."
+  },
+  {
+   "q": "Can anyone request a property's real estate register?",
+   "a": "The register is public. Ask the Derechos Reales office what data they require to issue it."
+  },
+  {
+   "q": "What if my property does not have a real estate register?",
+   "a": "If it is a property entered in the old system, it must be registered to transition to the real estate register; if it was never registered, the case is more complex. Consult a lawyer and the Derechos Reales office of your department."
+  },
+  {
+   "q": "Does the real estate register show if I owe municipal taxes?",
+   "a": "No. Municipal tax debts are checked at the alcaldía or the RUAT."
+  }
+ ],
+ "related": [
+  "Houses for Sale",
+  "Guide: Documents Needed to Sell a Property",
+  "Buying a House in Bolivia: Steps",
+  "Property Transfer Step by Step"
+ ]
+}

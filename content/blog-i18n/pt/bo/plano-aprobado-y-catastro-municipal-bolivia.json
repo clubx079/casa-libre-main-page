@@ -1,0 +1,122 @@
+{
+ "_src": "92f2ededfb7f",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Planta aprovada e cadastro municipal na Bolívia: o que verificar",
+  "h1": "Planta aprovada e cadastro municipal: o que são e por que importam ao comprar ou construir na Bolívia",
+  "description": "O que é a planta aprovada pela prefeitura, o que registra o cadastro municipal, por que devem coincidir com Direitos Reais e com o que está construído, e o que acontece com ampliações sem aprovação.",
+  "answer": "A planta aprovada é a planta de um lote ou de uma construção que o governo municipal revisou e autorizou conforme suas normas de uso do solo e edificação. O cadastro municipal é o registro técnico da prefeitura com a localização, superfície e construção de cada imóvel, que também serve para o imposto sobre a propriedade. Ao comprar, verifique se a planta aprovada, o cadastro, o folio real de Direitos Reais e o que você vê construído dizem a mesma coisa."
+ },
+ "sections": [
+  {
+   "h2": "Três registros que devem coincidir",
+   "paras": [
+    "Na Bolívia um imóvel urbano aparece em vários lugares diferentes, e cada um verifica uma coisa distinta. Muitos problemas ao comprar ou ao solicitar um crédito nascem do fato de que esses registros não coincidem entre si nem com a realidade."
+   ],
+   "table": {
+    "head": [
+     "Registro",
+     "Quem o mantém",
+     "O que ele informa"
+    ],
+    "rows": [
+     [
+      "Folio real",
+      "Direitos Reais (Órgão Judicial)",
+      "Quem é o proprietário, área inscrita e gravames"
+     ],
+     [
+      "Catastro municipal",
+      "Governo municipal",
+      "Localização, área do terreno e da construção, código cadastral, dados para o imposto"
+     ],
+     [
+      "Plano aprovado",
+      "Governo municipal",
+      "O que foi autorizado a construir ou como o lote foi autorizado"
+     ],
+     [
+      "A realidade",
+      "O que você vê",
+      "O que efetivamente está construído e ocupado"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "O que é o plano aprovado",
+   "paras": [
+    "Para loteamento ou construção, o proprietário apresenta planos à alcaldia, que os analisa conforme suas normas: recuos, alturas, área máxima construída, uso do solo. Se atendem, aprova com selo e assinatura. Na prática, fala-se de dois níveis: o plano do lote (localização, medidas, confrontações) e o plano de construção (o que pode ser edificado).",
+    "Cada município tem seu próprio regulamento e seu próprio trâmite. Em cidades grandes como La Paz, Santa Cruz de la Sierra ou Cochabamba, a informação está no site da alcaldia ou em suas plataformas de serviços."
+   ]
+  },
+  {
+   "h2": "O que é o catastro municipal",
+   "paras": [
+    "O catastro é o inventário técnico dos imóveis do município. Cada imóvel tem um código cadastral e um cadastro com sua área, construção e localização. A alcaldia o usa para planejar a cidade e para calcular o imposto predial. Quando compra, você deve fazer a transferência de nome no catastro, além de registrar nos Direitos Reais."
+   ],
+   "tip": "Se após a compra ampliar ou construir, atualize o catastro com um plano aprovado. Construções não registradas podem gerar multas e complicar uma venda ou um crédito futuro."
+  },
+  {
+   "h2": "O que verificar ao comprar",
+   "bullets": [
+    "Se a área do terreno for a mesma no folio real, no catastro e no plano.",
+    "Se o que está construído coincidir com o plano aprovado: pisos extras, quartos na cobertura ou ampliações para o recuo geralmente não são aprovados.",
+    "Se o imóvel possuir código cadastral e o imposto predial estiver em dia.",
+    "Em apartamentos, se o edifício estiver inscrito em propriedade horizontal e sua unidade tiver folio próprio.",
+    "Em lotes, se a urbanização estiver aprovada e o lote individualizado."
+   ]
+  },
+  {
+   "h2": "Se algo não coincidir",
+   "paras": [
+    "Uma diferença de área ou uma ampliação sem aprovação não impede necessariamente a compra, mas precisa ser resolvida ou, ao menos, ficar clara no preço e no contrato. As vias habituais são a retificação de dados nos Direitos Reais, a atualização do catastro ou a regularização da construção na alcaldia, conforme o caso. Alguns municípios abrem periodicamente programas de regularização de construções.",
+    "Para moradias urbanas com problemas de títulos de origem, existe ainda a Lei 247 de 2012, de regularização do direito proprietário sobre imóveis urbanos destinados a habitação, pensada para possuidores de boa-fé e para correção de dados. É um trâmite com requisitos próprios: consulte um advogado.",
+    "O que não convém é comprar assumindo que \"depois se resolve\" sem saber quanto custa e quanto tempo leva. Peça ao vendedor que regularize antes da assinatura ou negocie o preço sabendo o que você terá que fazer."
+   ]
+  },
+  {
+   "h2": "Se vai construir ou ampliar",
+   "paras": [
+    "Antes de iniciar a obra, contrate um arquiteto que conheça as normas do seu município e solicite a aprovação do plano de construção. Construir sem aprovação pode sair barato no início, mas pode gerar multas, ordens de paralisação ou demolição, e depois complica a venda, a hipoteca ou a divisão do imóvel entre herdeiros."
+   ]
+  },
+  {
+   "h2": "Plano aprovado e riscos do terreno",
+   "paras": [
+    "Ao analisar o plano, aproveite para perguntar na alcaldia se a zona tem restrições por risco: encostas instáveis, cursos d'água ou áreas inundáveis. Várias cidades bolivianas têm mapas de risco; em La Paz, por exemplo, o relevo torna esse ponto especialmente importante."
+   ]
+  },
+  {
+   "h2": "Pergunte pelo plano antes de visitar",
+   "paras": [
+    "No Casa-Libre você vê propriedades no mapa e escreve por WhatsApp ao anunciante: pergunte se a construção tem plano aprovado e se coincide com o que foi construído. Isso economiza visitas e surpresas. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é uma planta aprovada?",
+   "a": "A planta de um lote ou de uma construção revisada e autorizada pelo governo municipal conforme suas normas de uso do solo e edificação."
+  },
+  {
+   "q": "O cadastro e Direitos Reais são a mesma coisa?",
+   "a": "Não. Direitos Reais registra a propriedade e os gravames; o cadastro municipal registra os dados técnicos do imóvel e serve para o imposto. É preciso atualizar ambos ao comprar."
+  },
+  {
+   "q": "Posso comprar uma casa com ampliações sem aprovação?",
+   "a": "Sim, mas você assume o custo e o trâmite de regularizá-las, e podem complicar um crédito. Negocie no preço ou peça que seja regularizada antes de assinar."
+  },
+  {
+   "q": "Onde peço a planta aprovada de um imóvel?",
+   "a": "Ao proprietário, que deve tê-la. Se ele não a tiver, na prefeitura, conforme o procedimento de cada município."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Lotes à venda",
+  "Guia: documentos para vender",
+  "Comprar um lote: o que verificar"
+ ]
+}

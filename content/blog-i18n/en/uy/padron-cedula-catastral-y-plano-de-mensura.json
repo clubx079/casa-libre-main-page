@@ -1,0 +1,129 @@
+{
+ "_src": "9b1e8aa3933d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Cadastral Register, Cadastral Certificate and Survey Plan: what they are",
+  "h1": "Cadastral Register, Cadastral Certificate and Survey Plan: the data of a property in Uruguay",
+  "description": "What the register number is, what the cadastral certificate is for, what the real value of the Cadastre is and what a survey plan is in Uruguay. How to request them and why they matter when buying land or a house.",
+  "answer": "In Uruguay each property is identified with a register number, assigned by the Dirección Nacional de Catastro, together with the department and locality. The cadastral certificate is the legal document that certifies the cadastral value of that register and is used before escribanos (notary), registries and collection offices. The survey plan is made by a land survey engineer and shows the measurements, boundaries and surface area of the land; it is recorded in the Cadastre. If you are going to buy, request the register from the first contact: with it you can verify debts, titles and measurements."
+ },
+ "sections": [
+  {
+   "h2": "The cadastral number: the \"identity card\" of the property",
+   "paras": [
+    "The cadastral number is the identifier for each property in the National Cadastre. The address alone is not enough: the same address can have several numbers (for example, each apartment in a condominium has its own unit within the main number), and a house can occupy more than one number.",
+    "With the number you check the real estate tax debt, request certificates from the Registry, change the OSE holder and calculate the ITP. That is why it is the first data your escribano (notary) will ask you for."
+   ],
+   "tip": "The number appears on the real estate tax receipt. Ask the owner for it from the first message: if they refuse, it is a red flag to consider."
+  },
+  {
+   "h2": "The cadastral certificate and the real value",
+   "paras": [
+    "According to the National Directorate of Cadastre, the cadastral certificate is the legal document that certifies the base cadastral value of a property, and it is presented to tax offices, notarial registries and any procedure that requires that value to be certified. It can be requested online or at the Cadastre offices, which are headquartered in Montevideo with delegated offices in the departments.",
+    "That cadastral value is the basis of the ITP, the transfer tax: according to the DGI, the real value set by the Cadastre, updated by CPI, is used. It also influences other taxes. There is also the \"informative cadastral certificate\" with more property information."
+   ]
+  },
+  {
+   "h2": "The survey plan",
+   "paras": [
+    "The survey plan is the drawing made by a land surveyor measuring the land: it shows its dimensions, boundaries, area and location, and the constructions if applicable. It is registered in the Cadastre and linked to the number.",
+    "Searches for \"survey plan by number\" are common because it is needed in many situations: to buy land, to subdivide, to build or regularize constructions, to request a loan or when there are doubts about where the limits are."
+   ],
+   "bullets": [
+    "If you buy land: the plan tells you exactly what you are buying and whether it matches what you see.",
+    "If the actual measurements do not match the title or the plan, a new survey may be required.",
+    "If the land comes from a subdivision, verify that the subdivision is approved and the plan is registered.",
+    "For construction, the municipality requires land documentation, including the plan."
+   ]
+  },
+  {
+   "h2": "If you are going to buy land",
+   "steps": [
+    "Ask for the cadastral number and the department.",
+    "Ask for a copy of the registered survey plan.",
+    "Walk the land with the plan: markers, front, rear.",
+    "Check with the municipality what can be built (zoning regulations).",
+    "Verify if services are available: water, electricity and sanitation; if there is a network in front of the land, Law 18.840 requires connection.",
+    "Have your escribano study the titles and the debts.",
+    "If there are doubts about the boundaries, hire a surveyor before signing."
+   ]
+  },
+  {
+   "h2": "In an apartment",
+   "paras": [
+    "In a condominium, each unit has its identification within the number, and there is a horizontal subdivision plan that defines each unit and the common areas. If you buy off-plan, the definitive escritura requires that this plan be registered."
+   ]
+  },
+  {
+   "h2": "Where to request them",
+   "table": {
+    "head": [
+     "Document",
+     "Where"
+    ],
+    "rows": [
+     [
+      "Cadastral number",
+      "Real estate tax receipt, title or ask the owner"
+     ],
+     [
+      "Cadastral certificate",
+      "National Directorate of Cadastre, online or in person"
+     ],
+     [
+      "Survey plan",
+      "Cadastre (registered plans) or a land surveyor"
+     ],
+     [
+      "Tax debts",
+      "Municipality of the department, with the number"
+     ],
+     [
+      "Registry information",
+      "Property Registry (DGR), usually via escribano"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Common mistakes with this data",
+   "bullets": [
+    "Relying on the address in the ad without verifying the number: there may be two adjacent lands with different numbers.",
+    "Assuming the cadastral value is the market price: they are different, and the cadastral value is usually lower.",
+    "Buying a \"subdivision\" land without checking that the plan is registered and approved.",
+    "Not checking with the municipality what can be built before buying.",
+    "Thinking the cadastral certificate proves ownership: ownership is proven by the titles and the Registry."
+   ]
+  },
+  {
+   "h2": "Search with the number in mind",
+   "paras": [
+    "When you consult an ad, ask for the number and, if it is land, the plan. On Casa-Libre you can view lands, houses and apartments for sale on the map and message the advertiser directly via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the register number?",
+   "a": "The number that identifies each property in the national Cadastre, together with the department and locality. It appears on the real estate tax receipt."
+  },
+  {
+   "q": "What is the cadastral certificate for?",
+   "a": "It certifies the cadastral value of the property and is presented before escribanos, registries and collection offices. It is the basis of the ITP."
+  },
+  {
+   "q": "Who makes a survey plan?",
+   "a": "A land survey engineer, who measures the land and registers the plan in the Cadastre."
+  },
+  {
+   "q": "How do I obtain the survey plan for a register?",
+   "a": "By consulting the plans registered in the Cadastre with the register number, or by requesting it from the owner or a surveyor."
+  }
+ ],
+ "related": [
+  "Land for sale",
+  "Guide: property documents",
+  "Properties in Canelones"
+ ]
+}

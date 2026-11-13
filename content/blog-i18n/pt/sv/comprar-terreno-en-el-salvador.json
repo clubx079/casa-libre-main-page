@@ -1,0 +1,96 @@
+{
+ "_src": "5454057b66ad",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Comprar terreno em El Salvador: requisitos e o que verificar",
+  "h1": "Comprar um terreno ou lote em El Salvador: requisitos e o que verificar antes de pagar",
+  "description": "O que verificar antes de comprar um terreno ou lote em uma loteação em El Salvador: matrícula no CNR, serviços, permissões, riscos do terreno e regras para estrangeiros.",
+  "answer": "Para comprar um terreno em El Salvador você precisa, no mínimo, do seu DUI (ou passaporte se for estrangeiro), uma certificação do CNR que confirme que o vendedor é o proprietário e que o lote não tem hipotecas nem penhoras, e uma escritura de compra e venda perante notário inscrita no Registro de la Propiedad Raíz e Hipotecas. Antes de pagar, verifique também se o lote tem acesso, viabilidade de água e energia, e se pode ser construído nele. Se for uma loteação \"a crédito\", confirme que o loteador pode escriturar."
+ },
+ "sections": [
+  {
+   "h2": "Terreno urbano, lote em loteamento ou terreno rústico",
+   "paras": [
+    "Não é a mesma coisa comprar um lote dentro de um condomínio com ruas e serviços, um lote em um loteamento que ainda está sendo desenvolvido ou um terreno rústico no campo. Cada um tem riscos diferentes.",
+    "Em um condomínio ou residencial já urbanizado, o principal é verificar os documentos e as dívidas. Em um loteamento, além disso, é preciso confirmar que o projeto está autorizado e que cada lote tem ou terá sua própria inscrição. Em um terreno rústico, convém revisar os limites, o acesso por uma estrada pública e a disponibilidade de água."
+   ]
+  },
+  {
+   "h2": "Lo primero: el registro en el CNR",
+   "paras": [
+    "Peça ao vendedor o número de matrícula do imóvel e solicite uma certificação extraída no Centro Nacional de Registros. Ela dirá quem é o proprietário, em que percentual, a situação jurídica do imóvel e se há documentos em tramitação. Se o terreno faz parte de uma propriedade maior que ainda não foi dividida, não há matrícula própria do lote: isso é um sinal para ter mais cautela.",
+    "Compare também as medidas e limites da escritura (escritura pública) com o que vê no terreno. Se não coincidirem, um profissional pode fazer uma remedição antes de assinar."
+   ],
+   "bullets": [
+    "O vendedor que aparece no registro é a mesma pessoa que está vendendo?",
+    "Existem hipotecas, penhoras ou anotações preventivas?",
+    "O lote tem matrícula própria ou será segregado de um imóvel maior?",
+    "As medidas da escritura coincidem com o terreno real?"
+   ]
+  },
+  {
+   "h2": "Lotificaciones y lotes \"al crédito\": cuidado con la promesa de venta",
+   "paras": [
+    "Muitos lotes são vendidos em parcelas diretas com o loteador. Nesse esquema é comum assinar primeiro uma promessa de venda e receber a escritura definitiva quando o pagamento é concluído. O risco é pagar por anos e descobrir no final que o loteador não pode escriturar porque o projeto não tinha permissões ou o imóvel geral tinha problemas.",
+    "O país tem leis específicas para regularizar loteamentos de uso habitacional, precisamente porque houve muitos casos de lotes vendidos sem cumprir requisitos. Antes de assinar, pergunte pelos permissões do projeto, peça para ver o imóvel geral no CNR e leia com um notario (notário) a promessa de venda: preço, prazo, juros por mora e o que acontece com o que foi pago se você deixar de pagar."
+   ],
+   "tip": "Converse com pessoas que já compraram naquele loteamento. Pergunte se já receberam a escritura e quanto tempo demorou. É um dos sinais mais claros de que o loteador cumpre."
+  },
+  {
+   "h2": "Agua, luz, acceso y permiso para construir",
+   "paras": [
+    "Um lote barato pode sair caro se não tem água. Pergunte se o lote já tem serviço de água da ANDA ou de um sistema local, e se a distribuidora de energia tem rede próxima. Se não houver serviço, averigue quanto custaria levá-lo.",
+    "Para construir são necessários permissões. Na Área Metropolitana de San Salvador, o Escritório de Planejamento da Área Metropolitana (OPAMSS) participa da qualificação do local e das permissões; em outros municípios, a alcaldía e as instituições correspondentes. Antes de comprar, consulte o que pode ser construído naquele lote."
+   ]
+  },
+  {
+   "h2": "Riesgos del terreno: pendientes, quebradas y lluvias",
+   "paras": [
+    "El Salvador tem áreas com encostas íngremes, ravinas e solos que se deslocam na época de chuvas. Visite o lote após uma forte chuva, se possível. Observe se há taludes cortados sem proteção, sinais de deslizamentos, ravinas ou água parada. Pergunte aos vizinhos o que aconteceu nas últimas tempestades.",
+    "Se pretende construir em encosta ou perto de uma ravina, consulte um engenheiro antes de comprar. O custo de muros, drenagens e fundações especiais pode mudar completamente o orçamento."
+   ]
+  },
+  {
+   "h2": "Si usted es extranjero",
+   "paras": [
+    "Um estrangeiro pode comprar imóveis em El Salvador. A Constituição impõe uma condição para terrenos rústicos: estrangeiros cujo país de origem não conceda direitos iguais aos salvadorenhos não podem adquiri-los, salvo quando se tratar de terras para estabelecimentos industriais. Para lotes urbanos essa limitação não se aplica da mesma forma. Se for estrangeiro e se interessar por um terreno rural, peça ao notario que confirme a questão da reciprocidade com seu país."
+   ]
+  },
+  {
+   "h2": "Costos de la compra",
+   "paras": [
+    "Como em qualquer imóvel, o comprador paga o Imposto sobre Transferência de Bens Imóveis se o valor superar US$28,571.43 (3% sobre o excedente). Some honorários notariais, inscrição no CNR e, se necessário, remedição do terreno."
+   ]
+  },
+  {
+   "h2": "Buscar terrenos en Casa-Libre",
+   "paras": [
+    "No Casa-Libre você pode filtrar terrenos à venda, visualizá-los no mapa e escrever por WhatsApp ao proprietário ou ao agente para solicitar a matrícula antes de visitar. Também pode fazer isso pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que eu preciso para comprar um terreno em El Salvador?",
+   "a": "DUI ou passaporte, uma certificação do CNR que confirme a titularidade e a situação legal, e uma escritura de compra e venda perante notário inscrita no Registro de la Propiedad Raíz e Hipotecas. Se houver crédito, também os documentos exigidos pelo banco."
+  },
+  {
+   "q": "Um estrangeiro pode comprar terreno em El Salvador?",
+   "a": "Sim. A Constituição limita a compra de terrenos rústicos a estrangeiros de países que não concedam direitos iguais aos salvadorenhos, exceto para estabelecimentos industriais. Para lotes urbanos essa regra não se aplica da mesma forma. Confirme com um notário."
+  },
+  {
+   "q": "É seguro comprar um lote em parcelas com o loteador?",
+   "a": "Pode ser, se o projeto tiver permissões e o loteador puder escriturar. Verifique o imóvel geral no CNR, leia a promessa de venda com um notário e converse com compradores anteriores."
+  },
+  {
+   "q": "Como sei se o lote tem água?",
+   "a": "Pergunte se já possui serviço e peça ao vendedor um recibo. Se não houver, consulte a ANDA ou o sistema de água local para saber se é viável conectá-lo e quanto custaria."
+  }
+ ],
+ "related": [
+  "Terrenos à venda",
+  "Propriedades em La Libertad",
+  "Guia: custos ao comprar"
+ ]
+}

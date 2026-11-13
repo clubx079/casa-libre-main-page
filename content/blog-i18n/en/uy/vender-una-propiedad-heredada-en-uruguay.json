@@ -1,0 +1,126 @@
+{
+ "_src": "76759d3649e2",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Selling an Inherited Property in Uruguay: Succession, ITP and Steps",
+  "h1": "How to Sell an Inherited House or Apartment in Uruguay",
+  "description": "Steps to sell an inherited property in Uruguay: succession, certificate of case results, inheritance ITP (3% or 4%), agreement among heirs, assignment of rights and how to advertise.",
+  "answer": "To sell an inherited property in Uruguay, you must first process the succession: a judicial procedure that declares who the heirs are and ends with the certificate of case results, which is then registered. The inheritance triggers ITP: according to the DGI, 3% for direct-line heirs (children, parents) and 4% in other cases, based on the real cadastral value. With the succession registered, all heirs (or their proxies) sign the sale. If they do not want to wait, there is the assignment of hereditary rights, which also requires ITP. The key is that the heirs agree on price and distribution."
+ },
+ "sections": [
+  {
+   "h2": "Step 1: the succession",
+   "paras": [
+    "When the owner of a property dies, the property does not automatically pass to the heirs. You must start the succession before the Judicial Power, usually with a lawyer, so that it is declared who the heirs are (by will or by law).",
+    "When it is finished, you obtain the certificate of case results, which summarizes what was resolved in the file, and it is recorded in the Registry. Only then can the heirs deed the property in the name of a buyer."
+   ],
+   "tip": "Gather the documentation early: death certificate, birth or marriage certificates of the heirs, title deed and tax receipts. This speeds up the lawyer and the escribano (notary)."
+  },
+  {
+   "h2": "Step 2: the ITP for the inheritance",
+   "paras": [
+    "Inheritance of real estate is subject to the Property Transfer Tax. According to the DGI, each heir or legatee is the taxpayer and the rate is 3% for heirs in the direct ascending or descending line with the deceased (for example, children or parents) and 4% in other cases. It is calculated on the real cadastral value.",
+    "The declaration is filed with form 1700 (urban properties) and, among other documents, the certificate of case results or the death certificate is attached. There are deadlines: if payment is late, fines and surcharges apply. Check with the escribano when you start."
+   ],
+   "table": {
+    "head": [
+     "Situation",
+     "ITP (according to DGI)"
+    ],
+    "rows": [
+     [
+      "Inheritance, direct line heirs",
+      "3% on the real value"
+     ],
+     [
+      "Inheritance, other heirs",
+      "4% on the real value"
+     ],
+     [
+      "Subsequent sale to a third party",
+      "2% seller + 2% buyer"
+     ],
+     [
+      "Assignment of hereditary rights",
+      "Taxed; base: the price set by the parties"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Step 3: reach agreement among heirs",
+   "paras": [
+    "If there are several heirs, they are all co-owners and all must sign the sale. This is the point where most sales get stuck. Before publishing, agree in writing:"
+   ],
+   "bullets": [
+    "Minimum price and who negotiates with interested parties.",
+    "Who shows the property and holds the keys.",
+    "How the price and expenses (ITP, escribano, debts, repairs) are divided.",
+    "If someone wants to keep the property by buying the others' shares.",
+    "If someone lives abroad: have them grant a power of attorney to another heir or a trusted person."
+   ]
+  },
+  {
+   "h2": "Alternative: the assignment of hereditary rights",
+   "paras": [
+    "If the succession will take a long time or the heirs prefer not to wait, they can assign their hereditary rights to a buyer. The buyer steps into the heirs' place and completes the succession. It is riskier for the buyer and usually involves a lower price; the buyer also pays ITP, based on the price set by the parties. Analyze it with your escribano before offering it."
+   ]
+  },
+  {
+   "h2": "Before publishing",
+   "steps": [
+    "Confirm which stage the succession is in and when it will be registered.",
+    "Bring property tax, Primary, common expenses and services up to date.",
+    "Check the condition of the property: many inherited houses need repairs or a thorough cleaning.",
+    "Define the price with a market reference: look at similar properties in the area.",
+    "Gather the documents that the buyer's escribano will request."
+   ]
+  },
+  {
+   "h2": "Taxes on sale",
+   "paras": [
+    "In the sale, each heir pays as seller their share of the 2% ITP. In addition, if there is a gain, there may be income tax on capital increase, with special rules for inherited properties and depending on the acquisition date. Consult an accountant or escribano before setting the price to know how much net remains."
+   ]
+  },
+  {
+   "h2": "Publish the property",
+   "paras": [
+    "A good listing saves useless visits. Clearly indicate that it is a heirs' sale and the status of the succession: buyers with financing need to know if the deed can be done soon. Upload photos with good lighting, showing the area, condition and price.",
+    "On Casa-Libre you can publish your house or apartment in Uruguay for free, receive inquiries via WhatsApp and manage it also from the iPhone and Android app."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What happens if an heir does not want to sell?",
+   "a": "No one can force them to sign a mutually agreed sale. The others can offer to buy their share or consult a lawyer for other legal avenues to end the co-ownership."
+  },
+  {
+   "q": "Can I advertise the property while the succession is pending?",
+   "a": "Yes, but state it clearly in the listing and in inquiries. Many buyers can reserve and wait, but a buyer using credit needs a reasonable date to complete the deed."
+  },
+  {
+   "q": "Can a inherited house be sold without doing the succession?",
+   "a": "No, for a regular deed of sale you must first process the succession. The alternative is the assignment of hereditary rights, where the buyer completes the succession."
+  },
+  {
+   "q": "What is the ITP for an inheritance in Uruguay?",
+   "a": "According to the DGI, 3% for direct-line heirs (children, parents) and 4% for others, based on the real cadastral value."
+  },
+  {
+   "q": "Do all heirs have to sign?",
+   "a": "Yes, all co-owners sign the sale, either in person or through a proxy."
+  },
+  {
+   "q": "What is the certificate of case results?",
+   "a": "The document that summarizes what was resolved in the succession file (who the heirs are and what assets exist) and that is entered in the Registry."
+  }
+ ],
+ "related": [
+  "Publicá tu propiedad en Casa-Libre",
+  "Guía: documentos para vender",
+  "Guía: impuestos y gastos al vender",
+  "Guía: cuánto vale mi propiedad"
+ ]
+}

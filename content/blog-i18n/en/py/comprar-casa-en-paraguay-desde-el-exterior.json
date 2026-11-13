@@ -1,0 +1,110 @@
+{
+ "_src": "290e6585eb10",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a House in Paraguay While Living Abroad: Guide",
+  "h1": "How to Buy a House in Paraguay if You Live Abroad",
+  "description": "You live in Spain, Argentina or the United States and want to buy in Paraguay: special power of attorney, trusted person, escribano (notary), money transfer and how to avoid scams.",
+  "answer": "You can purchase property in Paraguay without traveling. Usually you choose an escribano in Paraguay to verify the property documents, grant a special power of attorney to a trusted person to sign for you (before the Paraguayan consulate or before a notary in the country where you live, with the required legalization or apostille) and pay by bank transfer, never in cash to third parties. Visits can be done via video call, but the legal verification must be performed by a professional in Paraguay."
+ },
+ "sections": [
+  {
+   "h2": "Why buying from a distance needs a different method",
+   "paras": [
+    "Many Paraguayans living in Spain, Argentina or the United States save to have their house in Paraguay: to return, for family or as an investment. The problem is not the money but the distance: you can’t walk the block, you can’t touch the walls and you can’t be present at the signing. That makes mistakes more costly and scammers target exactly this profile.",
+    "The good news is that with three well-chosen pieces (a escribano (notary), a trusted person and a traceable payment circuit) a remote purchase can be as safe as an in-person one."
+   ]
+  },
+  {
+   "h2": "Step 1: search and filter from wherever you are",
+   "paras": [
+    "Start with the map: area, price and type of property. Save several options and compare prices of similar properties in the same area, to get a realistic idea before talking to anyone. Be wary of any price far below the rest of the area.",
+    "On Casa-Libre you can search on the map and message the owner or the agency by WhatsApp, no matter which country you are in. The Casa-Libre app for iPhone and Android lets you save favorites and share them with your family in Paraguay."
+   ]
+  },
+  {
+   "h2": "Step 2: the visit, by video and in person",
+   "paras": [
+    "Request a live video call, not a recorded video. Live you can ask them to turn on taps, switch on lights, show the roof, the bathroom, the yard and the sidewalk, and walk to the corner. A recorded video only shows what the seller wants.",
+    "Still, it’s advisable that someone you trust goes in person at least once, during the day and if possible after a rain. That person can talk to neighbors, see how traffic is and detect moisture or odors that a camera doesn’t capture."
+   ],
+   "bullets": [
+    "Ask to see the electricity and water meters and the latest paid bills.",
+    "Ask them to show the façade with the house number and street, to confirm the location.",
+    "Ask how long it has been on sale and why it is being sold."
+   ]
+  },
+  {
+   "h2": "Step 3: the escribano verifies before you pay",
+   "paras": [
+    "In Paraguay the sale of a property is formalized by escritura pública (public deed) before a escribano. Choose the escribano yourself (not the one the seller defaults to) and ask that, before any payment, they review the property’s situation: who is the owner according to the Registro Público, whether there are mortgages, liens or inhibitions, whether the property tax is up to date and whether the cadastral data matches what is offered.",
+    "The escribano can work with you by email and video call. Ask them to explain in writing what they reviewed and found, and to send you the estimate of their fees and the deed expenses."
+   ],
+   "tip": "If the seller pressures you to pay a deposit \"before it sells\" and there is still no escribano report, stop. A real property can wait the days it takes to verify it."
+  },
+  {
+   "h2": "Step 4: the special power of attorney so someone can sign for you",
+   "paras": [
+    "If you are not traveling to the signing, you need to grant a special power of attorney to a trusted person to buy on your behalf. The safest is a special power limited to that purchase (with the property identification and price, if possible), not a general power for any act.",
+    "The power can be granted before the Paraguayan consulate in the country where you live or before a local notary; in the latter case it usually needs to be legalized or apostilled, and sometimes translated, to be valid in Paraguay. Requirements depend on the country and change over time, so ask your escribano in Paraguay for the exact text needed before going to the consulate or notary. That way you avoid doing the procedure twice."
+   ],
+   "steps": [
+    "Ask the escribano in Paraguay for a template of the special power with the property data.",
+    "Check with the Paraguayan consulate or a local notary how to grant it and whether an apostille is required.",
+    "Send the original by secure mail or as your escribano indicates; a photo is not enough.",
+    "Confirm with the escribano that the power arrived and is valid before setting the signing date."
+   ]
+  },
+  {
+   "h2": "Step 5: how to send the money safely",
+   "paras": [
+    "The whole transaction must be traceable. Pay by bank transfer to an account in the seller’s name (the holder shown in the Registro report), or as your escribano directs. Never deposit to a third party \"who collects for the owner\" nor send money by money orders to people you don’t know.",
+    "Keep all receipts. Besides protecting you in case of a problem, they will serve to justify the source of funds, something banks and the escribano may request for large operations. If the price is in dollars, ask your bank in advance how long an international transfer takes and what fees each intermediary bank charges."
+   ]
+  },
+  {
+   "h2": "Scam signals that point to those living abroad",
+   "paras": [
+    "If you encounter any of these signals, do not pay and consult your escribano. A serious transaction does not fall apart over a verification request."
+   ],
+   "bullets": [
+    "Price far below the area and rush to close.",
+    "The \"owner\" also lives abroad and cannot show the house, but asks for a deposit to reserve it.",
+    "They ask to pay into an account not in the name of the registered holder.",
+    "They do not allow your escribano to review the papers or send you to \"their\" escribano with no option.",
+    "They send you photos of a title or the owner’s ID as proof: a photo proves nothing."
+   ]
+  },
+  {
+   "h2": "After the signing",
+   "paras": [
+    "Ask the escribano for a copy of the escritura and the registration certificate from the Registro Público when it is ready. Task your trusted person with changing the electricity and water account to the new holder, and note when the property tax is due each year. If you will rent it while you are still abroad, decide from the start who will manage it."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I buy a house in Paraguay without traveling?",
+   "a": "Yes. With a special power of attorney granted to a trusted person, an escribano to verify the property and payments by bank transfer, the purchase can be done remotely."
+  },
+  {
+   "q": "Where do I grant the power if I live in Spain or the United States?",
+   "a": "Before the Paraguayan consulate or a local notary; in that case it usually needs to be legalized or apostilled. First ask your escribano in Paraguay for the exact wording required."
+  },
+  {
+   "q": "Is a general power or a special power better?",
+   "a": "A special one, limited to that purchase. A general power allows the other person to perform many other acts on your behalf."
+  },
+  {
+   "q": "How do I pay the deposit from abroad?",
+   "a": "By bank transfer to the registrant’s account or as your escribano indicates, and only after the escribano has verified the property. Never to third parties."
+  }
+ ],
+ "related": [
+  "Houses for sale on the map",
+  "Apartments for sale",
+  "Guide: how to buy your first house",
+  "Guide: expenses and taxes when buying"
+ ]
+}

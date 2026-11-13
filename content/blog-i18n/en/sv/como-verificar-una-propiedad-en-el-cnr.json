@@ -1,0 +1,116 @@
+{
+ "_src": "0adc34c9162d",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "How to verify a property in the CNR of El Salvador",
+  "h1": "How to know who owns a house and if it has mortgages: query the CNR",
+  "description": "How to check at the Centro Nacional de Registros (CNR) who owns a property in El Salvador, if it has mortgages or liens: registration, extracted certification and registry notices.",
+  "answer": "To find out who owns a house or land in El Salvador and whether it has mortgages or liens, consult the Registro de la Propiedad Raíz e Hipotecas of the Centro Nacional de Registros (CNR). With the property’s registration number you can request an extracted certification, online or at a CNR office, which summarizes the owner’s name, their percentage, the legal status of the property and any pending documents. Always do this before handing over any deposit."
+ },
+ "sections": [
+  {
+   "h2": "Why the inquiry is the first step",
+   "paras": [
+    "In a purchase, the person showing you the house is not always the one who can sell it. It could be a family member without authority, a tenant, or, in the worst case, someone attempting a scam. And even if they are the owner, the house may have a mortgage or a lien that you would inherit.",
+    "The public registry is the authority that matters. What the CNR says about the property carries more weight than any photocopy or explanation."
+   ]
+  },
+  {
+   "h2": "The matrícula: the number that identifies the property",
+   "paras": [
+    "Each property registered in the land-record system has a matrícula number. It appears in the escritura (deed) of the owner and in their registry documents. Ask the seller for it together with a copy of their escritura: if they refuse to provide it, that is a warning sign.",
+    "Some older properties are still recorded in the previous book system and do not have all their data in the digital system. In those cases, the CNR handles the inquiry as a special registry study."
+   ]
+  },
+  {
+   "h2": "The extracted certification: what it says and how to request it",
+   "paras": [
+    "The extracted certification is an official document that summarizes the registry information of a property. According to the CNR, cited by the press in 2026, it includes the owner's name, the ownership percentage, the legal status of the property, and any pending documents. It can be requested online through the CNR website, and it arrives by email, or in person at their offices. The press reported a price of US$8.86."
+   ],
+   "bullets": [
+    "Does the owner's name match the DUI of the person selling to you?",
+    "Is the owner 100% or are there co-owners who also need to sign?",
+    "Are there registered mortgages? In whose favor?",
+    "Are there liens, preventive annotations or other encumbrances?",
+    "Are there pending documents (another sale, another mortgage) that have been filed but not yet registered?"
+   ],
+   "tip": "A \"pending\" document in the certification is important: it could be another sale or mortgage that the seller has already signed. Do not pay anything until you know what it is."
+  },
+  {
+   "h2": "Consult at a CNR office",
+   "paras": [
+    "If you do not have the matrícula or want to confirm data, you can go to a CNR office and use the query machines, where staff help you with the search. There you can find the matrícula, the escritura number and other registry data."
+   ]
+  },
+  {
+   "h2": "Registry notices: protection after purchase",
+   "paras": [
+    "Once the house is in your name, activate the CNR registry notices. According to the press, the subscription is free for one year and sends you an email each time a procedure involving your property is filed. It is a useful protection against fraud attempts, especially if you live abroad.",
+    "The CNR also has a Registry Security Office that handles inquiries about suspicious cases."
+   ]
+  },
+  {
+   "h2": "Registry and cadastre: two different things",
+   "paras": [
+    "The registry tells who the owner is and what encumbrances exist. The cadastre describes the property physically: location, dimensions and shape on the map. Both are administered by the CNR. If the dimensions in the escritura do not match the actual land, the cadastre and a professional re-measurement can help clarify before you buy."
+   ]
+  },
+  {
+   "h2": "What the registry does not tell you",
+   "paras": [
+    "The certification does not tell you if there are overdue municipal taxes, water or electricity debts, pending maintenance fees, or if the house has cracks. For that, request the municipal solvency certificate, utility bills and the administration statement, and visit the house calmly."
+   ]
+  },
+  {
+   "h2": "Step by step",
+   "steps": [
+    "Ask the seller for the matrícula and a copy of their escritura.",
+    "Request an extracted certification from the CNR, online or at an office.",
+    "Compare the owner's name with their DUI and verify co-owners.",
+    "Review mortgages, liens and pending documents.",
+    "Request municipal solvency and utility bills.",
+    "Take everything to your notario before signing or paying.",
+    "After purchase, activate the registry notices."
+   ]
+  },
+  {
+   "h2": "Warning signs",
+   "bullets": [
+    "The seller does not want to give the matrícula or a copy of the escritura.",
+    "They ask for an urgent advance \"because there is another interested party\".",
+    "The seller says they are acting on behalf of the owner but does not show a power of attorney.",
+    "The price is far below comparable houses in the area."
+   ]
+  },
+  {
+   "h2": "Ask from the notice",
+   "paras": [
+    "At Casa-Libre you can message the seller via WhatsApp and request the matrícula before visiting. That way you make the CNR inquiry from the start. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know if a house is in the seller’s name?",
+   "a": "Request an extracted certification from the CNR with the property’s registration number and compare the owner’s name with the seller’s DUI."
+  },
+  {
+   "q": "How do I know if a house has a mortgage or lien?",
+   "a": "The extracted certification from the CNR shows the legal status of the property, including mortgages, liens and pending documents."
+  },
+  {
+   "q": "How much does an extracted certification cost?",
+   "a": "The press reported in 2026 a price of US$8.86. Confirm the current fee when you request it."
+  },
+  {
+   "q": "What are registry notices?",
+   "a": "A CNR service that sends you an email when a procedure is filed on your property. According to the press, it is free for one year."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Land for sale",
+  "Guide: documents to sell a property"
+ ]
+}

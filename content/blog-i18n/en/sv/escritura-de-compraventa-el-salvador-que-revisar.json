@@ -1,0 +1,111 @@
+{
+ "_src": "07bb8426cb2a",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Deed of Sale in El Salvador: What to Review",
+  "h1": "Deed of Sale of a Property in El Salvador: What It Contains and What to Review Before Signing",
+  "description": "What the deed of sale of a property in El Salvador is, what data it must contain, what to review before signing before notario (notary) and how it is registered in the CNR.",
+  "answer": "The deed of sale is the public document, granted before notario (notary), with which the seller transfers a property to the buyer in El Salvador. It must accurately identify the parties (with their DUI), the property (location, dimensions, boundaries and registration), the price and the payment method, and declare if there are liens. Before signing, check that the data match the CNR certification, that the price is the actual one and that all required signatures are present. Afterwards, the deed must be registered in the Registro de la Propiedad Raíz e Hipotecas."
+ },
+ "sections": [
+  {
+   "h2": "What it is and why it is done before a notario",
+   "paras": [
+    "The Civil Code requires that the sale of real estate be done by escritura pública (public deed). In El Salvador it is granted by a notario (notary), who is a lawyer authorized by the Supreme Court of Justice to perform that function. The notario (notary) certifies the identity of the parties and what they declare, and delivers a testimonio (record) of the deed that is later presented to the registry.",
+    "A private document or a \"carta de venta\" without a notario (notary) does not transfer ownership of a property nor can it be registered."
+   ]
+  },
+  {
+   "h2": "What it must contain",
+   "bullets": [
+    "Place, date and notario’s details.",
+    "Appearers: full name, DUI, address and marital status of the seller and the buyer; if anyone acts by proxy, the proxy details.",
+    "Background: how the seller acquired the property and its registration (matrícula).",
+    "Description of the property: location, dimensions, boundaries and, if applicable, the unit within a condominium.",
+    "Price and payment method: amount in dollars, whether it was paid earlier, at the act or with credit.",
+    "Statement on liens: whether the property is free or what liens exist.",
+    "Tradition or delivery of the property.",
+    "Signatures of all parties and of the notario."
+   ]
+  },
+  {
+   "h2": "What to review before signing",
+   "paras": [
+    "Ask the notario for the draft a few days in advance and compare it with the certification extracted from the CNR. The most common errors are misspelled names, dimensions that do not match and incorrect matrículas, and correcting them later requires a rectification deed."
+   ],
+   "bullets": [
+    "Do the seller’s name and DUI match the registry?",
+    "Do all co-owners sign?",
+    "Do the description and the matrícula match the certification?",
+    "Is the price the actual one? Declaring a lower amount to pay less tax can hurt you.",
+    "Does it clearly state whether the property is free of liens?",
+    "If the seller acts by proxy, does the power allow him to sell that property?"
+   ],
+   "tip": "If you pay part of the price before signing, have the deed state it and keep the transfer receipts. Avoid large cash payments."
+  },
+  {
+   "h2": "Promise of sale: when it is used",
+   "paras": [
+    "When the definitive deed cannot be signed immediately (for example, while a loan is being approved or a lot is being paid in installments), a promise of sale is usually signed. In it the parties commit to signing the purchase agreement later, with a set price and deadline.",
+    "A promise does not make you the owner. Review what happens to any money you paid if the sale does not materialize, what the deadline is and what penalties apply to each party."
+   ]
+  },
+  {
+   "h2": "After signing: tax and registration",
+   "paras": [
+    "With the deed signed, you declare and pay the Real Estate Transfer Tax to Hacienda if the value exceeds US$28,571.43, and then you submit the testimonio to the CNR for registration. Without the tax receipt, the registry will not register it.",
+    "Ask the notario to notify you when the deed is registered and obtain a new certification to confirm that you now appear as the owner."
+   ],
+   "steps": [
+    "Signing of the deed before the notario.",
+    "Declaration and payment of the transfer tax, if applicable.",
+    "Submission of the testimonio to the CNR.",
+    "Registration and delivery of the registered testimonio.",
+    "New certification and activation of registry notices."
+   ]
+  },
+  {
+   "h2": "If there is an error: rectification",
+   "paras": [
+    "If after signing you discover an error in names, dimensions or registration data, it is corrected with a rectification deed before a notario, which is also registered. It is easier to review calmly before signing than to correct later."
+   ]
+  },
+  {
+   "h2": "Marital status, co-owners and inheritances",
+   "paras": [
+    "If the property belongs to several people, all must sign the sale or be represented by proxy. This is common with inherited houses: if the inheritance has not been fully processed and the property is not registered in the heirs’ names, it cannot be sold properly. Ask the notario to review the background and the seller’s marital status in case an additional signature is needed.",
+    "If you buy with your partner, decide before signing how you will appear in the deed and in what percentages. That has consequences if you later sell or if one of you passes away."
+   ]
+  },
+  {
+   "h2": "Start with good information",
+   "paras": [
+    "Requesting the matrícula from the first contact saves you time. At Casa-Libre you can write via WhatsApp to the seller of each house or land and request it before visiting. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it mandatory to conduct the sale before notario (notary)?",
+   "a": "Yes. The sale of real estate requires escritura pública (public deed), which in El Salvador is issued by a notario. A private document does not transfer ownership nor is it registered."
+  },
+  {
+   "q": "What is the difference between a promise to sell and a deed of sale?",
+   "a": "The promise obligates you to sign the sale later; the deed of sale transfers the property. Only with the deed registered are you the owner against third parties."
+  },
+  {
+   "q": "What should I do if the deed has an error?",
+   "a": "It is corrected with a escritura de rectificación before notario, which is also registered in the CNR."
+  },
+  {
+   "q": "How long does registration in the CNR take?",
+   "a": "It depends on the registry workload and whether the documentation is complete. Ask the notario and request to be notified when it is registered."
+  }
+ ],
+ "related": [
+  "Casas en venta",
+  "Guía: documentos para vender un inmueble",
+  "Guía: gastos al comprar una casa"
+ ]
+}

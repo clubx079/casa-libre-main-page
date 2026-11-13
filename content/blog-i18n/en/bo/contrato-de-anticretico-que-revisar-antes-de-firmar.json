@@ -1,0 +1,141 @@
+{
+ "_src": "c8aa721c6918",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Anticrético contract: what to check before signing",
+  "h1": "Anticrético contract in Bolivia: the clauses you need to review before signing",
+  "description": "Before signing an anticrético contract in Bolivia check the amount, term, repayment, taxes, repairs, registration in Derechos Reales and what happens if the property is sold. List of clauses.",
+  "answer": "An anticrético contract must identify the property with its Derechos Reales registration, set the amount delivered and the currency, the term (maximum five years), how and when the money is returned, who pays taxes, expenses and repairs, and what happens if either party wants to terminate early. It must also be executed as escritura pública before a notario and registered in Derechos Reales. A model downloaded from the internet does not replace reviewing these points."
+ },
+ "sections": [
+  {
+   "h2": "Before the contract: what you must verify",
+   "paras": [
+    "The best contract is useless if the property has problems. Before negotiating clauses, request the updated folio real (real estate file): it must show as owner the person signing with you, and there must be no mortgages, liens or other anticrético (lease-purchase agreement) in force. If the owner is married, usually the spouse also signs, because the property may be community property."
+   ]
+  },
+  {
+   "h2": "Clauses that cannot be missing",
+   "table": {
+    "head": [
+     "Clause",
+     "What it must say",
+     "Why it matters"
+    ],
+    "rows": [
+     [
+      "Parties",
+      "Full names, ID numbers, marital status and, if applicable, spouse's signature",
+      "Prevents someone later from claiming they did not consent"
+     ],
+     [
+      "Property",
+      "Address, area, matrícula de Derechos Reales and what is included (parking, storage, furniture)",
+      "Without matrícula you cannot register"
+     ],
+     [
+      "Amount",
+      "Exact sum, currency and method of delivery (transfer, check)",
+      "It is what they must return to you"
+     ],
+     [
+      "Term",
+      "Start and end dates; maximum five years",
+      "The Civil Code limits any term longer than five years"
+     ],
+     [
+      "Return",
+      "When, how and in which currency the money is returned",
+      "The most contentious point at the end"
+     ],
+     [
+      "Expenses",
+      "Who pays taxes, expensas, services and repairs",
+      "By default the law places taxes and charges on the anticresista"
+     ],
+     [
+      "Early termination",
+      "What happens if one party wants to end early",
+      "Avoids disputes if you move out or if the owner needs the property"
+     ],
+     [
+      "Sale of the property",
+      "That the buyer must respect the anticrético",
+      "With registration, your right is enforceable against third parties"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "The currency of the anticrético: a delicate point",
+   "paras": [
+    "For years many anticréticos were agreed in dollars with a fixed exchange rate. Since mid-2026, with a flexible official exchange rate, the contract currency matters more than ever: if you delivered dollars, you will want dollars back; if the owner received bolivianos, they will want to return bolivianos.",
+    "State precisely in which currency the delivery is made and in which currency the return is made. If payment in the other currency is accepted, indicate which exchange rate is used (for example, the official rate published by the Banco Central de Bolivia on the return date). Ambiguity here is the cause of many lawsuits."
+   ]
+  },
+  {
+   "h2": "Repairs and condition of the property",
+   "paras": [
+    "According to the Civil Code, the anticresista must maintain the property like a good family head. It is advisable to separate in the contract minor repairs (which you assume) from structural or installation repairs (which the owner assumes): roof, embedded pipes, electrical system.",
+    "Make a handover act with photos and attach it to the contract. At the end of the term it is your proof that the property is returned in the same condition, except for normal wear."
+   ]
+  },
+  {
+   "h2": "How to plan the end of the contract",
+   "paras": [
+    "Many conflicts arise at termination: the owner does not have the money ready or the anticresista cannot find a new place. Agree in the contract how far in advance notice of departure must be given (for example, a few months ahead), how the final inspection of the property is done and that the money return and key handover occur on the same day, before a notario if possible."
+   ]
+  },
+  {
+   "h2": "Signature before notario and registration in Derechos Reales",
+   "steps": [
+    "A lawyer drafts the minuta with the agreed clauses.",
+    "The notario de fe pública protocolizes it as escritura pública (public deed).",
+    "You deliver the money on the spot, with a bank receipt in the owner's name.",
+    "The escritura is registered in Derechos Reales; then request a folio real where your anticrético is listed.",
+    "At the end, sign with the owner the cancellation of the anticrético only when you receive your money."
+   ],
+   "tip": "Do not sign the cancellation of the anticrético nor hand over the keys before the money is in your account. Your right of retention is your guarantee."
+  },
+  {
+   "h2": "Warning signs",
+   "bullets": [
+    "The owner asks that the money be delivered in cash to a third party or to an \"administrator\" without notarial authority.",
+    "They offer only a private document and say the escritura \"is not needed\".",
+    "The folio real shows a mortgage or a previous anticrético in force.",
+    "The amount is very low for the area: it may be a property with problems or a scam attempt.",
+    "They ask for an advance to \"reserve\" before showing you the folio real."
+   ]
+  },
+  {
+   "h2": "Find options and compare them",
+   "paras": [
+    "Compare how much is requested as anticrético with what it would cost to rent something similar in the same area. On Casa-Libre you see houses and apartments on the map and can write directly via WhatsApp to ask if the owner accepts anticrético. It also works from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does a private anticrético contract have validity?",
+   "a": "The Civil Code requires a public document to constitute the anticresis and registration for it to be enforceable against third parties. A private document leaves you very exposed; have it done before a notario and register it."
+  },
+  {
+   "q": "Can I use an online anticrético contract template?",
+   "a": "It serves as a reference, but each case has its own data (registration, currency, costs, terms). Have a lawyer adapt it and review the folio real."
+  },
+  {
+   "q": "What happens if the owner sells the property during the anticrético?",
+   "a": "If your anticrético is registered in Derechos Reales, the new owner must respect it. Without registration, your position is much weaker."
+  },
+  {
+   "q": "Can an anticrético be renewed?",
+   "a": "Yes, with a new agreement. Do it in writing, before a notario, and register the amendment, respecting the legal maximum of five years per contract."
+  }
+ ],
+ "related": [
+  "See options to live on the map",
+  "Properties in Cochabamba",
+  "Anticrético: what it is and how it works"
+ ]
+}

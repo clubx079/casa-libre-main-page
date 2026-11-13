@@ -1,0 +1,135 @@
+{
+ "_src": "8fadf99e3551",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Condomínio na Venezuela: o que cobre e como se calcula",
+  "h1": "O condomínio na Venezuela: o que cobre, como se calcula e o que verificar antes de comprar ou alugar",
+  "description": "Como funciona o condomínio em um edifício na Venezuela: despesas comuns, alíquota, quotas especiais, fundo de reserva e por que você deve solicitar a solvência antes de comprar.",
+  "answer": "O condomínio é o que cada proprietário de um edifício paga para cobrir as despesas comuns: vigilância, limpeza, manutenção do elevador, bombas d'água, planta elétrica, áreas comuns e administração. É distribuído segundo a alíquota de cada apartamento, que consta no documento de condomínio. Ao comprar, solicite a solvência de condomínio: conforme a Lei de Propriedade Horizontal, as dívidas por despesas comuns acompanham o imóvel e o novo dono pode acabar respondendo por elas."
+ },
+ "sections": [
+  {
+   "h2": "O que cobre o condomínio",
+   "paras": [
+    "Cada edifício é distinto, mas as despesas comuns geralmente incluem esses itens. Quanto mais serviços o edifício tem, mais alto é o condomínio:"
+   ],
+   "bullets": [
+    "Pessoal: portaria, vigilância e limpeza.",
+    "Eletricidade das áreas comuns, elevadores e bombas d'água.",
+    "Manutenção de elevadores, bombas, portões e planta elétrica (incluindo o combustível).",
+    "Compra de água por cisternas quando o fornecimento por tubulação não é suficiente.",
+    "Seguros do edifício, se houver.",
+    "Honorários da administradora.",
+    "Contribuição para o fundo de reserva."
+   ]
+  },
+  {
+   "h2": "A alíquota: por que nem todos pagam o mesmo",
+   "paras": [
+    "Em um edifício regido pela Lei de Propriedade Horizontal, cada apartamento tem um percentual sobre as áreas comuns, chamado alíquota ou quota de participação. Esse percentual está fixado no documento de condomínio que foi protocolizado no Registro Imobiliário quando o edifício foi constituído.",
+    "As despesas comuns são distribuídas conforme essa alíquota. Por isso, um penthouse ou um apartamento grande paga mais que um pequeno no mesmo edifício, embora ambos usem o elevador da mesma forma."
+   ]
+  },
+  {
+   "h2": "Quotas especiais e fundo de reserva",
+   "paras": [
+    "Além da quota ordinária mensal, a assembleia de proprietários pode aprovar quotas especiais para obras grandes: trocar o elevador, impermeabilizar o telhado, comprar ou reparar a planta elétrica, pintar a fachada. Podem ser valores importantes e durar vários meses.",
+    "O fundo de reserva é uma poupança do edifício para imprevistos. Um fundo saudável é um bom sinal; um edifício sem fundo e com equipamentos antigos provavelmente pedirá quotas especiais em breve."
+   ],
+   "tip": "Antes de comprar ou alugar, solicite as atas das últimas assembleias. Lá você vê quais obras foram aprovadas, quanto vão custar e se há conflitos entre vizinhos."
+  },
+  {
+   "h2": "As dívidas de condomínio seguem o apartamento",
+   "paras": [
+    "Este é o ponto mais importante ao comprar. Conforme a Lei de Propriedade Horizontal, a obrigação de pagar as despesas comuns acompanha o imóvel, e os tribunais a aplicam para cobrar do novo proprietário as dívidas deixadas pelo anterior. Além disso, as planilhas de liquidação emitidas pela administradora têm força executiva, facilitando sua cobrança judicial.",
+    "Por isso, antes de assinar a compra e venda, solicite a solvência de condomínio à administradora do edifício, com data recente, e inclua no contrato que o vendedor responde por qualquer dívida anterior à entrega."
+   ]
+  },
+  {
+   "h2": "Se você aluga: quem paga o condomínio",
+   "paras": [
+    "Em um aluguel, quem paga o condomínio depende do contrato. Às vezes está incluído no aluguel e outras vezes é pago separadamente. Também esclareça quem assume as quotas especiais: o razoável é que as obras que valorizam o edifício sejam pagas pelo proprietário, mas isso precisa estar escrito."
+   ]
+  },
+  {
+   "h2": "O que perguntar sobre o condomínio antes de decidir",
+   "table": {
+    "head": [
+     "Pergunta",
+     "Por que importa"
+    ],
+    "rows": [
+     [
+      "Quanto foi o condomínio nos últimos meses?",
+      "Dá o custo mensal real"
+     ],
+     [
+      "Há quotas especiais aprovadas ou em discussão?",
+      "Podem somar muito a curto prazo"
+     ],
+     [
+      "Quanto há no fundo de reserva?",
+      "Indica se o edifício está preparado para imprevistos"
+     ],
+     [
+      "O apartamento está em dia?",
+      "As dívidas podem passar ao comprador"
+     ],
+     [
+      "Funcionam elevador, bombas e planta elétrica?",
+      "Se não, vem uma quota especial"
+     ],
+     [
+      "Há alta inadimplência entre os vizinhos?",
+      "Se muitos não pagam, os que pagam cobrem o déficit ou o edifício se deteriora"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Como proprietário: participe da assembleia",
+   "paras": [
+    "As decisões que mais afetam seu bolso são tomadas na assembleia de proprietários: o orçamento, as quotas especiais, a escolha da junta de condomínio e da administradora. Ir às assembleias, ler as atas e revisar as contas é a melhor forma de garantir que o condomínio seja bem usado.",
+    "Solicite à administradora o detalhamento de cada planilha: o que foi pago, a quem e por quê. Um condomínio transparente publica as contas e responde às perguntas dos proprietários."
+   ]
+  },
+  {
+   "h2": "Compare edifícios, não só apartamentos",
+   "paras": [
+    "Ao ver opções no Casa-Libre, pergunte por WhatsApp o valor do condomínio e se há quotas especiais antes de ir visitar. Isso economiza visitas a edifícios que não cabem no seu orçamento. Na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é a alíquota de um apartamento?",
+   "a": "É a porcentagem de participação desse apartamento nas coisas comuns do edifício, fixada no documento de condomínio. As despesas comuns são distribuídas segundo essa porcentagem."
+  },
+  {
+   "q": "Se eu comprar um apartamento com dívida de condomínio, preciso pagar?",
+   "a": "Pode acontecer: conforme a Lei de Propriedade Horizontal a dívida acompanha o imóvel. Solicite a solvência de condomínio antes de assinar e deixe registrado que o vendedor responde pelas dívidas anteriores."
+  },
+  {
+   "q": "O que é uma quota especial?",
+   "a": "Um pagamento extra aprovado pela assembleia para uma obra ou despesa pontual, como reparar o elevador ou a planta elétrica."
+  },
+  {
+   "q": "As moradias da Missão Habitação têm condomínio?",
+   "a": "Têm um regime especial de condomínio distinto ao da Lei de Propriedade Horizontal. As regras são consultadas na normativa específica desses urbanismos."
+  },
+  {
+   "q": "O que é a solvência de condomínio?",
+   "a": "Um comprovante da administradora do edifício que indica que o apartamento não tem dívidas de despesas comuns em determinada data. Solicite-a recente antes de comprar."
+  },
+  {
+   "q": "Quem decide as quotas especiais?",
+   "a": "A assembleia de proprietários, segundo as regras do documento de condomínio. Por isso é conveniente participar e ler as atas."
+  }
+ ],
+ "related": [
+  "Apartamentos à venda",
+  "Apartamentos para aluguel",
+  "Quanto custa alugar em Caracas"
+ ]
+}

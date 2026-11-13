@@ -1,0 +1,93 @@
+{
+ "_src": "21d71f0bbcfd",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Como saber se uma propriedade tem dívidas antes de comprá-la",
+  "h1": "Como verificar se uma propriedade tem dívidas antes de comprá-la",
+  "description": "Antes de comprar verifique imposto imobiliário, ANDE, água, despesas, hipotecas e penhoras: o que solicitar, a quem e por que uma dívida impede a escritura.",
+  "answer": "Antes de comprar uma propriedade no Paraguai verifique três tipos de dívida: as do imóvel com o Estado (imposto imobiliário e taxas municipais, com um certificado de não dever da municipalidade), as de serviços e edifício (contas da ANDE e água, despesas se for um apartamento) e as que gravam o título (hipotecas, penhoras ou inibições, que aparecem no relatório de condição de domínio que pede o escribano (tabelião) nos Registros Públicos). Peça tudo antes de pagar o sinal ou condicione o sinal a que os relatórios estejam limpos."
+ },
+ "sections": [
+  {
+   "h2": "Por que as dívidas do imóvel importam para você",
+   "paras": [
+    "Algumas dívidas ficam vinculadas ao imóvel e não à pessoa. O imposto imobiliário, por exemplo, é liquidado por cada conta corrente catastral, e as dívidas atrasadas geram multas e juros que podem impedir procedimentos como a transferência. Uma hipoteca ou um embargo inscritos seguem o imóvel mesmo que mude de dono, salvo se forem cancelados.",
+    "Na prática, o escribano (tabelião) não deveria assinar uma escritura com dívidas ou gravames sem resolver, mas convém que você saiba antes: negociar com informação é muito mais fácil que descobrir o problema depois de entregar a sinal."
+   ]
+  },
+  {
+   "h2": "Imposto imobiliário e taxas municipais",
+   "paras": [
+    "O imposto imobiliário é anual e equivale a 1% do valor fiscal do imóvel, uma avaliação que fixa o Estado e que costuma estar abaixo do valor de mercado. Desde a Lei 5513/2015 essa avaliação se ajusta a cada ano pela inflação, e para 2026 o Poder Executivo decretou um reajuste. As municipalidades cobram o imposto.",
+    "O que você precisa solicitar é o certificado de não dever (ou constância de dívida livre) da municipalidade onde está o imóvel, que mostra se o imposto e as taxas estão pagas. Para solicitá-lo você precisa da conta corrente catastral (em zona urbana) ou do cadastro (em zona rural). Além disso, a DNIT habilitou em seu site a liquidação do imposto imobiliário com base no Serviço Nacional de Cadastro, o que permite ter uma referência do valor anual."
+   ],
+   "tip": "Peça ao vendedor o último recibo do imposto imobiliário assim que se interessar pela propriedade. Se ele não o tem ou tem dúvidas, é um sinal para solicitar o certificado imediatamente."
+  },
+  {
+   "h2": "ANDE, água e outros serviços",
+   "paras": [
+    "As contas atrasadas de luz e água nem sempre bloqueiam a escritura, mas podem complicar a mudança: há casos em que o serviço está cortado ou em que, para transferir o contrato para o seu nome, primeiro é preciso quitar o que está devido. Peça as últimas contas da ANDE e da água (ESSAP, junta de saneamento ou abastecimento privado, conforme a zona) e verifique se estão pagas.",
+    "Combine por escrito que o vendedor entregue a propriedade com os serviços em dia e que a mudança de titularidade seja feita assim que o contrato for assinado."
+   ]
+  },
+  {
+   "h2": "Expensas se for um apartamento ou condomínio",
+   "paras": [
+    "Em edifícios e condomínios fechados, as expensas comuns pagam limpeza, segurança, elevadores e manutenção. Se o vendedor deve expensas, a administração pode cobrá-las e, conforme o regulamento, condicionar procedimentos. Peça à administração uma constância de que não há expensas pendentes e pergunte se há expensas extraordinárias aprovadas para obras futuras: são um gasto que você vai herdar."
+   ]
+  },
+  {
+   "h2": "Hipotecas, embargos e inhibições: o relatório de condição de domínio",
+   "paras": [
+    "As dívidas mais graves não aparecem em nenhuma conta: são as inscritas nos Registros Públicos. O relatório ou certificado de condição de domínio mostra quem é o titular do imóvel e se há hipotecas, embargos, inhibições ou outras anotações. É emitido pela Dirección General de los Registros Públicos del Poder Judicial e costuma ser solicitado pelo escribano, que tem acesso à gestão online através do sistema registral.",
+    "Além disso, o Registro Unificado Nacional apresentou em 2026 um certificado catastral-registral imobiliário digital, que combina em um único procedimento informações de cadastro e do registro. Pergunte ao seu escribano qual corresponde à sua operação."
+   ],
+   "bullets": [
+    "Hipoteca: o imóvel garante um empréstimo. Pode ser comprado, mas a hipoteca precisa ser quitada antes ou no ato da escritura.",
+    "Embargo: um juiz bloqueou o imóvel por uma dívida ou processo. É preciso levantá-lo antes de transferir.",
+    "Inibição: a pessoa não pode dispor de seus bens. Se o vendedor está inibido, não pode vender até resolver a situação.",
+    "Litígio ou anotações de processo: há uma disputa sobre o imóvel. Consulte um advogado antes de prosseguir."
+   ]
+  },
+  {
+   "h2": "Em que ordem fazer",
+   "steps": [
+    "Peça ao vendedor o título, a conta corrente catastral, o último recibo do imposto imobiliário e as últimas contas de serviços.",
+    "Escolha um escribano de sua confiança e solicite o relatório de condição de domínio e o certificado municipal de não dever.",
+    "Se for um apartamento, peça a constância de expensas à administração.",
+    "Só com os relatórios em mãos, assine a sinal ou o boleto. Se precisar sinalizar antes, que o documento diga que a sinal será devolvida se surgirem dívidas ou gravames não informados.",
+    "Na escritura, que o escribano registre as quitações (hipoteca, dívidas) feitas com o dinheiro da compra."
+   ]
+  },
+  {
+   "h2": "Pergunte desde a primeira mensagem",
+   "paras": [
+    "Quando você escreve por um anúncio, perguntar \"tem título e o imposto em dia?\" economiza visitas inúteis. No Casa-Libre você escreve direto por WhatsApp ao dono ou à imobiliária, pelo site ou pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como sei se uma casa tem dívida de imposto imobiliário?",
+   "a": "Peça o certificado de não dever da municipalidade do distrito com a conta corrente cadastral ou o cadastro. Também pode pedir ao vendedor o último recibo pago."
+  },
+  {
+   "q": "Como sei se uma propriedade está hipotecada no Paraguai?",
+   "a": "Com o relatório ou certificado de condição de domínio da Dirección General de los Registros Públicos, que normalmente gerencia o escribano. Mostra hipotecas, penhoras e inibições."
+  },
+  {
+   "q": "Posso comprar uma propriedade com hipoteca?",
+   "a": "Sim, se a hipoteca for cancelada antes ou no mesmo ato da escritura, por exemplo com parte do dinheiro da compra. O escribano coordena o cancelamento com a entidade credora."
+  },
+  {
+   "q": "As dívidas de luz e água passam para o novo dono?",
+   "a": "Podem complicar a mudança de titular ou a reconexão. Acorde por escrito que o vendedor entregue os serviços em dia e peça as últimas contas pagas."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: gastos e impostos ao comprar"
+ ]
+}

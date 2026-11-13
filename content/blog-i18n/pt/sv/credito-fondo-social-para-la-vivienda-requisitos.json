@@ -1,0 +1,138 @@
+{
+ "_src": "293aeb1a0654",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Crédito do Fundo Social para a Habitação: requisitos",
+  "h1": "Crédito do Fundo Social para a Habitação (FSV): linhas, requisitos e como solicitá-lo",
+  "description": "Como funciona o crédito do FSV em El Salvador: quem pode solicitar, linhas como Casa Joven, Casa Mulher, Habitação em Altura e Habitação Próxima, requisitos e passos para solicitar.",
+  "answer": "O Fundo Social para a Habitação (FSV) é a instituição pública que concede créditos hipotecários para moradia a trabalhadores salvadorenhos, tanto do setor formal como, em algumas linhas, do informal e de salvadorenhos no exterior. Financia moradia nova ou usada, casas recuperadas do próprio Fundo, lotes, construção e melhorias. Em geral exige ser maior de 18 anos, ter rendimentos comprováveis e capacidade de pagamento, bom histórico de crédito, estar em dia com a Fazenda e ser sujeito a seguro de dívida. Possui linhas especiais como Casa Joven, Casa Mulher, Habitação em Altura e Habitação Próxima."
+ },
+ "sections": [
+  {
+   "h2": "O que é o FSV e em que se diferencia de um banco",
+   "paras": [
+    "O FSV é uma instituição de crédito autônoma criada por lei para facilitar moradia aos trabalhadores. Ao contrário de um banco comercial, seu objetivo é social: suas linhas são pensadas para pessoas de renda baixa e média, e algumas incluem quem não contribui para uma AFP.",
+    "Isso não significa que empresta a qualquer pessoa. O FSV avalia sua capacidade de pagamento e seu histórico, como qualquer credor, e a casa fica hipotecada a seu favor até que termine de pagar."
+   ]
+  },
+  {
+   "h2": "O que pode financiar",
+   "bullets": [
+    "Moradia nova em projetos autorizados.",
+    "Moradia usada.",
+    "Moradias recuperadas que o próprio FSV vende.",
+    "Compra de lote com serviços.",
+    "Construção de moradia individual.",
+    "Reparo, ampliação ou melhoria.",
+    "Refinanciamento de dívidas de moradia com outras instituições."
+   ]
+  },
+  {
+   "h2": "As linhas especiais mais procuradas",
+   "paras": [
+    "Além de seu crédito geral, o FSV tem linhas para grupos específicos. As condições mudam com o tempo; o que segue resume o publicado na imprensa com informações do Fundo em 2026, e deve ser confirmado com o FSV antes de aplicar."
+   ],
+   "table": {
+    "head": [
+     "Linha",
+     "Para quem é (em geral)",
+     "Nota"
+    ],
+    "rows": [
+     [
+      "Casa Joven (setor formal)",
+      "Pessoas de 18 a 35 anos que contribuem para AFP",
+      "Solicitam comprovação de salário, extrato de conta da AFP e DUI"
+     ],
+     [
+      "Casa Joven (setor informal)",
+      "Pessoas de 18 a 29 anos que não contribuem",
+      "Pelo menos dois anos de renda comprovável"
+     ],
+     [
+      "Casa Mujer",
+      "Mulheres de 26 a 50 anos, formais ou informais",
+      "No setor formal, créditos de até US$50,000 segundo a imprensa"
+     ],
+     [
+      "Vivienda en Altura",
+      "Compra de apartamentos em edifícios de três ou mais níveis",
+      "O edifício deve ter viabilidade de financiamento do FSV"
+     ],
+     [
+      "Vivienda Cercana",
+      "Salvadorenhos no exterior e famílias que recebem remessas",
+      "Inclui pessoas com TPS e pensionistas no exterior"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Requisitos gerais",
+   "paras": [
+    "Segundo as informações do FSV publicadas na imprensa, os requisitos básicos são: ter entre 18 e 69 anos no setor formal (até 60 no informal), renda comprovável, capacidade de pagamento, bom histórico de crédito, solvência com o Ministério da Fazenda e ser sujeito de seguro de dívida. Os empregados devem ter um mínimo de contribuições e os independentes, um tempo mínimo em sua atividade."
+   ],
+   "bullets": [
+    "DUI.",
+    "Comprovação de salário ou confirmação de emprego e extrato de conta da AFP (setor formal).",
+    "Comprovantes de renda ou histórico de remessas (setor informal e Vivienda Cercana).",
+    "Solvência da Fazenda.",
+    "Documentos do imóvel: escritura (escritura pública) do vendedor, matrícula e solvências, ou os do projeto se for moradia nova."
+   ],
+   "tip": "Se sua renda não for suficiente, algumas linhas permitem um codevedor. Em Vivienda Cercana, segundo a imprensa, o codevedor deve ter ao menos 25% da capacidade de pagamento exigida ao devedor principal."
+  },
+  {
+   "h2": "Use o simulador antes de buscar casa",
+   "paras": [
+    "O FSV tem um simulador de crédito em seu site. Ele pede seu setor (empregado, pensionista, salvadorenho no exterior, setor básico ou microempresário), a linha, o tipo de imóvel, sua renda e dívidas, e o preço da moradia. O resultado é orientativo, mas indica em que faixa de preço buscar."
+   ]
+  },
+  {
+   "h2": "Passos para solicitá-lo",
+   "steps": [
+    "Use o simulador e reúna seus comprovantes de renda.",
+    "Procure a moradia dentro da faixa que o simulador indica.",
+    "Peça ao vendedor matrícula, escritura e solvências, e verifique a situação no CNR.",
+    "Apresente a solicitação no FSV com seus documentos e os do imóvel.",
+    "O FSV avalia sua capacidade de pagamento e realiza a avaliação do imóvel.",
+    "Se aprovarem, assina a escritura de compraventa com hipoteca perante notario (tabelião) e registra no CNR."
+   ]
+  },
+  {
+   "h2": "O seguro de dívida: o que cobre",
+   "paras": [
+    "Todos os devedores devem ser sujeitos de seguro de dívida. Segundo o FSV, citado pela imprensa, esse seguro pode quitar o crédito se o devedor ou o codevedor falecer ou sofrer invalidez total e permanente. É uma proteção para sua família; pergunte ao FSV quanto isso acrescenta à sua parcela."
+   ]
+  },
+  {
+   "h2": "Buscar uma moradia que se encaixe no seu crédito",
+   "paras": [
+    "No Casa-Libre você pode filtrar casas e apartamentos por preço e zona, visualizá-los no mapa e perguntar por WhatsApp ao vendedor se aceita pagamento com crédito do FSV. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quem pode obter um crédito do FSV?",
+   "a": "Trabalhadores do setor formal que contribuem, e em algumas linhas trabalhadores informais, pensionistas e salvadorenhos no exterior, sempre que tenham rendimentos comprováveis, capacidade de pagamento e bom histórico de crédito."
+  },
+  {
+   "q": "O que é Casa Joven do FSV?",
+   "a": "É uma linha para jovens. Segundo a imprensa, no setor formal é para pessoas de 18 a 35 anos que contribuem ao AFP, e no informal para pessoas de 18 a 29 anos com pelo menos dois anos de rendimentos comprováveis."
+  },
+  {
+   "q": "O FSV financia casas usadas?",
+   "a": "Sim. Financia moradia nova e usada, casas recuperadas do Fundo, lotes, construção e melhorias."
+  },
+  {
+   "q": "Posso solicitar o FSV se moro nos Estados Unidos?",
+   "a": "Sim, com a linha Habitação Próxima, que inclui salvadorenhos com residência ou cidadania no exterior, pessoas com TPS e pensionistas."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Guia: comprar sua primeira casa"
+ ]
+}

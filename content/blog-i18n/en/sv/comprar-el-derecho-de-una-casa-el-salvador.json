@@ -1,0 +1,116 @@
+{
+ "_src": "c82f8972c72e",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying \"the right\" to a house in El Salvador: risks",
+  "h1": "What it means to buy \"the right\" to a house in El Salvador and what risks it carries",
+  "description": "When you are offered \"the right\" to a house with a mortgage from the FSV or a bank: what you are actually buying, why it is risky, and how to do it safely.",
+  "answer": "When someone \"sells the right\" to a house, it is almost always a property that still has a mortgage loan with the FSV or a bank: you pay the owner an amount and commit to continue paying the installments, but the house remains in the seller’s name and the mortgage stays in effect. Until it is formalized before the notario (notary) and with the creditor’s authorization, you are not the owner. The safe way is for the seller to cancel the debt (or for you to assume the loan with the creditor’s approval) and for the sale to be written up and registered in the CNR."
+ },
+ "sections": [
+  {
+   "h2": "What is sold when \"the right\" is sold",
+   "paras": [
+    "The expression is popular, not legal. In practice it usually means one of these arrangements: the buyer pays a \"premium\" to the owner and then continues paying the loan installment; or the owner leaves the house and the buyer lives in it paying, with a private document or a promise of sale. In both cases, in the Registro de la Propiedad Raíz e Hipotecas the house remains in the seller’s name and the mortgage is registered in favor of the FSV or the bank.",
+    "That means that, against the registry and against the creditor, you do not exist. What you have at most is a personal commitment from the seller."
+   ]
+  },
+  {
+   "h2": "Specific risks for the buyer",
+   "bullets": [
+    "The seller remains the owner: he can sell again, mortgage or have the house seized for other debts, and the house is affected.",
+    "If the seller dies, the house passes to his heirs, who are not bound by an informally documented arrangement.",
+    "If you pay the installments but the loan falls behind for any reason, the creditor enforces the mortgage against the registered owner and you can lose what you invested.",
+    "The loan debt insurance covers the original debtor, not you: if something happens to you, your family is not protected.",
+    "At the end of the loan, you need the seller to sign the escritura (deed). If he does not appear or does not want to, you will have to go to court."
+   ],
+   "tip": "Be wary if the seller insists on \"not involving the notario (notary)\" or doing everything \"off the books\" to save paperwork. Those savings end up being paid by the buyer."
+  },
+  {
+   "h2": "What to verify if they offer you such a house",
+   "paras": [
+    "Before handing over money, request the matrícula and obtain an extract certification from the CNR: it will confirm who the owner is and what mortgages or liens exist. Also ask the seller to request from his creditor the current loan balance and whether it is up to date. With those two pieces of information you know how much is owed and whether the price they ask for \"the right\" makes sense."
+   ],
+   "bullets": [
+    "CNR certification in the seller’s name.",
+    "Statement of loan balance issued by the FSV or the bank.",
+    "Current municipal tax compliance and utility bills up to date.",
+    "Seller’s DUI and, if married, the spouse’s DUI if applicable."
+   ]
+  },
+  {
+   "h2": "Three safe ways to do the transaction",
+   "paras": [
+    "There are ways to buy a house with a mortgage without being left unprotected. All involve a notario and the creditor."
+   ],
+   "table": {
+    "head": [
+     "Option",
+     "How it works",
+     "Advantage"
+    ],
+    "rows": [
+     [
+      "Cancel and buy",
+      "The price covers the balance; the creditor cancels the mortgage and the sale is recorded in a escritura (deed)",
+      "You receive the house free of encumbrances"
+     ],
+     [
+      "New loan for the buyer",
+      "Your bank or the FSV lends you; part of the loan pays the seller’s balance",
+      "The house is in your name with your own mortgage"
+     ],
+     [
+      "Assume the debt with approval",
+      "The creditor evaluates the buyer and authorizes the assumption of the loan",
+      "Possible only if the creditor accepts"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "How to know if the price of the \"right\" makes sense",
+   "paras": [
+    "The real price of the house is the sum of what you pay the seller plus the remaining loan balance, plus the closing costs. If the seller asks for a premium and you assume a large debt, do the full calculation and compare it with similar houses in the same area that are sold free of liens.",
+    "Also consider the remaining term. A loan with many years left means a lot of interest to pay. Sometimes it is cheaper to obtain your own loan with better terms than to inherit an old one."
+   ]
+  },
+  {
+   "h2": "If the mortgage is from the FSV",
+   "paras": [
+    "The FSV finances, among other lines, the purchase of used housing and the refinancing of debts with other institutions. If you meet the requirements, you can request your own loan to buy the house and cancel the seller’s balance in the same transaction. Consult directly with the FSV which option applies to you.",
+    "A different alternative is the recovered homes that the FSV itself sells. In that case you buy directly from the Fund and do not assume another person’s debt."
+   ]
+  },
+  {
+   "h2": "Look for houses with clear paperwork",
+   "paras": [
+    "On Casa-Libre you can search for houses for sale and ask via WhatsApp, before visiting, whether the property has a mortgage and how the seller plans to resolve it. You can also search from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it legal to sell the right to a house?",
+   "a": "A private agreement between two people is not prohibited, but it does not transfer ownership nor frees the seller from the mortgage. The house remains in their name in the CNR. For you to become the owner, a escritura (public deed) before a notario (notary) that is registered is required."
+  },
+  {
+   "q": "Can a mortgaged house be sold in El Salvador?",
+   "a": "Yes, but the mortgage remains attached to the property. Usually the balance is paid off with the sale price or the buyer obtains their own loan. Assuming the debt requires the creditor’s approval."
+  },
+  {
+   "q": "What happens if the seller dies before the deed is executed?",
+   "a": "The house passes to their heirs. If your arrangement was informal, you will have to negotiate with them or pursue a legal claim. That is why it is advisable to formalize from the start."
+  },
+  {
+   "q": "How do I know how much is owed on the house?",
+   "a": "Ask the seller for a balance statement issued by the creditor and verify the mortgage with a certification from the CNR."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Properties in Soyapango",
+  "Guide: buying your first house"
+ ]
+}

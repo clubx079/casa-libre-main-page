@@ -1,0 +1,105 @@
+{
+ "_src": "d10714d0e42c",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Contrato de aluguel no Uruguai: 9 cláusulas que você tem que revisar",
+  "h1": "Contrato de aluguel no Uruguai: o que revisar antes de assinar",
+  "description": "O que observar em um contrato de aluguel no Uruguai: regime (14.219, Código Civil ou LUC), prazo, moeda, reajuste, despesas comuns, reparos, rescisão, inventário e crédito fiscal de IRPF.",
+  "answer": "Antes de assinar um contrato de aluguel no Uruguai verifique sob qual regime ele será firmado (o Decreto-Lei 14.219, o Código Civil ou o regime sem garantia da LUC), o prazo e como ele se renova, a moeda (pesos, dólares, UR ou UI), como o preço será reajustado, quem paga as despesas comuns, tributos e reparos, como você pode rescindi-lo antes e como a garantia será devolvida. Peça que seja anexado um inventário com fotos e que o contrato seja escrito: além de proteger você, um contrato escrito de um ano ou mais é requisito para o crédito fiscal de IRPF por aluguel."
+ },
+ "sections": [
+  {
+   "h2": "1. Sob qual regime se assina",
+   "paras": [
+    "No Uruguai coexistem diferentes regras para os aluguéis. Os contratos com garantia costumam ser regidos pelo Decreto-Lei 14.219 de arrendamentos urbanos e pelo Código Civil. Os contratos sem garantia podem aderir ao regime da Lei 19.889 (LUC), que exige uma cláusula expressa e tem prazos de despejo muito mais curtos.",
+    "Verifique o que diz o contrato. Se aparecer uma cláusula de submissão à Lei 19.889, você está no regime da LUC embora o restante do texto pareça igual a qualquer outro."
+   ]
+  },
+  {
+   "h2": "2. Prazo e renovação",
+   "paras": [
+    "Observe quando começa e quando termina, e o que acontece ao vencer: se renova automaticamente, se é preciso avisar e com que antecedência. No regime da LUC, se ninguém avisar o contrário dentro dos 30 dias anteriores ao vencimento, o contrato se prorroga por prazo igual."
+   ]
+  },
+  {
+   "h2": "3. Moeda do preço",
+   "paras": [
+    "Os aluguéis no Uruguai são pactuados em pesos uruguaios, em dólares ou em unidades como a UR (Unidad Reajustable) ou a UI (Unidad Indexada). Se você recebe em pesos, um aluguel em dólares o expõe a que a parcela suba se o dólar subir. Se for em UR ou UI, o valor em pesos muda todo mês conforme essas unidades, que publica o INE."
+   ]
+  },
+  {
+   "h2": "4. Como se reajusta o preço",
+   "paras": [
+    "Procure a cláusula de reajuste: a cada quanto tempo e com qual índice. É comum que os aluguéis em pesos sejam ajustados uma vez por ano. O INE publica o coeficiente de ajuste de aluguéis, que se calcula a partir da Unidad Reajustable, e também o IPC. No regime da LUC, se for em pesos e nada foi pactuado, ajusta-se anualmente pelo IPC.",
+    "Peça que o contrato indique o índice concreto e a data de ajuste. \"Será ajustado conforme o mercado\" não é uma cláusula clara."
+   ]
+  },
+  {
+   "h2": "5. Despesas comuns, consumos e tributos",
+   "paras": [
+    "Os consumos (UTE, OSE, internet) normalmente são pagos pelo inquilino. Em apartamentos, pergunte quanto são as despesas comuns e se o contrato distingue entre ordinárias (as de todos os meses) e extraordinárias (obras, fundos especiais). É habitual que o inquilino pague as ordinárias e o dono as extraordinárias, mas isso decide o contrato.",
+    "Verifique também se transferem algum tributo do imóvel. A contribuição imobiliária costuma ser paga pelo proprietário, mas alguns contratos repassam taxas ao inquilino."
+   ]
+  },
+  {
+   "h2": "6. Reparos e melhorias",
+   "paras": [
+    "O contrato deve dizer quem se responsabiliza por quê: os reparos estruturais (telhado, tubulações, instalação elétrica) geralmente cabem ao dono e a manutenção menor ao inquilino. As melhorias que você fizer normalmente precisam de permissão escrita e ficam na propriedade ao sair, salvo acordo diferente."
+   ]
+  },
+  {
+   "h2": "7. Rescindir antes do prazo",
+   "paras": [
+    "Uma das dúvidas mais frequentes é como rescindir um contrato de aluguel. Verifique antes de assinar se pode sair antes do prazo, com quanto de antecedência e se há multa. Se a garantia for estatal, a rescisão total também é processada perante a Contaduría General de la Nación. Avise sempre por escrito e guarde o comprovante."
+   ]
+  },
+  {
+   "h2": "8. Garantia e inventário",
+   "paras": [
+    "O contrato tem que dizer que garantia é usada e como ela é liberada ao final. Se for um depósito, lembre-se que para moradia o teto legal é de cinco meses e que ele deve ser feito no BHU. Anexe um inventário assinado com fotos do estado da propriedade: é sua melhor prova ao sair."
+   ]
+  },
+  {
+   "h2": "9. Outras cláusulas a observar",
+   "bullets": [
+    "Animais de estimação: se são permitidos e com que condições.",
+    "Destino: apenas moradia ou se pode trabalhar de casa.",
+    "Subarrendamento e cessão: geralmente requer consentimento escrito do dono.",
+    "Inspeções: se o dono pode visitar a propriedade e com que aviso.",
+    "Multas: por atraso ou por não entregar a tempo."
+   ],
+   "tip": "Se paga IRPF pelo seu trabalho, guarde o contrato escrito e os recibos: a DGI permite um crédito fiscal por aluguel de moradia permanente com contrato escrito de prazo igual ou maior a um ano."
+  },
+  {
+   "h2": "Antes de chegar ao contrato",
+   "paras": [
+    "Pergunte por WhatsApp moeda, reajuste, despesas comuns e garantia antes de visitar. No Casa-Libre você vê os aluguéis do Uruguai no mapa e escreve direto ao anunciante, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O contrato de aluguel precisa ser escrito?",
+   "a": "É o recomendável sempre, e é obrigatório no regime sem garantia da LUC. Além disso, o crédito fiscal de IRPF por aluguel exige contrato escrito de um ano ou mais."
+  },
+  {
+   "q": "Como o aluguel é reajustado no Uruguai?",
+   "a": "Como estiver no contrato. É comum um ajuste anual pelo coeficiente de reajuste de aluguéis ou pelo IPC, ambos publicados pelo INE. Se for em UR ou UI, o valor em pesos muda mês a mês."
+  },
+  {
+   "q": "Quem paga as despesas comuns em um aluguel?",
+   "a": "Normalmente o inquilino paga as ordinárias e o proprietário as extraordinárias, mas isso é definido no contrato. No regime da LUC, salvo acordo em contrário, são do inquilino."
+  },
+  {
+   "q": "Qual é o crédito fiscal de IRPF por aluguel?",
+   "a": "A DGI indica que pode ser descontado o equivalente a 8% do aluguel efetivamente pago no ano, se você cumprir os requisitos. Confirme a cada ano na DGI."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Apartamentos para alugar",
+  "Alugar sem garantia pela LUC",
+  "Depósito de garantia no BHU"
+ ]
+}

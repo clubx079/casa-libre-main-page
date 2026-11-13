@@ -1,0 +1,140 @@
+{
+ "_src": "e873fe48fc65",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Cédula cadastral na Venezuela: o que é e como obtê-la",
+  "h1": "Cédula cadastral na Venezuela: o que é, para que serve e como tramitar na sua alcaldía",
+  "description": "O que é a cédula cadastral (ou ficha cadastral) de um imóvel na Venezuela, para que a solicitam ao comprar ou vender, como tramitar no escritório de cadastro municipal e quais documentos levar.",
+  "answer": "A cédula cadastral é o documento emitido pelo escritório de cadastro da alcaldía para identificar um imóvel dentro do município: atribui um código, registra sua localização, área, construção e uso, e serve de base para o imposto sobre imóveis urbanos. É exigida para registrar uma compra e venda, para obter a solvência municipal e para muitos alvarás. Tramita-se na direção de cadastro do município onde está o imóvel, com o documento de propriedade e a cédula do proprietário."
+ },
+ "sections": [
+  {
+   "h2": "O que é a cédula cadastral",
+   "paras": [
+    "O cadastro é o inventário dos imóveis de um município. Cada prefeitura tem seu escritório de cadastro que levanta os dados físicos de cada imóvel (localização, limites, área do terreno e da construção, uso) e lhe atribui um código cadastral. A cédula cadastral é o documento que certifica essa inscrição.",
+    "Em alguns municípios fala-se em \"ficha cadastral\" ou \"certificado de empadronamento\"; os nomes variam, mas a ideia é a mesma: o imóvel está identificado no cadastro municipal."
+   ]
+  },
+  {
+   "h2": "Para que serve",
+   "table": {
+    "head": [
+     "Trâmite",
+     "Por que pedem"
+    ],
+    "rows": [
+     [
+      "Registro de uma compra e venda",
+      "O registro precisa identificar o imóvel e sua situação cadastral"
+     ],
+     [
+      "Solvência municipal",
+      "O imposto sobre imóveis urbanos é calculado com os dados cadastrais"
+     ],
+     [
+      "Crédito hipotecário",
+      "O banco a inclui no estudo do imóvel"
+     ],
+     [
+      "Permissões de construção ou remodelação",
+      "A prefeitura parte dos dados cadastrais"
+     ],
+     [
+      "Declaração sucessória",
+      "Para identificar e valorar os imóveis do falecido"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Quais documentos costumam pedir",
+   "paras": [
+    "Cada prefeitura tem sua lista. Antes de ir, verifique o portal do município ou ligue para o escritório de cadastro."
+   ],
+   "bullets": [
+    "Cópia do documento de propriedade registrado.",
+    "Cópia da cédula de identidade e RIF do proprietário.",
+    "Planta de mensura ou levantamento topográfico, especialmente em casas e terrenos.",
+    "Solvência do imposto sobre imóveis urbanos, em alguns municípios.",
+    "Se tramitar outra pessoa, autorização ou procuração do proprietário.",
+    "Pagamento da taxa correspondente, conforme a ordenança."
+   ]
+  },
+  {
+   "h2": "Como tramitá-la, passo a passo",
+   "steps": [
+    "Confirme a que município pertence o imóvel. Em cidades grandes, uma mesma zona pode ficar em municípios diferentes.",
+    "Verifique no portal da prefeitura se o trâmite inicia online ou presencialmente.",
+    "Reúna os documentos e pague a taxa.",
+    "Se for o caso, receba a inspeção do funcionário de cadastro, que verifica medidas e construção.",
+    "Retire a cédula cadastral e confira se os dados coincidem com o documento de propriedade."
+   ],
+   "tip": "Se você remodelou ou ampliou, a construção real pode não coincidir com a registrada no cadastro. É melhor atualizá-la antes de vender do que descobrir no dia do registro."
+  },
+  {
+   "h2": "O que checar como comprador",
+   "paras": [
+    "Peça ao vendedor a cédula cadastral e compare com o documento de propriedade e com o que você vê na visita. Se o documento indica 80 m² e no cadastro constam 120 m² construídos, ou o contrário, há uma diferença que deve ser esclarecida antes de assinar.",
+    "Verifique também se a cédula cadastral está em nome do vendedor. Se aparecer outro proprietário, pode ser apenas um dado desatualizado, mas também pode indicar que a cadeia de proprietários tem um problema."
+   ]
+  },
+  {
+   "h2": "Um exemplo com vários municípios",
+   "paras": [
+    "Na área metropolitana de Caracas, o cadastro é feito por cada prefeitura: Libertador, Chacao, Baruta, Sucre e El Hatillo têm escritórios e sistemas diferentes. Por isso as buscas por \"cédula cadastral\" costumam levar o nome do município. O mesmo vale para Valencia, Maracay, Maracaibo ou Barcelona."
+   ]
+  },
+  {
+   "h2": "Quando atualizar a cédula cadastral",
+   "paras": [
+    "A cédula cadastral não é um papel que se tira uma vez e se esquece. Há situações em que convém ou é necessário atualizá-la, porque se os dados do cadastro não coincidirem com a realidade, os trâmites seguintes ficam travados."
+   ],
+   "bullets": [
+    "Quando o proprietário muda por compra, herança ou doação: é preciso inscrever o novo titular.",
+    "Quando a construção é ampliada ou modificada: mais metros construídos alteram o valor cadastral.",
+    "Quando um terreno é dividido em parcelas ou dois lotes são unidos.",
+    "Quando o imóvel muda de uso, por exemplo de residência para comércio.",
+    "Quando a cédula tem validade limitada conforme a ordenança do município e é necessária para um trâmite."
+   ],
+   "tip": "Se você vai vender, solicite a cédula cadastral com antecedência. Em alguns municípios o trâmite pode levar semanas, e o comprador ou o banco a pedirão antes da assinatura."
+  },
+  {
+   "h2": "Ao ver propriedades",
+   "paras": [
+    "Quando uma propriedade na Casa-Libre lhe interessar, pergunte ao vendedor por WhatsApp se ele tem a cédula cadastral atualizada. É um sinal rápido de que a documentação está em ordem. Gratuito, na web e no app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Onde se obtém a cédula cadastral?",
+   "a": "No escritório ou direção de cadastro da alcaldía do município onde está o imóvel."
+  },
+  {
+   "q": "A cédula cadastral é o mesmo que o documento de propriedade?",
+   "a": "Não. O documento de propriedade comprova quem é o dono e está no Registro Imobiliário. A cédula cadastral identifica o imóvel no cadastro municipal."
+  },
+  {
+   "q": "Quanto custa a cédula cadastral?",
+   "a": "Depende da ordem municipal de cada município. Consulte a taxa vigente na sua alcaldía."
+  },
+  {
+   "q": "É necessária para vender?",
+   "a": "Sim, normalmente é exigida para registrar a compra e venda e para obter a solvência municipal."
+  },
+  {
+   "q": "O que acontece se os metros do cadastro não coincidirem com o documento?",
+   "a": "É preciso esclarecer antes de vender ou comprar. Normalmente solicita-se uma inspeção ou um levantamento e atualiza-se o cadastro, ou corrige-se o que for necessário com a ajuda de um advogado."
+  },
+  {
+   "q": "Pode outra pessoa tramitar por mim?",
+   "a": "Sim, geralmente com uma autorização ou procuração do proprietário, além das cópias da sua cédula e do documento de propriedade. Confirme na sua alcaldía qual formato aceitam."
+  }
+ ],
+ "related": [
+  "Propriedades em Caracas",
+  "Casas à venda",
+  "Direito de frente: o que é"
+ ]
+}

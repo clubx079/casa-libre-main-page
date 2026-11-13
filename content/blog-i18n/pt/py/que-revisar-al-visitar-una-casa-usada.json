@@ -1,0 +1,121 @@
+{
+ "_src": "c15bd940d75d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "O que verificar ao visitar uma casa usada antes de comprá-la",
+  "h1": "O que verificar ao visitar uma casa usada: checklist para compradores",
+  "description": "Umidade, telhados, instalação elétrica, esgotos, aberturas e bairro: a lista do que você deve observar e perguntar na visita a uma casa usada no Paraguai.",
+  "answer": "Na visita a uma casa usada verifique, nesta ordem: umidade nas paredes e tetos, estado do telhado e das calhas, a instalação elétrica (quadro, cabos, potência contratada na ANDE), o esgoto (se vai para a rede cloacal ou para um poço cego), aberturas, orientação e ruído. Volte em outro horário para observar o bairro, peça para ver faturas e documentos, e se algo lhe preocupar, leve um técnico antes de dar qualquer sinal."
+ },
+ "sections": [
+  {
+   "h2": "Antes de ir: três perguntas por WhatsApp",
+   "paras": [
+    "Uma visita bem preparada dura menos e te deixa mais informações. Antes de coordenar, pergunte ao dono ou à imobiliária o básico: quantos anos tem a casa, se teve reformas grandes (e se estão nos planos aprovados) e se a propriedade está em nome de quem vende ou faz parte de uma sucessão.",
+    "Peça também o endereço exato ou a localização no mapa. Assim você pode percorrer a quadra por conta própria antes da visita, ver como se chega na hora de pico e se há algo que não te convence (uma oficina barulhenta ao lado, uma rua que enche de água)."
+   ],
+   "bullets": [
+    "Qual a antiguidade da casa e o que foi reformado?",
+    "O título está em nome de quem vende? Há hipoteca ou sucessão em andamento?",
+    "Os impostos e serviços estão em dia?"
+   ]
+  },
+  {
+   "h2": "Umidade: o primeiro que você deve observar",
+   "paras": [
+    "A umidade é o problema mais comum em casas usadas e um dos mais caros de resolver bem. Observe a parte baixa das paredes (manchas, pintura que incha, reboco que se solta), os cantos dos tetos e o contorno das janelas. Um cheiro de abafamento em um ambiente fechado também é um indício.",
+    "Desconfie de uma parede recém-pintada em apenas um setor: às vezes é manutenção normal e às vezes cobre uma mancha. Pergunte diretamente por que foi pintada. Verifique também o armário e atrás dos móveis grandes, que são os lugares onde a umidade se esconde."
+   ],
+   "tip": "Se puder, faça a visita depois de uma chuva forte. É o melhor momento para ver goteiras, infiltrações e se o pátio ou a calçada acumulam água."
+  },
+  {
+   "h2": "Telhados, calhas e infiltrações",
+   "paras": [
+    "Pergunte de que material é o telhado (laje, telhas, chapa) e quando foi feita a última manutenção. Em uma laje, procure manchas no forro e pergunte se foi impermeabilizada. Em telhados de telha, peça ver o entreteto se houver acesso: madeiras manchadas ou com cupins são sinal de trabalho pendente.",
+    "As calhas e descidas de água entupidas geram infiltrações nas paredes que parecem problemas de umidade nos alicerces. Verifique se existem, se estão inteiras e se descarregam longe das paredes."
+   ]
+  },
+  {
+   "h2": "Instalação elétrica: quadro, cabos e potência",
+   "paras": [
+    "Abra o quadro elétrico. Uma instalação mais nova costuma ter disjuntor diferencial e chaves termomagnéticas identificadas; um quadro com fusíveis antigos, cabos soltos ou emendas à vista indica que provavelmente será necessário refazer parte da instalação.",
+    "Se você pretende usar vários aparelhos de ar-condicionado, pergunte qual é a potência contratada com a ANDE e se a conexão é monofásica ou trifásica. Trocar isso é possível, mas é um trâmite e um custo que convém conhecer antes de fechar o preço. Peça ver a última fatura da ANDE: além de confirmar que não há dívida, ela dá uma ideia do consumo."
+   ],
+   "bullets": [
+    "Teste várias tomadas e interruptores de luz.",
+    "Procure marcas de queima em tomadas ou tomadas frouxas.",
+    "Pergunte se os aparelhos de ar têm circuitos próprios."
+   ]
+  },
+  {
+   "h2": "Água e esgoto: rede cloacal ou poço cego",
+   "paras": [
+    "Em muitas áreas do país não há rede cloacal e as casas descarregam em um poço cego ou em uma caixa séptica. Não é um problema em si, mas muda a manutenção: pergunte onde fica o poço, quando foi esvaziado pela última vez e se alguma vez transbordou.",
+    "Abra torneiras e chuveiros para ver a pressão e quanto tempo leva para sair água quente. Pergunte quem fornece a água na região (a ESSAP, uma junta de saneamento ou um abastecedor privado) e peça uma fatura recente. Olhe debaixo das pias da cozinha e do banheiro: manchas ou madeira inchada indicam vazamentos."
+   ]
+  },
+  {
+   "h2": "Aberturas, orientação e ruído",
+   "paras": [
+    "Abra e feche todas as portas e janelas. Se arrastam ou não fecham, pode ser só um ajuste ou pode indicar movimentos da estrutura; as fissuras diagonais nos cantos de portas e janelas merecem a opinião de um técnico.",
+    "A orientação importa muito com o calor paraguaio: os ambientes que recebem o sol forte da tarde são mais quentes e gastam mais ar-condicionado. Observe de que lado fica o quarto principal e se há árvores ou beirais que dão sombra.",
+    "Ouça o ruído com as janelas fechadas e abertas: avenidas, ônibus, estabelecimentos noturnos, igrejas ou escolas próximas. O que de manhã é silêncio pode ser outra coisa numa sexta à noite."
+   ]
+  },
+  {
+   "h2": "O bairro em diferentes horários",
+   "paras": [
+    "Volte ao menos uma vez em outro horário e outro dia. À noite observe a iluminação da rua e o movimento; na hora de pico, quanto tempo leva para sair para o trabalho; em dia de chuva, se a rua se transforma em torrente. Converse com algum vizinho: costumam contar sem rodeios como é a quadra."
+   ],
+   "bullets": [
+    "Distância real a supermercado, farmácia, escola e ponto de ônibus.",
+    "Estado das ruas de acesso (asfalto, paralelepípedo, terra).",
+    "Sinal de celular e internet dentro da casa."
+   ]
+  },
+  {
+   "h2": "O que pedir ao vendedor na visita",
+   "paras": [
+    "Não é necessário ver toda a documentação na primeira visita, mas convém saber que ela existe. Peça uma cópia ou foto do título, a última boleta do imposto imobiliário e faturas recentes da ANDE e da água. Se houveram ampliações, pergunte se estão nos planos aprovados pela municipalidade: uma construção não declarada pode complicar o trâmite de transferência ou uma futura venda.",
+    "A verificação legal de fundo (que o vendedor seja o dono, que não haja hipotecas nem penhoras) a faz o escribano (tabelião) com o informe de condição de domínio dos Registros Públicos antes da escritura. A visita serve para detectar se há algo estranho que valha a pena perguntar antes."
+   ]
+  },
+  {
+   "h2": "Quando levar a um técnico",
+   "paras": [
+    "Se a casa tem mais de vinte ou trinta anos, se você viu fissuras, umidade extensa, um telhado duvidoso ou uma instalação elétrica velha, vale a pena pagar a visita de um arquiteto, engenheiro ou eletricista de confiança antes de dar sinal. O que ele disser serve para decidir, e também para negociar: um reparo orçado por escrito é um argumento concreto para ajustar o preço.",
+    "Faça isso antes de assinar qualquer sinal ou boleto. Depois, renegociar é muito mais difícil."
+   ]
+  },
+  {
+   "h2": "Compare antes de decidir",
+   "paras": [
+    "O mais útil é ver várias casas parecidas na mesma região. No Casa-Libre puedes filtrar casas en venta en el mapa, guardar las que te interesan y escribirle directo por WhatsApp al dueño o a la inmobiliaria para coordinar visitas. La app de Casa-Libre para iPhone y Android te permite hacer lo mismo desde el celular mientras recorrés el barrio."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quantas vezes é conveniente visitar uma casa antes de comprá-la?",
+   "a": "Pelo menos duas: uma para ver a casa com calma e outra em outro horário para observar o bairro, o ruído e o trânsito. Se for fazer sinal, uma terceira com um técnico é um bom investimento."
+  },
+  {
+   "q": "Como percebo se uma casa tem umidade?",
+   "a": "Procure manchas na parte baixa das paredes, pintura inflada, reboco que se solta e odor de mofo. Olhe atrás de móveis e em armários, e se puder, visite-a depois de uma chuva."
+  },
+  {
+   "q": "É ruim que uma casa tenha poço cego?",
+   "a": "Não necessariamente: em muitas áreas sem rede cloacal isso é comum. Pergunte onde está, quando foi esvaziado pela última vez e se teve problemas, pois isso define a manutenção."
+  },
+  {
+   "q": "Quais documentos peço na visita?",
+   "a": "Uma cópia do título, a última boleta do imposto imobiliário e faturas recentes de luz e água. A verificação legal completa é feita pelo escribano (tabelião) antes da escritura."
+  }
+ ],
+ "related": [
+  "Casas à venda no mapa",
+  "Guia: como comprar sua primeira casa",
+  "Guia: custos ao comprar uma casa"
+ ]
+}

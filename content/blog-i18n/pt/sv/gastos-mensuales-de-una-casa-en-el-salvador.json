@@ -1,0 +1,147 @@
+{
+ "_src": "317416d3c214",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Gastos mensais de uma casa em El Salvador",
+  "h1": "Quanto custa manter uma casa em El Salvador: taxas municipais, serviços e quotas",
+  "description": "Os gastos de ter uma casa ou um apartamento em El Salvador além da quota: taxas municipais, água, luz, quota de manutenção, seguros e reparos. Como estimá-los antes de comprar.",
+  "answer": "Ter uma casa em El Salvador custa, além da quota do crédito, as taxas municipais que cobra a alcaldía por serviços como limpeza e iluminação, a água (ANDA ou o sistema local), a energia elétrica, a internet e o gás, a quota de manutenção ou vigilância se você mora em um residencial ou edifício, o seguro de danos e um fundo para reparos. Para estimá-lo antes de comprar, peça ao vendedor os últimos recibos de cada serviço e a constância da quota de manutenção."
+ },
+ "sections": [
+  {
+   "h2": "Taxas municipais: o que cobra a prefeitura",
+   "paras": [
+    "No El Salvador as prefeituras cobram taxas pelos serviços que prestam ao imóvel, como coleta de lixo, iluminação pública ou manutenção de ruas. O valor e a forma de cálculo dependem de cada município e de suas ordenanças.",
+    "Desde maio de 2024, o país passou de 262 a 44 municípios; os antigos municípios agora são distritos dentro dos novos. Se comprar em uma zona que mudou de município, pergunte na prefeitura atual como são cobradas as taxas do distrito e se houve alterações."
+   ],
+   "tip": "Antes de comprar, peça a solvência municipal do imóvel. Se houver taxas atrasadas, que o vendedor as pague antes de escriturar."
+  },
+  {
+   "h2": "Água, luz, internet e gás",
+   "paras": [
+    "A água é fornecida pela ANDA na maior parte do país, e em outras áreas por sistemas municipais ou comunitários. A energia elétrica é distribuída pela empresa que atende sua zona. O consumo de luz varia muito conforme o uso de ar-condicionado e o número de pessoas.",
+    "Peça ao vendedor ou ao proprietário anterior os recibos de vários meses. Eles dão uma ideia realista do que você pagará e, além disso, confirmam que não há dívidas pendentes nos serviços."
+   ]
+  },
+  {
+   "h2": "Contribuição de manutenção ou vigilância",
+   "paras": [
+    "Em residenciais fechados e edifícios de apartamentos paga-se uma contribuição para vigilância, áreas comuns, jardinagem, elevadores ou piscina. Nos edifícios, a Lei de Propriedade Imobiliária por Pisos e Apartamentos e o regulamento do condomínio regem como são repartidas as despesas comuns.",
+    "Pergunte qual é a contribuição, o que cobre, se aumentou nos últimos anos e se há contribuições extraordinárias aprovadas (por exemplo, para pintar o prédio ou reparar um muro). Peça um comprovante de que o vendedor não tem dívidas de contribuição."
+   ]
+  },
+  {
+   "h2": "Resumo de gastos e como estimá-los",
+   "table": {
+    "head": [
+     "Gasto",
+     "Frequência",
+     "Como estimá-lo antes de comprar"
+    ],
+    "rows": [
+     [
+      "Taxas municipais",
+      "Mensal ou conforme a prefeitura",
+      "Solvência e último recibo da prefeitura"
+     ],
+     [
+      "Água",
+      "Mensal",
+      "Recibos recentes do imóvel"
+     ],
+     [
+      "Energia elétrica",
+      "Mensal",
+      "Recibos recentes; depende do ar-condicionado"
+     ],
+     [
+      "Internet e gás",
+      "Mensal",
+      "Cotação e seu próprio consumo"
+     ],
+     [
+      "Contribuição de manutenção",
+      "Mensal",
+      "Comprovante da administração"
+     ],
+     [
+      "Seguro de danos",
+      "Mensal ou anual",
+      "Cotação; com financiamento costuma estar incluído na parcela"
+     ],
+     [
+      "Reparos",
+      "Variável",
+      "Reserve um percentual do valor a cada ano"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Existe um imposto anual sobre a moradia?",
+   "paras": [
+    "Ao contrário de outros países, o El Salvador não cobra um imposto anual nacional sobre o valor da sua casa. O que você paga regularmente são as taxas municipais pelos serviços. O imposto principal ligado à propriedade aparece na compra: o Imposto sobre Transferência de Bens Imóveis.",
+    "Se alugar a casa para outra pessoa, a renda de aluguel tem implicações no imposto de renda. Consulte um contador."
+   ]
+  },
+  {
+   "h2": "Manutenção: o gasto que mais se esquece",
+   "paras": [
+    "O clima salvadorenho, com uma época de chuvas intensa, desgasta telhados, calhas e pintura. Verifique o telhado e os ralos antes do inverno, limpe as calhas e repare infiltrações a tempo. Em áreas inclinadas, verifique muros e drenagens.",
+    "Uma regra prática é reservar a cada ano uma parte do valor da casa para reparos. Assim um vazamento ou um aquecedor danificado não desorganiza seu orçamento."
+   ],
+   "bullets": [
+    "Impermeabilizar e revisar telhados antes da época de chuvas.",
+    "Limpar calhas e condutos de água.",
+    "Verificar instalações elétricas, sobretudo em casas antigas.",
+    "Fumigar e dar manutenção a cisternas e bombas, se houver."
+   ]
+  },
+  {
+   "h2": "Antes de comprar, solicite estes documentos",
+   "steps": [
+    "Últimos recibos de água e luz do imóvel.",
+    "Solvência municipal.",
+    "Comprovante de contribuições de manutenção em dia e o valor atual.",
+    "Regulamento do condomínio ou residencial, se existir.",
+    "Cotação de seguro de danos."
+   ]
+  },
+  {
+   "h2": "Casa ou apartamento: quem paga o quê",
+   "paras": [
+    "Em uma casa, você assume toda a manutenção: telhado, muros, jardim, cisterna. Em um apartamento, parte desses gastos é compartilhada com os demais proprietários por meio da contribuição do condomínio, mas também se compartilham as decisões. Se comprar um apartamento, leia o regulamento e as atas recentes da assembleia de proprietários: lá verá se foram aprovadas obras grandes que serão cobradas em breve."
+   ]
+  },
+  {
+   "h2": "Compare o custo total, não apenas o preço",
+   "paras": [
+    "Duas casas com o mesmo preço podem ter despesas mensais muito diferentes. No Casa-Libre você pode ver propriedades no mapa e perguntar por WhatsApp ao vendedor qual é a contribuição de manutenção e quanto se paga de serviços. Também pelo app do Casa-Libre para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Paga-se imposto predial em El Salvador?",
+   "a": "Não há um imposto anual nacional sobre o valor da moradia. O que se paga regularmente são taxas municipais por serviços como limpeza e iluminação."
+  },
+  {
+   "q": "O que é a solvência municipal?",
+   "a": "É a constância da alcaldía de que um imóvel não tem taxas pendentes. Solicita-se ao comprar para não herdar dívidas."
+  },
+  {
+   "q": "Qual é a quota de manutenção de um residencial?",
+   "a": "Depende de cada residencial ou edifício e do que cobre. Peça à administração o valor atual, o histórico de aumentos e uma constância de que o vendedor não deve quotas."
+  },
+  {
+   "q": "Algo mudou com a redução de municípios?",
+   "a": "Desde maio de 2024 há 44 municípios e os antigos são distritos. Consulte na alcaldía atual como são cobradas as taxas em seu distrito."
+  }
+ ],
+ "related": [
+  "Casas à venda",
+  "Apartamentos à venda",
+  "Propriedades em Antiguo Cuscatlán"
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "_src": "6891ffc7f4d3",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Buying a Land Plot in Installments in Paraguay: What to Check",
+  "h1": "Buying a Land Plot in Installments: What to Check Before Signing",
+  "description": "Before buying a lot in installments in Paraguay: municipal approval, contract, currency of the installments, arrears, when you receive the escritura and services.",
+  "answer": "Buying a land plot in installments in a subdivision is common in Paraguay, but before signing review five things: that the subdivision is approved by the municipality and that the lot has its own cuenta corriente catastral or is in process; that the contract states the total price, the currency, the number of installments and what happens if you fall behind; when and how the escritura is signed in your name; what services truly exist (water, electricity, streets); and who is the registral holder of the parent property. While you pay installments, the lot usually remains in the seller’s name."
+ },
+ "sections": [
+  {
+   "h2": "How a purchase in installments works",
+   "paras": [
+    "In most subdivisions the seller (a development company or an individual) finances directly: you sign a purchase contract in installments, pay a down payment and then monthly installments, and only when you finish paying (or reach a certain percentage) the escritura pública (public deed) is signed that makes you the owner. Until that moment, in the Public Registries the lot remains registered in the seller’s name.",
+    "That isn’t bad in itself, it’s how the system works, but it means your protection depends almost entirely on the contract and the seriousness of the seller. That’s why prior review is more important than in a cash purchase."
+   ]
+  },
+  {
+   "h2": "1. Is the subdivision approved by the municipality?",
+   "paras": [
+    "To divide a property into lots and sell them, the subdivision must be approved by the district municipality, with its plans, streets and public spaces. A subdivision without approval can bring serious problems: lots that cannot be individually titled, streets that are not public, or inability to connect services."
+   ],
+   "bullets": [
+    "Ask for the municipal resolution approving the subdivision and the approved plan.",
+    "Verify that your lot is on that plan, with the same dimensions and number.",
+    "Ask whether the lot already has its own cuenta corriente catastral (cadastral current account) or if it is being processed. The National Cadastre Service and the municipality can guide you.",
+    "Ask an escribano (notary) for a report on the ownership condition of the parent property: who is the title holder and whether there are mortgages, liens or litigation."
+   ]
+  },
+  {
+   "h2": "2. The contract: what it must say",
+   "paras": [
+    "The installment purchase contract is your main document. Read it calmly, and if you can, have an escribano (notary) or lawyer review it before signing. Make sure these points are clear:"
+   ],
+   "bullets": [
+    "Identification of the seller and of his right over the property.",
+    "Exact lot: number, block, dimensions, area and cuenta corriente catastral if it exists.",
+    "Total price, amount of the down payment, number of installments, amount of each installment and payment date.",
+    "Currency of the installments and whether there are adjustments or interest.",
+    "What happens if you fall behind: default interest, grace periods and under what circumstances the seller can rescind.",
+    "What happens to what you have already paid if the contract is rescinded.",
+    "When the escritura is signed, who chooses the escribano and who pays those costs.",
+    "Who pays the property tax on the lot while the plan lasts."
+   ],
+   "tip": "Keep all installment receipts, with date, lot number and the seller’s signature or seal. If you pay by transfer, keep the vouchers together with the contract."
+  },
+  {
+   "h2": "3. Installments in dollars or guaraníes",
+   "paras": [
+    "Many subdivisions publish installments in guaraníes and others in dollars. If your income is in guaraníes and the installments are in dollars, when the dollar rises your installment rises in guaraníes, even if the contract says \"the same\". In long plans that difference can be large.",
+    "Also check whether the installment is fixed or if the contract provides for adjustments. An installment that is adjusted each year can end up considerably higher than what was shown in the advertisement."
+   ]
+  },
+  {
+   "h2": "4. What happens if you fall behind",
+   "paras": [
+    "This is the point most often overlooked. Some contracts provide that after a certain number of missed installments, the seller can rescind and keep part or all of what has been paid. Before signing, ask exactly how many delayed installments the contract tolerates, whether they will notify you before rescinding and if you can catch up.",
+    "If you have doubts about whether a clause is abusive, consult a lawyer. The Civil Code regulates purchase and contracts, and the consumer protection law may be relevant when a company sells."
+   ]
+  },
+  {
+   "h2": "5. When you receive the escritura",
+   "paras": [
+    "Being the true owner means having the escritura pública (public deed) registered in your name in the Public Registries. Ask whether the escritura is issued after full payment, upon reaching a percentage, or if there is an option to title earlier with a mortgage in favor of the seller. The sooner it is registered in your name, the more protected you are.",
+    "Ask that the contract state how many days after the final payment the escritura will be signed. Some buyers finished paying and waited years for their title."
+   ]
+  },
+  {
+   "h2": "6. Real services, not promised ones",
+   "paras": [
+    "A cheap lot without water or electricity can become expensive: installing an electric line or drilling a well costs money. Visit the subdivision, see if there are ANDE power poles with a grid nearby, if there is a water network (ESSAP, sanitation board or private water supply) and what condition the streets are in after rain.",
+    "If the services are a promise (\"they will be installed\"), have them listed in the contract with a date and who will pay for them."
+   ]
+  },
+  {
+   "h2": "Compare with cash land purchases",
+   "paras": [
+    "The total price in installments is usually higher than the cash price. Compare the sum of all installments with what is asked for similar lots in the same area. On Casa-Libre you can view land for sale on the map and write directly to the owner or the agency via WhatsApp, also from the iPhone and Android apps."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is it safe to buy a land plot in installments in Paraguay?",
+   "a": "It can be safe if the subdivision is approved by the municipality, the seller is the titular registral, the contract is clear and it specifies when the escritura is signed. The risk lies in subdivisions without approval and contracts with harsh rescission clauses."
+  },
+  {
+   "q": "In whose name is the lot while I pay the installments?",
+   "a": "It normally remains in the seller’s name until the escritura is signed and registered. That’s why it’s crucial that the contract sets the timing of the escritura."
+  },
+  {
+   "q": "What happens if I stop paying installments?",
+   "a": "It depends on the contract: there may be interest for late payment and, after a certain number of missed installments, rescission. Read that clause before signing and ask what happens to the amounts already paid."
+  },
+  {
+   "q": "How do I know if a subdivision is approved?",
+   "a": "Request the municipal resolution of approval and the approved plan, and check with the district municipality. An escribano (notary) can also verify the registral situation of the parent property."
+  }
+ ],
+ "related": [
+  "Land for Sale",
+  "Buy Properties",
+  "Guide: Costs When Buying"
+ ]
+}

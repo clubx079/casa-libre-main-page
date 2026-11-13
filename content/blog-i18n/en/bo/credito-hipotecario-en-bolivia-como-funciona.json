@@ -1,0 +1,128 @@
+{
+ "_src": "d056a0a9c7da",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mortgage loan in Bolivia: how it works and what to look at",
+  "h1": "Housing mortgage loan in Bolivia: how it works, what it costs and how to compare it",
+  "description": "How a mortgage loan works in Bolivia: regulated or free rate, effective rate, insurance, term, installment, guarantee in Derechos Reales (Real Rights) and what protects you under Law 393.",
+  "answer": "A housing mortgage loan in Bolivia is a long-term loan that a financial institution regulated by the ASFI gives you to buy, build or improve a home, and it is secured with a mortgage registered in Derechos Reales. If the home qualifies as social interest, the rate has a legal ceiling; if not, the market sets the rate. To compare offers, look at the annual effective rate and the total installment with insurance."
+ },
+ "sections": [
+  {
+   "h2": "How it works, in simple terms",
+   "paras": [
+    "The entity lends you part of the home’s value and you provide the rest as your own contribution. You pay the loan in monthly installments over many years. While you owe, the home is mortgaged in favor of the entity: if you stop paying, the entity can enforce the mortgage and auction the property to recover its money.",
+    "The mortgage is created by escritura pública (public deed) before notario (notary) and is registered in Derechos Reales, in the folio real (real folio) of the property. When you finish paying, the entity gives you the documentation to cancel (lift) that mortgage."
+   ]
+  },
+  {
+   "h2": "Social interest housing or free-rate credit",
+   "paras": [
+    "If you are close to the social interest ceiling, it is worth calculating carefully: a home that just exceeds it can end up much more expensive in interest over the life of the credit."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "For what housing",
+     "Rate"
+    ],
+    "rows": [
+     [
+      "Social interest housing",
+      "Only residence, no commercial purpose, up to UFV 400,000 (apartment) or UFV 460,000 (house)",
+      "Maximum ceiling by decree: 5.5%, 6% or 6.5% depending on value"
+     ],
+     [
+      "Free-rate housing credit",
+      "Homes that exceed the ceilings or are not the only residence",
+      "The fixed rate set by each entity according to the market"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Nominal rate, effective rate and insurance",
+   "paras": [
+    "Law 393 of Financial Services requires entities to calculate the annual effective interest rate, which includes all charges, surcharges or additional commissions, using formulas from the Central Bank of Bolivia. That is the figure you use to compare between entities.",
+    "In addition to the rate, the installment usually includes a death-benefit insurance (covers the debt if the borrower dies) and sometimes property insurance. Always request a payment plan with the total installment, not just the rate."
+   ],
+   "tip": "Law 393 prohibits the entity from unilaterally changing the agreed rate if it harms you. If your credit has a variable rate, read carefully how it is calculated and what the cap is."
+  },
+  {
+   "h2": "Term and installment: how much you will pay",
+   "paras": [
+    "A longer term lowers the monthly installment but increases the total interest. Request simulations with at least two different terms. Entities check that the installment is not too high compared to your income; if it is, they will offer you a smaller amount.",
+    "Most housing credits are given in bolivianos. If your income is in bolivianos, a credit in the same currency avoids the risk that the exchange rate, currently flexible, changes your installment."
+   ]
+  },
+  {
+   "h2": "Common requirements",
+   "bullets": [
+    "Current identity card.",
+    "Proof of income: pay slips and work certificate, or NIT, invoices and statements if you are self-employed.",
+    "Credit history without significant delinquencies.",
+    "Property documents: real folio, alodial certificate, paid taxes, approved plan.",
+    "Appraisal by a registered appraiser in the entity.",
+    "Own contribution, unless a guarantee fund covers that part."
+   ]
+  },
+  {
+   "h2": "The steps, from pre-qualification to disbursement",
+   "steps": [
+    "Request a pre-qualification from two or three entities.",
+    "Choose the home within the approved amount and with paperwork in order.",
+    "The entity appraises the property and reviews the titles.",
+    "The credit is approved and the purchase agreement and mortgage are signed before notario.",
+    "Both are registered in Derechos Reales.",
+    "The entity disburses the money to the seller."
+   ]
+  },
+  {
+   "h2": "How to compare two offers",
+   "bullets": [
+    "Ask each entity for a payment plan with the same amount and the same term.",
+    "Compare the annual effective rate and the total installment with insurance, not only the nominal rate.",
+    "Ask whether the rate is fixed or variable and, if variable, how it is calculated.",
+    "Ask if you can make early payments and whether there is any cost.",
+    "Consider speed and service: a slow process can make you lose the home."
+   ]
+  },
+  {
+   "h2": "If you have a problem with your entity",
+   "paras": [
+    "First file a complaint at the entity’s own complaint point, in writing and keep the reference number. If they do not respond or you disagree, you can go to the Financial System Supervision Authority (ASFI), which regulates banks and financial entities."
+   ]
+  },
+  {
+   "h2": "With your approved amount, search wisely",
+   "paras": [
+    "When you know how much you can borrow, filter by price. On Casa-Libre you see houses and apartments for sale on the map and you can ask via WhatsApp if the property has the paperwork ready for a credit. Also through the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What rate does a mortgage loan have in Bolivia?",
+   "a": "If the home is social interest, the rate is capped at 5.5% to 6.5% per year depending on the value (DS 1842). If not, each entity sets it. Always compare the annual effective rate."
+  },
+  {
+   "q": "Can the bank raise my rate?",
+   "a": "Law 393 prohibits unilaterally changing the agreed rate if it harms the client. For variable-rate loans, check how the rate is calculated."
+  },
+  {
+   "q": "What is desgravamen insurance?",
+   "a": "Insurance that covers the debt if the holder dies. It is charged together with the installment and is not included in the regulated rate."
+  },
+  {
+   "q": "Where do I complain if I have problems with my loan?",
+   "a": "First at the institution's complaint point; then, at the ASFI."
+  }
+ ],
+ "related": [
+  "Houses for sale",
+  "Apartments for sale",
+  "Guide: costs of buying a house",
+  "Social housing loan"
+ ]
+}

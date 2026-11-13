@@ -1,0 +1,129 @@
+{
+ "_src": "9b1e8aa3933d",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Padrão, certidão cadastral e planta de mensura: o que são",
+  "h1": "Padrão, certidão cadastral e planta de mensura: os dados de um imóvel no Uruguai",
+  "description": "O que é o número de padrão, para que serve a certidão cadastral, o que é o valor real do Cadastro e o que é uma planta de mensura no Uruguai. Como solicitá-los e por que são importantes ao comprar um terreno ou uma casa.",
+  "answer": "No Uruguai cada imóvel é identificado com um número de padrão, atribuído pela Direção Nacional de Cadastro, junto com o departamento e a localidade. A certidão cadastral é o documento com valor legal que certifica o valor cadastral desse padrão e é usada perante escribano (tabelião), registros e escritórios de cobrança. A planta de mensura é feita por um engenheiro agrimensor e mostra as medidas, os limites e a superfície do terreno; é registrada no Cadastro. Se você vai comprar, peça o padrão desde o primeiro contato: com ele são verificadas dívidas, títulos e medidas."
+ },
+ "sections": [
+  {
+   "h2": "O número de padrón: a \"cédula de identidade\" do imóvel",
+   "paras": [
+    "O padrón é o número que identifica cada imóvel no Cadastro nacional. Não basta o endereço: em um mesmo endereço podem existir vários padrones (por exemplo, cada apartamento de um edifício em propriedade horizontal tem sua própria unidade dentro do padrón matriz), e uma casa pode ocupar mais de um padrón.",
+    "Com o padrón consulta-se a dívida de contribuição imobiliária, pede-se certificados ao Registro, faz-se a mudança de titular do OSE e calcula-se o ITP. Por isso é o primeiro dado que seu escribano (tabelião) vai lhe pedir."
+   ],
+   "tip": "O padrón aparece no recibo de contribuição imobiliária. Peça ao dono já na primeira mensagem: se ele não quiser fornecer, é um sinal a ser considerado."
+  },
+  {
+   "h2": "A cédula cadastral e o valor real",
+   "paras": [
+    "Segundo a Direção Nacional de Cadastro, a cédula cadastral é o documento com valor legal que certifica o valor cadastral base de um imóvel, e é apresentada em escritórios arrecadadores, registros notariais e qualquer trâmite que exija certificar esse valor. É solicitada online ou nas escrituras de Cadastro, que tem sede em Montevidéu e escritórios delegados nos departamentos.",
+    "Esse valor cadastral é a base do ITP, o imposto de compra e venda: segundo a DGI, toma-se o valor real fixado pelo Cadastro, atualizado pelo IPC. Também influencia outros tributos. Existe ainda a \"cédula cadastral informada\", com mais informações do imóvel."
+   ]
+  },
+  {
+   "h2": "O plano de mensura",
+   "paras": [
+    "O plano de mensura é o plano que faz um engenheiro agrimensor medindo o terreno: mostra suas medidas, limites, superfície e localização, e as construções se houver. É registrado no Cadastro e fica vinculado ao padrón.",
+    "As buscas por \"plano de mensura por padrón\" são frequentes porque ele é necessário em muitas situações: para comprar um terreno, para fracionar, para construir ou regularizar construções, para solicitar um crédito ou quando há dúvidas sobre onde estão os limites."
+   ],
+   "bullets": [
+    "Se comprar um terreno: o plano indica exatamente o que você está comprando e se coincide com o que vê.",
+    "Se as medidas reais não coincidirem com o título ou o plano, pode ser necessária uma nova mensura.",
+    "Se o terreno vier de um fracionamento, verifique se o fracionamento está aprovado e o plano registrado.",
+    "Para construir, a Intendência pede documentação do terreno, entre eles o plano."
+   ]
+  },
+  {
+   "h2": "Se você vai comprar um terreno",
+   "steps": [
+    "Peça o número de padrón e o departamento.",
+    "Peça cópia do plano de mensura registrado.",
+    "Percorra o terreno com o plano: marcos, frentes, fundo.",
+    "Consulte na Intendência o que pode ser construído (normas de edificação da zona).",
+    "Verifique se há serviços: água, luz e saneamento; se há rede frente ao terreno, a Lei 18.840 obriga a conexão.",
+    "Que seu escribano estude os títulos e as dívidas.",
+    "Se houver dúvidas nos limites, contrate um agrimensor antes de assinar."
+   ]
+  },
+  {
+   "h2": "Em um apartamento",
+   "paras": [
+    "Em um edifício em propriedade horizontal, cada unidade tem sua identificação dentro do padrón, e existe um plano de fracionamento horizontal que define cada unidade e os bens comuns. Se comprar na planta, a escritura definitiva requer que esse plano esteja registrado."
+   ]
+  },
+  {
+   "h2": "Onde solicitar",
+   "table": {
+    "head": [
+     "Documento",
+     "Onde"
+    ],
+    "rows": [
+     [
+      "Número de padrón",
+      "Recibo de contribuição imobiliária, título ou consulta ao dono"
+     ],
+     [
+      "Cédula cadastral",
+      "Direção Nacional de Cadastro, online ou presencial"
+     ],
+     [
+      "Plano de mensura",
+      "Cadastro (planos registrados) ou um engenheiro agrimensor"
+     ],
+     [
+      "Dívidas de contribuição",
+      "Intendência do departamento, com o padrón"
+     ],
+     [
+      "Informação registral",
+      "Registro da Propriedade (DGR), normalmente via escribano"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "Erros comuns com esses dados",
+   "bullets": [
+    "Confiar no endereço do aviso sem verificar o padrón: podem existir dois terrenos contíguos com padrones diferentes.",
+    "Supor que o valor cadastral seja o preço de mercado: são coisas distintas, e o cadastral costuma ser menor.",
+    "Comprar um terreno \"de fracionamento\" sem verificar se o plano está registrado e aprovado.",
+    "Não consultar na Intendência o que pode ser construído antes de comprar.",
+    "Pensar que a cédula cadastral prova quem é o dono: a titularidade é comprovada pelos títulos e pelo Registro."
+   ]
+  },
+  {
+   "h2": "Buscar com o padrón em mente",
+   "paras": [
+    "Ao consultar um aviso, peça o padrón e, se for terreno, o plano. No Casa-Libre você pode ver terrenos, casas e apartamentos à venda no mapa e escrever direto ao anunciante por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que é o número de padrão?",
+   "a": "O número que identifica cada imóvel no Cadastro nacional, junto com o departamento e a localidade. Aparece no recibo de contribuição imobiliária."
+  },
+  {
+   "q": "Para que serve a certidão cadastral?",
+   "a": "Certifica o valor cadastral do imóvel e é apresentada perante escribano, registros e escritórios de cobrança. É a base do ITP."
+  },
+  {
+   "q": "Quem faz uma planta de mensura?",
+   "a": "Um engenheiro agrimensor, que mede o terreno e registra a planta no Cadastro."
+  },
+  {
+   "q": "Como consigo a planta de mensura de um padrão?",
+   "a": "Consultando as plantas registradas no Cadastro com o número de padrão, ou solicitando ao proprietário ou a um agrimensor."
+  }
+ ],
+ "related": [
+  "Terrenos à venda",
+  "Guia: documentos de um imóvel",
+  "Propriedades em Canelones"
+ ]
+}

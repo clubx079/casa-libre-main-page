@@ -1,0 +1,122 @@
+{
+ "_src": "92f2ededfb7f",
+ "_lang": "en",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Approved Plan and Municipal Cadastre in Bolivia: What to Check",
+  "h1": "Approved Plan and Municipal Cadastre: What They Are and Why They Matter When Buying or Building in Bolivia",
+  "description": "What the plan approved by the mayor's office is, what the municipal cadastre records, why they must match Derechos Reales and the actual construction, and what happens with unapproved extensions.",
+  "answer": "The approved plan is the plan of a lot or a building that the municipal government has reviewed and authorized according to its land-use and building regulations. The municipal cadastre is the technical registry of the mayor's office with the location, area and construction of each property, which also serves for the property tax. When buying, check that the approved plan, the cadastre, the folio real of Derechos Reales and what you see built all say the same thing."
+ },
+ "sections": [
+  {
+   "h2": "Three records that must match",
+   "paras": [
+    "In Bolivia an urban property appears in several different places, and each one looks at a different thing. Many problems when buying or applying for a loan arise because those records do not match each other or reality."
+   ],
+   "table": {
+    "head": [
+     "Record",
+     "Who maintains it",
+     "What it tells you"
+    ],
+    "rows": [
+     [
+      "folio real (real estate register)",
+      "Derechos Reales (Órgano Judicial)",
+      "Who the owner is, registered area and encumbrances"
+     ],
+     [
+      "catastro municipal (municipal cadastre)",
+      "Gobierno municipal",
+      "Location, land area and building area, cadastral code, data for the tax"
+     ],
+     [
+      "plano aprobado (approved plan)",
+      "Gobierno municipal",
+      "What was authorized to be built or how the lot was authorized"
+     ],
+     [
+      "La realidad",
+      "Lo que ves",
+      "What is actually built and occupied"
+     ]
+    ]
+   }
+  },
+  {
+   "h2": "What the approved plan is",
+   "paras": [
+    "To subdivide land or build, the owner submits plans to the alcaldía, which reviews them according to its rules: setbacks, heights, maximum built area, land use. If they comply, it approves them with a seal and signature. In practice, two levels are discussed: the lot plan (location, dimensions, boundaries) and the construction plan (what can be built).",
+    "Each municipality has its own regulation and its own procedure. In large cities like La Paz, Santa Cruz de la Sierra or Cochabamba, the information is on the alcaldía website or its procedural platforms."
+   ]
+  },
+  {
+   "h2": "What the municipal cadastre is",
+   "paras": [
+    "The cadastre is the technical inventory of the municipality’s properties. Each property has a cadastral code and a file with its area, its construction and its location. The alcaldía uses it to plan the city and to calculate property tax. When you buy, you must change the name in the cadastre, in addition to registering in Derechos Reales."
+   ],
+   "tip": "If after purchase you expand or build, update the cadastre with an approved plan. Unregistered constructions can bring fines and complicate a future sale or loan."
+  },
+  {
+   "h2": "What to check when buying",
+   "bullets": [
+    "That the land area is the same in the folio real, in the cadastre and in the plan.",
+    "That what is built matches the approved plan: extra floors, rooms on the terrace or extensions into the setback are usually not approved.",
+    "That the property has a cadastral code and the property tax is up to date.",
+    "In apartments, that the building is registered in horizontal property and your unit has its own folio.",
+    "In lots, that the urbanization is approved and the individual lot is delineated."
+   ]
+  },
+  {
+   "h2": "If something does not match",
+   "paras": [
+    "A difference in area or an unapproved extension does not always prevent the purchase, but it must be resolved or at least clarified in the price and the contract. Common ways are data correction in Derechos Reales, cadastre update or regularization of the construction at the alcaldía, depending on the case. Some municipalities periodically open construction regularization programs.",
+    "For urban homes with origin title problems, there is also Law 247 of 2012, regularization of the ownership right over urban properties intended for housing, designed for good-faith occupants and data correction. It is a procedure with its own requirements: consult a lawyer.",
+    "What you should avoid is buying assuming \"it will be fixed later\" without knowing how much it costs and how long it takes. Ask the seller to regularize before signing or negotiate the price knowing what you will have to do."
+   ]
+  },
+  {
+   "h2": "If you are going to build or expand",
+   "paras": [
+    "Before starting a work, hire an architect who knows your municipality’s rules and processes the approval of the construction plan. Building without approval may be cheap at first, but can bring fines, stop orders or demolition, and later complicates selling, mortgaging or dividing the property among heirs."
+   ]
+  },
+  {
+   "h2": "Approved plan and terrain risks",
+   "paras": [
+    "When reviewing the plan, take the opportunity to ask the alcaldía if the area has risk restrictions: unstable slopes, streams or flood zones. Several Bolivian cities have risk maps; in La Paz, for example, the relief makes this point especially important."
+   ]
+  },
+  {
+   "h2": "Ask for the plan before visiting",
+   "paras": [
+    "On Casa-Libre you see properties on the map and write to the advertiser via WhatsApp: ask if the construction has an approved plan and if it matches what is built. It saves you visits and surprises. Also from the Casa-Libre app for iPhone and Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is an approved plan?",
+   "a": "The plan of a lot or a building reviewed and authorized by the municipal government according to its land-use and building regulations."
+  },
+  {
+   "q": "Are the cadastre and Derechos Reales the same?",
+   "a": "No. Derechos Reales records ownership and liens; the municipal cadastre records the technical data of the property and is used for the tax. Both must be updated when buying."
+  },
+  {
+   "q": "Can I buy a house with extensions that are not approved?",
+   "a": "Yes, but you assume the cost and the process of regularizing them, and they can complicate a loan. Negotiate it into the price or ask for it to be regularized before signing."
+  },
+  {
+   "q": "Where do I request the approved plan for a property?",
+   "a": "From the owner, who should have it. If they do not, from the mayor's office, according to each municipality's procedure."
+  }
+ ],
+ "related": [
+  "Houses for Sale",
+  "Lots for Sale",
+  "Guide: Documents for Selling",
+  "Buying a Lot: What to Check"
+ ]
+}

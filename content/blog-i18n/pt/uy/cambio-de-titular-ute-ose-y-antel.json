@@ -1,0 +1,108 @@
+{
+ "_src": "db2f0d24b8a3",
+ "_lang": "pt",
+ "_model": "openai/gpt-oss-120b",
+ "meta": {
+  "title": "Mudança de titular da UTE, OSE e Antel ao se mudar: passo a passo",
+  "h1": "Mudança de titular da UTE, OSE e Antel: como colocar os serviços em seu nome ao se mudar",
+  "description": "Como fazer a mudança de titular da UTE (energia), OSE (água) e Antel ao alugar ou comprar no Uruguai: documentos, trâmite online, WhatsApp ou telefone, dívidas anteriores e o que fazer ao sair.",
+  "answer": "Quando você se muda, o recomendável é colocar em seu nome a energia (UTE), a água (OSE) e, se for o caso, internet ou telefone. Na UTE o trâmite se chama \"cambio de nombre del servicio\" e pode ser feito por web, WhatsApp ou telefone se já tiver usuário, ou em uma agência comercial; é preciso ser maior de idade e não ter dívida com a UTE. Na OSE se solicita seu documento e algo que comprove o número de cadastro (um recibo de tributos ou a cédula cadastral); se o serviço tem dívida, além disso você deve comprovar seu vínculo com o imóvel, por exemplo com o contrato de aluguel. Faça isso assim que receber as chaves e com leitura dos medidores."
+ },
+ "sections": [
+  {
+   "h2": "Por que vale a pena colocar os serviços em seu nome",
+   "paras": [
+    "Se os serviços continuam em nome do dono ou do inquilino anterior, qualquer problema (um corte, uma reclamação, uma conta calculada errado) tem que ser resolvido por outra pessoa. E se a dívida se acumular em nome de outro, depois fica difícil separar o que é seu e o que não é.",
+    "Com o serviço em seu nome, você recebe as contas, pode fazer reclamações e tem um comprovante de residência, que pedem em muitos procedimentos."
+   ]
+  },
+  {
+   "h2": "UTE: mudança de nome do serviço",
+   "paras": [
+    "UTE chama esse procedimento de \"mudança de nome do serviço\". Segundo a UTE, quem faz a mudança é o novo titular e pode ser realizado:"
+   ],
+   "bullets": [
+    "Por internet ou por WhatsApp, se já for ou foi cliente da UTE (precisa de usuário web).",
+    "Por telefone, através da Telegestões UTE, ligando para 0800 1930 de um fixo ou para *1930 de um celular.",
+    "Em uma agência comercial, apresentando seu documento de identidade."
+   ],
+   "tip": "Para pessoas físicas, a UTE exige ser maior de 18 anos e não ter dívida pendente com a UTE. Se houver uma dívida antiga de outro endereço, regularize-a antes."
+  },
+  {
+   "h2": "OSE: mudança de titular do serviço de água",
+   "paras": [
+    "Na OSE o procedimento permite mudar a titularidade de um serviço ativo. Segundo a OSE, é solicitado:"
+   ],
+   "bullets": [
+    "Documento de identidade vigente (cédula, passaporte ou cartão de RUT).",
+    "Documentação que comprove o número de cadastro: um recibo de tributos domiciliários ou a cédula cadastral.",
+    "Se o serviço tem dívida: documentação que comprove seu vínculo com o imóvel (contrato de aluguel, constância de compra e venda, comodato ou outro) e assinar uma declaração jurada."
+   ]
+  },
+  {
+   "h2": "Onde fazer o procedimento da OSE",
+   "paras": [
+    "Pode iniciar online com usuário registrado, preenchendo o formulário web, ou em um Centro de Serviços da OSE com a documentação. A OSE também atende por WhatsApp e por telefone (0800 1871 ou *1871 do celular). Se for à agência, agende antes para evitar esperas.",
+    "Peça ao dono, antes de se mudar, uma cópia de um recibo de contribuição imobiliária ou o número de cadastro: é o que mais se esquece e vão pedir."
+   ]
+  },
+  {
+   "h2": "Se o serviço tem dívida anterior",
+   "paras": [
+    "A dívida de um serviço é do titular, mas pode complicar o procedimento. Antes de assinar o contrato ou a escritura, peça as últimas contas da UTE e da OSE e verifique se estão pagas. Se houver dívida, combine por escrito quem a paga antes de receber as chaves.",
+    "Em uma compra e venda, seu escribano (tabelião) controla dívidas de tributos, mas as de serviços convém revisá-las também você."
+   ]
+  },
+  {
+   "h2": "Antel e internet",
+   "paras": [
+    "Se a residência tem linha ou internet da Antel em nome de outra pessoa, você pode solicitar a mudança de titular ou uma nova conexão em seu nome. Se já tem um serviço na casa anterior, verifique se pode transferi-lo para o novo endereço e com quanto de antecedência convém solicitar, para não ficar sem conexão nos primeiros dias."
+   ]
+  },
+  {
+   "h2": "Passo a passo no dia da mudança",
+   "steps": [
+    "Tire foto dos medidores de luz e água com data, no dia em que receber as chaves.",
+    "Peça ao dono o número de cadastro e as últimas contas pagas.",
+    "Faça a mudança de nome na UTE por web, WhatsApp, telefone ou agência.",
+    "Faça a mudança de titular na OSE online ou em um Centro de Serviços.",
+    "Coordene a internet com antecedência.",
+    "Guarde os números de solicitação de cada procedimento."
+   ]
+  },
+  {
+   "h2": "Quando você vai embora",
+   "paras": [
+    "Ao terminar um aluguel, pague as contas até o dia da entrega, tire foto dos medidores e coordene com o dono se será feita uma nova mudança de titular ou o cancelamento. Os comprovantes de pagamento servem para recuperar a garantia ou o depósito sem discussões.",
+    "Se está procurando onde se mudar, na Casa-Libre você pode ver aluguéis e propriedades à venda de todo o Uruguai no mapa e escrever direto por WhatsApp, também pelo app para iPhone e Android."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "O que acontece se eu não mudar a titularidade e o serviço ficar em nome do proprietário?",
+   "a": "O serviço continua funcionando, mas as faturas, as reclamações e qualquer dívida ficam em nome de outra pessoa. Se houver um problema, você depende que o titular o resolva, e ao sair pode haver discussões sobre qual consumo corresponde a quem."
+  },
+  {
+   "q": "Como faço a mudança de titular da UTE?",
+   "a": "Solicite o \"cambio de nombre del servicio\" por web ou WhatsApp se já tiver usuário da UTE, por telefone ao 0800 1930 ou *1930, ou em uma agência comercial com seu documento."
+  },
+  {
+   "q": "O que preciso para a mudança de titular da OSE?",
+   "a": "Documento de identidade e algo que comprove o cadastro (recibo de tributos ou cédula cadastral). Se houver dívida, também o contrato de aluguel ou outro documento que comprove seu vínculo e uma declaração jurada."
+  },
+  {
+   "q": "Posso fazer a mudança de titular da OSE online?",
+   "a": "Sim, a OSE permite iniciar o trâmite online com usuário registrado, além de fazê-lo em um Centro de Serviços."
+  },
+  {
+   "q": "O inquilino pode colocar a energia em seu nome?",
+   "a": "Sim. É o recomendável: o novo titular faz o trâmite e assume o serviço a partir desse momento."
+  }
+ ],
+ "related": [
+  "Aluguéis no mapa",
+  "Propriedades em Montevidéu",
+  "Requisitos para alugar"
+ ]
+}
