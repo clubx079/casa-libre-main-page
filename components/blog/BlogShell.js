@@ -31,9 +31,9 @@ export function HubHeader() {
         <Link href="/" className="shrink-0"><Word className="text-[clamp(14px,4.4vw,22px)]" /></Link>
         <div className="flex items-center gap-3 md:gap-7">
           <nav className="flex items-center gap-3 md:gap-7 text-[13px] sm:text-[14px] font-medium text-ink/70">
-            <Link href="/#map" className="hidden sm:inline hover:text-ink"><T k="navCountries" /></Link>
+            <Link href="/#map" data-ph="hub_cta_click" data-ph-cta="nav_countries" data-ph-location="blog_header" className="hidden sm:inline hover:text-ink"><T k="navCountries" /></Link>
             <Link href="/blog" className="text-ink font-bold">Blog</Link>
-            <Link href="/#connect" className="text-ink border-[1.5px] border-ink rounded-pill px-3 sm:px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors"><T k="connect" /></Link>
+            <Link href="/#connect" data-ph="hub_cta_click" data-ph-cta="connect" data-ph-location="blog_header" className="text-ink border-[1.5px] border-ink rounded-pill px-3 sm:px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors"><T k="connect" /></Link>
           </nav>
           <LangSwitch />
         </div>
@@ -64,7 +64,7 @@ export default function BlogShell({ children }) {
               <ul className="space-y-2 text-[13.5px]">
                 {SITES.map((s) => (
                   <li key={s.url}>
-                    <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-paper/75 hover:text-paper">
+                    <a href={s.url} target="_blank" rel="noopener noreferrer" data-ph="hub_country_click" data-ph-country={s.cc} data-ph-location="blog_footer" className="text-paper/75 hover:text-paper">
                       <CountryName cc={s.cc} />{s.note ? <span className="text-paper/35"> · <T k="earlyAccess" /></span> : null}
                     </a>
                   </li>
@@ -76,7 +76,7 @@ export default function BlogShell({ children }) {
               <ul className="space-y-2 text-[13.5px]">
                 <li><Link href="/blog" className="text-paper/75 hover:text-paper">Blog</Link></li>
                 <li><Link href="/#map" className="text-paper/75 hover:text-paper"><T k="navCountries" /></Link></li>
-                <li><Link href="/#connect" className="text-paper/75 hover:text-paper"><T k="connectFounder" /></Link></li>
+                <li><Link href="/#connect" data-ph="hub_cta_click" data-ph-cta="connect_founder" data-ph-location="blog_footer" className="text-paper/75 hover:text-paper"><T k="connectFounder" /></Link></li>
               </ul>
             </div>
           </div>

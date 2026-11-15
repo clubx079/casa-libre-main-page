@@ -9,7 +9,9 @@
 // Every article belongs to one country: the country tag sits above the title and
 // the CTA sends readers to that country's Casa-Libre site (UTM-tagged, see
 // lib/blog-meta.js siteUrl). Links to other articles stay on the hub (/blog/...).
+import { useEffect } from 'react';
 import Link from 'next/link';
+import { track } from '@/lib/analytics';
 import { CATEGORIES, COUNTRIES, siteUrl } from '@/lib/blog-meta';
 import { ui, countryName, categoryText, notaryFor, longDate } from '@/lib/blog-i18n';
 import { CountryTag, RelatedCard } from './BlogCards';
@@ -112,6 +114,11 @@ export default function BlogArticleView({ post: es, related = [] }) {
   const isSeller = post.category === 'vender';
   const go = (path) => siteUrl(cc, path, post.slug);
   const ext = { target: '_blank', rel: 'noopener' };
+  // One view per article (Spanish slug/category, whatever language is shown;
+  // hub_lang rides along as a super property).
+  useEffect(() => {
+    track('blog_article_view', { slug: es.slug, country: cc, category: es.category });
+  }, [es.slug, cc, es.category]);
 
   return (
     <article className="px-5 md:px-11 py-10 max-w-[760px] mx-auto">

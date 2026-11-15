@@ -1,6 +1,7 @@
 'use client';
 import { useState, useEffect, useRef } from 'react';
 import { LANG_KEY } from '@/lib/blog-i18n';
+import { track, setHubLang } from '@/lib/analytics';
 
 // Eight-country network. Paraguay + Bolivia are live, Uruguay in early access,
 // the rest scheduled/planned. Statuses: live | beta | next | planned.
@@ -244,7 +245,9 @@ export default function Hub() {
       if (saved && DICT[saved]) setLangState(saved);
     } catch { /* storage blocked */ }
   }, []);
+  useEffect(() => { setHubLang(lang); }, [lang]);
   const setLang = (l) => {
+    if (l !== lang) track('hub_lang_switch', { from: lang, to: l });
     setLangState(l);
     try { window.localStorage.setItem(LANG_KEY, l); } catch { /* storage blocked */ }
   };
@@ -270,6 +273,15 @@ export default function Hub() {
   const [hp, setHp] = useState('');
   const loadedAt = useRef(Date.now());
 
+  // Analytics (lib/analytics.js): form_start once per form per page view,
+  // form_submit / form_error with the form type only — never what was typed.
+  const started = useRef({});
+  const formStart = (type) => () => {
+    if (started.current[type]) return;
+    started.current[type] = true;
+    track('form_start', { type });
+  };
+
   async function post(payload) {
     try {
       const res = await fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ ...payload, hp, elapsed_ms: Date.now() - loadedAt.current }) });
@@ -278,18 +290,20 @@ export default function Hub() {
   }
 
   const submitOverview = async () => {
-    if (!inv.name.trim() || (!inv.email.trim() && !inv.wa.trim())) { setInvErr(t.form.err); return; }
+    if (!inv.name.trim() || (!inv.email.trim() && !inv.wa.trim())) { setInvErr(t.form.err); track('form_error', { type: 'overview', reason: 'validation' }); return; }
     setInvErr(''); setInvState('sending');
     const ok = await post({ type: 'overview', ...inv });
+    track(ok ? 'form_submit' : 'form_error', ok ? { type: 'overview', role: inv.stage || undefined } : { type: 'overview', reason: 'server' });
     if (ok) setInv({ name: '', firm: '', country: '', email: '', wa: '', stage: '', why: '' });
     setInvState(ok ? 'sent' : 'error');
   };
-  const openCall = () => { setCallErr(''); setCallState('idle'); setCallOpen(true); };
+  const openCall = () => { track('hub_cta_click', { cta: 'book_call', location: 'connect_form' }); setCallErr(''); setCallState('idle'); setCallOpen(true); };
   const closeCall = () => setCallOpen(false);
   const submitCall = async () => {
-    if (!call.name.trim() || (!call.email.trim() && !call.phone.trim())) { setCallErr(t.form.err); return; }
+    if (!call.name.trim() || (!call.email.trim() && !call.phone.trim())) { setCallErr(t.form.err); track('form_error', { type: 'call', reason: 'validation' }); return; }
     setCallErr(''); setCallState('sending');
     const ok = await post({ type: 'call', ...call, lang });
+    track(ok ? 'form_submit' : 'form_error', ok ? { type: 'call' } : { type: 'call', reason: 'server' });
     if (ok) setCall({ name: '', email: '', phone: '', slot: '', reason: '' });
     setCallState(ok ? 'sent' : 'error');
   };
@@ -313,15 +327,15 @@ export default function Hub() {
         <div className="max-w-[1920px] mx-auto px-5 md:px-11 h-[64px] flex items-center justify-between">
           <a href="#top" className="shrink-0"><Word className="text-[clamp(14px,4.4vw,22px)]" /></a>
           <nav className="hidden md:flex items-center gap-7 text-[14px] font-medium text-ink/70">
-            <a href="#map" className="hover:text-ink">{t.nav.countries}</a>
-            <a href="#thesis" className="hover:text-ink">{t.nav.opportunity}</a>
-            <a href="/blog" className="hover:text-ink">Blog</a>
-            <a href="#connect" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.connect}</a>
+            <a href="#map" data-ph="hub_cta_click" data-ph-cta="nav_countries" className="hover:text-ink">{t.nav.countries}</a>
+            <a href="#thesis" data-ph="hub_cta_click" data-ph-cta="nav_opportunity" className="hover:text-ink">{t.nav.opportunity}</a>
+            <a href="/blog" data-ph="hub_cta_click" data-ph-cta="nav_blog" className="hover:text-ink">Blog</a>
+            <a href="#connect" data-ph="hub_cta_click" data-ph-cta="connect" data-ph-location="header" className="text-ink border-[1.5px] border-ink rounded-pill px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors">{t.nav.connect}</a>
           </nav>
           <div className="flex items-center gap-2.5">
             {/* Mobile-only Blog link + Connect CTA (desktop has them in the nav) */}
-            <a href="/blog" className="md:hidden text-[12.5px] font-bold text-ink/70 hover:text-ink">Blog</a>
-            <a href="#connect-form" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.connect}</a>
+            <a href="/blog" data-ph="hub_cta_click" data-ph-cta="nav_blog" className="md:hidden text-[12.5px] font-bold text-ink/70 hover:text-ink">Blog</a>
+            <a href="#connect-form" data-ph="hub_cta_click" data-ph-cta="connect" data-ph-location="header_mobile" className="md:hidden inline-flex items-center px-4 py-1.5 rounded-pill border-[1.5px] border-ink text-ink font-bold text-[12.5px]">{t.nav.connect}</a>
             <div className="flex items-center border-[1.5px] border-ink rounded-pill overflow-hidden text-[12px] font-bold">
               {['es', 'en', 'pt'].map((l) => (
                 <button key={l} onClick={() => setLang(l)} className={`px-3 py-1.5 ${lang === l ? 'bg-ink text-paper' : 'text-ink'}`}>{l.toUpperCase()}</button>
@@ -348,7 +362,7 @@ export default function Hub() {
       <div className="border-b border-ink/10 bg-paper">
         <div className="max-w-[1920px] mx-auto px-5 md:px-11 py-3.5 flex flex-nowrap items-center justify-center gap-1.5 sm:gap-3">
           {COUNTRIES.map((c) => (
-            <a key={c.key} href="#map" title={nm(c)} className="flex-1 max-w-[44px] min-w-0 transition-transform hover:-translate-y-0.5">
+            <a key={c.key} href="#map" title={nm(c)} data-ph="hub_country_click" data-ph-country={c.key} data-ph-location="flag_strip" className="flex-1 max-w-[44px] min-w-0 transition-transform hover:-translate-y-0.5">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={`/flags/${c.key}.svg`} alt={nm(c)} className="w-full aspect-[3/2] object-cover rounded-[4px] border border-ink/25" />
             </a>
@@ -367,8 +381,8 @@ export default function Hub() {
             {t.heroSub} <span className="font-serif italic text-ink">{t.heroSubEm}</span>
           </p>
           <div className="flex flex-wrap gap-3 mt-7 justify-center md:justify-start">
-            <a href="#connect" className="btn btn-solid">{t.heroCta} <Arrow /></a>
-            <a href="#map" className="btn btn-ghost">{t.heroCta2}</a>
+            <a href="#connect" data-ph="hub_cta_click" data-ph-cta="talk_founder" data-ph-location="hero" className="btn btn-solid">{t.heroCta} <Arrow /></a>
+            <a href="#map" data-ph="hub_cta_click" data-ph-cta="see_live_sites" data-ph-location="hero" className="btn btn-ghost">{t.heroCta2}</a>
           </div>
           <div className="flex flex-wrap gap-x-8 gap-y-3 mt-9 justify-center md:justify-start">
             {t.heroStats.map(([n, l]) => (
@@ -436,7 +450,7 @@ export default function Hub() {
             );
             const base = 'block rounded-card p-5 border-[1.5px] transition-all';
             return active ? (
-              <a key={c.key} href={c.url} target="_blank" rel="noopener noreferrer" className={`${base} bg-card border-ink shadow-hard-sm hover:shadow-hard hover:-translate-y-1`}>{inner}</a>
+              <a key={c.key} href={c.url} target="_blank" rel="noopener noreferrer" data-ph="hub_country_click" data-ph-country={c.key} data-ph-status={c.status} data-ph-location="country_card" className={`${base} bg-card border-ink shadow-hard-sm hover:shadow-hard hover:-translate-y-1`}>{inner}</a>
             ) : (
               <div key={c.key} className={`${base} bg-card/60 border-ink/20`}>{inner}</div>
             );
@@ -527,7 +541,7 @@ export default function Hub() {
           </div>
         </div>
         {/* Form */}
-        <div id="connect-form" className="rounded-card border-[1.5px] border-ink bg-card p-6 md:p-7 shadow-hard-sm scroll-mt-20">
+        <div id="connect-form" onFocus={formStart('overview')} className="rounded-card border-[1.5px] border-ink bg-card p-6 md:p-7 shadow-hard-sm scroll-mt-20">
           <input type="text" name="cl_hp" value={hp} onChange={(e) => setHp(e.target.value)} tabIndex={-1} autoComplete="off" aria-hidden="true" style={{ position: 'absolute', left: '-10000px', width: 1, height: 1, opacity: 0 }} />
           <FormField label={t.form.name}><input value={inv.name} onChange={setF('name')} placeholder={t.form.namePh} className="cl-input" /></FormField>
           <div className="grid grid-cols-2 gap-3">
@@ -570,7 +584,7 @@ export default function Hub() {
               {COUNTRIES.map((c) => {
                 const active = c.status === 'live' || c.status === 'beta';
                 return (
-                  <FootLink key={c.key} href={active ? c.url : undefined}>
+                  <FootLink key={c.key} href={active ? c.url : undefined} country={c.key}>
                     {nm(c)}{c.status !== 'live' && <span className="text-paper/35"> · {t.status[c.status]}</span>}
                   </FootLink>
                 );
@@ -578,8 +592,8 @@ export default function Hub() {
             </FootCol>
             {/* Blog (ES/EN/PT, same language choice as this page via LANG_KEY). */}
             <FootCol title="Casa-Libre">
-              <li><a href="/blog" className="text-paper/75 hover:text-paper">Blog</a></li>
-              <li><a href="#connect" className="text-paper/75 hover:text-paper">{t.nav.connect}</a></li>
+              <li><a href="/blog" data-ph="hub_cta_click" data-ph-cta="nav_blog" data-ph-location="footer" className="text-paper/75 hover:text-paper">Blog</a></li>
+              <li><a href="#connect" data-ph="hub_cta_click" data-ph-cta="connect" data-ph-location="footer" className="text-paper/75 hover:text-paper">{t.nav.connect}</a></li>
             </FootCol>
             {/* Empresa / Ayuda / Legal columns hidden until their pages exist —
                 dead links (no destination) read as unfinished to visitors. */}
@@ -595,7 +609,7 @@ export default function Hub() {
       {/* ── Book-a-call modal ── */}
       {callOpen && (
         <div className="fixed inset-0 z-[100] flex items-start justify-center overflow-y-auto bg-ink/50 p-4 py-10" onClick={closeCall}>
-          <div className="w-full max-w-md rounded-card border-[1.5px] border-ink bg-card p-6 shadow-hard" onClick={(e) => e.stopPropagation()}>
+          <div className="w-full max-w-md rounded-card border-[1.5px] border-ink bg-card p-6 shadow-hard" onClick={(e) => e.stopPropagation()} onFocus={formStart('call')}>
             <div className="mb-1 flex items-start justify-between gap-3">
               <div className="text-[20px] font-bold tracking-head">{t.form.call.title}</div>
               <button onClick={closeCall} aria-label="Close" className="-mr-1 rounded-full p-1 text-ink/60 hover:bg-ink/10 hover:text-ink">
@@ -647,11 +661,11 @@ function FootCol({ title, children }) {
     </div>
   );
 }
-function FootLink({ href, children }) {
+function FootLink({ href, country, children }) {
   return (
     <li>
       {href ? (
-        <a href={href} target="_blank" rel="noopener noreferrer" className="text-paper/75 hover:text-paper">{children}</a>
+        <a href={href} target="_blank" rel="noopener noreferrer" data-ph={country ? 'hub_country_click' : undefined} data-ph-country={country} data-ph-location="footer" className="text-paper/75 hover:text-paper">{children}</a>
       ) : (
         <span className="text-paper/75 hover:text-paper cursor-pointer">{children}</span>
       )}

@@ -7,8 +7,9 @@
 // Article translations are pre-built JSON (scripts/translate-blog.mjs) loaded with
 // dynamic import(), so each one is its own small chunk fetched only when a reader
 // picks EN/PT. Nothing here calls an API.
-import { createContext, useCallback, useContext, useEffect, useState } from 'react';
+import { createContext, useCallback, useContext, useEffect, useRef, useState } from 'react';
 import { LANGS, LANG_KEY, ui } from '@/lib/blog-i18n';
+import { track, setHubLang } from '@/lib/analytics';
 
 const Ctx = createContext({ lang: 'es', setLang: () => {} });
 
@@ -30,8 +31,15 @@ export function BlogLangProvider({ children }) {
   }, []);
   useEffect(() => {
     try { document.documentElement.lang = lang; } catch { /* noop */ }
+    setHubLang(lang);
   }, [lang]);
-  const setLang = useCallback((l) => { setLangState(l); writeLang(l); }, []);
+  const cur = useRef('es');
+  cur.current = lang;
+  const setLang = useCallback((l) => {
+    if (cur.current !== l) track('blog_lang_switch', { from: cur.current, to: l });
+    setLangState(l);
+    writeLang(l);
+  }, []);
   return <Ctx.Provider value={{ lang, setLang }}>{children}</Ctx.Provider>;
 }
 

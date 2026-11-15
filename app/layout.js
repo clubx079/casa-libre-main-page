@@ -1,4 +1,5 @@
 import './globals.css';
+import PostHogProvider from '@/components/PostHogProvider';
 
 // The hub renders Spanish by default (page.js: useState('es'), <html lang="es">),
 // so the served meta tags are Spanish. Country count is eight.
@@ -26,7 +27,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="es">
-      <body>{children}</body>
+      <body><PostHogProvider>{children}</PostHogProvider></body>
     </html>
   );
 }

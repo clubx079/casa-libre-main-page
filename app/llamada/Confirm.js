@@ -3,6 +3,7 @@
 // Text in ES/EN/PT from ./Text.js, following the header pills.
 import { useState } from 'react';
 import { useLL } from './Text.js';
+import { track } from '@/lib/analytics';
 
 export default function Confirm({ t, action, name, email, phone }) {
   const { d } = useLL();
@@ -18,7 +19,10 @@ export default function Confirm({ t, action, name, email, phone }) {
       const j = await r.json().catch(() => ({}));
       setRes(j);
       setState(r.ok ? 'done' : 'error');
-    } catch { setState('error'); }
+      // No name/email/phone — just what happened.
+      if (r.ok) track('call_confirmed', { action, email_sent: !!j?.sent, has_whatsapp: !!j?.wa });
+      else track('call_confirm_error', { action, error: j?.error || String(r.status) });
+    } catch { setState('error'); track('call_confirm_error', { action, error: 'network' }); }
   };
 
   if (state === 'done') {
