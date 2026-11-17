@@ -12,8 +12,9 @@
 // Casa-Libre is an app for iPhone AND Android (iPhone live since 2026-11-04) — always give
 // both links: App Store and Google Play (Omar, Nov 6).
 // The blog (/blog) gets its own "## Blog" link list, built from lib/blog.js: one
-// line per article, labelled with the article's country.
-import { allPosts, activeCountries, COUNTRIES, BLOG_URL } from '@/lib/blog';
+// line per article, grouped by country (each group opens with that country's Casa-Libre site), plus
+// the country and category pages of the blog.
+import { allPosts, activeCountries, activeCategories, BLOG_URL } from '@/lib/blog';
 
 export const dynamic = 'force-static';
 export const revalidate = 86400;
@@ -41,19 +42,27 @@ export function GET() {
   const blogCountries = activeCountries().map((c) => c.name).join(', ');
   const blogAbout = posts.length
     ? `**Casa-Libre blog**
-- The Casa-Libre blog (${BLOG_URL}) publishes practical articles in Spanish on buying, renting and selling property: requirements, mortgages, costs, paperwork and choosing a neighbourhood. Each article is written for one country (today: ${blogCountries}) and links to that country's Casa-Libre site.
+- The Casa-Libre blog (${BLOG_URL}) publishes ${posts.length} practical articles in Spanish (each also readable in English and Portuguese) on buying, renting and selling property: requirements, mortgages, costs, paperwork and choosing a neighbourhood. Each article is written for one country (today: ${blogCountries}) and links to that country's Casa-Libre site.
 
 `
     : '';
-  const blogCountryLinks = activeCountries().map((c) => `- [Blog de Casa-Libre — ${c.name}](${BLOG_URL}/pais/${c.code}): Every article written for ${c.name}.`).join('\n');
-  const blogPostLinks = posts.map((p) => `- [${p.h1}](${BLOG_URL}/${p.slug}): ${COUNTRIES[p.country].name}. ${p.description}`).join('\n');
+  const blogCountryLinks = activeCountries().map((c) => `- [Blog de Casa-Libre — ${c.name}](${BLOG_URL}/pais/${c.code}): Every article written for ${c.name} (${c.count}).`).join('\n');
+  const blogCategoryLinks = activeCategories().map((c) => `- [${c.title}](${BLOG_URL}/categoria/${c.slug}): ${c.intro}`).join('\n');
+  // Every article, one section per country: that country's Casa-Libre site first (its articles link to it).
+  const blogByCountry = activeCountries().map((c) => `## Blog: ${c.name}
+- [Casa-Libre ${c.name}](${c.site}): The Casa-Libre site the ${c.name} articles link to: houses, apartments and land for sale and for rent in ${c.name}.
+${allPosts(c.code).map((p) => `- [${p.h1}](${BLOG_URL}/${p.slug}): ${p.description}`).join('\n')}
+
+`).join('');
   const blogLinks = posts.length
     ? `## Blog
-- [Blog de Casa-Libre](${BLOG_URL}): Practical articles in Spanish on buying, renting and selling property, country by country.
+- [Blog de Casa-Libre](${BLOG_URL}): ${posts.length} practical articles on buying, renting and selling property, country by country. Written in Spanish; every article can also be read in English and Portuguese with the ES/EN/PT buttons on the page (same URL).
 ${blogCountryLinks}
-${blogPostLinks}
 
-`
+## Blog categories
+${blogCategoryLinks}
+
+${blogByCountry}`
     : '';
 
   const body = `# Casa-Libre
@@ -146,6 +155,7 @@ ${blogLinks}## Optional
 - [List a property in Bolivia](https://casa-libre.com.bo/publicar): Free listing, in minutes.
 - [List a property in Uruguay](https://uy.casa-libre.com/publicar): Free listing, in minutes.
 - [List a property in Venezuela](https://casa-libre.com.ve/publicar): Free listing, in minutes.
+- [Sitemap](${HUB}/sitemap.xml): Every page of casa-libre.com.
 `;
 
   return new Response(body, {

@@ -1,35 +1,39 @@
-// Sitemap for the casa-libre.com umbrella hub: the homepage (the country picker)
-// plus the blog (/blog, its articles, category and country pages). Each country
-// site (casa-libre.com.py, uy.casa-libre.com, …) is a separate domain with its own
-// sitemap — a sitemap may only list URLs on its own host.
-import { allPosts, activeCategories, activeCountries, postsInCategory, blogLastModified, BLOG_URL } from '@/lib/blog';
+// Sitemap for the casa-libre.com umbrella hub: every public, indexable page.
+//   the homepage (the country picker), /blog, its country pages (/blog/pais/<cc>), its category pages
+//   (/blog/categoria/<cat>) and every article (/blog/<slug>).
+// Not listed: /llamada (noindex) and /api. Each country site (casa-libre.com.py, uy.casa-libre.com, …) is a separate
+// domain with its own sitemap: a sitemap may only list URLs on its own host.
+// Languages: the ES/EN/PT buttons translate the same URL in the browser (the server renders Spanish), so there are
+// no separate language URLs and no hreflang alternates to list.
+// lastmod is the day the content changed (an article's dateModified; an index: its newest article), never the
+// build time. Check against a running server: node scripts/check-sitemap.mjs [http://localhost:3150]
+import { allPosts, activeCategories, activeCountries, postsInCategory, blogLastModified, HUB, BLOG_URL } from '@/lib/blog';
+
+// The day the homepage copy last changed (app/page.js). The homepage also shows the newest articles, so its
+// lastmod is the later of this and the blog's newest article.
+const HOME_UPDATED = '2026-11-13';
 
 export default function sitemap() {
   const posts = allPosts();
-  const day = (iso) => (iso ? new Date(`${iso}T00:00:00Z`) : new Date());
+  const later = (...d) => d.filter(Boolean).sort().pop();
   return [
-    {
-      url: 'https://casa-libre.com',
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 1,
-    },
-    ...(posts.length ? [{ url: BLOG_URL, lastModified: day(blogLastModified()), changeFrequency: 'weekly', priority: 0.8 }] : []),
+    { url: HUB, lastModified: later(HOME_UPDATED, blogLastModified()), changeFrequency: 'weekly', priority: 1 },
+    ...(posts.length ? [{ url: BLOG_URL, lastModified: blogLastModified(), changeFrequency: 'weekly', priority: 0.8 }] : []),
     ...activeCountries().map((c) => ({
       url: `${BLOG_URL}/pais/${c.code}`,
-      lastModified: day(blogLastModified(allPosts(c.code))),
+      lastModified: blogLastModified(allPosts(c.code)),
       changeFrequency: 'weekly',
       priority: 0.6,
     })),
     ...activeCategories().map((c) => ({
       url: `${BLOG_URL}/categoria/${c.slug}`,
-      lastModified: day(blogLastModified(postsInCategory(c.slug))),
+      lastModified: blogLastModified(postsInCategory(c.slug)),
       changeFrequency: 'weekly',
       priority: 0.6,
     })),
     ...posts.map((p) => ({
       url: `${BLOG_URL}/${p.slug}`,
-      lastModified: day(p.dateModified),
+      lastModified: p.dateModified || p.datePublished,
       changeFrequency: 'monthly',
       priority: 0.7,
     })),
