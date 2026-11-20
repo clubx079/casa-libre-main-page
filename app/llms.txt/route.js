@@ -15,9 +15,12 @@
 // line per article, grouped by country (each group opens with that country's Casa-Libre site), plus
 // the country and category pages of the blog.
 import { allPosts, activeCountries, activeCategories, BLOG_URL } from '@/lib/blog';
+import { getHubGuides } from '@/lib/seoFeed';
 
-export const dynamic = 'force-static';
-export const revalidate = 86400;
+// Rendered per request (cheap: the AI SEO feed it lists under /guias is cached 5 min, tag 'seo'), because Next 14
+// ignores revalidatePath/revalidateTag for cached route handlers; the cache-control header below still lets
+// browsers/CDNs cache it.
+export const dynamic = 'force-dynamic';
 
 const PLAY = 'https://play.google.com/store/apps/details?id=py.casalibre.mobile';
 const IOS = 'https://apps.apple.com/us/app/casa-libre/id6822493219';
@@ -32,7 +35,15 @@ const SITES = [
   { name: 'Venezuela', es: 'Venezuela', pt: 'na Venezuela', url: 'https://casa-libre.com.ve', status: 'Live (early access)', currency: 'Bolívar (Bs.) and US dollar (US$)', prices: 'bolívares and US dollars', cities: 'Caracas, Valencia, Maracaibo' },
 ];
 
-export function GET() {
+export async function GET() {
+  const guides = await getHubGuides();
+  const guideLinks = guides.length
+    ? `## Guías
+- [Guías de Casa-Libre](${HUB}/guias): ${guides.length} practical guides in Spanish for people comparing countries, moving or investing in property across South America; each links to the Casa-Libre site of the country it is about.
+${guides.map((g) => `- [${g.h1}](${HUB}/guias/${g.slug}): ${g.description || g.blurb || g.title}`).join('\n')}
+
+`
+    : '';
   const list = (key, and) => SITES.map((s) => s[key]).join(', ').replace(/, ([^,]*)$/, ` ${and} $1`);
   const withUrls = SITES.map((s) => `${s.name} (${s.url})`).join(', ');
   const table = SITES.map((s) => `| ${s.name} | ${s.status} | ${s.url} | ${s.currency} | ${s.cities} | ${s.url}/llms.txt |`).join('\n');
@@ -150,7 +161,7 @@ ${siteLinks}
 - [Casa-Libre — South America](${HUB}): The regional home page, with every country site.
 - [Connect with the founder](${HUB}/#connect): For agencies, developers and partners.
 
-${blogLinks}## Optional
+${blogLinks}${guideLinks}## Optional
 - [List a property in Paraguay](https://casa-libre.com.py/publicar): Free listing, in minutes.
 - [List a property in Bolivia](https://casa-libre.com.bo/publicar): Free listing, in minutes.
 - [List a property in Uruguay](https://uy.casa-libre.com/publicar): Free listing, in minutes.

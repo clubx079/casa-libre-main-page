@@ -23,8 +23,9 @@ export const Arrow = ({ className = 'w-4 h-4' }) => (
 );
 
 // Sticky hub header with the ES/EN/PT pills (same place and style as the homepage).
-// Needs a BlogLangProvider above it; also used by /llamada.
-export function HubHeader() {
+// Needs a BlogLangProvider above it; also used by /llamada. section='guias' (the AI SEO guides, /guias) adds a
+// "Guías" link and marks it as the current section instead of Blog.
+export function HubHeader({ section = 'blog' }) {
   return (
     <header className="sticky top-0 z-50 backdrop-blur bg-paper/85 border-b border-ink/10">
       <div className="max-w-[1920px] mx-auto w-full px-5 md:px-11 h-[64px] flex items-center justify-between gap-4">
@@ -32,7 +33,8 @@ export function HubHeader() {
         <div className="flex items-center gap-3 md:gap-7">
           <nav className="flex items-center gap-3 md:gap-7 text-[13px] sm:text-[14px] font-medium text-ink/70">
             <Link href="/#map" data-ph="hub_cta_click" data-ph-cta="nav_countries" data-ph-location="blog_header" className="hidden sm:inline hover:text-ink"><T k="navCountries" /></Link>
-            <Link href="/blog" className="text-ink font-bold">Blog</Link>
+            <Link href="/blog" className={section === 'blog' ? 'text-ink font-bold' : 'hover:text-ink'}>Blog</Link>
+            {section === 'guias' ? <Link href="/guias" className="text-ink font-bold">Guías</Link> : null}
             <Link href="/#connect" data-ph="hub_cta_click" data-ph-cta="connect" data-ph-location="blog_header" className="text-ink border-[1.5px] border-ink rounded-pill px-3 sm:px-4 py-1.5 hover:bg-ink hover:text-paper transition-colors"><T k="connect" /></Link>
           </nav>
           <LangSwitch />
@@ -42,11 +44,11 @@ export function HubHeader() {
   );
 }
 
-export default function BlogShell({ children }) {
+export default function BlogShell({ children, section = 'blog' }) {
   return (
     <BlogLangProvider>
     <div className="min-h-screen bg-paper text-ink overflow-x-hidden flex flex-col">
-      <HubHeader />
+      <HubHeader section={section} />
 
       <main className="flex-1">{children}</main>
 
@@ -75,6 +77,7 @@ export default function BlogShell({ children }) {
               <div className="font-mono text-[10.5px] uppercase tracking-label text-paper/45 mb-3">Casa-Libre</div>
               <ul className="space-y-2 text-[13.5px]">
                 <li><Link href="/blog" className="text-paper/75 hover:text-paper">Blog</Link></li>
+                {section === 'guias' ? <li><Link href="/guias" className="text-paper/75 hover:text-paper">Guías</Link></li> : null}
                 <li><Link href="/#map" className="text-paper/75 hover:text-paper"><T k="navCountries" /></Link></li>
                 <li><Link href="/#connect" data-ph="hub_cta_click" data-ph-cta="connect_founder" data-ph-location="blog_footer" className="text-paper/75 hover:text-paper"><T k="connectFounder" /></Link></li>
               </ul>
